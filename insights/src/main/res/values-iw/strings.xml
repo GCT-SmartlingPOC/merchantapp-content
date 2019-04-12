@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">תובנות בנושא מכירות</string>
+    <string name="month">חודש</string>
+    <string name="quarter">רבעון</string>
+    <string name="year">שנה</string>
+    <string name="year_to_date">השנה האחרונה</string>
+    <string name="title_sales_month">היקף המכירות בחודש זה</string>
+    <string name="title_this_month">חודש זה</string>
+    <string name="ytd">מתחילת השנה עד היום</string>
+    <string name="compare_last_year">השווה לשנה קודמת</string>
+    <string name="best_month">החודש הטוב ביותר</string>
+    <string name="worst_month">החודש הגרוע ביותר</string>
+    <string name="best_week">השבוע הטוב ביותר</string>
+    <string name="worst_week">השבוע הגרוע ביותר</string>
+    <string name="avg_order_value">ממוצע ערך ההזמנה</string>
+    <string name="transactions">עסקאות</string>
+    <string name="last_year_sales" formatSpecifiers="amount">שנה קודמת: %1$s</string>
+    <string name="year_to_date_sales">מכירות מתחילת השנה עד היום</string>
+    <string name="total_sales">סך כל המכירות</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s מכירות</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">ש\'</string>
+    <string name="data_unavailable_swipe_again">נתונים לא זמינים. החלק שוב.</string>
+</resources>

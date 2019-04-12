@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_invoicing">Detailed Payment Requesting</string>
+    <string name="money">Balance</string>
+    <string name="send_money_install_chrome_msg">To send payment, you\'ll need to install and use Google Chrome as your default browser.</string>
+    <string name="app_education_title">Ready to send Detailed Payment Request, track your customers and manage your payments on the go\?</string>
+    <string name="invoices_education_title">Send Detailed Payment Requests and get paid on the go</string>
+    <string name="customers_education_message">With all your customer contacts at your fingertips it’s never been easier to view transactions, send Detailed Payment Requests or contact a customer when you’re on the go.</string>
+    <string name="money_education_title">Manage your payments from anywhere</string>
+    <string name="invoices_education_message">Create and send Detailed Payment Request anywhere you work so your customers can pay in just a few clicks. Keep track of unpaid Detailed Payment Requests and contact customers when they need a reminder.</string>
+    <string name="money_education_message">Transfer funds to your bank, issue customer refunds and send payment, in just a few clicks.</string>
+    <string name="legal_user_agreement_policy">User Agreement</string>
+    <string name="confirm_email_message">Confirm your email address to create and send Detailed Payment Requests.</string>
+    <string name="touch_id_pin_also_disabled">Touch ID and PIN will be disabled</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your PIN.</string>
+    <string name="invoice_paid_channel_name">Detailed Payment Request paid</string>
+    <string name="request_money">Request payment</string>
+    <string name="notification_setting_invoice_paid">Your Detailed Payment Requests are paid</string>
+    <string name="notification_setting_request_money">Someone requests payment from you</string>
+    <string name="notification_setting_send_money">You send payment to someone</string>
+    <string name="notification_setting_receive_money">You receive payment from someone</string>
+    <string name="notification_message_invoice_paid" formatSpecifiers="name, amount">%1$s paid an Detailed Payment Request of %2$s</string>
+</resources>

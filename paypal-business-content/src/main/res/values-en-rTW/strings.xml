@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money">Balance</string>
+    <string name="error_loading_details">Sorry, we were unable to load your details. Please try again.</string>
+    <string name="send_money_install_chrome_msg">To send payments, you\'ll need to install and use Google Chrome as your default browser.</string>
+    <string name="unable_load_info">We\'re sorry.</string>
+    <string name="something_went_wrong">We were unable to load your information.</string>
+    <string name="msg_feedback_hint">Have feedback or a suggestion\? We\'d love to hear it.</string>
+    <string name="error_getting_details_tap_to_retry">We\'re sorry. We experienced an error retrieving those details. Please tap to retry.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="satisfaction_message">How would you rate your experience with this app so far\?</string>
+    <string name="rating_message">Would you like to rate this app in Google Play\?</string>
+    <string name="load_info_failure">We\'re sorry. We were unable to access your information.\nPlease swipe down to try again.</string>
+    <string name="home_balance_error">We\'re sorry. We\'re unable to access your information.\nPlease swipe down to try again.</string>
+    <string name="not_connected_to_network">You don\'t seem to be connected to the internet right now.</string>
+    <string name="check_your_details">Please check your details and try again.</string>
+    <string name="account_type_business_sub_account">Business sub-account</string>
+    <string name="app_education_title">Ready to send invoices, track your customers and manage your payments on the go\?</string>
+    <string name="money_education_title">Manage your payments from anywhere</string>
+    <string name="transactions_education_message">Stay on top of your account activity when you’re away from the office.</string>
+    <string name="invoices_education_message">Create and send invoices anywhere you work so your customers can pay in just a few clicks. Keep track of unpaid invoices and issue reminders when you need to.</string>
+    <string name="unsupported_location_alert_title">We\'re sorry. This app doesn\'t support your account’s location right now.</string>
+    <string name="secondary_user_not_supported_alert_title">We\'re sorry. This app doesn\'t support secondary users right now. </string>
+    <string name="money_education_message">Withdraw funds to your bank account, issue refunds and send payments to almost anyone, in just a few clicks.</string>
+    <string name="legal_user_agreement_policy">User Agreement</string>
+    <string name="title_activity_account_info">Account Information</string>
+    <string name="remember_me_description">See your photo, payment preferences and more before you log in. (Not recommended if you share your device.)</string>
+    <string name="use_pin_name">Log In with PIN</string>
+    <string name="use_pin_description">Next time, log in faster with your PIN.</string>
+    <string name="touch_id_pin_also_disabled">Touch ID and PIN will be disabled</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your PIN.</string>
+    <string name="fingerprint_info">Remember, if someone else has saved their fingerprint on this device, they\'ll have access to your PayPal account.</string>
+    <string name="customer_info">Customer Information</string>
+    <string name="send_sms">SMS</string>
+    <string name="request_money">Request payment</string>
+    <string name="notification_setting_request_money">Someone requests payment from you</string>
+    <string name="notification_setting_send_money">You send payment to someone</string>
+    <string name="notification_setting_receive_money">You receive payment from someone</string>
+</resources>

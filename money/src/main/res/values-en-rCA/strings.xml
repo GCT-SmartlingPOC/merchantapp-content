@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_transfer_amount_too_high">Enter an amount less inferior or equal to your available balance</string>
+    <string name="account_currency_details">Currency details</string>
+    <string name="account_no_fi_info">Link a bank account so you can send and withdraw money, and issue refunds.</string>
+    <string name="link_a_bank_card">Link a Bank Account or Card</string>
+    <string name="money_balance_error">We\'re sorry, we\'re unable to access your balance information at the moment. Please try again later.</string>
+    <string name="no_bank_account_message">Link a bank account at PayPal.ca so you can send money, issue refunds, and withdraw money from your PayPal balance to your bank account.</string>
+    <string name="transfer">Withdraw</string>
+    <string name="withdraw_review_conversion_legal_info">This rate includes our currency conversion fee.</string>
+    <string name="free_fee_message">Transaction fee: none</string>
+    <string name="estimated_total_all_currencies">(estimated total of all currencies)</string>
+    <string name="withdraw_default_risk_holding_period">Withdrawals can take up to 5 business days.</string>
+    <string name="withdraw_risk_holding_default">Estimated arrival: 3-5 business days\nAll transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="choose_balance">Choose a PayPal balance</string>
+    <string name="view_balances_title">PayPal balances</string>
+    <string name="transfer_to_bank">Withdraw Money</string>
+    <string name="enter_amount">Enter the amount</string>
+    <string name="select_currency">Select currency</string>
+    <string name="transfer_failed">We\'re sorry, we\'re unable to complete the transfer</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">Amount is less than the %1$s minimum.</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">You\'ve transferred %1$s to %2$s</string>
+</resources>

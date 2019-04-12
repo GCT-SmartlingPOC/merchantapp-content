@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">판매 인사이트</string>
+    <string name="month">월</string>
+    <string name="quarter">분기</string>
+    <string name="year">연도</string>
+    <string name="year_to_date">올해 현재까지</string>
+    <string name="title_sales_month">이번 달 판매</string>
+    <string name="title_this_month">이번 달</string>
+    <string name="ytd">연 누계</string>
+    <string name="compare_last_year">지난 해와 비교</string>
+    <string name="best_month">가장 뛰어났던 달</string>
+    <string name="worst_month">가장 저조했던 달</string>
+    <string name="best_week">가장 뛰어났던 주</string>
+    <string name="worst_week">가장 저조했던 주</string>
+    <string name="avg_order_value">평균 주문 금액</string>
+    <string name="transactions">거래</string>
+    <string name="last_year_sales" formatSpecifiers="amount">전년: %1$s</string>
+    <string name="year_to_date_sales">연 누계 판매</string>
+    <string name="total_sales">총 판매</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s 판매</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">Q</string>
+    <string name="data_unavailable_swipe_again">데이터를 이용할 수 없습니다. 다시 쓸어넘겨 주세요.</string>
+</resources>

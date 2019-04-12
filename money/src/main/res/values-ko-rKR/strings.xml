@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">사용 가능: %1$s</string>
+    <string name="error_transfer_amount_too_high">사용가능 잔액보다 적거나 같은 금액을 입력하세요.</string>
+    <string name="fee_label" formatSpecifiers="amount">거래 수수료: %1$s</string>
+    <string name="free_label">거래 수수료: 없음</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">신용카드</string>
+    <string name="credebit_card_debit">직불카드</string>
+    <string name="withdraw_change_fi_title">다음에 보내기</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s(%2$s)</string>
+    <string name="bank_expired">만료됨</string>
+    <string name="multiple_currency_disclaimer">가장 최근 환전율을 기준으로 하여 추정하며 PayPal의 환전 수수료가 포함됩니다.</string>
+    <string name="available_parens">(사용 가능)</string>
+    <string name="available_colon">사용 가능:</string>
+    <string name="transfer_money">자금 인출</string>
+    <string name="send_money">결제대금 보내기</string>
+    <string name="account_available">사용 가능</string>
+    <string name="account_available_currency" formatSpecifiers="currency">%1$s 사용가능 잔액</string>
+    <string name="account_currency_details">통화 세부정보</string>
+    <string name="transfer_balance">잔액 이체</string>
+    <string name="select_destination">대상 선택</string>
+    <string name="account_no_fi_info">은행계좌를 연결하여 PayPal 계정에서 은행계좌로 자금을 인출할 수 있도록 하세요.</string>
+    <string name="link_a_bank_card">은행계좌나 카드 연결</string>
+    <string name="money_balance_error">죄송합니다. 잔액 정보에 접근할 수 없습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="why_is_my_money_on_hold">내 결제대금이 보류된 이유는 무엇인가요\?</string>
+    <string name="no_bank_account_message">PayPal.com에서 은행계좌를 연결하여 PayPal 계정에서 은행계좌로 자금을 인출할 수 있도록 하세요.</string>
+    <string name="linked_account">연결된 계정</string>
+    <string name="review_your_transfer">이체 검토</string>
+    <string name="transfer_now">지금 이체</string>
+    <string name="transfer_amount_title">이체 금액:</string>
+    <string name="fee_title">수수료:</string>
+    <string name="youll_get_title">받을 금액:</string>
+    <string name="transfer">인출</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">몇 분 이내</string>
+    <string name="continue_with_delayed_transfer">지연된 송금 계속하기</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">보안상의 이유로 이 거래를 검토하는 데 시간이 조금 더 필요합니다. 이 과정은 최대 %1$s시간이 걸릴 수 있습니다. 송금을 계속 진행하시겠습니까\?</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">%1$s의 금액을 이체 중입니다.</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">%1$s(으)로 금액을 이체합니다.</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">%1$s을(를) 이체합니다.</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">%1$s을(를) 이용하여 내 은행으로 금액을 이체합니다.</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">단 몇 분이면 됩니다. 금액을 %1$s(으)로 이체에 대한 업데이트를 계속 알려드리겠습니다.</string>
+    <string name="money_transfer_minutes_message">이체는 몇 분이 소요될 수 있으며 은행에 따라 차이가 있습니다. 모든 이체에 대해 검토가 이루어지며, 문제가 발견되면 지연되거나 중단될 수 있습니다.</string>
+    <string name="converted_from" formatSpecifiers="amount">%1$s에서 환전되었습니다.</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">환전율: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">약 %1$s(으)로 환전될 예정임</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s(1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">이 환율에는 PayPal 환전 수수료가 포함됩니다.</string>
+    <string name="transfer_successful">이체 성공</string>
+    <string name="free_fee_message">거래 수수료: 없음</string>
+    <string name="estimated_total_all_currencies">(모든 통화의 총 예상 금액, PayPal 환전 수수료 포함)</string>
+    <string name="fees">수수료</string>
+    <string name="title_money_transfer">자금 인출</string>
+    <string name="title_currency_transfer">통화 이체</string>
+    <string name="withdraw_default_risk_holding_period">인출은 영업일 기준으로 최대 5일이 소요될 수 있습니다.</string>
+    <string name="withdraw_risk_holding_default">예상 도착일: 영업일 기준 2-5일\n모든 인출에 대해 검토가 이루어지며 문제가 발견되면 지연되거나 중단될 수 있습니다.</string>
+    <string name="choose_balance">PayPal 잔액 선택</string>
+    <string name="view_balances_title">PayPal 잔액</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$s PayPal 잔액</string>
+    <string name="transfer_to_bank">은행계좌로 인출</string>
+    <string name="enter_amount">금액 입력</string>
+    <string name="select_currency">통화 선택</string>
+    <string name="transfer_failed">죄송합니다. 해당 인출을 완료할 수 없습니다.</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">금액이 %1$s의 최소 한도보다 적습니다.</string>
+    <string name="transfer_to_your_bank">은행으로 이체</string>
+    <string name="choose_bank_or_card">은행 선택 </string>
+    <string name="got_it">확인</string>
+    <string name="try_instant_transfer_title">즉시 이체 시도</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">지원되는 직불카드를 이용하면 일반적으로 몇 분 이내에 금액이 은행계좌로 이체됩니다. \n\n%1$s의 수수료가 있습니다. 또는 무료인 표준 옵션을 사용할 수 있습니다. 이체는 최대 30분이 소요될 수 있으며 은행에 따라 차이가 있습니다. </string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">지원되는 직불카드를 이용하면 일반적으로 몇 분 이내에 금액이 은행계좌로 이체됩니다. \n\n%1$s의 수수료가 있습니다. 또는 무료인 표준 옵션을 사용할 수 있습니다. 이체는 최대 30분이 소요될 수 있으며 은행에 따라 차이가 있습니다. </string>
+    <string name="money_transfer_to_your_bank">은행으로 이체</string>
+    <string name="money_transfer_link_debit_card">지원되는 직불카드를 연결하세요.</string>
+    <string name="money_transfer_link_debit_card_bank">지원되는 직불카드 또는 은행 연결</string>
+    <string name="money_transfer_link_bank">은행계좌 연결</string>
+    <string name="money_choose_bank_or_card">은행 선택 </string>
+    <string name="money_transfer_rate_instant">즉시: 보통 몇 분 이내</string>
+    <string name="money_transfer_rate_standard">표준: 보통 영업일 기준으로 1일 이내</string>
+    <string name="money_transfer_fee_free">무료</string>
+    <string name="money_transfer_fee_unknown">수수료가 적용됨</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%%(최대 %2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">이체는 최대 %1$s의 시간이 소요될 수 있으며 은행에 따라 차이가 있습니다. 모든 이체에 대해 검토가 이루어지며, 문제가 발견되면 지연되거나 중단될 수 있습니다.</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">%1$s의 수수료가 공제됩니다.</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">%1$s의 수수료가 공제되었습니다.</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">수수료: %1$s</string>
+    <string name="money_label_fee_none">수수료 없음</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">예상 도착: %1$s</string>
+    <string name="money_transfer_proccessing_message">동부 시간 기준 오후 7시 이후 또는 주말, 공휴일에 인출되는 건은 더 지체될 수 있습니다. 모든 인출에 대해 검토가 이루어지며 문제가 발견되면 지연되거나 중단될 수 있습니다.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">%1$s의 금액을 인출했습니다.</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">%1$s에 자금을 인출했습니다.</string>
+    <string name="money_error_no_fi_selected">계정을 선택하세요.</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">금액이 가능한 최대 한도를 %1$s 초과합니다.</string>
+    <string name="money_error_fi_transfered_max_amount">이 카드를 이용해 이체할 수 있는 최대 금액을 이체했습니다.</string>
+    <string name="money_missing_fi_title">고객님의 은행이 전부 표시되지 않나요\?</string>
+    <string name="money_missing_fi_message">특정 은행과 카드 발급기관은 지원되지 않습니다.</string>
+    <string name="money_transfer_one_business_day">영업일 기준 1일</string>
+    <string name="money_transfer_with_minutes">몇 분 이내</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">영업일 기준 %1$d일</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">인출 시간은 은행에 따라 차이가 있으므로 일부 인출의 경우 최대 %1$d%2$s이 소요될 수 있습니다.</string>
+    <string name="transfer_full_amount">전체 금액 인출</string>
+    <string name="transfer_partial_amount">부분 금액 인출</string>
+    <string name="fee">수수료</string>
+    <string name="you_will_get">받을 금액:</string>
+    <string name="cancel_transfer">인출 취소</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">예, %1$s시간 이내에 인출합니다.</string>
+    <string name="oct_risk_hold_planning_title">인출이 지연됩니다. 그래도 인출하시겠습니까\?</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">보안상의 이유로 이 거래를 검토하는 데 시간이 조금 더 필요합니다. 이 과정은 최대 %1$s시간이 걸릴 수 있습니다. 수수료는 청구되지 않습니다.</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">보안상의 이유로 이 거래를 검토하는 데 시간이 조금 더 필요합니다. 이 과정은 최대 %1$s시간이 걸릴 수 있습니다.</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">예상 도착: %1$s시간</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">%1$s을(를) 이용하여 은행으로 자금을 인출했습니다.</string>
+    <string name="you_canceled_transfer">인출을 취소했습니다.</string>
+    <string name="money_remains_in_paypal_balance">결제대금이 PayPal 잔액에 남아 있습니다.</string>
+    <string name="oct_your_transfer_is_delayed">인출이 지연되었습니다.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">보안상의 이유로 이 거래를 검토하는 데 시간이 조금 더 필요합니다. 이 과정은 최대 %1$s시간이 걸릴 수 있습니다. 업데이트가 되는 대로 이메일로 알려드리겠습니다. 수수료는 청구되지 않습니다. 또는 이체를 취소할 수 있습니다.</string>
+    <string name="error_transaction_failed_title">거래가 완료되지 않았습니다.</string>
+    <string name="error_transaction_failed_message">죄송합니다. 거래를 처리할 수 없습니다. 네트워크에 연결되어 있는지 확인한 후 다시 시도해 주세요.</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">보안상의 이유로 이 거래를 검토하는 데 시간이 조금 더 필요합니다. 이 과정은 최대 %1$s시간이 걸릴 수 있습니다. 업데이트가 되는 대로 이메일로 알려드리겠습니다.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">보안상의 이유로 이 거래를 검토하는 데 시간이 조금 더 필요합니다. 이 과정은 최대 %1$s시간이 걸릴 수 있습니다. 업데이트가 되는 대로 이메일로 알려드리겠습니다. 수수료는 청구되지 않습니다.</string>
+    <string name="oct_cancel_transfer_error">죄송합니다. 자금 인출을 취소할 수 없습니다. 거래가 아직 대기 중입니다.</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">30분 내에 %1$s의 이체 상태에 대해 알려 드리겠습니다.</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">%1$s을(를) 이용하여 고객님의 은행으로 이체를 요청하셨습니다.</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">%1$s의 금액을 %2$s 계좌로 인출</string>
+    <string name="confirm_your_identity">본인 확인</string>
+    <string name="cip_transfer_success_title">설정이 끝났습니다! </string>
+    <string name="cip_transfer_failed_title">정보를 확인할 수 없습니다.</string>
+    <string name="cip_transfer_error_title">저희 쪽에 장애가\n발생한 것 같습니다.</string>
+    <string name="cip_transfer_aborted_title">정보를 확인할 수 없습니다.</string>
+    <string name="cip_transfer_review_title">정보를 제출해 주셔서 감사합니다.</string>
+    <string name="cip_transfer_success_explanation">고객님의 정보를 확인했으며 PayPal 잔액을 계속해서 유지하실 수 있습니다. 자금을 마음대로 이체하거나 지출할 수 있고, 예상치 못한 상황에 대비하기 위한 예비금으로 보관해 둘 수도 있습니다.</string>
+    <string name="cip_transfer_failed_explanation">PayPal에서 연결된 은행으로 자금을 인출할 수는 있지만, 지금은 잔액을 이용하여 금액을 보내거나 지출할 수 없습니다.</string>
+    <string name="cip_transfer_error_explanation">PayPal에서 연결된 은행으로 자금을 인출할 수는 있지만, 지금은 잔액을 이용하여 금액을 보내거나 지출할 수 없습니다.</string>
+    <string name="cip_transfer_aborted_explanation">PayPal에서 연결된 은행으로 금액을 이체할 수는 있지만, 지금은 잔액을 이용하여 금액을 보내거나 지출할 수 없습니다.</string>
+    <string name="cip_transfer_review_explanation">문서를 검토하는 대로 이메일로 알려 드리겠습니다. 보통 영업일 기준 2-3일이 소요됩니다.\n\n기다리시는 동안 언제든 은행으로 금액을 이체할 수 있습니다.</string>
+    <string name="transfer_partial_title">부분 금액을 인출하려면 본인 확인이 필요합니다.</string>
+    <string name="partial_choice_description">이 인출 이후 남아 있는 PayPal 잔액을 이용해 금액을 보내거나 지출하려는 경우 본인 확인을 위한 추가 정보가 필요합니다.</string>
+    <string name="transfer_full_amount_instead">대신 전체 금액 인출</string>
+    <string name="your_transfer_is_pending">인출이 대기 중입니다.</string>
+    <string name="compliance_pending_primary_warning">규정에 따라 일부 거래를 자세히 조사해야 합니다. 검토가 이루어지는 동안 인출이 일시적으로 대기 중입니다.</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">이체가 지연되어 %1$s이(가) 청구되지 않습니다.</string>
+    <string name="there_is_a_problem">문제가 있습니다.</string>
+    <string name="not_able_to_complete_transaction">지금은 이 거래를 완료할 수 없습니다. </string>
+    <string name="identity_not_confirmed">아직 본인 확인을 하지 않았습니다.</string>
+    <string name="identity_not_confirmed_description">계속해서 본인 확인을 진행하시겠습니까\? 이 단계를 건너뛸 경우 PayPal에서 연결된 계좌로 금액을 이체할 수 있지만 PayPal 잔액을 이용하여 금액을 보내거나 지출할 수는 없습니다.</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">금액 대기 중</string>
+    <string name="accept_it_now">지금 수락하기</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">%1$s의 금액을 어떻게 하시겠어요\?</string>
+    <string name="transfer_it_to_your_bank">은행으로 이체하기</string>
+    <string name="transfer_it_to_your_bank_desc">소액의 수수료로 금액을 몇 분 이내에 은행으로 이체할 수 있습니다. 또는 무료로 직접 은행에 이체하세요.</string>
+    <string name="keep_it_in_paypal">PayPal 계정에 보관</string>
+    <string name="keep_it_in_paypal_cash_desc">PayPal Cash 계정을 설정하여 PayPal에서 바로 보내거나 사용할 수 있습니다.</string>
+    <string name="unable_to_create_paypal_cash_account">죄송합니다. 현재 PayPal Cash 계정을 생성할 수 없습니다. 대신 은행으로 금액을 이체하세요.</string>
+    <string name="you_are_all_set">설정이 끝났습니다.</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">이제 새 PayPal Cash 계정에서 %1$s을(를) 사용할 수 있습니다.</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">친구가 금액을 보내거나 고객님께서 상품을 판매하는 경우 홈 화면에서 확인할 수 있습니다.</string>
+    <string name="error_create_paypal_cash_account">저희 쪽에 장애가 발생한 것 같습니다. \n다시 시도해 주세요.</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

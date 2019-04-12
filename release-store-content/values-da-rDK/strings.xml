@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal-erhvervskonto: Send fakturaer</string>
+    <string name="ios_subtitle">Administrer salg, fakturaer og penge</string>
+    <string name="ios_promotional_text">En PayPal-erhvervskonto gør det nemt at administrere din aktivitet, tjekke din saldo, sende fakturaer, få vist kundeoplysninger og analysere salgstendenser. Når som helst. Hvor som helst.</string>
+    <string name="android_short_description">Hav overblik over din PayPal-konto, mens du er på farten.</string>
+    <string name="full_description_line_1">Til virksomheder på farten! Send fakturaer, spor salg og administrer dine penge med PayPal-erhvervsappen.</string>
+    <string name="full_description_line_2_bullet_1">o Opret og send fakturaer hurtigt</string>
+    <string name="full_description_line_2_bullet_2">o Administrer salg og spor kontoaktivitet</string>
+    <string name="full_description_line_2_bullet_3">o Overfør penge</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Få et hurtigt overblik over månedlige, kvartalsvise og årlige salgstendenser</string>
+    <string name="full_description_line_2_bullet_6">o Hurtig og nem adgang til dine kunder</string>
+    <string name="full_description_para_1_header">SEND FAKTURAER, OG BLIV BETALT</string>
+    <string name="full_description_para_1_description">Opret, send og administrer fakturaer hurtigt fra PayPal-erhvervsappen. PayPals fakturaopretter gør også, at det er nemt at sende betalingspåmindelser til kunder direkte fra din mobilenhed.</string>
+    <string name="full_description_para_2_header">ADMINISTRER SALGS- OG KONTOAKTIVITET</string>
+    <string name="full_description_para_2_description">Se dit daglige salg, og få et hurtigt overblik over din virksomheds månedlige, kvartalsvise og årlige salg.</string>
+    <string name="full_description_para_3_header">OVERFØR PENGE</string>
+    <string name="full_description_para_3_description">Overfør penge til din tilknyttede forhandlerbankkonto, udsted tilbagebetalinger og overfør penge med bare nogle få klik. Spar tid ved at springe bankkøerne over med denne app for mobil pengehåndtering.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">FÅ ADGANG TIL KUNDEOPLYSNINGER</string>
+    <string name="full_description_para_5_description">Se kunders betalingshistorik, kontaktoplysninger, og tag kontakt til dine kunder direkte fra din mobilenhed. Det er også nemt at importere dine kontaktpersoner.</string>
+    <string name="full_description_para_footer_1">PayPal-erhvervsappen tilbyder din mindre virksomhed en hurtig og nem måde at oprette og sende fakturaer, blive betalt og administrere dine penge på direkte fra din telefon.</string>
+    <string name="full_description_para_footer_2">Har du brug for acceptere betalingskort på en mobilenhed\? Prøv PayPal Here-mobilappen.</string>
+    <string name="ios_keywords">overfør penge, bliv betalt, betaling, bank, overførsel, salg, forretningsdata, kunde, fakturaopretter, faktura, gratis, betal</string>
+    <string name="ios_release_notes_1">Tak, fordi du bruger PayPal-erhverv. Vi har rettet fejl og mangler for at forbedre din daglige oplevelse.</string>
+    <string name="ios_release_notes_2">Det er blevet nemmere at administrere dine forretninger, da vi med denne opdatering har rettet fejl og mangler. Vi håber, du er glad for appen.</string>
+    <string name="ios_release_notes_3">Vi prøver med hver opdatering at forbedre din oplevelse og gøre det nemmere og hurtigere for dig at administrere dine forretninger og oprette fakturaer. Tak, fordi du bruger PayPal-erhverv. </string>
+    <string name="ios_release_notes_4">I denne opdatering finder du forbedringer og fejlrettelser, der vil gøre det nemmere for dig at administrere dine forretninger og din PayPal-konto. Nyd godt af PayPal-erhvervsappen.</string>
+    <string name="ios_release_notes_5">Med denne udgivelse har vi rettet mangler og fejlmeddelelser for at forbedre din oplevelse, når du sender en faktura. Tak, fordi du bruger PayPal-erhverv. </string>
+    <string name="android_release_notes_line_1">Produktforbedringer og -rettelser</string>
+</resources>

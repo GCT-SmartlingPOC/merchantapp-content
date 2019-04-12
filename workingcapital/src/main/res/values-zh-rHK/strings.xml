@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">至目前為止已付款額</string>
+    <string name="outstanding_balance">未付款額</string>
+    <string name="working_capital_summary_load_fail">無法顯示你的帳戶資料。\n請向下滑動再試一次。</string>
+    <string name="ppwc_paid">已付款</string>
+    <string name="view_loan_details">查看貸款詳細資料</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">你的 %1$s 商業貸款已全數償還。</string>
+    <string name="apply_again">再次申請</string>
+    <string name="ppwc_info">資料</string>
+    <string name="outstanding_balance_title">未付款額</string>
+    <string name="loan_details">貸款詳細資料</string>
+    <string name="initial_loan_amount">首次貸款金額</string>
+    <string name="loan_fee">貸款費用</string>
+    <string name="repayment_percentage">還款百分比</string>
+    <string name="view_loan_activity">查看貸款活動</string>
+    <string name="make_one_time_payment">發出一次性付款</string>
+    <string name="catch_up_balance">追補還款餘額</string>
+    <string name="loan_activity">貸款活動</string>
+    <string name="loan_activity_empty">自動還款開始後，你便可在此查看摘要</string>
+    <string name="ppwc_completed">已完成</string>
+    <string name="ppwc_pending">待處理</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">貸款轉帳</string>
+    <string name="loan_activity_v3_loan_reversal">貸款撤銷</string>
+    <string name="loan_activity_v3_fee">貸款費用</string>
+    <string name="loan_activity_v3_aggregated_payment">自動還款摘要</string>
+    <string name="loan_activity_v3_automated_catchup_payment">追補付款</string>
+    <string name="loan_activity_v3_automated_daily_payment">根據銷售額還款</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">手動追補付款</string>
+    <string name="loan_activity_v3_customer_initiated_payment">手動付款</string>
+    <string name="loan_activity_v3_loan_fee_reversal">貸款費用撤銷</string>
+    <string name="loan_activity_v3_payment_reversal">付款撤銷</string>
+    <string name="loan_activity_v3_loan_adjustment">貸款調整</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">貸款費用調整</string>
+    <string name="loan_activity_v3_payment_adjustment">付款調整</string>
+    <string name="loan_activity_v3_other_payment">其他付款</string>
+    <string name="loan_activity_loan_transfer">貸款轉帳</string>
+    <string name="loan_activity_fee">貸款費用</string>
+    <string name="loan_activity_automated_catchup_payment">自動追補付款</string>
+    <string name="loan_activity_automated_daily_payment">自動還款</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">手動追補付款</string>
+    <string name="loan_activity_customer_initiated_payment">手動付款</string>
+    <string name="loan_activity_loan_reversal">貸款撤銷</string>
+    <string name="loan_activity_loan_fee_reversal">貸款費用撤銷</string>
+    <string name="loan_activity_payment_reversal">付款撤銷</string>
+    <string name="loan_activity_loan_adjustment">貸款調整</string>
+    <string name="loan_activity_loan_fee_adjustment">貸款費用調整</string>
+    <string name="loan_activity_payment_adjustment">付款調整</string>
+    <string name="loan_activity_other_payment">其他付款</string>
+    <string name="loan_activity_aggregated_payment">自動還款摘要</string>
+    <string name="make_payment">付款</string>
+    <string name="make_payment_description">立即從你目前的 PayPal 餘額扣除付款</string>
+    <string name="choose_payment_amount">選擇付款金額：</string>
+    <string name="pay_specific_amount">支付特定金額</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">支付%1$s剩餘貸款餘額</string>
+    <string name="pay_remaining_loan_balance_description">可能需要最多 3 個工作天處理最後的付款。你可申請此時間之後其他貸款。</string>
+    <string name="ppwc_continue">繼續</string>
+    <string name="enter_payment_amount">輸入付款金額</string>
+    <string name="current_loan_balance">目前的貸款餘額：</string>
+    <string name="available_paypal_balance">可用 PayPal 餘額：</string>
+    <string name="review_and_pay">核對並付款</string>
+    <string name="ppwc_amount">金額</string>
+    <string name="ppwc_pay">付款</string>
+    <string name="ppwc_payment_method">付款方式</string>
+    <string name="ppwc_payment_date">付款日期</string>
+    <string name="review_and_pay_description">自動還款繼續採取銷售即使貸款已全數之前已作出一次性付款。</string>
+    <string name="thank_you">多謝你！</string>
+    <string name="made_payment_of" formatSpecifiers="amount">你已支付 %1$s</string>
+    <string name="make_payment_success_message">付款一經處理，你的帳戶會隨即更新。</string>
+    <string name="ppwc_done">完成</string>
+    <string name="make_payment_error_insufficient_balance">你的 PayPal 餘額不足，無法完成此筆付款</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">請輸入相等於或少於你的 PayPal 餘額的金額。</string>
+    <string name="working_capital">Working Capital</string>
+    <string name="general_error_title">請再試一次</string>
+    <string name="general_error_message">系統似乎發生問題，</string>
+    <string name="ppwc_try_again">再試一次</string>
+    <string name="catch_up_info_intro">當你在自動還款前提款、轉帳或使用銷售收益，就會累積追補還款餘額。</string>
+    <string name="catch_up_info_how_reduced_title">如何減少追補還款餘額？</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">當新資金存入你的 PayPal 餘額時，系統會自動扣除追補還款，直至追補還款餘額減至 $0 為止。\n\n你也可以%1$s，以即時減少追補還款餘額。</string>
+    <string name="make_manual_payment">手動付款</string>
+    <string name="catch_up_info_how_avoid_title">如何避免累積追補還款餘額？</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">要避免累積追補還款餘額，你只需確保 PayPal 餘額任何時候都高於每日自動還款額便可。\n\n如想了解追補還款的詳情，%1$s。</string>
+    <string name="please_see_faq">請參閱常見問題</string>
+    <string name="ppwc_discovery_message">新功能！檢視及管理你的 PayPal Working Capital 貸款</string>
+    <string name="last_x_days" formatSpecifiers="number">最近 %1$s 天</string>
+    <string name="apply_loan">申請可負擔的商業貸款，無需信貸查核或個人擔保。\n\n只需數分鐘，即可完成申請並取得資金。</string>
+    <string name="learn_how_label">了解運作方法</string>
+    <string name="application_approved">你的申請已獲核准！</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">你可以在 %1$s前自訂並接受優惠。</string>
+    <string name="review_offer">立即查看優惠</string>
+    <string name="view_loan_decision">檢視商業貸款審批結果</string>
+    <string name="application_status_changed">你的申請狀態已變更。</string>
+    <string name="check_status">檢查狀態</string>
+    <string name="saved_offer">你有一項已儲存的優惠</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">請在 %1$s前接受優惠。\n\n自訂和接受優惠後，只需數分鐘即可取得資金。</string>
+    <string name="review_application">我們現正審核你的申請</string>
+    <string name="review_application_description">商業貸款審批一有結果，我們就會傳送電郵通知你。</string>
+    <string name="more_details">更多詳細資料</string>
+    <string name="pending_funding_primary_desc">商業貸款正在發出。</string>
+    <string name="pending_funding_secondary_desc">如果款項在 24 小時後仍未存入你的 PayPal 帳戶，請致電聯絡我們。</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d 已完成</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d 待處理</string>
+    <string name="make_payment_error_amount_gt_loan_due">請輸入相等於或少於貸款餘額的金額。</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">請輸入不含小數點的整數。</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

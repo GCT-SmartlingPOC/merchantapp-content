@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">Διαθέσιμο: %1$s</string>
+    <string name="error_transfer_amount_too_high">Εισαγάγετε ένα ποσό μικρότερο ή ίσο με το διαθέσιμο υπόλοιπό σας</string>
+    <string name="fee_label" formatSpecifiers="amount">Η χρέωση είναι %1$s</string>
+    <string name="free_label">Είναι δωρεάν</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">Πιστωτική</string>
+    <string name="credebit_card_debit">Χρεωστική</string>
+    <string name="withdraw_change_fi_title">Αποστολή προς</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">Έληξε</string>
+    <string name="multiple_currency_disclaimer">Εκτίμηση βάσει του πιο πρόσφατου συντελεστή μετατροπής, συμπεριλαμβανομένης της χρέωσής μας για τη μετατροπή συναλλάγματος.</string>
+    <string name="available_parens">(διαθέσιμο)</string>
+    <string name="available_colon">Διαθέσιμο ποσό:</string>
+    <string name="transfer_money">Μεταφορά χρημάτων</string>
+    <string name="send_money">Αποστολή χρημάτων</string>
+    <string name="account_available">Διαθέσιμο</string>
+    <string name="account_available_currency" formatSpecifiers="currency">Διαθέσιμο υπόλοιπο σε %1$s</string>
+    <string name="account_currency_details">Λεπτομέρειες νομίσματος</string>
+    <string name="transfer_balance">Μεταφορά υπολοίπου</string>
+    <string name="select_destination">Επιλογή προορισμού</string>
+    <string name="account_no_fi_info">Συνδέστε έναν τραπεζικό λογαριασμό για να μπορείτε να στέλνετε χρήματα, να εκδίδετε επιστροφές χρημάτων και να μεταφέρετε χρήματα από την PayPal στην τράπεζά σας.</string>
+    <string name="link_a_bank_card">Σύνδεση τραπεζικού λογαριασμού ή κάρτας</string>
+    <string name="money_balance_error">Δεν είναι δυνατή η πρόσβαση στα στοιχεία του υπολοίπου σας.</string>
+    <string name="why_is_my_money_on_hold">Γιατί δεσμεύτηκαν τα χρήματά μου;</string>
+    <string name="no_bank_account_message">Συνδέστε έναν τραπεζικό λογαριασμό στη διεύθυνση PayPal.com για να μπορείτε να στέλνετε χρήματα, να εκδίδετε επιστροφές χρημάτων και να μεταφέρετε χρήματα από την PayPal στην τράπεζά σας.</string>
+    <string name="linked_account">Συνδεδεμένος λογαριασμός</string>
+    <string name="review_your_transfer">Έλεγχος μεταφοράς</string>
+    <string name="transfer_now">Μεταφορά τώρα</string>
+    <string name="transfer_amount_title">Ποσό μεταφοράς:</string>
+    <string name="fee_title">Χρέωση:</string>
+    <string name="youll_get_title">Θα λάβετε:</string>
+    <string name="transfer">Μεταφορά</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">λίγα λεπτά</string>
+    <string name="continue_with_delayed_transfer">Συνέχεια με τη μεταφορά που καθυστέρησε</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">Για λόγους ασφάλειας χρειαζόμαστε περισσότερο χρόνο για να ελέγξουμε αυτήν τη συναλλαγή. Αυτή η διαδικασία ενδέχεται να διαρκέσει έως και %1$s ώρες. Θέλετε να συνεχίσετε τη μεταφορά;</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">Το ποσό των %1$s έχει αποσταλεί</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">Μεταφέρετε χρήματα στον λογαριασμό %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">Μεταφέρετε %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">Μεταφέρετε χρήματα στον τραπεζικό λογαριασμό σας μέσω %1$s</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">Αυτή η διαδικασία διαρκεί μόνο λίγα λεπτά. Θα σας ενημερώνουμε για τη μεταφορά χρημάτων στον λογαριασμό %1$s</string>
+    <string name="money_transfer_minutes_message">Οι μεταφορές ενδέχεται να διαρκέσουν λίγα λεπτά, ανάλογα με την τράπεζα. Όλες οι μεταφορές υπόκεινται σε έλεγχο και ενδέχεται να καθυστερήσουν ή να διακοπούν αν εντοπίσουμε πρόβλημα.</string>
+    <string name="converted_from" formatSpecifiers="amount">Μετατροπή από %1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">Συντελεστής μετατροπής: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">Το ποσό θα μετατραπεί σε περίπου %1$s</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">Αυτή η τιμή περιλαμβάνει τη χρέωση μετατροπής.</string>
+    <string name="transfer_successful">Επιτυχής μεταφορά</string>
+    <string name="free_fee_message">Χρέωση: Είναι δωρεάν!</string>
+    <string name="estimated_total_all_currencies">(Εκτιμώμενο σύνολο σε όλα τα νομίσματα)</string>
+    <string name="fees">Χρεώσεις</string>
+    <string name="title_money_transfer">Μεταφορά χρημάτων</string>
+    <string name="title_currency_transfer">Μεταφορά συναλλάγματος</string>
+    <string name="withdraw_default_risk_holding_period">Οι μεταφορές χρημάτων ενδέχεται να διαρκέσουν έως και 5 ημέρες.</string>
+    <string name="withdraw_risk_holding_default">Εκτιμώμενος χρόνος άφιξης: 1 εργάσιμη ημέρα\nΟι μεταφορές χρημάτων που πραγματοποιούνται μετά τις 19:00 ET ή τα σαββατοκύριακα και τις αργίες καθυστερούν περισσότερο. Όλες οι μεταφορές υπόκεινται σε έλεγχο και ενδέχεται να καθυστερήσουν ή να διακοπούν αν εντοπίσουμε πρόβλημα.</string>
+    <string name="choose_balance">Επιλογή υπολοίπου PayPal</string>
+    <string name="view_balances_title">Υπόλοιπα PayPal</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">Υπόλοιπο PayPal %1$s</string>
+    <string name="transfer_to_bank">Μεταφορά σε τράπεζα</string>
+    <string name="enter_amount">Πληκτρολογήστε το ποσό</string>
+    <string name="select_currency">Επιλογή νομίσματος</string>
+    <string name="transfer_failed">Δεν είναι δυνατή η ολοκλήρωση της μεταφοράς χρημάτων</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">Το ποσό είναι μικρότερο από το ελάχιστο ποσό των %1$s.</string>
+    <string name="transfer_to_your_bank">Μεταφορά στην τράπεζά σας</string>
+    <string name="choose_bank_or_card">Επιλογή τράπεζας ή κάρτας</string>
+    <string name="got_it">Κατάλαβα</string>
+    <string name="try_instant_transfer_title">Δοκιμάστε την άμεση μεταφορά</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">Συνήθως τα χρήματα εμφανίζονται στον τραπεζικό λογαριασμό σας μέσα σε λίγα λεπτά όταν χρησιμοποιείτε μια χρεωστική κάρτα που πληροί τις προϋποθέσεις.\n\nΘα επιβαρυνθείτε με χρέωση %1$s. Διαφορετικά, μπορείτε να χρησιμοποιήσετε τη δωρεάν, βασική επιλογή. Οι μεταφορές ενδέχεται να διαρκέσουν έως και 30 λεπτά, ανάλογα με την τράπεζα.</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">Συνήθως τα χρήματα εμφανίζονται στον τραπεζικό λογαριασμό σας μέσα σε λίγα λεπτά όταν χρησιμοποιείτε μια χρεωστική κάρτα που πληροί τις προϋποθέσεις.\n\nΘα επιβαρυνθείτε με χρέωση %1$s. Διαφορετικά, μπορείτε να χρησιμοποιήσετε τη δωρεάν, βασική επιλογή. Οι μεταφορές ενδέχεται να διαρκέσουν έως και 30 λεπτά, ανάλογα με την τράπεζα.</string>
+    <string name="money_transfer_to_your_bank">Μεταφορά στην τράπεζά σας</string>
+    <string name="money_transfer_link_debit_card">Σύνδεση χρεωστικής κάρτας που πληροί τις προϋποθέσεις</string>
+    <string name="money_transfer_link_debit_card_bank">Συνδέστε μια έγκυρη χρεωστική κάρτα ή έναν τραπεζικό λογαριασμό</string>
+    <string name="money_transfer_link_bank">Σύνδεση τραπεζικού λογαριασμού</string>
+    <string name="money_choose_bank_or_card">Επιλογή τράπεζας ή κάρτας</string>
+    <string name="money_transfer_rate_instant">Άμεση: συνήθως μέσα σε λίγα λεπτά</string>
+    <string name="money_transfer_rate_standard">Τυπική: συνήθως εντός 1 εργάσιμης ημέρας</string>
+    <string name="money_transfer_fee_free">Δωρεάν</string>
+    <string name="money_transfer_fee_unknown">Ισχύουν χρεώσεις</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%% (max %2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">Οι μεταφορές ενδέχεται να διαρκέσουν έως και %1$s, ανάλογα με την τράπεζα. Όλες οι μεταφορές υπόκεινται σε έλεγχο και ενδέχεται να καθυστερήσουν ή να διακοπούν αν εντοπίσουμε πρόβλημα.</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">Θα αφαιρεθεί χρέωση ύψους %1$s</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">Αφαιρέθηκε χρέωσης ύψους %1$s</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">Χρέωση: %1$s</string>
+    <string name="money_label_fee_none">Χωρίς χρέωση</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">Εκτιμώμενος χρόνος άφιξης: %1$s</string>
+    <string name="money_transfer_proccessing_message">Οι μεταφορές χρημάτων που πραγματοποιούνται μετά τις 19:00 ET (Ανατολική ώρα), εντός του Σαββατοκύριακου ή σε ημέρες αργίας καθυστερούν περισσότερο. Όλες οι μεταφορές υπόκεινται σε έλεγχο και ενδέχεται να καθυστερήσουν ή να διακοπούν αν εντοπίσουμε πρόβλημα.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">Μεταφέρατε %1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">Μεταφέρατε χρήματα στη μέθοδο πληρωμής %1$s</string>
+    <string name="money_error_no_fi_selected">Επιλέξτε έναν λογαριασμό.</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">Το ποσό υπερβαίνει το μέγιστο όριο των %1$s.</string>
+    <string name="money_error_fi_transfered_max_amount">Μεταφέρατε το ανώτατο ποσό που επιτρέπεται για τη χρήση αυτής της κάρτας.</string>
+    <string name="money_missing_fi_title">Δεν βλέπετε όλες τις τράπεζες και τις κάρτες σας;</string>
+    <string name="money_missing_fi_message">Ορισμένες τράπεζες και εκδότες καρτών δεν υποστηρίζονται.</string>
+    <string name="money_transfer_one_business_day">1 εργάσιμη ημέρα</string>
+    <string name="money_transfer_with_minutes">μέσα σε λίγα λεπτά</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d εργάσιμων ημερών</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">Δεδομένου ότι ο χρόνος που απαιτείται για μια μεταφορά ποικίλλει ανάλογα με την τράπεζα, ορισμένες μεταφορές ενδέχεται να διαρκέσουν έως και %1$d %2$s</string>
+    <string name="transfer_full_amount">Μεταφορά πλήρους ποσού</string>
+    <string name="transfer_partial_amount">Μεταφορά μέρους του ποσού</string>
+    <string name="fee">Χρέωση</string>
+    <string name="you_will_get">Θα λάβετε</string>
+    <string name="cancel_transfer">Ακύρωση μεταφοράς</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">Ναι, να γίνει μεταφορά σε %1$s ώρες</string>
+    <string name="oct_risk_hold_planning_title">Η μεταφορά σας θα καθυστερήσει. Θέλετε να συνεχίσετε τη μεταφορά;</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">Για λόγους ασφάλειας χρειαζόμαστε περισσότερο χρόνο για να ελέγξουμε αυτήν τη συναλλαγή. Αυτή η διαδικασία ενδέχεται να διαρκέσει έως και %1$s ώρες. Δεν θα επιβαρυνθείτε με τη χρέωση.</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">Για λόγους ασφάλειας χρειαζόμαστε περισσότερο χρόνο για να ελέγξουμε αυτήν τη συναλλαγή. Αυτή η διαδικασία ενδέχεται να διαρκέσει έως και %1$s ώρες.</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">Εκτιμώμενος χρόνος άφιξης: %1$s ώρες</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">Μεταφέρατε χρήματα στην τράπεζά σας μέσω %1$s</string>
+    <string name="you_canceled_transfer">Ακυρώσατε τη μεταφορά</string>
+    <string name="money_remains_in_paypal_balance">Τα χρήματα θα παραμείνουν στο υπόλοιπο PayPal.</string>
+    <string name="oct_your_transfer_is_delayed">Η μεταφορά έχει καθυστερήσει</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">Για λόγους ασφάλειας χρειαζόμαστε περισσότερο χρόνο για να ελέγξουμε αυτήν τη συναλλαγή. Αυτή η διαδικασία ενδέχεται να διαρκέσει έως και %1$s ώρες, αλλά θα σας στείλουμε email για να σας ενημερώσουμε. Δεν θα επιβαρυνθείτε με τη χρέωση. Εναλλακτικά, μπορείτε να ακυρώσετε τη μεταφορά.</string>
+    <string name="error_transaction_failed_title">Η συναλλαγή σας δεν ολοκληρώθηκε</string>
+    <string name="error_transaction_failed_message">Δεν ήταν δυνατή η επεξεργασία της συναλλαγής σας. Βεβαιωθείτε ότι έχετε συνδεθεί σε δίκτυο και δοκιμάστε ξανά.</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">Για λόγους ασφάλειας χρειαζόμαστε περισσότερο χρόνο για να ελέγξουμε αυτήν τη συναλλαγή. Αυτή η διαδικασία ενδέχεται να διαρκέσει έως και %1$s ώρες, αλλά θα σας στείλουμε email για να σας ενημερώσουμε.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">Για λόγους ασφάλειας χρειαζόμαστε περισσότερο χρόνο για να ελέγξουμε αυτήν τη συναλλαγή. Αυτή η διαδικασία ενδέχεται να διαρκέσει έως και %1$s ώρες, αλλά θα σας στείλουμε email για να σας ενημερώσουμε. Δεν θα επιβαρυνθείτε με τη χρέωση.</string>
+    <string name="oct_cancel_transfer_error">Δεν μπορέσαμε να ακυρώσουμε τη μεταφορά κεφαλαίων. Η συναλλαγή σας εξακολουθεί να είναι σε εκκρεμότητα.</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">Θα σας ενημερώσουμε για τη μεταφορά των %1$s εντός 30 λεπτών.</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">Ζητήσατε να γίνει μεταφορά στον τραπεζικό λογαριασμό σας μέσω %1$s</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">Μεταφέρατε %1$s προς %2$s</string>
+    <string name="confirm_your_identity">Επιβεβαίωση ταυτότητας</string>
+    <string name="cip_transfer_success_title">Είστε έτοιμοι.</string>
+    <string name="cip_transfer_failed_title">Δεν μπορέσαμε να επιβεβαιώσουμε τα στοιχεία σας</string>
+    <string name="cip_transfer_error_title">Φαίνεται ότι προέκυψε ένα πρόβλημα\nστο σύστημά μας</string>
+    <string name="cip_transfer_aborted_title">Δεν μπορέσαμε να επιβεβαιώσουμε τα στοιχεία σας</string>
+    <string name="cip_transfer_review_title">Ευχαριστούμε για την υποβολή των πληροφοριών σας</string>
+    <string name="cip_transfer_success_explanation">Επιβεβαιώσαμε με επιτυχία τα στοιχεία σας και μπορείτε να συνεχίσετε να διατηρείτε υπόλοιπο PayPal. Μπορείτε να στείλετε χρήματα, να τα χρησιμοποιήσετε για αγορές ή απλώς να τα αποταμιεύσετε για ώρα ανάγκης.</string>
+    <string name="cip_transfer_failed_explanation">Θα εξακολουθείτε να μπορείτε να μεταφέρετε χρήματα από την PayPal στον συνδεδεμένο τραπεζικό λογαριασμό σας, αλλά δεν θα μπορείτε να χρησιμοποιήσετε το υπόλοιπό σας για να στείλετε ή να ξοδέψετε χρήματα αυτήν τη στιγμή.</string>
+    <string name="cip_transfer_error_explanation">Θα εξακολουθείτε να μπορείτε να μεταφέρετε χρήματα από την PayPal στον συνδεδεμένο τραπεζικό λογαριασμό σας, αλλά δεν θα μπορείτε να χρησιμοποιήσετε το υπόλοιπό σας για να στείλετε ή να ξοδέψετε χρήματα αυτήν τη στιγμή.</string>
+    <string name="cip_transfer_aborted_explanation">Θα εξακολουθείτε να μπορείτε να μεταφέρετε χρήματα από την PayPal στον συνδεδεμένο τραπεζικό λογαριασμό σας, αλλά δεν θα μπορείτε να χρησιμοποιήσετε το υπόλοιπό σας για να στείλετε ή να ξοδέψετε χρήματα αυτήν τη στιγμή.</string>
+    <string name="cip_transfer_review_explanation">Θα σας στείλουμε ένα email μόλις ολοκληρώσουμε τον έλεγχο των εγγράφων σας. Η διαδικασία διαρκεί συνήθως 2-3 εργάσιμες ημέρες.\n\nΕνώ περιμένετε, μπορείτε να μεταφέρετε τα χρήματα στην τράπεζά σας.</string>
+    <string name="transfer_partial_title">Για να μεταφέρετε ένα μέρος του ποσού, πρέπει να επιβεβαιώσουμε την ταυτότητά σας</string>
+    <string name="partial_choice_description">Αν θέλετε να χρησιμοποιήσετε το εναπομένον υπόλοιπο PayPal για να στείλετε ή να χρησιμοποιήσετε χρήματα μετά από αυτήν τη μεταφορά, θα χρειαστούμε ορισμένες επιπλέον πληροφορίες για να επιβεβαιώσουμε την ταυτότητά σας.</string>
+    <string name="transfer_full_amount_instead">Μεταφορά πλήρους ποσού</string>
+    <string name="your_transfer_is_pending">Η μεταφορά εκκρεμεί</string>
+    <string name="compliance_pending_primary_warning">Οι κανονισμοί απαιτούν να ελέγξουμε προσεκτικά ορισμένες συναλλαγές. Η μεταφορά σας εκκρεμεί προσωρινά ενώ την ελέγχουμε.</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">Δεν θα επιβαρυνθείτε με %1$s, διότι η μεταφορά σας έχει καθυστερήσει.</string>
+    <string name="there_is_a_problem">Προέκυψε πρόβλημα</string>
+    <string name="not_able_to_complete_transaction">Δεν μπορούμε να ολοκληρώσουμε αυτήν τη συναλλαγή αυτήν τη στιγμή.</string>
+    <string name="identity_not_confirmed">Δεν έχετε επιβεβαιώσει ακόμα την ταυτότητά σας</string>
+    <string name="identity_not_confirmed_description">Θέλετε να συνεχίσετε και να επιβεβαιώσετε την ταυτότητά σας τώρα; Αν παραλείψετε αυτό το βήμα, θα μπορείτε να μεταφέρετε χρήματα από την PayPal στον συνδεδεμένο λογαριασμό σας, αλλά δεν θα μπορείτε να χρησιμοποιήσετε το υπόλοιπο PayPal για να στείλετε ή να ξοδέψετε χρήματα.</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">Χρήματα σε αναμονή</string>
+    <string name="accept_it_now">Δεχτείτε τα χρήματα</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">Τι θέλετε να κάνετε με τα %1$s;</string>
+    <string name="transfer_it_to_your_bank">Μεταφορά στον τραπεζικό λογαριασμό σας</string>
+    <string name="transfer_it_to_your_bank_desc">Μεταφέρετε τα χρήματα στον τραπεζικό λογαριασμό σας μέσα σε λίγα λεπτά με μια μικρή χρέωση. Ή απευθείας στον τραπεζικό λογαριασμό σας δωρεάν.</string>
+    <string name="keep_it_in_paypal">Διατήρηση στο υπόλοιπο PayPal</string>
+    <string name="keep_it_in_paypal_cash_desc">Δημιουργήστε λογαριασμό PayPal Cash για να στέλνετε και να χρησιμοποιείτε χρήματα απευθείας από την PayPal.</string>
+    <string name="unable_to_create_paypal_cash_account">Δυστυχώς, δεν ήταν δυνατή η δημιουργία λογαριασμού PayPal Cash αυτήν τη στιγμή. Εναλλακτικά, πραγματοποιήστε μεταφορά χρημάτων στον τραπεζικό λογαριασμό σας.</string>
+    <string name="you_are_all_set">Είστε έτοιμοι</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s είναι τώρα διαθέσιμα στον νέο σας λογαριασμό PayPal Cash.</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">Όταν οι φίλοι σας στέλνουν χρήματα ή έχετε πουλήσει κάτι, θα βλέπετε αυτήν την πληροφορία στην αρχική σας οθόνη.</string>
+    <string name="error_create_paypal_cash_account">Φαίνεται ότι προέκυψε πρόβλημα στο σύστημά μας. \nΔοκιμάστε ξανά.</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

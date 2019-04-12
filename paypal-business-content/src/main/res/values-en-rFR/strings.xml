@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money">My Money</string>
+    <string name="we_want_to_hear_from_you">We\'d love to hear from you</string>
+    <string name="error_loading_details">We\'re sorry. We were unable to load your details. Please try again.</string>
+    <string name="unable_load_info">We\'re sorry.</string>
+    <string name="something_went_wrong">We were unable to load your information.</string>
+    <string name="checkmark">Check mark</string>
+    <string name="error_getting_details_tap_to_retry">We\'re sorry. We experienced an error retrieving those details. Please tap to retry.</string>
+    <string name="missing_required_field_title">Please complete all required fields.</string>
+    <string name="unexpected_error">We\'re sorry. Something seems to have gone wrong. Please try again.</string>
+    <string name="load_info_failure">We\'re sorry. We\'re unable to access your information.\nPlease swipe down to try again.</string>
+    <string name="not_connected_to_network">You don\'t seem to be connected to the internet right now.</string>
+    <string name="taking_to_paypal">Taking you to PayPal.fr</string>
+    <string name="unsupported_location_alert_title">We\'re sorry. This app doesn\'t support your account’s location right now.</string>
+    <string name="secondary_user_not_supported_alert_title">We\'re sorry. This app doesn\'t support secondary users right now. </string>
+    <string name="legal_user_agreement_policy">User Agreement</string>
+    <string name="missing_item_information">Please provide information for:</string>
+    <string name="title_activity_account_info">Account Information</string>
+    <string name="touch_id_pin_also_disabled">Touch ID and PIN will be disabled</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your PIN.</string>
+</resources>

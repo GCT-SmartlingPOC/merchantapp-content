@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Myynnin kaaviot ja kuvaajat</string>
+    <string name="month">Kuukausi</string>
+    <string name="quarter">KVARTAALI</string>
+    <string name="year">Vuosi</string>
+    <string name="year_to_date">Vuoden alusta</string>
+    <string name="title_sales_month">Myynti tässä kuussa</string>
+    <string name="title_this_month">Kuluva kuukausi</string>
+    <string name="ytd">VUODEN ALUSTA</string>
+    <string name="compare_last_year">Vertaile edelliseen vuoteen</string>
+    <string name="best_month">PARAS KUUKAUSI</string>
+    <string name="worst_month">HUONOIN KUUKAUSI</string>
+    <string name="best_week">PARAS VIIKKO</string>
+    <string name="worst_week">HUONOIN VIIKKO</string>
+    <string name="avg_order_value">KESKIM. TILAUKSEN ARVO</string>
+    <string name="transactions">TAPAHTUMAT</string>
+    <string name="last_year_sales" formatSpecifiers="amount">EDELLINEN VUOSI: %1$s</string>
+    <string name="year_to_date_sales">MYYNTI VUODEN ALUSTA</string>
+    <string name="total_sales">KOKONAISMYYNTI</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s MYYNTI</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">Q</string>
+    <string name="data_unavailable_swipe_again">Tietoja ei saatavilla. Pyyhkäise uudelleen.</string>
+</resources>

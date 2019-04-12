@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: שלח בקשות תשלום מפורטות</string>
+    <string name="ios_subtitle">נהל מכירות, בקשות תשלום מפורטות וכסף</string>
+    <string name="ios_promotional_text">‏PayPal Business ‏‎הופכת את ניהול פעילות ‏‎‏‎החשבון, בדיקת היתרה, שליחת בקשות תשלום מפורטות, תצוגת פרטי‏‎ לקוחות וניתוח מגמות מכירה לפעולות קלות ופשוטות. בכל עת. כמעט בכל מקום.</string>
+    <string name="android_short_description">הישאר בשליטה על חשבון ה-PayPal העסקי תוך כדי תנועה.</string>
+    <string name="full_description_line_1">עבור עסקים בתנועה! שלח בקשות תשלום מפורטות, עקוב אחר מכירות ונהל את הכסף שלך באמצעות אפליקציית PayPal Business.</string>
+    <string name="full_description_line_2_bullet_1">o הפק ושלח בקשות תשלום מפורטות במהירות</string>
+    <string name="full_description_line_2_bullet_2">o נהל מכירות ועקוב אחר הפעילות בחשבון</string>
+    <string name="full_description_line_2_bullet_3">o הוסף או משוך כסף</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o הצג במבט חטוף את מגמת המכירות החודשית, הרבעונית והשנתית</string>
+    <string name="full_description_line_2_bullet_6">o גש אל פרטי הלקוח שלך במהירות ובקלות</string>
+    <string name="full_description_para_1_header">שלח בקשות תשלום מפורטות וקבל תשלום</string>
+    <string name="full_description_para_1_description">הפק, שלח ונהל בקשות תשלום מפורטות במהירות מאפליקציית PayPal business. אשף יצירת בקשות התשלום המפורטות של ‏‏PayPal מקל על שליחת תזכורות תשלום ללקוחות ישירות מהמכשיר הנייד.</string>
+    <string name="full_description_para_2_header">ניהול מכירות ופעילות החשבון</string>
+    <string name="full_description_para_2_description">הצג את המכירות היומיות שלך וכן תצוגה במבט חטוף של מגמת המכירות החודשית, הרבעונית, והשנתית של העסק שלך.</string>
+    <string name="full_description_para_3_header">העבר כסף</string>
+    <string name="full_description_para_3_description">העבר כסף לחשבון הבנק המקושר של בעל עסק, הפק החזרים ושלח תשלום באמצעות מספר לחיצות בלבד. חיסכון בזמן על ידי דילוג על התורים בבנק הודות לאפליקציית ניהול כסף לנייד.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">גישה לפרטי לקוחות</string>
+    <string name="full_description_para_5_description">הצגת פעולות אחרונות של לקוחות, פרטי הקשר ויצירת קשר עם לקוחות, ישירות מהמכשיר הנייד. תוכל גם לייבא בקלות את אנשי הקשר שלך!</string>
+    <string name="full_description_para_footer_1">אפליקציית PayPal Business מציעה לעסק הקטן שלך דרך מהירה ופשוטה להפיק ולשלוח בקשות תשלום מפורטות, לקבל תשלום ולנהל את הכסף שלך, ישירות מהטלפון הנייד.</string>
+    <string name="full_description_para_footer_2">יש צורך לקבל תשלום בכרטיס אשראי באמצעות מכשיר נייד\? כדאי לנסות את אפליקציית PayPal Here לנייד!</string>
+    <string name="ios_keywords">שליחת תשלום,קבלת תשלום,תשלום,בנק,משיכה,מכירות,תובנות עסקיות,לקוח,אשף יצירת בקשות תשלום מפורטות,בקשת תשלום מפורטת,חינם,תשלום</string>
+    <string name="ios_release_notes_1">תודה שהתחלת להשתמש ב-PayPal Business! תיקנו באגים וקריסות כדי להפוך את החוויה שלך לטובה יותר.</string>
+    <string name="ios_release_notes_2">כעת, לאחר שתיקנו באגים וקריסות במסגרת עדכון זה, תוכל לנהל את הפעילות העסקית שלך בקלות רבה יותר. אנו מקווים שתיהנה מהאפליקציה!</string>
+    <string name="ios_release_notes_3">במסגרת כל עדכון אנו מנסים לשפר את חוויית השימוש שלך ולהפוך את ניהול הפעילות העסקית שלך ואת היצירה של בקשות תשלום מפורטות למהירים וקלים יותר. תודה שהתחלת להשתמש ב-PayPal Business! </string>
+    <string name="ios_release_notes_4">במסגרת עדכון זה ביצענו שיפורים ותיקונים כדי להקל עליך לנהל את הפעילות העסקית ואת חשבון ה-PayPal שלך. אנו מקווים שתיהנה מהאפליקציה PayPal Business!</string>
+    <string name="ios_release_notes_5">בגירסה זו תיקנו באגים והודעות שגיאה כדי לשפר את החוויה שלך בעת שליחת בקשת תשלום מפורטת. תודה שהתחלת להשתמש ב-PayPal Business! </string>
+    <string name="android_release_notes_line_1">תיקוני ושיפורי מוצר</string>
+</resources>

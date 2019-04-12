@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$sinledde en tvist om %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s avslutade en tvist om %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">Du har lämnat in tvisten från %1$s om %2$s till PayPal.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s lämnade in en tvist om %2$s till PayPal.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s ansökte om en chargeback för en tvist om %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">Visa lösningen på tvisten från %1$s om %2$s.</string>
+    <string name="dispute_reason_item_not_received">objekt inte mottaget</string>
+    <string name="dispute_reason_item_not_as_described">varan skiljer sig från beskrivningen</string>
+    <string name="dispute_new_label">NYTT</string>
+    <string name="dispute_chargeback_label">CHARGEBACK</string>
+    <string name="dispute_awaiting_on_buyer_label">VÄNTAR PÅ KÖPAREN</string>
+    <string name="dispute_awaiting_on_you_label">VÄNTAR PÅ DIG</string>
+    <string name="dispute_in_review_label">GRANSKNING PÅGÅR</string>
+    <string name="dispute_resolved_label">LÖST</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">Du svarade %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">Köparen svarade %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">Svara senast %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">Köparen måste svara senast %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">Väntar på köparens svar.</string>
+    <string name="dispute_awaiting_resolution_action">Väntar på lösning.</string>
+    <string name="dispute_card_title">Tvister</string>
+    <string name="dispute_respond_action">Svara</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s tvister väntar på ditt svar</string>
+    <string name="dispute_multiple_view_all">Visa alla</string>
+    <string name="dispute_view_details">Visa detaljer</string>
+    <string name="dispute_details_title">Tvist</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">Fall-id: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Senaste uppdateringen: %1$s</string>
+    <string name="dispute_customer_contact_title">Kundens kontaktinformation</string>
+    <string name="dispute_tracking_information">Spårningsinformation</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">Nummer: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">Leverantör: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">Säljarens transaktions-id</string>
+    <string name="dispute_last_comment_title">Senaste kommentar</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">Kund: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">Du: %1$s</string>
+    <string name="dispute_order_details_title">Orderinformation</string>
+    <string name="dispute_shipped_to_title">Levererad till</string>
+    <string name="dispute_message_buyer">Skicka ett meddelande till köparen</string>
+    <string name="dispute_provide_info_to_paypal">Skicka information till PayPal</string>
+    <string name="dispute_issue_refund">Utfärda en återbetalning</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">Svara senast: %1$s</string>
+    <string name="dispute_claim_accepted_success">Kravet har godkänts.</string>
+    <string name="dispute_claim_accepted_error">Det går inte att behandla kravet just nu!</string>
+    <string name="dispute_esclated_success">Eskalerat till PayPal.</string>
+    <string name="dispute_esclated_error">Det går inte att eskalera till PayPal!</string>
+    <string name="dispute_full_refund_success">Erbjudandet har gjorts.</string>
+    <string name="dispute_full_refund_error">Det går inte att göra erbjudandet just nu!</string>
+    <string name="dispute_provide_evidence_success">Bevis har tillhandahållits.</string>
+    <string name="dispute_action_accept_claim">Fullständig återbetalning</string>
+    <string name="dispute_action_escalate_to_paypal">Trappa upp till PayPal</string>
+    <string name="dispute_action_full_refund">Erbjud fullständig återbetalning</string>
+    <string name="dispute_action_provide_evidence">Tillhandahåll bevis</string>
+    <string name="dispute_actions_label">Åtgärder</string>
+    <string name="dispute_conversation_title">Meddelanden</string>
+    <string name="dispute_send_message">Skicka ett meddelande till köparen …</string>
+    <string name="dispute_conversation_you">DU</string>
+    <string name="dispute_hub_title">Tvister</string>
+    <string name="dispute_offer_refund_title">Skicka ett meddelande</string>
+    <string name="dispute_offer_refund_send_message">Skicka ett meddelande till din kund</string>
+    <string name="dispute_offer_refund_default_message">Jag vill erbjuda dig en fullständig återbetalning. Vill du godkänna\?</string>
+    <string name="dispute_offer_refund_ask_return">Be köparen att returnera objektet.</string>
+    <string name="dispute_offer_refund_missing_note">Meddelandefältet är obligatoriskt</string>
+    <string name="dispute_accept_claim_note_placeholder">Skriv ditt meddelande här</string>
+    <string name="dispute_escalate_to_paypal_title">Beskriv problemet</string>
+    <string name="dispute_escalate_to_paypal_header_message">Beskriv utförligt vad som är fel med transaktionen.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">Ange beskrivning här</string>
+    <string name="dispute_escalate_to_paypal_missing_description">Beskrivningsfältet är obligatoriskt</string>
+    <string name="dispute_offer_refund_confirmation_title">Granska och bekräfta</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Så snart återbetalningen till %1$s gjorts avslutas fallet. </string>
+    <string name="dispute_offer_refund_label_transaction_amount">Transaktionsbelopp</string>
+    <string name="dispute_offer_refund_label_transaction_id">Transaktions-id</string>
+    <string name="dispute_offer_refund_label_your_message">Ditt meddelande</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">Erbjud en fullständig återbetalning</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">När du har fått en bekräftelse kommer en fullständig återbetalning att skickas till %1$s och det här fallet blir löst och avslutas.</string>
+    <string name="dispute_accept_claim_confirmation_button">Återbetalning</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">Granska och bekräfta</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer"> Du eskalerar problemet till PayPal eftersom du inte kunde lösa det med köparen. \n\nVi har reserverat transaktionsbeloppet tills fallet är avslutat.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">Transaktionsbelopp</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">Transaktions-id</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Detaljerad beskrivning</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">Eskalera</string>
+    <string name="dispute_add_tracking_confirmation_message">Du har uppdaterat din spårningsinformation.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">Ett mejl skickas till kunden med informationen du angav.</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">Trappa upp till PayPal</string>
+    <string name="dispute_escalate_primer_preface">Innan du trappar upp ärendet är det några saker du behöver känna till</string>
+    <string name="dispute_escalate_primer_line_one">När du har trappat upp till ett krav kommer du inte längre att kunna kommunicera direkt med köparen.</string>
+    <string name="dispute_escalate_primer_line_two">Om säljaren erbjudit återbetalning kommer den möjligheten att avbrytas.</string>
+    <string name="dispute_escalate_primer_line_three">Det kan ta upp till 30 dagar för oss att granska kravet och fatta ett beslut.</string>
+    <string name="dispute_escalate_primer_line_four">Vi granskar informationen du har lämnat, tillsammans med meddelandena som du och säljaren har utväxlat om den här transaktionen.</string>
+    <string name="dispute_escalate_primer_line_five">Vi mejlar dig om vi behöver mer information från dig till vår undersökning.</string>
+    <string name="dispute_escalate_primer_line_six">Det beslut vi fattar är slutgiltigt och kravet avslutas sedan.</string>
+</resources>

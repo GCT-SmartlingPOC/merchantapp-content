@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">احصائيات المبيعات</string>
+    <string name="month">شهر</string>
+    <string name="quarter">ربع سنة</string>
+    <string name="year">سنة</string>
+    <string name="year_to_date">منذ بداية العام وحتى الآن</string>
+    <string name="title_sales_month">مبيعات هذا الشهر</string>
+    <string name="title_this_month">هذا الشهر</string>
+    <string name="ytd">منذ بداية العام</string>
+    <string name="compare_last_year">مقارنة بالعام الماضي</string>
+    <string name="best_month">أفضل شهر</string>
+    <string name="worst_month">أسوأ شهر</string>
+    <string name="best_week">أفضل أسبوع</string>
+    <string name="worst_week">أسوأ أسبوع</string>
+    <string name="avg_order_value">المتوسط قيمة الطلبات</string>
+    <string name="transactions">المعاملات</string>
+    <string name="last_year_sales" formatSpecifiers="amount">العام السابق: %1$s</string>
+    <string name="year_to_date_sales">المبيعات منذ بداية العام وحتى الآن</string>
+    <string name="total_sales">إجمالي المبيعات</string>
+    <string name="month_sales" formatSpecifiers="month">مبيعات %1$s</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">ربع</string>
+    <string name="data_unavailable_swipe_again">البيانات غير متاحة. يُرجى التمرير مرة أخرى.</string>
+</resources>

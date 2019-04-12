@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">Elérhető: %1$s</string>
+    <string name="error_transfer_amount_too_high">Az egyenlegén elérhető összegnél kisebb vagy azzal azonos összeget adjon meg</string>
+    <string name="fee_label" formatSpecifiers="amount">Díj: %1$s</string>
+    <string name="free_label">Ingyenes</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">Hitel</string>
+    <string name="credebit_card_debit">Megterhelés</string>
+    <string name="withdraw_change_fi_title">Küldés a következőnek:</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">Lejárt</string>
+    <string name="multiple_currency_disclaimer">A legfrissebb átváltási árfolyamon alapuló becslés, az átváltási díjjal együtt.</string>
+    <string name="available_parens">(elérhető)</string>
+    <string name="available_colon">Elérhető:</string>
+    <string name="transfer_money">Pénzátutalás</string>
+    <string name="send_money">Pénz küldése</string>
+    <string name="account_available">Elérhető</string>
+    <string name="account_available_currency" formatSpecifiers="currency">Rendelkezésre álló egyenleg a következőben: %1$s</string>
+    <string name="account_currency_details">Pénznem adatai</string>
+    <string name="transfer_balance">Egyenleg átutalása</string>
+    <string name="select_destination">Válassza ki a célt</string>
+    <string name="account_no_fi_info">Csatoljon hozzá egy bankszámlát, így pénzt küldhet, visszatérítéseket indíthat és pénzátutalást végezhet a PayPalról a bankjába.</string>
+    <string name="link_a_bank_card">Bankszámla vagy kártya csatolása</string>
+    <string name="money_balance_error">Nem sikerült hozzáférni az egyenlege adataihoz.</string>
+    <string name="why_is_my_money_on_hold">Miért van visszatartva a pénzem\?</string>
+    <string name="no_bank_account_message">Csatoljon hozzá egy bankszámlát a PayPal.com webhelyen, így pénzt küldhet, visszatérítéseket indíthat, és pénzátutalást végezhet a PayPalról a bankjába.</string>
+    <string name="linked_account">Csatolt számla</string>
+    <string name="review_your_transfer">Átutalás áttekintése</string>
+    <string name="transfer_now">Átutalás most</string>
+    <string name="transfer_amount_title">Átutalt összeg:</string>
+    <string name="fee_title">Díj:</string>
+    <string name="youll_get_title">Ennyit kap:</string>
+    <string name="transfer">Átutalás</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">néhány perc</string>
+    <string name="continue_with_delayed_transfer">Késleltetett átutalás folytatása</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">Biztonsági okokból némi időre van szükségünk a tranzakció áttekintéséhez. Ez legfeljebb %1$s órát vehet igénybe. Továbbra is folytatni szeretné az átutalást\?</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">%1$s átutalása folyamatban</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">Ön pénzt utal át ide: %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">Ön átutalja a következőt: %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">Ön a(z) %1$s használatával utal át pénzt</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">Ez mindössze néhány percet vesz igénybe. Tájékoztatjuk %1$s számára indított átutalásának folyamatáról</string>
+    <string name="money_transfer_minutes_message">Az átutalás néhány percet vesz igénybe, a pontos időtartam bankonként változik. Minden átutalás felülvizsgálaton esik át. Ha problémát találunk, az átutalást késleltethetjük vagy meg is szakíthatjuk.</string>
+    <string name="converted_from" formatSpecifiers="amount">Átváltva erről: %1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">Átváltási árfolyam: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">Az átváltást követő becsült összeg: %1$s</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">Ez az árfolyam az átváltás díját is tartalmazza.</string>
+    <string name="transfer_successful">Az átutalás sikeresen megtörtént</string>
+    <string name="free_fee_message">Díj: ingyenes!</string>
+    <string name="estimated_total_all_currencies">(A különböző pénznemek becsült összege)</string>
+    <string name="fees">Díjak</string>
+    <string name="title_money_transfer">Pénzátutalás</string>
+    <string name="title_currency_transfer">Pénznem átutalása</string>
+    <string name="withdraw_default_risk_holding_period">Az átutalás legfeljebb 5 napot vehet igénybe.</string>
+    <string name="withdraw_risk_holding_default">Becsült érkezés: 1 munkanap\nA 19:00 után vagy a hétvégén és ünnepnapon indított átutalások hosszabb időt vesznek igénybe. Minden átutalás felülvizsgálaton esik át. Ha problémát találunk, az átutalást késleltethetjük vagy meg is szakíthatjuk.</string>
+    <string name="choose_balance">Válasszon PayPal-egyenleget</string>
+    <string name="view_balances_title">PayPal-egyenlegek</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$s PayPal-egyenleg</string>
+    <string name="transfer_to_bank">Átutalás bankszámlára</string>
+    <string name="enter_amount">Írja be az összeget</string>
+    <string name="select_currency">Válasszon pénznemet</string>
+    <string name="transfer_failed">Az átutalás teljesítése nem sikerült</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">Az összeg kevesebb, mint a minimális %1$s érték.</string>
+    <string name="transfer_to_your_bank">Átutalás a bankszámlájára</string>
+    <string name="choose_bank_or_card">Válasszon bankot vagy kártyát</string>
+    <string name="got_it">Rendben</string>
+    <string name="try_instant_transfer_title">Próbálja ki az azonnali átutalást</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">Arra alkalmas bankkártya használatakor az összeg általában perceken belül megjelenik a bankszámlán.\n\n%1$s összegű díjat számítunk fel. A standard opció használata azonban díjmentes. Az átutalás legfeljebb 30 percet vehet igénybe, de a teljesítés ideje bankonként eltérő lehet.</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">Arra alkalmas bankkártya használatakor az összeg általában perceken belül megjelenik a bankszámlán.\n\n%1$s összegű díjat számítunk fel. A standard opció használata azonban díjmentes. Az átutalás legfeljebb 30 percet vehet igénybe, de a teljesítés ideje bankonként eltérő lehet.</string>
+    <string name="money_transfer_to_your_bank">Átutalás a bankszámlájára</string>
+    <string name="money_transfer_link_debit_card">Jogosult bankkártya csatolása</string>
+    <string name="money_transfer_link_debit_card_bank">Jogosult bankkártya vagy bankszámla társítása</string>
+    <string name="money_transfer_link_bank">Bankszámla csatolása</string>
+    <string name="money_choose_bank_or_card">Válasszon bankot vagy kártyát</string>
+    <string name="money_transfer_rate_instant">Azonnali: ez általában perceken belül teljesül</string>
+    <string name="money_transfer_rate_standard">Normál: ez általában 1 munkanapot vesz igénybe</string>
+    <string name="money_transfer_fee_free">Ingyenes</string>
+    <string name="money_transfer_fee_unknown">Díjat számolunk fel</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%% (max. %2$s)  </string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">Az átutalás ideje akár %1$s is lehet, és bankonként eltérhet. Minden átutalás felülvizsgálaton esik át. Ha problémát találunk, az átutalást késleltethetjük vagy meg is szakíthatjuk.</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">%1$s díjat számítunk fel</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">A(z) %1$s díj levonva</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">Díj: %1$s</string>
+    <string name="money_label_fee_none">Díjmentes</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">Becsült érkezés: %1$s</string>
+    <string name="money_transfer_proccessing_message">A 19:00 (ET) után vagy a hétvégén és ünnepnapon indított átutalások hosszabb időt vesznek igénybe. Minden átutalás felülvizsgálaton esik át. Ha problémát találunk, az átutalást késleltethetjük vagy meg is szakíthatjuk.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">%1$s összeget utalt át</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">Pénz utalt a következőre: %1$s</string>
+    <string name="money_error_no_fi_selected">Válasszon egy számlát.</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">Az összeg meghaladja a maximálisat: %1$s.</string>
+    <string name="money_error_fi_transfered_max_amount">Ön átutalta a kártya használatához engedélyezett maximális összeget.</string>
+    <string name="money_missing_fi_title">Nem látja az összes bankszámláját és kártyáját\?</string>
+    <string name="money_missing_fi_message">Egyes bankok és kártyakibocsátók nem támogatottak.</string>
+    <string name="money_transfer_one_business_day">1 munkanap</string>
+    <string name="money_transfer_with_minutes">perceken belül</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d munkanap</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">Mivel az átutalási idő bankonként eltér, egyes átutalások ideje akár %1$d %2$s is lehet</string>
+    <string name="transfer_full_amount">Teljes összeg átutalása</string>
+    <string name="transfer_partial_amount">Részleges összeg átutalása</string>
+    <string name="fee">Díj</string>
+    <string name="you_will_get">Ennyit kap</string>
+    <string name="cancel_transfer">Átutalás megszakítása</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">Igen, átutalás %1$s óra múlva</string>
+    <string name="oct_risk_hold_planning_title">Az átutalás késni fog, továbbra is folytatni kívánja az átutalást\?</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">Biztonsági okokból némi időre van szükségünk a tranzakció áttekintéséhez. Ez legfeljebb %1$s órát vehet igénybe. A díjat nem vonjuk le.</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">Biztonsági okokból némi időre van szükségünk a tranzakció áttekintéséhez. Ez legfeljebb %1$s órát vehet igénybe.</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">Becsült érkezés: %1$s óra</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">Pénzt utalt bankszámlájára a(z) %1$s használatával</string>
+    <string name="you_canceled_transfer">Megszakította az átutalást</string>
+    <string name="money_remains_in_paypal_balance">A pénz a PayPal-egyenlegén marad.</string>
+    <string name="oct_your_transfer_is_delayed">Az átutalás késik</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">Biztonsági okokból némi időre van szükségünk a tranzakció áttekintéséhez. Ez legfeljebb %1$s órát vehet igénybe. Minden fejleményről e-mailben értesítjük. A díjat nem vonjuk le. Vagy megszakíthatja az átutalást.</string>
+    <string name="error_transaction_failed_title">A tranzakciója nem fejeződött be</string>
+    <string name="error_transaction_failed_message">Sajnos a tranzakcióját nem tudtuk feldolgozni. Ellenőrizze, hogy csatlakozik-e hálózathoz, majd próbálja újra.</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">Biztonsági okokból némi időre van szükségünk a tranzakció áttekintéséhez. Ez legfeljebb %1$s órát vehet igénybe, de minden fejleményről e-mailben értesítjük.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">Biztonsági okokból némi időre van szükségünk a tranzakció áttekintéséhez. Ez legfeljebb %1$s órát vehet igénybe. Minden fejleményről e-mailben értesítjük. A díjat nem vonjuk le.</string>
+    <string name="oct_cancel_transfer_error">Sajnos nem sikerült megszakítanunk az alapok átutalását. Tranzakciója még függőben van.</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">%1$s összegű átutalásáról 30 percen belül tájékoztatjuk Önt.</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">Banki átutalást igényelt a(z) %1$s használatával</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">%1$s összeget utalt át a következőnek: %2$s</string>
+    <string name="confirm_your_identity">Személyazonosság megerősítése</string>
+    <string name="cip_transfer_success_title">Minden készen áll.</string>
+    <string name="cip_transfer_failed_title">Nem tudtuk megerősíteni adatait</string>
+    <string name="cip_transfer_error_title">Úgy tűnik, probléma merült fel\nrendszerünkben</string>
+    <string name="cip_transfer_aborted_title">Nem tudtuk megerősíteni adatait</string>
+    <string name="cip_transfer_review_title">Köszönjük, hogy elküldte az adatokat</string>
+    <string name="cip_transfer_success_explanation">Sikeresen megerősítettük adatait, és továbbra is fenntarthat PayPal-egyenleget. Pénzét bármikor elutalhatja vagy elköltheti, de vésztartalékként akár az egyenlegén is tárolhatja.</string>
+    <string name="cip_transfer_failed_explanation">A PayPalról továbbra is utalhat pénzt a csatolt bankszámlájára, de egyenlegét pénz küldéséhez vagy költéséhez jelenleg nem használhatja.</string>
+    <string name="cip_transfer_error_explanation">A PayPalról továbbra is utalhat pénzt a csatolt bankszámlájára, de egyenlegét pénz küldéséhez vagy költéséhez jelenleg nem használhatja.</string>
+    <string name="cip_transfer_aborted_explanation">A PayPalról továbbra is utalhat pénzt a csatolt bankszámlájára, de egyenlegét pénz küldéséhez vagy költéséhez jelenleg nem használhatja.</string>
+    <string name="cip_transfer_review_explanation">Ha végeztünk a dokumentumok ellenőrzésével, e-mailben értesítjük. Ez általában 2–3 munkanapot vesz igénybe.\n\nAmíg vár, addig is bármikor átutalhatja a pénzt a bankszámlájára.</string>
+    <string name="transfer_partial_title">Részleges összeg átutalásához meg kell erősítenünk személyazonosságát</string>
+    <string name="partial_choice_description">Ha ezen átutalást követően, maradék PayPal-egyenlege segítségével kíván pénzt küldeni vagy költeni, néhány további adatra lesz szükségünk személyazonossága megerősítéséhez.</string>
+    <string name="transfer_full_amount_instead">Inkább a teljes összeg átutalása</string>
+    <string name="your_transfer_is_pending">Az átutalás függőben van</string>
+    <string name="compliance_pending_primary_warning">A jogszabályi előírások szerint bizonyos tranzakciókat ki kell vizsgálnunk. Az átutalás az ellenőrzés ideje alatt függőben van.</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">Mivel az átutalás késleltetve van, nem kell kifizetnie a(z) %1$s díjat.</string>
+    <string name="there_is_a_problem">Probléma merült fel</string>
+    <string name="not_able_to_complete_transaction">Nem tudtuk elvégezni a tranzakciót. </string>
+    <string name="identity_not_confirmed">Még nem erősítette meg személyazonosságát</string>
+    <string name="identity_not_confirmed_description">Kívánja most folytatni, és megerősíteni a személyazonosságát\? Ha kihagyja ezt a lépést, akkor a PayPalról utalhat pénzt a csatolt bankszámlájára, de PayPal-egyenlegét pénz küldéséhez vagy költéséhez nem használhatja.</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">Pénz vár Önre</string>
+    <string name="accept_it_now">Fogadja el most</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">Mit szeretne tenni a következő összeggel: %1$s\?</string>
+    <string name="transfer_it_to_your_bank">Átutalni a bankszámlájára</string>
+    <string name="transfer_it_to_your_bank_desc">A pénzt bankszámlájára perceken belül, alacsony díj ellenében áthelyezheti. Vagy közvetlenül oda is utalhatja, ingyenesen.</string>
+    <string name="keep_it_in_paypal">A PayPalon tartani</string>
+    <string name="keep_it_in_paypal_cash_desc">Engedje meg, hogy létrehozzunk Önnek egy PayPal Cash-számlát, így közvetlenül a PayPal alkalmazásból küldhet vagy költhet pénzt.</string>
+    <string name="unable_to_create_paypal_cash_account">Jelenleg nem tudjuk létrehozni PayPal Cash-számláját. Akkor pénz átutalása a bankszámlára.</string>
+    <string name="you_are_all_set">Minden készen áll.</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">A(z) %1$s mostantól elérhető új PayPal Cash-számlájához.</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">Ha ismerősei pénzt küldenek Önnek vagy elad valamit, az összeg megjelenik kezdőképernyőjén.</string>
+    <string name="error_create_paypal_cash_account">Rendszerünkben probléma merült fel. \nPróbálja újra.</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

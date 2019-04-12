@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: Posielanie faktúr</string>
+    <string name="ios_subtitle">Spravujte predaj, faktúry a prostriedky</string>
+    <string name="ios_promotional_text">Aplikácia PayPal Business vám umožňuje jednoducho spravovať svoju aktivitu, kontrolovať zostatok na účte, posielať faktúry, zobrazovať údaje o zákazníkoch a analyzovať trendy predaja. Kedykoľvek a kdekoľvek</string>
+    <string name="android_short_description">Majte pod kontrolou firemný účet PayPal, nech ste kdekoľvek.</string>
+    <string name="full_description_line_1">Pre firmy kdekoľvek! Posielajte faktúry, sledujte predaj a spravujte svoje peniaze pomocou aplikácie PayPal Business.</string>
+    <string name="full_description_line_2_bullet_1">o Rýchlo vytvárajte a posielajte faktúry</string>
+    <string name="full_description_line_2_bullet_2">o Spravujte predaj a sledujte aktivitu na účte</string>
+    <string name="full_description_line_2_bullet_3">o Prevádzajte peniaze</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Pozrite si mesačné, štvrťročné a ročné trendy predaja</string>
+    <string name="full_description_line_2_bullet_6">o Majte rýchlo a jednoducho prístup k údajom o svojich zákazníkoch</string>
+    <string name="full_description_para_1_header">POSIELAJTE FAKTÚRY A PRIJÍMAJTE PLATBY</string>
+    <string name="full_description_para_1_description">Pomocou aplikácie PayPal Business môžete rýchlo vytvárať, posielať a spravovať faktúry. Nástroj na vytváranie faktúr PayPal tiež umožňuje jednoducho posielať upomienky zákazníkom priamo z mobilného zariadenia.</string>
+    <string name="full_description_para_2_header">SPRAVUJTE PREDAJ A AKTIVITU NA ÚČTE</string>
+    <string name="full_description_para_2_description">Rýchlo a jednoducho si zobrazte denný predaj a prehľad o mesačnom, štvrťročnom a ročnom predaji svojej firmy.</string>
+    <string name="full_description_para_3_header">PREVÁDZAJTE PENIAZE</string>
+    <string name="full_description_para_3_description">Prevádzajte prostriedky na priradený bankový účet obchodníka a posielajte peniaze a vrátenia peňazí len niekoľkými kliknutiami. Šetrite čas s touto mobilnou aplikáciou na správu peňazí, pretože nemusíte vypĺňať všetky riadky bankových príkazov.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">MAJTE PRÍSTUP K ÚDAJOM O ZÁKAZNÍKOCH</string>
+    <string name="full_description_para_5_description">Táto aplikácia vám umožňuje zobraziť si históriu transakcií svojich zákazníkov a ich kontaktné údaje alebo kontaktovať zákazníkov priamo zo svojho mobilného zariadenia. Môžete do nej tiež jednoducho importovať svoje kontakty.</string>
+    <string name="full_description_para_footer_1">Aplikácia PayPal Business ponúka vašej malej firme rýchly a jednoduchý spôsob vytvárania a posielania faktúr a spravovania peňazí priamo v telefóne.</string>
+    <string name="full_description_para_footer_2">Potrebujete prijímať kreditné alebo debetné karty na mobilnom zariadení\? Vyskúšajte mobilnú aplikáciu PayPal Here.</string>
+    <string name="ios_keywords">posielať peniaze,prijímať platby,platba,bankový účet,prevod,predaj,štatistiky,zákazník,nástroj na vytváranie faktúr,faktúra,zadarmo,zaplatiť</string>
+    <string name="ios_release_notes_1">Ďakujeme, že používate aplikáciu PayPal Business. Opravili sme chyby a zlyhania, aby sa vám každý deň pracovalo ešte lepšie.</string>
+    <string name="ios_release_notes_2">Keďže sme v tejto aktualizácii opravili chyby a zlyhania, riadenie firiem bude odteraz ešte jednoduchšie. Dúfame, že sa vám aplikácia bude páčiť.</string>
+    <string name="ios_release_notes_3">Každou aktualizáciou sa snažíme vylepšiť prostredie aplikácie, a umožniť vám tak jednoduchšie a rýchlejšie riadenie firmy a vytváranie faktúr. Ďakujeme, že používate aplikáciu PayPal Business.</string>
+    <string name="ios_release_notes_4">V tejto aktualizácii nájdete vylepšenia a opravy, ktoré vám umožnia riadiť firmu a účet PayPal ešte jednoduchšie. Dúfame, že sa vám bude nová aplikácia PayPal Business dobre používať.</string>
+    <string name="ios_release_notes_5">V tomto vydaní sme opravili nedostatky a chybové hlásenia, aby sa vám faktúry posielali ešte jednoduchšie. Ďakujeme, že používate aplikáciu PayPal Business.</string>
+    <string name="android_release_notes_line_1">Vylepšenia a opravy produktu</string>
+</resources>

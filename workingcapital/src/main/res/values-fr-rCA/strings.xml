@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">Fonds de roulement PayPal</string>
+    <string name="paid_to_date">Payé à ce jour</string>
+    <string name="outstanding_balance">Solde débiteur</string>
+    <string name="working_capital_summary_load_fail">Les informations sur votre compte ne sont pas disponibles.\nFaites glisser vers le bas pour réessayer.</string>
+    <string name="ppwc_paid">PAYÉ</string>
+    <string name="view_loan_details">Afficher les détails du prêt</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Votre prêt commercial de %1$s a été payé intégralement.</string>
+    <string name="apply_again">Refaire une demande</string>
+    <string name="ppwc_info">Informations</string>
+    <string name="outstanding_balance_title">Solde débiteur</string>
+    <string name="loan_details">Détails du prêt</string>
+    <string name="initial_loan_amount">Montant du prêt initial</string>
+    <string name="loan_fee">Frais de prêt</string>
+    <string name="repayment_percentage">Pourcentage de remboursement</string>
+    <string name="view_loan_activity">Afficher l’activité du prêt</string>
+    <string name="make_one_time_payment">Effectuer un paiement unique</string>
+    <string name="catch_up_balance">Solde de rattrapage</string>
+    <string name="loan_activity">Activité du prêt</string>
+    <string name="loan_activity_empty">Vous trouverez un récapitulatif ici lorsque que votre remboursement automatique débutera.</string>
+    <string name="ppwc_completed">Terminé</string>
+    <string name="ppwc_pending">En attente</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Transfert du prêt</string>
+    <string name="loan_activity_v3_loan_reversal">Annulation du prêt</string>
+    <string name="loan_activity_v3_fee">Frais de prêt</string>
+    <string name="loan_activity_v3_aggregated_payment">Récapitulatif du remboursement automatique</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Paiement de rattrapage</string>
+    <string name="loan_activity_v3_automated_daily_payment">Remboursement en fonction des ventes</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Paiement de rattrapage manuel</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Paiement manuel</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Annulation des frais de prêt</string>
+    <string name="loan_activity_v3_payment_reversal">Annulation du paiement</string>
+    <string name="loan_activity_v3_loan_adjustment">Ajustement du prêt</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Ajustement des frais de prêt</string>
+    <string name="loan_activity_v3_payment_adjustment">Ajustement de paiement</string>
+    <string name="loan_activity_v3_other_payment">Autre paiement</string>
+    <string name="loan_activity_loan_transfer">Transfert du prêt</string>
+    <string name="loan_activity_fee">Frais de prêt</string>
+    <string name="loan_activity_automated_catchup_payment">Paiement de rattrapage automatisé</string>
+    <string name="loan_activity_automated_daily_payment">Remboursement automatisé</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Paiement de rattrapage manuel</string>
+    <string name="loan_activity_customer_initiated_payment">Paiement manuel</string>
+    <string name="loan_activity_loan_reversal">Annulation du prêt</string>
+    <string name="loan_activity_loan_fee_reversal">Annulation des frais de prêt</string>
+    <string name="loan_activity_payment_reversal">Annulation du paiement</string>
+    <string name="loan_activity_loan_adjustment">Ajustement du prêt</string>
+    <string name="loan_activity_loan_fee_adjustment">Ajustement des frais de prêt</string>
+    <string name="loan_activity_payment_adjustment">Ajustement de paiement</string>
+    <string name="loan_activity_other_payment">Autre paiement</string>
+    <string name="loan_activity_aggregated_payment">Récapitulatif du remboursement automatique</string>
+    <string name="make_payment">Effectuer un paiement</string>
+    <string name="make_payment_description">Votre paiement est déduit instantanément de votre solde PayPal disponible</string>
+    <string name="choose_payment_amount">Choisissez un montant de paiement :</string>
+    <string name="pay_specific_amount">Payer un montant spécifique</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Payez %1$s du solde du prêt restant</string>
+    <string name="pay_remaining_loan_balance_description">Cela peut prendre jusqu\'à 3 jours ouvrables pour traiter votre paiement final. Vous serez en mesure de faire une demande pour un autre prêt après ce délai.</string>
+    <string name="ppwc_continue">Continuer</string>
+    <string name="enter_payment_amount">Saisissez le montant du paiement</string>
+    <string name="current_loan_balance">Solde du prêt actuel :</string>
+    <string name="available_paypal_balance">Solde PayPal disponible :</string>
+    <string name="review_and_pay">Vérifier et payer</string>
+    <string name="ppwc_amount">Montant</string>
+    <string name="ppwc_pay">Payer</string>
+    <string name="ppwc_payment_method">Mode de paiement</string>
+    <string name="ppwc_payment_date">Date du paiement </string>
+    <string name="review_and_pay_description">Les remboursements automatiques continueront d\'être débités du montant de vos ventes, même si vous avez effectué un paiement unique et ce, jusqu\'à ce que votre prêt soit payé en totalité.</string>
+    <string name="thank_you">Merci !</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Vous avez effectué un paiement de %1$s</string>
+    <string name="make_payment_success_message">Votre compte sera mis à jour dès que le paiement sera traité.</string>
+    <string name="ppwc_done">Terminé</string>
+    <string name="make_payment_error_insufficient_balance">Votre solde PayPal n\'est pas suffisant pour effectuer ce paiement.</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Saisissez un montant égal ou inférieur à votre solde PayPal.</string>
+    <string name="working_capital">Fonds de roulement</string>
+    <string name="general_error_title">Veuillez réessayer</string>
+    <string name="general_error_message">Il semble qu\'une erreur s\'est produite de notre côté.</string>
+    <string name="ppwc_try_again">Réessayer</string>
+    <string name="catch_up_info_intro">Un solde de rattrapage augmente lorsque vous retirez, virez ou dépensez les profits de vos ventes avant que le remboursement automatisé ne soit effectué.</string>
+    <string name="catch_up_info_how_reduced_title">Comment mon solde de rattrapage se réduit-il \?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">Nous déduirons automatiquement les paiements de rattrapage lorsque de nouveaux fonds seront disponibles sur votre solde PayPal jusqu\'à ce que le solde de rattrapage soit réduit à 0 $.\n\nVous pouvez également %1$s afin de réduire le solde immédiatement.</string>
+    <string name="make_manual_payment">effectuer un paiement manuel</string>
+    <string name="catch_up_info_how_avoid_title">Comment puis-je éviter un solde de rattrapage \?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Pour éviter un solde de rattrapage, assurez-vous simplement de toujours conserver un solde PayPal supérieur à votre remboursement automatisé quotidien.\n\nPour plus d’informations supplémentaires sur les paiements de rattrapage, %1$s.</string>
+    <string name="please_see_faq">veuillez consulter notre foire aux questions</string>
+    <string name="ppwc_discovery_message">NOUVEAUTÉ Afficher et gérer votre crédit de Fonds de roulement PayPal</string>
+    <string name="last_x_days" formatSpecifiers="number">%1$s DERNIERS JOURS</string>
+    <string name="apply_loan">Faites une demande de prêt commercial abordable sans vérification de crédit ou garantie personnelle.\n\nLa demande et le financement peuvent prendre aussi peu que quelques minutes.</string>
+    <string name="learn_how_label">Découvrez comment cela fonctionne</string>
+    <string name="application_approved">Votre demande est approuvée !</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Vous pouvez personnaliser et accepter votre offre jusqu\'au %1$s.</string>
+    <string name="review_offer">Consulter votre offre maintenant</string>
+    <string name="view_loan_decision">Afficher la décision de prêt entreprise</string>
+    <string name="application_status_changed">L\'état de votre demande a changé.</string>
+    <string name="check_status">Vérifier l\'état</string>
+    <string name="saved_offer">Vous avez une offre enregistrée.</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Votre offre est valable jusqu\'au %1$s.\n\nPersonnalisez et acceptez votre offre, puis recevez les fonds en quelques minutes.</string>
+    <string name="review_application">Nous vérifions actuellement votre demande.</string>
+    <string name="review_application_description">Vous recevrez un courriel dès que nous aurons pris une décision concernant votre prêt commercial.</string>
+    <string name="more_details">Plus de détails</string>
+    <string name="pending_funding_primary_desc">Vous allez bientôt pouvoir disposer de votre prêt commercial. </string>
+    <string name="pending_funding_secondary_desc">Appelez-nous s\'il ne s\'affiche pas dans votre compte PayPal d\'ici 24 heures.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d terminé</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d en attente</string>
+    <string name="make_payment_error_amount_gt_loan_due">Saisissez un montant égal ou inférieur à votre solde PayPal.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Saisissez un nombre entier, sans décimales.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">رأس المال المتداول من PayPal</string>
+    <string name="paid_to_date">ما تم دفعه إلى الآن</string>
+    <string name="outstanding_balance">رصيد معلق</string>
+    <string name="working_capital_summary_load_fail">معلومات حسابك غير متاحة.\nمرر إلى أسفل لإعادة المحاولة.</string>
+    <string name="ppwc_paid">تم الدفع</string>
+    <string name="view_loan_details">عرض بيانات القرض</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">تم سداد قرضك التجاري الذي يبلغ %1$s بالكامل.</string>
+    <string name="apply_again">إعادة تقديم الطلب</string>
+    <string name="ppwc_info">معلومات</string>
+    <string name="outstanding_balance_title">رصيد معلق</string>
+    <string name="loan_details">بيانات القرض</string>
+    <string name="initial_loan_amount">المبلغ المبدئي للقرض</string>
+    <string name="loan_fee">رسوم القرض</string>
+    <string name="repayment_percentage">نسبة سداد القرض</string>
+    <string name="view_loan_activity">عرض أنشطة القرض</string>
+    <string name="make_one_time_payment">إجراء مدفوعات لمرة واحدة</string>
+    <string name="catch_up_balance">رصيد استدراكي</string>
+    <string name="loan_activity">أنشطة القرض</string>
+    <string name="loan_activity_empty">سوف تجد هنا موجزاً بمجرد بدء عمليات سداد القرض الأوتوماتيكية</string>
+    <string name="ppwc_completed">تم</string>
+    <string name="ppwc_pending">معلقة</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">تحويل القرض</string>
+    <string name="loan_activity_v3_loan_reversal">إلغاء القرض</string>
+    <string name="loan_activity_v3_fee">رسوم القرض</string>
+    <string name="loan_activity_v3_aggregated_payment">موجز عمليات سداد القرض الأوتوماتيكية</string>
+    <string name="loan_activity_v3_automated_catchup_payment">مدفوعات استدراكية</string>
+    <string name="loan_activity_v3_automated_daily_payment">سداد الدين بنسبة من المبيعات</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">مدفوعات استدراكية يدوية</string>
+    <string name="loan_activity_v3_customer_initiated_payment">مدفوعات يدوية</string>
+    <string name="loan_activity_v3_loan_fee_reversal">إلغاء رسوم القرض</string>
+    <string name="loan_activity_v3_payment_reversal">إلغاء المدفوعات</string>
+    <string name="loan_activity_v3_loan_adjustment">تعديل القرض</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">تعديل رسوم القرض</string>
+    <string name="loan_activity_v3_payment_adjustment">تعديل المدفوعات</string>
+    <string name="loan_activity_v3_other_payment">مدفوعات أخرى</string>
+    <string name="loan_activity_loan_transfer">تحويل القرض</string>
+    <string name="loan_activity_fee">رسوم القرض</string>
+    <string name="loan_activity_automated_catchup_payment">مدفوعات استدراكية أوتوماتيكية</string>
+    <string name="loan_activity_automated_daily_payment">سداد القرض تلقائياً</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">مدفوعات استدراكية يدوية</string>
+    <string name="loan_activity_customer_initiated_payment">مدفوعات يدوية</string>
+    <string name="loan_activity_loan_reversal">إلغاء القرض</string>
+    <string name="loan_activity_loan_fee_reversal">إلغاء رسوم القرض</string>
+    <string name="loan_activity_payment_reversal">إلغاء المدفوعات</string>
+    <string name="loan_activity_loan_adjustment">تعديل القرض</string>
+    <string name="loan_activity_loan_fee_adjustment">تعديل رسوم القرض</string>
+    <string name="loan_activity_payment_adjustment">تعديل المدفوعات</string>
+    <string name="loan_activity_other_payment">مدفوعات أخرى</string>
+    <string name="loan_activity_aggregated_payment">موجز عمليات سداد القرض الأوتوماتيكية</string>
+    <string name="make_payment">إجراء مدفوعات</string>
+    <string name="make_payment_description">يتم على الفور خصم المدفوعات من رصيدك المتاح حالياً على PayPal</string>
+    <string name="choose_payment_amount">اختر مبلغ المدفوعات:</string>
+    <string name="pay_specific_amount">دفع مبلغ محدد</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">دفع رصيد القرض المتبقي الذي يبلغ %1$s</string>
+    <string name="pay_remaining_loan_balance_description">قد تستغرق معالجة المدفوعات النهائية مدة تصل إلى 3 أيام عمل. ويمكنك التقدم بطلب للحصول على قرض آخر بعد مرور هذه المهلة.</string>
+    <string name="ppwc_continue">متابعة</string>
+    <string name="enter_payment_amount">أدخل مبلغ المدفوعات</string>
+    <string name="current_loan_balance">رصيد القرض الحالي:</string>
+    <string name="available_paypal_balance">رصيد PayPal‏ المتاح:</string>
+    <string name="review_and_pay">مراجعة ودفع</string>
+    <string name="ppwc_amount">المبلغ</string>
+    <string name="ppwc_pay">دفع</string>
+    <string name="ppwc_payment_method">طريقة الدفع</string>
+    <string name="ppwc_payment_date">تاريخ الدفع</string>
+    <string name="review_and_pay_description">سوف يستمر الخصم من مبيعاتك لسداد القرض تلقائياً حتى إذا قمت بإجراء دفعة لمرة واحدة إلى أن يتم سداد القرض بالكامل.</string>
+    <string name="thank_you">شكراً لك!</string>
+    <string name="made_payment_of" formatSpecifiers="amount">لقد أجريت مدفوعات بقيمة %1$s</string>
+    <string name="make_payment_success_message">سوف يتم تحديث حسابك فور معالجة المدفوعات.</string>
+    <string name="ppwc_done">تم</string>
+    <string name="make_payment_error_insufficient_balance">رصيدك على PayPal غير كافٍ لإتمام هذه المدفوعات</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">أدخل مبلغاً يساوي أو يقل عن رصيدك على PayPal.</string>
+    <string name="working_capital">رأس المال المتداول</string>
+    <string name="general_error_title">لنجرّب ذلك مرة أخرى</string>
+    <string name="general_error_message">يبدو أنه قد وقع خطأ من جانبنا.</string>
+    <string name="ppwc_try_again">أعد المحاولة</string>
+    <string name="catch_up_info_intro">تظهر حالة الرصيد الاستدراكي عندما تسحب أو تحوّل أو تنفق عائدات مبيعاتك قبل أن يتم سداد القرض تلقائياً.</string>
+    <string name="catch_up_info_how_reduced_title">كيف يقل رصيدي الاستدراكي؟</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">سوف نقوم بخصم المدفوعات الاستدراكية تلقائياً عندما تتوفر مبالغ مالية جديدة في رصيدك على PayPal إلى أن ينخفض رصيدك الاستدراكي ويصل إلى 0 دولار أمريكي.\n\nيمكنك أيضاً %1$s لخفض الرصيد فوراً.</string>
+    <string name="make_manual_payment">إجراء مدفوعات يدوية</string>
+    <string name="catch_up_info_how_avoid_title">كيف يمكنني تجنب ظهور رصيد استدراكي؟</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">لتجنب ظهور رصيد استدراكي، كل ما عليك هو التأكد دوماً من توفر رصيد في حسابك على PayPal يزيد عن المدفوعات اليومية اللازمة لسداد القرض تلقائياً.\n\nلمزيد من المعلومات عن المدفوعات الاستدراكية، %1$s.</string>
+    <string name="please_see_faq">يُرجى الاطلاع على الأسئلة الشائعة</string>
+    <string name="ppwc_discovery_message">جديد! عرض وإدارة قرض رأس المال المتداول من PayPal</string>
+    <string name="last_x_days" formatSpecifiers="number">آخر %1$s يوماً</string>
+    <string name="apply_loan">اطلب الحصول على قرض تجاري بفائدة معقولة؛ دون فحص ائتماني أو ضمان شخصي.\n\nسوف يستغرق الطلب والتمويل بضع دقائق لا أكثر.</string>
+    <string name="learn_how_label">تعرف على الخطوات</string>
+    <string name="application_approved">تمت الموافقة على طلبك!</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">يمكنك تخصيص العرض الخاص بك وقبوله حتى %1$s.</string>
+    <string name="review_offer">راجع العرض الخاص بك الآن</string>
+    <string name="view_loan_decision">تعرّف على القرار المتخذ بشأن القرض التجاري</string>
+    <string name="application_status_changed">تم تغيير حالة الطلب الخاص بك.</string>
+    <string name="check_status">تعرّف على الحالة</string>
+    <string name="saved_offer">لديك عرض محفوظ</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">العرض صالح حتى %1$s.\n\nقم بتخصيص العرض الخاص بك وقبوله واحصل على التمويل في دقائق معدودة.</string>
+    <string name="review_application">نحن بصدد مراجعة طلبك</string>
+    <string name="review_application_description">سوف تتلقى رسالة إلكترونية بمجرد توصلنا إلى قرار بشأن قرضك التجاري.</string>
+    <string name="more_details">مزيد من التفاصيل</string>
+    <string name="pending_funding_primary_desc">قرضك التجاري في طريقه إليك.</string>
+    <string name="pending_funding_secondary_desc">يُرجى الاتصال بنا إذا لم يظهر في حسابك على PayPal خلال 24 ساعة.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">اكتمل %1$d</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d معلق</string>
+    <string name="make_payment_error_amount_gt_loan_due">أدخل مبلغاً يساوي أو يقل عن رصيد القرض.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">أدخل رقماً صحيحاً، بلا فواصل عشرية.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="working_capital_summary_load_fail">We\'re sorry, your account information didn\'t load.\nSwipe down to try again.</string>
+    <string name="ppwc_paid">REPAID</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Your %1$s loan has been paid in full.</string>
+    <string name="apply_again">Apply for a New Loan</string>
+    <string name="ppwc_info">Information</string>
+    <string name="outstanding_balance_title">Outstanding balance</string>
+    <string name="loan_fee">Fixed fee</string>
+    <string name="make_one_time_payment">Make a one-off repayment</string>
+    <string name="loan_activity">Loan activity</string>
+    <string name="loan_activity_empty">You\'ll find a summary here once your automatic repayments start</string>
+    <string name="loan_activity_v3_loan_reversal">Loan reversal</string>
+    <string name="loan_activity_v3_fee">Fixed fee</string>
+    <string name="loan_activity_v3_aggregated_payment">Automatic repayment summary</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Catch-up repayment</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Manual catch-up repayment</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Manual repayment</string>
+    <string name="loan_activity_fee">Fixed fee</string>
+    <string name="loan_activity_automated_catchup_payment">Automatic catch-up repayment</string>
+    <string name="loan_activity_automated_daily_payment">Automatic repayment</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Automatic catch-up repayment</string>
+    <string name="loan_activity_customer_initiated_payment">Manual repayment</string>
+    <string name="loan_activity_loan_reversal">Loan reversal</string>
+    <string name="loan_activity_aggregated_payment">Automatic repayment summary</string>
+    <string name="make_payment">Make a one-off repayment</string>
+    <string name="make_payment_description">Your repayment will be instantly deducted from your available PayPal balance</string>
+    <string name="choose_payment_amount">Choose a one-off repayment amount:</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Repay %1$s remaining balance</string>
+    <string name="pay_remaining_loan_balance_description">It can take up to 3 business days to process your final repayment. You can apply for a new loan after this time.</string>
+    <string name="enter_payment_amount">Enter repayment amount</string>
+    <string name="review_and_pay_description">Automatic repayments will continue as usual until your loan is paid in full.</string>
+    <string name="thank_you">Thank you</string>
+    <string name="made_payment_of" formatSpecifiers="amount">You\'ve made a %1$s repayment.</string>
+    <string name="make_payment_success_message">Your account will be updated as soon as the repayment has been processed.</string>
+    <string name="make_payment_error_insufficient_balance">There aren\'t enough funds in your PayPal balance to complete this payment</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Enter an amount equal to or less than your PayPal balance.</string>
+    <string name="working_capital">PayPal Working Capital</string>
+    <string name="general_error_message">Something seems to have gone wrong.</string>
+    <string name="ppwc_try_again">Please try again</string>
+    <string name="catch_up_info_intro">A catch-up balance accrues when you withdraw, transfer or spend the proceeds from your sales before automatic repayment occurs.</string>
+    <string name="catch_up_info_how_reduced_title">How do I reduce my catch-up balance\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">We\'ll deduct catch-up payments automatically when new funds become available in your PayPal balance until your catch-up balance has been reduced to $0.\n\nYou can also %1$s to reduce the balance immediately.</string>
+    <string name="make_manual_payment">make a one-off repayment</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">To avoid having a catch-up balance, make sure that you always maintain a PayPal balance greater than your daily automatic repayment.\n\nFor more information on catch-up payments, %1$s.</string>
+    <string name="please_see_faq">see our FAQs</string>
+    <string name="ppwc_discovery_message">NEW. View and manage your PayPal Working Capital loan</string>
+    <string name="apply_loan">Get a flexible loan to grow your business and manage your cash flow. \n \nApplication, approval and funding take just minutes.</string>
+    <string name="application_approved">Your application has been approved!</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">You can customise and accept your offer until %1$s.</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Your offer is valid until %1$s.\n\nCustomise and accept your offer, and receive funding in minutes.</string>
+    <string name="review_application_description">We\'ll email you as soon as we\'ve made a decision.</string>
+    <string name="pending_funding_secondary_desc">Call us if it doesn\'t appear in your PayPal account within 24 hours.</string>
+    <string name="make_payment_error_amount_gt_loan_due">Enter an amount less than or equal to your remaining loan balance.</string>
+</resources>

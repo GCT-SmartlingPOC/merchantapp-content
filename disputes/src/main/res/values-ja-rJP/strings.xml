@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s様が%2$sに対する異議を提出しました</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s様が%2$sに対する異議を終了しました</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">お客さまは%1$sの%2$sに対する異議をPayPalに転送されました。</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s様が%2$sに対する異議をPayPalに提出しました。</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s様が%2$sに対する異議のチャージバックを提出しました。</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">%1$sの%2$sに対する問題の解決を表示します。</string>
+    <string name="dispute_reason_item_not_received">商品未受領</string>
+    <string name="dispute_reason_item_not_as_described">商品が説明と異なる</string>
+    <string name="dispute_new_label">新機能</string>
+    <string name="dispute_chargeback_label">チャージバック</string>
+    <string name="dispute_awaiting_on_buyer_label">買い手の返答待ち</string>
+    <string name="dispute_awaiting_on_you_label">お客さまの対応待ち</string>
+    <string name="dispute_in_review_label">確認中</string>
+    <string name="dispute_resolved_label">解決済み</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">%1$sに返答しました。</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">%1$sに買い手が返答しました。</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">%1$sまでに返答してください。</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">買い手は%1$sまでに返答する必要があります。</string>
+    <string name="dispute_awaiting_buyers_response_action">買い手の返答待ちです。</string>
+    <string name="dispute_awaiting_resolution_action">問題の解決待ちです。</string>
+    <string name="dispute_card_title">異議</string>
+    <string name="dispute_respond_action">対応する</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$sの異議がお客さまからの応答を待機しています</string>
+    <string name="dispute_multiple_view_all">すべて表示</string>
+    <string name="dispute_view_details">詳細を表示</string>
+    <string name="dispute_details_title">異議</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">ケースID: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">最終更新日: %1$s</string>
+    <string name="dispute_customer_contact_title">顧客の連絡先</string>
+    <string name="dispute_tracking_information">追跡情報</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">番号: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">配送業者: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">売り手の取引ID</string>
+    <string name="dispute_last_comment_title">前回のコメント</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">顧客: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">お客さま: %1$s</string>
+    <string name="dispute_order_details_title">注文の詳細</string>
+    <string name="dispute_shipped_to_title">配送先</string>
+    <string name="dispute_message_buyer">買い手へのメッセージ</string>
+    <string name="dispute_provide_info_to_paypal">PayPalに情報を提供</string>
+    <string name="dispute_issue_refund">返金を実行</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">返答期限: %1$s</string>
+    <string name="dispute_claim_accepted_success">クレームが正常に承認されました。</string>
+    <string name="dispute_claim_accepted_error">現在クレームを処理することができません。</string>
+    <string name="dispute_esclated_success">クレームに変更しました。</string>
+    <string name="dispute_esclated_error">クレームに変更することができません。</string>
+    <string name="dispute_full_refund_success">申請が正常に行われました。</string>
+    <string name="dispute_full_refund_error">現在申請を行うことができません。</string>
+    <string name="dispute_provide_evidence_success">証拠資料が正常に提供されました。</string>
+    <string name="dispute_action_accept_claim">全額返金</string>
+    <string name="dispute_action_escalate_to_paypal">クレームに変更</string>
+    <string name="dispute_action_full_refund">全額返金を申し出る</string>
+    <string name="dispute_action_provide_evidence">証拠資料を提出</string>
+    <string name="dispute_actions_label">アクション</string>
+    <string name="dispute_conversation_title">メッセージ</string>
+    <string name="dispute_send_message">買い手へのメッセージ...</string>
+    <string name="dispute_conversation_you">お客さま</string>
+    <string name="dispute_hub_title">異議</string>
+    <string name="dispute_offer_refund_title">メッセージを送信</string>
+    <string name="dispute_offer_refund_send_message">顧客にメッセージを送る</string>
+    <string name="dispute_offer_refund_default_message">全額払い戻しをご提案させていただいています。受諾しますか\?</string>
+    <string name="dispute_offer_refund_ask_return">買い手に商品の返送を依頼します。</string>
+    <string name="dispute_offer_refund_missing_note">メモフィールドが必要です</string>
+    <string name="dispute_accept_claim_note_placeholder">こちらにメモを入力してください</string>
+    <string name="dispute_escalate_to_paypal_title">問題を説明する</string>
+    <string name="dispute_escalate_to_paypal_header_message">この取引に関する問題の詳しい説明を入力してください。</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">こちらに説明を入力してください</string>
+    <string name="dispute_escalate_to_paypal_missing_description">説明フィールドが必要です</string>
+    <string name="dispute_offer_refund_confirmation_title">入力した情報を確認する</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">%1$s様への全額返金が行われると、この問題は解決して終了となります。</string>
+    <string name="dispute_offer_refund_label_transaction_amount">取引金額</string>
+    <string name="dispute_offer_refund_label_transaction_id">取引ID</string>
+    <string name="dispute_offer_refund_label_your_message">メッセージ</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">全額返金を申し出る</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">確認されると、%1$sに全額返金が行われ、この問題は解決して終了となります。</string>
+    <string name="dispute_accept_claim_confirmation_button">返金</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">入力した情報を確認する</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer">買い手との合意に至らなかったため、お客さまはこのケースをPayPalにエスカレーションしています。\n\nこのケースが終了するまで、この取引額は保留させていただきます。</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">取引金額</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">取引ID</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">詳細説明</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">エスカレーション</string>
+    <string name="dispute_add_tracking_confirmation_message">追跡情報が正常に更新されました。</string>
+    <string name="dispute_add_tracking_confirmation_subtext">入力された情報が記載されたメールがお客さまの顧客に送信されます。</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">クレームに変更</string>
+    <string name="dispute_escalate_primer_preface">クレームに変更する前にいくつか理解しておくべき点があります</string>
+    <string name="dispute_escalate_primer_line_one">クレームが提出されると、買い手に直接連絡をとることはできなくなります。</string>
+    <string name="dispute_escalate_primer_line_two">売り手が提示した返金の未決済分はキャンセルされます。</string>
+    <string name="dispute_escalate_primer_line_three">お客さまのクレームの調査と最終決定には最長30日ほどかかります。</string>
+    <string name="dispute_escalate_primer_line_four">お客さまからご提出いただいた情報と、この取引についてお客さまと買い手がやりとりしたメッセージをお調べします。</string>
+    <string name="dispute_escalate_primer_line_five">調査においてお客さまからの情報がさらに必要な場合は、メールでご連絡させていただきます。</string>
+    <string name="dispute_escalate_primer_line_six">最終決定が行われると、このクレームは終了となります。</string>
+</resources>

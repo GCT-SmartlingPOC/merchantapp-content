@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">You\'ve passed %1$s\'s dispute for %2$s on to PayPal.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s escalated a dispute for %2$s to PayPal.</string>
+    <string name="dispute_reason_item_not_as_described">item significantly different to how it was described</string>
+    <string name="dispute_awaiting_on_buyer_label">AWAITING BUYER\'S RESPONSE</string>
+    <string name="dispute_awaiting_on_you_label">AWAITING YOUR RESPONSE</string>
+    <string name="dispute_in_review_label">Under review</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">The buyer responded on %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">The buyer must respond by %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">Awaiting the buyer\'s response.</string>
+    <string name="dispute_awaiting_resolution_action">Awaiting resolution.</string>
+    <string name="dispute_view_details">View details</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Last update: %1$s</string>
+    <string name="dispute_customer_contact_title">Customer contact</string>
+    <string name="dispute_tracking_information">Tracking information</string>
+    <string name="dispute_seller_transaction_id_title">Seller transaction ID</string>
+    <string name="dispute_last_comment_title">Last comment</string>
+    <string name="dispute_message_buyer">Message buyer</string>
+    <string name="dispute_provide_info_to_paypal">Provide information to PayPal</string>
+    <string name="dispute_issue_refund">Issue a refund</string>
+    <string name="dispute_claim_accepted_error">We\'re sorry, we\'re unable to process this claim right now.</string>
+    <string name="dispute_esclated_success">Escalated to PayPal.</string>
+    <string name="dispute_esclated_error">We\'re sorry, we\'re not able to escalate this right now.</string>
+    <string name="dispute_full_refund_error">We\'re sorry, an offer can\'t be made at the moment.</string>
+    <string name="dispute_action_accept_claim">Full refund</string>
+    <string name="dispute_action_full_refund">Offer full refund</string>
+    <string name="dispute_action_provide_evidence">Provide evidence</string>
+    <string name="dispute_send_message">Message buyer</string>
+    <string name="dispute_escalate_to_paypal_header_message">Enter a detailed description of the problem you\'re having with this transaction.</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Once the full refund to %1$s has been sent, this problem will be resolved and closed.</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">Once confirmed, a full refund will be sent to %1$s and this case will be resolved and closed.</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer">You\'re escalating this to PayPal as you were unable to reach an agreement with the buyer.\n\nWe\'ll place a hold on the transaction amount until this case is closed.</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Detailed description</string>
+    <string name="dispute_add_tracking_confirmation_message">You\'ve successfully updated your tracking information.</string>
+    <string name="dispute_escalate_primer_preface">Before you escalate this claim, there are some things you need to know</string>
+    <string name="dispute_escalate_primer_line_one">You\'ll no longer be able to communicate directly with the buyer once a claim has been opened.</string>
+    <string name="dispute_escalate_primer_line_four">We\'ll review the information you\'ve provided, along with the messages you and the buyer exchanged regarding this transaction.</string>
+    <string name="dispute_escalate_primer_line_six">Once we\'ve made a decision, it will be final and this claim will be closed.</string>
+</resources>

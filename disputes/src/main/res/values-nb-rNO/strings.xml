@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s åpnet en tvist for %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s avsluttet en tvist for %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">Du har levert %1$ss tvist om %2$s til PayPal.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s leverte en tvist for %2$s til PayPal.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s åpnet et krav om tilbakeføring i en tvist for %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">Se løsningen på %1$ss tvist om %2$s.</string>
+    <string name="dispute_reason_item_not_received">vare ikke mottatt</string>
+    <string name="dispute_reason_item_not_as_described">varen er ikke som beskrevet</string>
+    <string name="dispute_new_label">Nyhet</string>
+    <string name="dispute_chargeback_label">Tilbakeføring</string>
+    <string name="dispute_awaiting_on_buyer_label">Venter på kunden</string>
+    <string name="dispute_awaiting_on_you_label">Venter på deg</string>
+    <string name="dispute_in_review_label">GJENNOMGÅS</string>
+    <string name="dispute_resolved_label">Løst</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">Du har svart den %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">Kunden har svart den %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">Svar innen %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">Kunden må svare innen %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">Venter på svar fra kunden.</string>
+    <string name="dispute_awaiting_resolution_action">Venter på løsning.</string>
+    <string name="dispute_card_title">Tvister</string>
+    <string name="dispute_respond_action">Svar</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s tvister krever svar fra deg</string>
+    <string name="dispute_multiple_view_all">Se alle</string>
+    <string name="dispute_view_details">Se detaljer</string>
+    <string name="dispute_details_title">Tvist</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">Saksnummer:%1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Sist oppdatert: %1$s</string>
+    <string name="dispute_customer_contact_title">Kundekontakt</string>
+    <string name="dispute_tracking_information">Sporingsinformasjon</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">Nummer: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">Fraktselskap: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">Selgerens transaksjonsnummer</string>
+    <string name="dispute_last_comment_title">Siste kommentar</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">Kunde: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">Deg: %1$s</string>
+    <string name="dispute_order_details_title">Bestillingsdetaljer</string>
+    <string name="dispute_shipped_to_title">Sendt til</string>
+    <string name="dispute_message_buyer">Send melding til kunden</string>
+    <string name="dispute_provide_info_to_paypal">Oppgi informasjon til PayPal</string>
+    <string name="dispute_issue_refund">Utsted en refusjon</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">Svar innen: %1$s</string>
+    <string name="dispute_claim_accepted_success">Kravet ble godtatt.</string>
+    <string name="dispute_claim_accepted_error">Kan ikke behandle kravet nå.</string>
+    <string name="dispute_esclated_success">Eskalert til PayPal.</string>
+    <string name="dispute_esclated_error">Kan ikke eskalere til PayPal.</string>
+    <string name="dispute_full_refund_success">Tilbudet er gitt.</string>
+    <string name="dispute_full_refund_error">Kan ikke gi et tilbud for øyeblikket.</string>
+    <string name="dispute_provide_evidence_success">Bevis er sendt inn.</string>
+    <string name="dispute_action_accept_claim">Full refusjon</string>
+    <string name="dispute_action_escalate_to_paypal">Eskaler til PayPal</string>
+    <string name="dispute_action_full_refund">Tilby full refusjon</string>
+    <string name="dispute_action_provide_evidence">Fremlegg bevis</string>
+    <string name="dispute_actions_label">Handlinger</string>
+    <string name="dispute_conversation_title">Meldinger</string>
+    <string name="dispute_send_message">Send melding til kjøperen…</string>
+    <string name="dispute_conversation_you">DU</string>
+    <string name="dispute_hub_title">Tvister</string>
+    <string name="dispute_offer_refund_title">Send en melding</string>
+    <string name="dispute_offer_refund_send_message">Send en melding til kunden</string>
+    <string name="dispute_offer_refund_default_message">Jeg vil tilby deg en full refusjon. Vil du godta\?</string>
+    <string name="dispute_offer_refund_ask_return">Be kjøperen om å returnere varen.</string>
+    <string name="dispute_offer_refund_missing_note">Merknad-feltet er obligatorisk</string>
+    <string name="dispute_accept_claim_note_placeholder">Skriv inn merknaden din her</string>
+    <string name="dispute_escalate_to_paypal_title">Beskriv problemet</string>
+    <string name="dispute_escalate_to_paypal_header_message">Skriv en detaljert beskrivelse som forklarer problemet du har med denne transaksjonen.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">Skriv inn beskrivelsen her</string>
+    <string name="dispute_escalate_to_paypal_missing_description">Beskrivelse-feltet er obligatorisk</string>
+    <string name="dispute_offer_refund_confirmation_title">Se gjennom og bekreft</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Når refusjonen til %1$s er utstedt, anses denne saken som løst og avsluttet. </string>
+    <string name="dispute_offer_refund_label_transaction_amount">Transaksjonsbeløp</string>
+    <string name="dispute_offer_refund_label_transaction_id">Transaksjonsnummer</string>
+    <string name="dispute_offer_refund_label_your_message">Meldingen din</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">Tilby full refusjon</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">Når den bekreftes, blir en fullstendig refusjon sendt til %1$s og dette problemet blir løst og avsluttet.</string>
+    <string name="dispute_accept_claim_confirmation_button">Refusjon</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">Se gjennom og bekreft</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer"> Du eskalerer dette til PayPal fordi du ikke kunne bli enig med kjøperen om en løsning. \n\nVi har reservert transaksjonsbeløpet inntil denne saken er ferdigbehandlet.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">Transaksjonsbeløp</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">Transaksjonsnummer</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Detaljert beskrivelse</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">Eskaler</string>
+    <string name="dispute_add_tracking_confirmation_message">Sporingsinformasjonen din er oppdatert.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">Vi sender en e-post til kunden med informasjonen du har oppgitt.</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">Eskaler til PayPal</string>
+    <string name="dispute_escalate_primer_preface">Før du eskalerer, bør du vurdere følgende</string>
+    <string name="dispute_escalate_primer_line_one">Du vil ikke kunne kommunisere direkte med kjøperen når et krav har blitt åpnet.</string>
+    <string name="dispute_escalate_primer_line_two">Eventuelle ubesvarte refusjonstilbud fra selgeren annulleres.</string>
+    <string name="dispute_escalate_primer_line_three">Det kan ta opptil 30 dager for oss å gjennomgå kravet ditt og komme til en avgjørelse.</string>
+    <string name="dispute_escalate_primer_line_four">Vi gjennomgår informasjonen du har sendt oss, og meldingene du og kjøperen har sendt i sammenheng med denne transaksjonen.</string>
+    <string name="dispute_escalate_primer_line_five">Vi tar kontakt hvis vi trenger mer informasjon fra deg.</string>
+    <string name="dispute_escalate_primer_line_six">Når vi tar en avgjørelse, er den endelig, og dette kravet lukkes. </string>
+</resources>

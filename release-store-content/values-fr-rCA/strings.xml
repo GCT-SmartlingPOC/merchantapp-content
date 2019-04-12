@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business : envoyer des factures</string>
+    <string name="ios_subtitle">Gestion des ventes, des factures et des paiements</string>
+    <string name="ios_promotional_text">PayPal Business facilite la gestion de votre activité, la vérification de votre solde, l\'envoi des factures, la consultation des informations des clients et l\'analyse des tendances des ventes. N\'importe quand. N\'importe où.</string>
+    <string name="android_short_description">Gardez le contrôle de votre compte Business PayPal où que vous soyez.</string>
+    <string name="full_description_line_1">Pour les entreprises qui bougent ! Envoyez des factures, faites le suivi de vos ventes et gérez votre argent avec l\'application PayPal Business.</string>
+    <string name="full_description_line_2_bullet_1">o Préparez et envoyez des factures rapidement</string>
+    <string name="full_description_line_2_bullet_2">o Gérez les ventes et suivez l\'activité du compte</string>
+    <string name="full_description_line_2_bullet_3">o Virez de l’argent</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Jetez un coup d\'œil aux tendances des ventes mensuelles, trimestrielles et annuelles</string>
+    <string name="full_description_line_2_bullet_6">o Accédez rapidement et facilement aux informations de vos clients</string>
+    <string name="full_description_para_1_header">ENVOYER DES FACTURES ET RECEVOIR DES PAIEMENTS</string>
+    <string name="full_description_para_1_description">Préparez, envoyez et gérez vos factures rapidement dans l\'application PayPal Business. L\'outil de création de factures de PayPal facilite aussi l\'envoi de rappels de paiement à vos clients, directement depuis votre appareil mobile.</string>
+    <string name="full_description_para_2_header">GÉRER LES VENTES ET LES ACTIVITÉS DU COMPTE</string>
+    <string name="full_description_para_2_description">Consultez vos ventes quotidiennes et jetez un coup d\'œil aux ventes mensuelles, trimestrielles et annuelles de votre entreprise.</string>
+    <string name="full_description_para_3_header">ENVOYER DE L\'ARGENT</string>
+    <string name="full_description_para_3_description">Virez de l\'argent vers votre compte bancaire de marchand lié, effectuez des remboursements et envoyez de l\'argent en quelques clics. Économisez du temps en évitant les files d\'attente à la banque grâce à cette application mobile de gestion financière.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">ACCÉDER AUX INFORMATIONS DES CLIENTS</string>
+    <string name="full_description_para_5_description">Consultez l\'historique des transactions et les coordonnées de vos clients, et communiquez avec eux directement à partir de votre appareil mobile. Vous pouvez aussi importer facilement vos contacts !</string>
+    <string name="full_description_para_footer_1">L\'application PayPal Business offre à votre petite entreprise un moyen rapide et simple de créer et d\'envoyer des factures, d\'accepter des paiements et de gérer votre argent directement sur votre téléphone.</string>
+    <string name="full_description_para_footer_2">Vous devez accepter les cartes de crédit et de débit sur un appareil mobile \? Essayez l\'application mobile PayPal Here !</string>
+    <string name="ios_keywords">envoyer, argent, recevoir, paiement, banque, virement, ventes, client, facture, gratuit, payer</string>
+    <string name="ios_release_notes_1">Nous vous remercions d\'utiliser PayPal ! Nous avons corrigé des bogues et des plantages pour améliorer votre expérience quotidienne.</string>
+    <string name="ios_release_notes_2">Nous avons corrigé des bogues et des plantages dans cette mise à jour, ce qui facilitera la gestion de votre entreprise. Nous espérons que vous apprécierez l\'application.</string>
+    <string name="ios_release_notes_3">Nous essayons d\'améliorer votre expérience ainsi que de faciliter et d\'accélérer la gestion de votre entreprise et la création de factures avec chaque mise à jour. Nous vous remercions d\'utiliser PayPal ! </string>
+    <string name="ios_release_notes_4">Dans cette mise à jour, nous avons apporté des améliorations et des corrections afin qu\'il vous soit plus facile de gérer votre entreprise et votre compte PayPal. Profitez de l\'application PayPal Business !</string>
+    <string name="ios_release_notes_5">Dans cette version, nous avons corrigé des bogues et des messages d\'erreur afin d\'améliorer votre expérience lors de l\'envoi d\'une facture. Nous vous remercions d\'utiliser PayPal ! </string>
+    <string name="android_release_notes_line_1">Améliorations et corrections de produits</string>
+</resources>

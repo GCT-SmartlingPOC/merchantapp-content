@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_invoice_customer_hint">Email or name</string>
+    <string name="item_name">Item name</string>
+    <string name="request_contacts_permission_rationale">We need your permission to access your contacts.</string>
+    <string name="item_name_prompt">Enter name of item or service to continue</string>
+    <string name="label_invoice_total_due">Total due</string>
+    <string name="template_change_alert">If you change template, your information will be lost.</string>
+    <string name="choose_template">Choose template</string>
+    <string name="net10">10 days</string>
+    <string name="net60">60 days</string>
+    <string name="net90">90 days</string>
+    <string name="noPayTerms">No set term</string>
+    <string name="net15">15 days</string>
+    <string name="net30">30 days</string>
+    <string name="net45">45 days</string>
+    <string name="edit_item">Edit item</string>
+    <string name="label_note_to_self">Add a Memo to Yourself</string>
+    <string name="due_net_10">In 10 days</string>
+    <string name="due_net_15">In 15 days</string>
+    <string name="due_net_30">In 30 days</string>
+    <string name="due_net_45">In 45 days</string>
+    <string name="due_net_60">In 60 days</string>
+    <string name="due_net_90">In 90 days</string>
+    <string name="attachment_name_entry">Name this photo</string>
+    <string name="saving_attachment">Saving attachment…</string>
+    <string name="please_allow_access" formatSpecifiers="source">Allow %1$s Access</string>
+    <string name="photos_access_reason" formatSpecifiers="source">To add photos, you\'ll need to allow access to your device\'s %1$s.</string>
+    <string name="camera_usage_description">To attach photos, you\'ll need to allow access to your device\'s camera.</string>
+    <string name="photo_library_usage_description">To attach photos, you\'ll need to allow access to your device\'s photo library.</string>
+    <string name="title_tax_rate">Tax rate</string>
+    <string name="invoice_paid_empty_message">Check back soon to see your invoices change from unpaid to paid!</string>
+    <string name="label_invoice_summary_item_discounts">Item discounts</string>
+    <string name="all_customers">All customers</string>
+    <string name="enter_email_name_mobile">Enter email, name or mobile number</string>
+    <string name="label_invoice_allow_tip">Allow tips</string>
+    <string name="invoice_sent_to_customer" formatSpecifiers="customerName">Your invoice has been sent to %1$s.</string>
+    <string name="email_address_required">Email</string>
+    <string name="check">Cheque</string>
+    <string name="type_recurring">Recurring payment</string>
+    <string name="status_canceled">Cancelled</string>
+    <string name="min_amount_due">Minimum amount due</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+    <string name="select_billing_Address">Tap billing address</string>
+    <string name="add_note_to_customer">Add a note to your customer</string>
+    <string name="invoice_min_amount">Please check the invoice total and try again.</string>
+    <string name="save_invoice_failed">We\'re sorry. We were unable to save your invoice. Please try again.</string>
+    <string name="send_invoice_failed">We\'re sorry. We were unable to send your invoice. Please try again.</string>
+    <string name="send_reminder_failed">We\'re sorry. We were unable to send your reminder. Please try again.</string>
+    <string name="select_pay_method_prompt">Tap a payment method.</string>
+    <string name="description_hint">Enter a detailed item or service description.</string>
+    <string name="address_line2">Address line 2</string>
+    <string name="city">Suburb</string>
+    <string name="state">State/Territory</string>
+    <string name="postal_code">Postcode</string>
+    <string name="contacts_never_ask_again">Go to your Settings to grant this permission.</string>
+    <string name="label_invoice_item_quantity">%1$sx%2$s</string>
+    <string name="item_quantity_prompt">Please enter a quantity and try again.</string>
+    <string name="invalid_address_line1">Required</string>
+    <string name="invalid_address_city">Required</string>
+    <string name="invalid_address_state">Required</string>
+    <string name="error_invoice_number_in_use">You\'ve already used this invoice number. Please try something different.</string>
+    <string name="error_invoice_merchant_restricted">We\'re sorry. Your account is currently limited. Please contact us for help.</string>
+    <string name="specify_non_zero">Please enter an amount.</string>
+    <string name="error_negative_invoice_with_items">Your invoice total must be greater than 0</string>
+    <string name="share_link_warning">As invoices contain your customers\' personal information, never share an invoice link in a public forum.</string>
+    <string name="reminder_sent">Reminder Sent</string>
+    <string name="sending_cancellation_failed">We\'re sorry. We were unable to send that cancellation. Please try again.</string>
+    <string name="request_contacts_access_title">PayPal Business would like to access your contacts.</string>
+    <string name="request_contacts_access_message">Add your mobile contacts to invoice clients more quickly.</string>
+    <string name="select_template_to_use">Tap a template</string>
+    <string name="select_template_helptext">You can change this at any time in your Profile and Settings.</string>
+    <string name="cancel_invoice_subject" formatSpecifiers="invoiceNumber">Invoice %1$s has been cancelled</string>
+    <string name="invoice_number_with_number" formatSpecifiers="number">Invoice number %1$s</string>
+    <string name="changes_not_saved">Your changes will not be saved. </string>
+    <string name="invoice_num_params" formatSpecifiers="invoice_number">Invoice number %1$s</string>
+    <string name="invalid_attachment">We\'re sorry. We couldn\'t open that attachment.</string>
+    <string name="reference_hint">You can include a reference, like a purchase order number, here.</string>
+    <string name="invoice_email_subject" formatSpecifiers="invoiceId">Re: Invoice number%1$s</string>
+    <string name="save_catalog_item_fail">We\'re sorry. We were unable to save that item. Please try again.</string>
+    <string name="delete_catalog_item_fail">We\'re sorry. We were unable to delete that item. Please try again.</string>
+    <string name="duplicate_catalog_item">You\'ve already entered an item with that name and currency.</string>
+    <string name="invoice_canceled_sent_to_customer" formatSpecifiers="customerEmail">Your invoice to %1$s has been cancelled</string>
+    <string name="send_reminder_subject">Reminder: An invoice payment is due</string>
+    <string name="invoice_draft_empty_message">Draft new invoices and finish them later.</string>
+    <string name="invoice_unpaid_empty_message">Unpaid invoices will appear here. You can tap on an invoice to edit it or follow up with a customer.</string>
+    <string name="accessibility_discount_percent_off">Percentage off</string>
+    <string name="save_tax_fail">We\'re sorry. We were unable to save that tax. Please try again.</string>
+    <string name="msg_error_loading_invoices">We\'re sorry. We were unable to load your invoices. Please try again.</string>
+    <string name="error_loading_catalog">Error loading catalogue</string>
+    <string name="unconfirmed_email">Unconfirmed email</string>
+    <string name="unconfirmed_email_invoicing">You need to confirm your email before you can send invoices. Please check your inbox for the confirmation email or log in to PayPal from your computer to resend the email.</string>
+    <string name="invoice_send_date_warning" formatSpecifiers="date">Invoice date set to \n%1$s.\nTapping Send will deliver the invoice to the customer immediately</string>
+    <string name="invoice_invalid_percent_input">Invalid value. Percentage can\'t be greater than 99.999.</string>
+    <string name="invoicing_cross_border_inr">Cross-border transactions can\'t be in INR.</string>
+    <string name="send_copy_to_self">Email yourself a copy</string>
+    <string name="customer_note">Note to customer</string>
+    <string name="special_instructions">Special instructions</string>
+    <string name="invalid_email">That doesn\'t look quite right.</string>
+    <string name="customer">Customer Information</string>
+    <string name="invalid_to_email_address_message">That doesn\'t look quite right.</string>
+    <string name="enter_valid_To_email_address">Required</string>
+    <string name="invalid_cc_email_address">Please check the email in CC and try again.</string>
+    <string name="sending_reminder">Sending reminder…</string>
+    <string name="title_business_name">Business name</string>
+    <string name="title_item_date">Item date</string>
+    <string name="terms_hint">This could be your return or cancellation policy, for example.</string>
+    <string name="memo_hint">You can write a memo to yourself here. Don\'t worry, your customer won\'t see it.</string>
+    <string name="no_results_customers">Your customers will display here.</string>
+    <string name="enter_payment_date_prompt">Enter a payment date.</string>
+    <string name="contact_missing_field" formatSpecifiers="field">The address from your contact is missing the: %1$s. Please add it.</string>
+</resources>

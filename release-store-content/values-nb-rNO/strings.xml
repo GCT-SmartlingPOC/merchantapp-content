@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal-bedriftskonto: send fakturaer</string>
+    <string name="ios_subtitle">Administrer salg, fakturaer og penger</string>
+    <string name="ios_promotional_text">Med PayPal Business er det enkelt å administrere aktiviteten din, kontrollere saldoen din, sende fakturaer, se kundeinformasjon og analysere salgstrender. Når som helst. Hvor som helst.</string>
+    <string name="android_short_description">Ha full oversikt over PayPal-bedriftskontoen din mens du er på farten.</string>
+    <string name="full_description_line_1">For bedrifter på farten. Send fakturaer, hold oversikten over salg og administrer pengene dine med PayPal Business-appen.</string>
+    <string name="full_description_line_2_bullet_1">o Skriv ut og send fakturaer på en rask måte</string>
+    <string name="full_description_line_2_bullet_2">o Administrer salg og følg med på kontoaktivitet</string>
+    <string name="full_description_line_2_bullet_3">o Overfør penger</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Se månedlige, kvartalsmessige og årlige salgstrender</string>
+    <string name="full_description_line_2_bullet_6">o Få tilgang til kundeinformasjon på en rask og enkel måte</string>
+    <string name="full_description_para_1_header">SEND FAKTURAER OG FÅ BETALT</string>
+    <string name="full_description_para_1_description">Opprett, send og administrer fakturaer på en rask måte via PayPal Business-appen. Med PayPals fakturaverktøy er det også enkelt å sende betalingspåminnelser til kunder direkte fra mobilenheten din.</string>
+    <string name="full_description_para_2_header">ADMINISTRER SALG OG KONTOAKTIVITET</string>
+    <string name="full_description_para_2_description">Se daglige salg, og se bedriftens månedlige, kvartalsmessige og årlige salg på en enkel måte.</string>
+    <string name="full_description_para_3_header">OVERFØR PENGER</string>
+    <string name="full_description_para_3_description">Overfør penger til den tilknyttede bankkontoen, utsted refusjoner og overfør penger med noen få klikk. Spar tid ved å administrere pengene dine via denne hendige appen.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">TILGANG TIL KUNDEINFORMASJON</string>
+    <string name="full_description_para_5_description">Se kundetransaksjonshistorikk, kontaktinformasjon og kontakt kundene dine direkte fra mobilenheten din. Det er enkelt å importere kontaktene dine.</string>
+    <string name="full_description_para_footer_1">Med PayPal Business-appen får bedriften din en rask og enkel løsning for oppretting og sending av fakturaer, mottak av betalinger og administrasjon av pengene dine direkte fra telefonen.</string>
+    <string name="full_description_para_footer_2">Trenger du å godta kortbetalinger via mobilenheten\? Prøv PayPal Here-mobilappen.</string>
+    <string name="ios_keywords">overfør penger, motta betalinger, betaling, bank, overføring, salg, innsikt, kunde, fakturaoppretter, faktura, gratis, betal</string>
+    <string name="ios_release_notes_1">Takk for at du bruker PayPal Business. Vi har rettet opp i feil og krasj for å gjøre den generelle brukeropplevelsen bedre.</string>
+    <string name="ios_release_notes_2">Administrasjon av bedriften blir enda enklere. Vi har rettet opp i feil og krasj i denne oppdateringen. Vi håper du liker appen.</string>
+    <string name="ios_release_notes_3">Med hver oppdatering forbedrer vi opplevelsen din og gjør det enklere og raskere å administrere bedriften din og opprette fakturaer. Takk for at du bruker PayPal Business. </string>
+    <string name="ios_release_notes_4">I denne oppdateringen finner du forbedringer og feilrettinger som gjør det enklere å administrere bedriften og PayPal-kontoen din. Vi håper du liker PayPal Business-appen.</string>
+    <string name="ios_release_notes_5">I denne versjonen har vi rettet opp feil og feilmeldinger for å forbedre brukeropplevelsen for sending av fakturaer. Takk for at du bruker PayPal Business. </string>
+    <string name="android_release_notes_line_1">Produktforbedringer og feilrettinger</string>
+</resources>

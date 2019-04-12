@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">Maksettu tähän mennessä</string>
+    <string name="outstanding_balance">Velkasaldo</string>
+    <string name="working_capital_summary_load_fail">Tilitietojasi ei ole saatavilla.\nYritä uudelleen pyyhkäisemällä alaspäin.</string>
+    <string name="ppwc_paid">MAKSETTU</string>
+    <string name="view_loan_details">Näytä lainan tiedot</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Ottamasi yrityslaina (%1$s) on maksettu kokonaan.</string>
+    <string name="apply_again">Jätä uusi hakemus</string>
+    <string name="ppwc_info">Tiedot</string>
+    <string name="outstanding_balance_title">Velkasaldo</string>
+    <string name="loan_details">Lainan tiedot</string>
+    <string name="initial_loan_amount">Alkuperäinen lainan määrä</string>
+    <string name="loan_fee">Lainan palkkio</string>
+    <string name="repayment_percentage">Takaisinmaksuprosentti</string>
+    <string name="view_loan_activity">Näytä lainan tapahtumat</string>
+    <string name="make_one_time_payment">Maksa kertamaksu</string>
+    <string name="catch_up_balance">Tasoitussaldo</string>
+    <string name="loan_activity">Lainatapahtumat</string>
+    <string name="loan_activity_empty">Löydät yhteenvedon tästä, kun automaattiset takaisinmaksut alkavat</string>
+    <string name="ppwc_completed">Valmis</string>
+    <string name="ppwc_pending">Odottava</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Lainan siirto</string>
+    <string name="loan_activity_v3_loan_reversal">Lainan palautus</string>
+    <string name="loan_activity_v3_fee">Lainan palkkio</string>
+    <string name="loan_activity_v3_aggregated_payment">Automaattisten maksujen yhteenveto</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Tasoitusmaksu</string>
+    <string name="loan_activity_v3_automated_daily_payment">Myyntiperusteinen takaisinmaksu</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Kertatasoitusmaksu</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Kertamaksu</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Lainan palkkion palautus</string>
+    <string name="loan_activity_v3_payment_reversal">Maksun palautus</string>
+    <string name="loan_activity_v3_loan_adjustment">Lainan oikaisu</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Lainan palkkion oikaisu</string>
+    <string name="loan_activity_v3_payment_adjustment">Maksun oikaisu</string>
+    <string name="loan_activity_v3_other_payment">Muu maksu</string>
+    <string name="loan_activity_loan_transfer">Lainan siirto</string>
+    <string name="loan_activity_fee">Lainan palkkio</string>
+    <string name="loan_activity_automated_catchup_payment">Automatisoitu tasoitusmaksu</string>
+    <string name="loan_activity_automated_daily_payment">Automatisoitu takaisinmaksu</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Kertatasoitusmaksu</string>
+    <string name="loan_activity_customer_initiated_payment">Kertamaksu</string>
+    <string name="loan_activity_loan_reversal">Lainan palautus</string>
+    <string name="loan_activity_loan_fee_reversal">Lainan palkkion palautus</string>
+    <string name="loan_activity_payment_reversal">Maksun palautus</string>
+    <string name="loan_activity_loan_adjustment">Lainan oikaisu</string>
+    <string name="loan_activity_loan_fee_adjustment">Lainan palkkion oikaisu</string>
+    <string name="loan_activity_payment_adjustment">Maksun oikaisu</string>
+    <string name="loan_activity_other_payment">Muu maksu</string>
+    <string name="loan_activity_aggregated_payment">Automaattisten maksujen yhteenveto</string>
+    <string name="make_payment">Maksa</string>
+    <string name="make_payment_description">Maksu vähennetään välittömästi tällä hetkellä käytettävissä olevasta PayPal-saldostasi</string>
+    <string name="choose_payment_amount">Valitse maksun summa:</string>
+    <string name="pay_specific_amount">Maksa tietty summa</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Maksa %1$s jäljellä oleva lainasaldo</string>
+    <string name="pay_remaining_loan_balance_description">Viimeisen maksun käsittely voi kestää enintään kolme arkipäivää. Tämän jälkeen voit hakea uutta lainaa.</string>
+    <string name="ppwc_continue">Jatka</string>
+    <string name="enter_payment_amount">Anna maksun summa</string>
+    <string name="current_loan_balance">Tämänhetkinen lainasaldo:</string>
+    <string name="available_paypal_balance">Käytettävissä oleva PayPal-saldo:</string>
+    <string name="review_and_pay">Tarkista ja maksa</string>
+    <string name="ppwc_amount">Summa</string>
+    <string name="ppwc_pay">Maksa</string>
+    <string name="ppwc_payment_method">Maksutapa</string>
+    <string name="ppwc_payment_date">Maksun päivämäärä</string>
+    <string name="review_and_pay_description">Myynneistäsi veloitetaan automaattisia takaisinmaksuja mahdollisesta kertamaksusta huolimatta, kunnes laina on kokonaan maksettu.</string>
+    <string name="thank_you">Kiitos!</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Maksoit %1$s</string>
+    <string name="make_payment_success_message">Tiliäsi päivitetään heti, kun maksu on käsitelty.</string>
+    <string name="ppwc_done">Valmis</string>
+    <string name="make_payment_error_insufficient_balance">PayPal-saldosi ei riitä tähän maksuun</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Anna summa, joka on enintään PayPal-saldosi suuruinen.</string>
+    <string name="working_capital">Working Capital</string>
+    <string name="general_error_title">Yritetään uudelleen</string>
+    <string name="general_error_message">Jokin meni pieleen tässä päässä.</string>
+    <string name="ppwc_try_again">Yritä uudelleen</string>
+    <string name="catch_up_info_intro">Tasoitussaldoa kerääntyy, kun nostat, siirrät tai käytät myyntituottoja ennen automatisoitua takaisinmaksua.</string>
+    <string name="catch_up_info_how_reduced_title">Miten tasoitussaldoa voi vähentää\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">Veloitamme tasoitusmaksut automaattisesti, kun PayPal-saldossa on saatavilla olevia varoja, kunnes tasoitussaldo on kokonaan maksettu.\n\nVoit myös %1$s, jos haluat vähentää saldoa välittömästi.</string>
+    <string name="make_manual_payment">maksaa kertamaksun</string>
+    <string name="catch_up_info_how_avoid_title">Miten voin välttää tasoitussaldon\?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Voit välttää tasoitussaldon helposti varmistamalla, että PayPal-saldosi on aina suurempi kuin päivittäinen automatisoitu takaisinmaksusi.\n\nSaat lisätietoja tasoitusmaksuista %1$s.</string>
+    <string name="please_see_faq">katsomalla usein kysytyt kysymyksemme</string>
+    <string name="ppwc_discovery_message">UUTTA! Tarkastele ja hallitse PayPal Working Capital ‑lainaasi</string>
+    <string name="last_x_days" formatSpecifiers="number">VIIMEISET %1$s PÄIVÄÄ</string>
+    <string name="apply_loan">Hae kilpailukykyistä yrityslainaa ilman luottotarkistusta tai henkilötakausta.\n\nHakemuksen täyttö ja rahoituksen saaminen vie vain muutaman minuutin.</string>
+    <string name="learn_how_label">Miten se toimii\?</string>
+    <string name="application_approved">Hakemuksesi on hyväksytty!</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Voit muokata tarjousta ja hyväksyä sen %1$s asti.</string>
+    <string name="review_offer">Tarkista tarjous nyt</string>
+    <string name="view_loan_decision">Näytä yrityslainapäätös</string>
+    <string name="application_status_changed">Hakemuksesi tila on muuttunut.</string>
+    <string name="check_status">Tarkista tila</string>
+    <string name="saved_offer">Sinulla on tallennettu tarjous</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Tarjous on voimassa %1$s asti.\n\nMukauta ja hyväksy tarjous ja hanki rahoitusta muutamassa minuutissa.</string>
+    <string name="review_application">Tarkistamme hakemustasi</string>
+    <string name="review_application_description">Saat sähköpostia heti, kun olemme tehneet yrityslainapäätöksen.</string>
+    <string name="more_details">Lisätietoja</string>
+    <string name="pending_funding_primary_desc">Yrityslainasi on tulossa.</string>
+    <string name="pending_funding_secondary_desc">Soita meille, jos se ei näy PayPal-tililläsi 24 tunnin sisällä.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d valmis</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d odottaa</string>
+    <string name="make_payment_error_amount_gt_loan_due">Anna summa, joka on enintään lainasaldosi suuruinen.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Anna kokonaisluku ilman desimaaleja.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

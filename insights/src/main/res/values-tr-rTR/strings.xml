@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Sales Insights</string>
+    <string name="month">Month</string>
+    <string name="quarter">Quarter</string>
+    <string name="year">Year</string>
+    <string name="year_to_date">Year to date</string>
+    <string name="title_sales_month">Sales this month</string>
+    <string name="title_this_month">This month</string>
+    <string name="ytd">YTD</string>
+    <string name="compare_last_year">Compare to Previous Year</string>
+    <string name="best_month">BEST MONTH</string>
+    <string name="worst_month">WORST MONTH</string>
+    <string name="best_week">BEST WEEK</string>
+    <string name="worst_week">WORST WEEK</string>
+    <string name="avg_order_value">AVG. ORDER VALUE</string>
+    <string name="transactions">TRANSACTIONS</string>
+    <string name="last_year_sales" formatSpecifiers="amount">PREVIOUS YEAR: %1$s</string>
+    <string name="year_to_date_sales">YEAR TO DATE SALES</string>
+    <string name="total_sales">TOTAL SALES</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s SALES</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">Q</string>
+    <string name="data_unavailable_swipe_again">Data unavailable. Please swipe again.</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: Invia fatture pro-forma</string>
+    <string name="ios_subtitle">Gestisci le vendite, le fatture pro-forma e il denaro</string>
+    <string name="ios_promotional_text">PayPal Business rende facile gestire la tua attività, controllare il tuo saldo, inviare fatture pro-forma, visualizzare i dati del cliente e analizzare le tendenze di vendita. In qualsiasi momento. Ovunque ti trovi.</string>
+    <string name="android_short_description">Tieni sotto controllo il tuo conto PayPal Business mentre sei in movimento.</string>
+    <string name="full_description_line_1">Per aziende in movimento! Invia fatture pro-forma, registra le vendite e gestisci il tuo denaro con l\'app PayPal Business.</string>
+    <string name="full_description_line_2_bullet_1">o Crea e invia fatture pro-forma in modo rapido</string>
+    <string name="full_description_line_2_bullet_2">o Gestisci le vendite e traccia le attività del tuo conto.</string>
+    <string name="full_description_line_2_bullet_3">o Trasferisci denaro</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Segui da vicino le tendenze di vendita mensili, trimestrali e annuali</string>
+    <string name="full_description_line_2_bullet_6">o Accedi ai dati relativi ai tuoi clienti in modo rapido e semplice</string>
+    <string name="full_description_para_1_header">INVIA FATTURE PRO-FORMA E RICEVI PAGAMENTI</string>
+    <string name="full_description_para_1_description">Crea, invia e gestisci le fatture pro-forma in modo veloce con l\'app PayPal Business. Creare fatture con PayPal facilita anche l\'invio di promemoria di pagamento al cliente direttamente dal tuo cellulare.</string>
+    <string name="full_description_para_2_header">GESTISCI LE VENDITE E L’ATTIVITÀ DEL CONTO</string>
+    <string name="full_description_para_2_description">Visualizza le tue vendite giornaliere e segui le tendenze di vendita mensili, trimestrali e annuali in un unico posto.</string>
+    <string name="full_description_para_3_header">TRASFERISCI DENARO</string>
+    <string name="full_description_para_3_description">Trasferisci denaro sul tuo conto bancario aziendale collegato, emetti rimborsi e invia denaro in pochi clic. Risparmia tempo saltando le code in banca con questa app di gestione pagamenti per dispositivi mobili.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">ACCEDI ALLE INFORMAZIONI DEL CLIENTE</string>
+    <string name="full_description_para_5_description">Vedi le informazioni di contatto e la cronologia di acquisto dei tuoi clienti. Mettiti in contatto con loro direttamente dal tuo dispositivo mobile. Anche importare i tuoi contatti è semplice.</string>
+    <string name="full_description_para_footer_1">L\'app PayPal Business offre alla tua piccola impresa un modo semplice e veloce per predisporre e inviare fatture pro-forma, ricevere pagamenti e gestire il tuo denaro direttamente dal tuo telefono.</string>
+    <string name="full_description_para_footer_2">Hai bisogno di accettare carte di credito o di debito su un dispositivo mobile\? Prova l\'app mobile PayPal Here.</string>
+    <string name="ios_keywords">invia denaro,ricevi pagamenti,pagamento,banca,trasferimento,vendite,dettagli,cliente,produttore fattura pro-forma,fattura,gratuito,paga</string>
+    <string name="ios_release_notes_1">Grazie per aver scelto PayPal Business. Abbiamo risolto i bug e gli arresti anomali per migliorare la tua esperienza.</string>
+    <string name="ios_release_notes_2">In questa versione, abbiamo risolto i bug e gli arresti anomali, così potrai gestire la tua azienda in modo ancora più semplice. Speriamo che l’app ti piaccia!</string>
+    <string name="ios_release_notes_3">Con ogni nuova versione, cerchiamo di migliorare la tua esperienza permettendoti di gestire la tua azienda e inviare fatture pro-forma in modo ancora più semplice e rapido. Grazie per aver scelto PayPal Business. </string>
+    <string name="ios_release_notes_4">In questa versione, abbiamo risolto i bug e migliorato le funzionalità che rendono più semplice la gestione della tua azienda e del tuo conto PayPal. Buon utilizzo dell\'app PayPal Business!</string>
+    <string name="ios_release_notes_5">In questa versione, abbiamo risolto i bug e i messaggi d\'errore per migliorare la tua esperienza con l\'invio delle fatture pro-forma. Grazie per avere scelto l\'app PayPal Business!</string>
+    <string name="android_release_notes_line_1">Correzioni e aggiornamenti del prodotto</string>
+</resources>

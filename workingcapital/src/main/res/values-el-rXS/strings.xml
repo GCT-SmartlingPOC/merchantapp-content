@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">Κεφάλαιο Κίνησης PayPal</string>
+    <string name="paid_to_date">Ποσό εξόφλησης έως σήμερα</string>
+    <string name="outstanding_balance">Εκκρεμές υπόλοιπο</string>
+    <string name="working_capital_summary_load_fail">Τα στοιχεία του λογαριασμού σας δεν είναι διαθέσιμα.\nΣαρώστε προς τα κάτω για να δοκιμάσετε ξανά.</string>
+    <string name="ppwc_paid">ΠΛΗΡΩΘΗΚΕ</string>
+    <string name="view_loan_details">Προβολή στοιχείων δανείου</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Το επιχειρηματικό σας δάνειο ύψους %1$s έχει αποπληρωθεί πλήρως.</string>
+    <string name="apply_again">Επανάληψη αίτησης</string>
+    <string name="ppwc_info">Πληροφορίες</string>
+    <string name="outstanding_balance_title">Εκκρεμές υπόλοιπο</string>
+    <string name="loan_details">Λεπτομέρειες δανείου</string>
+    <string name="initial_loan_amount">Αρχικό ποσό δανείου</string>
+    <string name="loan_fee">Χρέωση δανείου</string>
+    <string name="repayment_percentage">Ποσοστό αποπληρωμής</string>
+    <string name="view_loan_activity">Προβολή δραστηριότητας δανείου</string>
+    <string name="make_one_time_payment">Εκτέλεση μεμονωμένης πληρωμής</string>
+    <string name="catch_up_balance">Καθυστερημένο υπόλοιπο</string>
+    <string name="loan_activity">Δραστηριότητα δανείου</string>
+    <string name="loan_activity_empty">Θα βρείτε μια σύνοψη εδώ μόλις ξεκινήσουν οι αυτόματες αποπληρωμές σας</string>
+    <string name="ppwc_completed">Ολοκληρώθηκε</string>
+    <string name="ppwc_pending">Σε εκκρεμότητα</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Μεταφορά δανείου</string>
+    <string name="loan_activity_v3_loan_reversal">Αντιστροφή πληρωμής δανείου</string>
+    <string name="loan_activity_v3_fee">Χρέωση δανείου</string>
+    <string name="loan_activity_v3_aggregated_payment">Σύνοψη αυτόματης αποπληρωμής</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Καθυστερημένη πληρωμή</string>
+    <string name="loan_activity_v3_automated_daily_payment">Αποπληρωμή βάσει πωλήσεων</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Μη αυτόματη καθυστερημένη πληρωμή</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Μη αυτόματη πληρωμή</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Αντιστροφή χρέωσης δανείου</string>
+    <string name="loan_activity_v3_payment_reversal">Ακύρωση πληρωμής</string>
+    <string name="loan_activity_v3_loan_adjustment">Προσαρμογή δανείου</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Προσαρμογή χρέωσης δανείου</string>
+    <string name="loan_activity_v3_payment_adjustment">Προσαρμογή πληρωμής</string>
+    <string name="loan_activity_v3_other_payment">Άλλη πληρωμή</string>
+    <string name="loan_activity_loan_transfer">Μεταφορά δανείου</string>
+    <string name="loan_activity_fee">Χρέωση δανείου</string>
+    <string name="loan_activity_automated_catchup_payment">Αυτόματη καθυστερημένη πληρωμή</string>
+    <string name="loan_activity_automated_daily_payment">Αυτόματη αποπληρωμή</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Μη αυτόματη καθυστερημένη πληρωμή</string>
+    <string name="loan_activity_customer_initiated_payment">Μη αυτόματη πληρωμή</string>
+    <string name="loan_activity_loan_reversal">Αντιστροφή πληρωμής δανείου</string>
+    <string name="loan_activity_loan_fee_reversal">Αντιστροφή χρέωσης δανείου</string>
+    <string name="loan_activity_payment_reversal">Αντιστροφή πληρωμής</string>
+    <string name="loan_activity_loan_adjustment">Προσαρμογή δανείου</string>
+    <string name="loan_activity_loan_fee_adjustment">Προσαρμογή χρέωσης δανείου</string>
+    <string name="loan_activity_payment_adjustment">Προσαρμογή πληρωμής</string>
+    <string name="loan_activity_other_payment">Άλλη πληρωμή</string>
+    <string name="loan_activity_aggregated_payment">Σύνοψη αυτόματης αποπληρωμής</string>
+    <string name="make_payment">Εκτέλεση πληρωμής</string>
+    <string name="make_payment_description">Η πληρωμή σας αφαιρείται απευθείας από το τρέχον διαθέσιμο υπόλοιπο PayPal</string>
+    <string name="choose_payment_amount">Επιλογή ποσού πληρωμής:</string>
+    <string name="pay_specific_amount">Πληρωμή συγκεκριμένου ποσού</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Πληρώστε το εναπομένον υπόλοιπο δανείου %1$s</string>
+    <string name="pay_remaining_loan_balance_description">Μπορεί να χρειαστούν έως και 3 εργάσιμες ημέρες έως ότου διεκπεραιωθεί η τελική πληρωμή. Μπορείτε να υποβάλετε ξανά αίτηση για άλλο δάνειο αργότερα.</string>
+    <string name="ppwc_continue">Συνέχεια</string>
+    <string name="enter_payment_amount">Εισαγωγή ποσού πληρωμής</string>
+    <string name="current_loan_balance">Τρέχον υπόλοιπο δανείου:</string>
+    <string name="available_paypal_balance">Διαθέσιμο υπόλοιπο PayPal:</string>
+    <string name="review_and_pay">Έλεγχος και πληρωμή</string>
+    <string name="ppwc_amount">Ποσό</string>
+    <string name="ppwc_pay">Πληρωμή</string>
+    <string name="ppwc_payment_method">Μέθοδος πληρωμής</string>
+    <string name="ppwc_payment_date">Ημερομηνία πληρωμής</string>
+    <string name="review_and_pay_description">Οι αυτόματες αποπληρωμές θα εξακολουθήσουν να αντλούνται από τις πωλήσεις σας έως ότου το δάνειό σας αποπληρωθεί, ακόμα και αν έχετε εκτελέσει μια μεμονωμένη πληρωμή.</string>
+    <string name="thank_you">Ευχαριστούμε.</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Πραγματοποιήσατε πληρωμή ύψους %1$s</string>
+    <string name="make_payment_success_message">Ο λογαριασμός σας θα ενημερωθεί αμέσως μόλις διεκπεραιωθεί η επεξεργασία της πληρωμής σας.</string>
+    <string name="ppwc_done">Τέλος</string>
+    <string name="make_payment_error_insufficient_balance">Το υπόλοιπο PayPal δεν επαρκεί για την ολοκλήρωση αυτής της πληρωμής</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Εισαγάγετε ένα ποσό ίσο ή μικρότερο από το υπόλοιπο PayPal.</string>
+    <string name="working_capital">Κεφάλαιο κίνησης</string>
+    <string name="general_error_title">Επανάληψη</string>
+    <string name="general_error_message">Φαίνεται ότι προέκυψε ένα πρόβλημα στο σύστημά μας.</string>
+    <string name="ppwc_try_again">Επανάληψη</string>
+    <string name="catch_up_info_intro">Το καθυστερημένο υπόλοιπο συσσωρεύεται όταν η μεταφορά ή η δαπάνη των εσόδων που προέρχονται από τις πωλήσεις συμβαίνει πριν από την αυτόματη αποπληρωμή.</string>
+    <string name="catch_up_info_how_reduced_title">Πώς μειώνεται το καθυστερημένο υπόλοιπό μου;</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">Θα αφαιρούμε αυτόματα τις καθυστερημένες πληρωμές όταν θα καθίστανται διαθέσιμα νέα κεφάλαια στο υπόλοιπο PayPal, έως ότου το καθυστερημένο υπόλοιπο μειωθεί στα 0 USD.\n\nΜπορείτε επίσης να %1$s για να μειώσετε το υπόλοιπό σας αμέσως.</string>
+    <string name="make_manual_payment">πραγματοποιήσετε μια μη αυτόματη πληρωμή</string>
+    <string name="catch_up_info_how_avoid_title">Πώς μπορώ να αποφύγω να έχω καθυστερημένο υπόλοιπο;</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Για να αποφύγετε το καθυστερημένο υπόλοιπο, απλώς βεβαιωθείτε ότι το υπόλοιπο PayPal σας θα υπερβαίνει πάντα την ημερήσια αυτόματη αποπληρωμή σας.\n\nΓια περισσότερες πληροφορίες σχετικά με τις καθυστερημένες πληρωμές, %1$s.</string>
+    <string name="please_see_faq">ανατρέξτε στις συχνές ερωτήσεις</string>
+    <string name="ppwc_discovery_message">ΝΕΟ! Προβολή και διαχείριση δανείου με κεφάλαιο κίνησης PayPal</string>
+    <string name="last_x_days" formatSpecifiers="number">ΤΕΛΕΥΤΑΙΕΣ %1$s ΗΜΕΡΕΣ</string>
+    <string name="apply_loan">Υποβάλετε αίτηση για επιχειρηματικό δάνειο με ευνοϊκούς όρους, χωρίς έλεγχο πιστοληπτικής ικανότητας ή προσωπική εγγύηση.\n\nΟι διαδικασίες αίτησης και χρηματοδότησης διαρκούν μόνο λίγα λεπτά.</string>
+    <string name="learn_how_label">Μάθετε πώς λειτουργεί</string>
+    <string name="application_approved">Η αίτησή σας εγκρίθηκε.</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Μπορείτε να προσαρμόσετε και να αποδεχθείτε την προσφορά σας έως τις %1$s.</string>
+    <string name="review_offer">Έλεγχος προσφοράς</string>
+    <string name="view_loan_decision">Προβολή απόφασης επιχειρηματικού δανείου</string>
+    <string name="application_status_changed">Η κατάσταση της αίτησής σας έχει αλλάξει.</string>
+    <string name="check_status">Έλεγχος κατάστασης</string>
+    <string name="saved_offer">Έχετε μια αποθηκευμένη προσφορά</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Η προσφορά σας ισχύει έως %1$s.\n\nΠροσαρμόστε και αποδεχθείτε την προσφορά σας και λάβετε χρηματοδότηση μέσα σε λίγα λεπτά.</string>
+    <string name="review_application">Ελέγχουμε την αίτησή σας</string>
+    <string name="review_application_description">Θα λάβετε ένα email μόλις αποφασίσουμε σχετικά με το επιχειρηματικό σας δάνειο.</string>
+    <string name="more_details">Περισσότερες λεπτομέρειες</string>
+    <string name="pending_funding_primary_desc">Το επιχειρηματικό σας δάνειο έχει εγκριθεί.</string>
+    <string name="pending_funding_secondary_desc">Τηλεφωνήστε μας αν δεν εμφανιστεί στον λογαριασμό PayPal εντός 24 ωρών.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">Ολοκληρώθηκε: %1$d</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d εκκρεμεί</string>
+    <string name="make_payment_error_amount_gt_loan_due">Εισαγάγετε ένα ποσό ίσο ή μικρότερο από το υπόλοιπο του δανείου.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Εισαγάγετε έναν ακέραιο αριθμό, χωρίς δεκαδικά ψηφία.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

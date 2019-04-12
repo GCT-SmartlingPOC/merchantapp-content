@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">วันที่ชำระเงิน</string>
+    <string name="outstanding_balance">ยอดค้างชำระ</string>
+    <string name="working_capital_summary_load_fail">ไม่มีข้อมูลเกี่ยวกับบัญชีของคุณ\nปัดลงเพื่อลองอีกครั้ง</string>
+    <string name="ppwc_paid">ชำระเงินแล้ว</string>
+    <string name="view_loan_details">ดูรายละเอียดสินเชื่อ</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">สินเชื่อเพื่อธุรกิจจำนวน %1$s ได้รับการชำระเต็มจำนวนแล้ว</string>
+    <string name="apply_again">สมัครอีกครั้ง</string>
+    <string name="ppwc_info">ข้อมูล</string>
+    <string name="outstanding_balance_title">ยอดค้างชำระ</string>
+    <string name="loan_details">รายละเอียดสินเชื่อ</string>
+    <string name="initial_loan_amount">วงเงินเริ่มต้น</string>
+    <string name="loan_fee">ค่าธรรมเนียมสินเชื่อ</string>
+    <string name="repayment_percentage">เปอร์เซ็นต์การชำระคืน</string>
+    <string name="view_loan_activity">ดูกิจกรรมสินเชื่อ</string>
+    <string name="make_one_time_payment">ทำการชำระเงินครั้งเดียว</string>
+    <string name="catch_up_balance">ยอดคงเหลือย้อนหลัง</string>
+    <string name="loan_activity">กิจกรรมสินเชื่อ</string>
+    <string name="loan_activity_empty">คุณจะพบข้อมูลสรุปที่นี่เมื่อคุณเริ่มการชำระเงินคืนอัตโนมัติ</string>
+    <string name="ppwc_completed">เสร็จสมบูรณ์แล้ว</string>
+    <string name="ppwc_pending">รอดำเนินการ</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">โอนสินเชื่อ</string>
+    <string name="loan_activity_v3_loan_reversal">การตีคืนการชำระสินเชื่อ</string>
+    <string name="loan_activity_v3_fee">ค่าธรรมเนียมสินเชื่อ</string>
+    <string name="loan_activity_v3_aggregated_payment">ข้อมูลสรุปการชำระเงินคืนอัตโนมัติ</string>
+    <string name="loan_activity_v3_automated_catchup_payment">การชำระเงินย้อนหลัง</string>
+    <string name="loan_activity_v3_automated_daily_payment">การชำระคืนตามยอดขาย</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">การชำระเงินย้อนหลังด้วยตนเอง</string>
+    <string name="loan_activity_v3_customer_initiated_payment">การชำระเงินด้วยตนเอง</string>
+    <string name="loan_activity_v3_loan_fee_reversal">การตีคืนค่าธรรมเนียมสินเชื่อ</string>
+    <string name="loan_activity_v3_payment_reversal">การตีคืนการชำระเงิน</string>
+    <string name="loan_activity_v3_loan_adjustment">การปรับสินเชื่อ</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">การปรับค่าธรรมเนียมสินเชื่อ</string>
+    <string name="loan_activity_v3_payment_adjustment">การปรับการชำระเงิน</string>
+    <string name="loan_activity_v3_other_payment">การชำระเงินอื่นๆ</string>
+    <string name="loan_activity_loan_transfer">โอนสินเชื่อ</string>
+    <string name="loan_activity_fee">ค่าธรรมเนียมสินเชื่อ</string>
+    <string name="loan_activity_automated_catchup_payment">การชำระเงินย้อนหลังโดยอัตโนมัติ</string>
+    <string name="loan_activity_automated_daily_payment">การชำระเงินคืนโดยอัตโนมัติ</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">การชำระเงินย้อนหลังด้วยตนเอง</string>
+    <string name="loan_activity_customer_initiated_payment">การชำระเงินด้วยตนเอง</string>
+    <string name="loan_activity_loan_reversal">การตีคืนการชำระสินเชื่อ</string>
+    <string name="loan_activity_loan_fee_reversal">การตีคืนค่าธรรมเนียมสินเชื่อ</string>
+    <string name="loan_activity_payment_reversal">การตีคืนการชำระเงิน</string>
+    <string name="loan_activity_loan_adjustment">การปรับสินเชื่อ</string>
+    <string name="loan_activity_loan_fee_adjustment">การปรับค่าธรรมเนียมสินเชื่อ</string>
+    <string name="loan_activity_payment_adjustment">การปรับการชำระเงิน</string>
+    <string name="loan_activity_other_payment">การชำระเงินอื่นๆ</string>
+    <string name="loan_activity_aggregated_payment">ข้อมูลสรุปการชำระเงินคืนอัตโนมัติ</string>
+    <string name="make_payment">ทำการชำระเงิน</string>
+    <string name="make_payment_description">การชำระเงินของคุณจะถูกหักออกจากยอดเงินคงเหลือใน PayPal ของคุณที่มีอยู่ในปัจจุบันโดยทันที</string>
+    <string name="choose_payment_amount">เลือกจำนวนเงินที่ชำระ</string>
+    <string name="pay_specific_amount">ชำระจำนวนเงินเฉพาะ</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">ชำระยอดสินเชื่อคงเหลือ %1$s</string>
+    <string name="pay_remaining_loan_balance_description">อาจใช้เวลาไม่เกิน 3 วันทำการในการดำเนินการชำระเงินครั้งสุดท้าย คุณจะสามารถสมัครสินเชื่ออื่นได้หลังจากนี้</string>
+    <string name="ppwc_continue">ดำเนินการต่อ</string>
+    <string name="enter_payment_amount">ป้อนจำนวนเงินที่ชำระ</string>
+    <string name="current_loan_balance">ยอดสินเชื่อคงเหลือปัจจุบัน</string>
+    <string name="available_paypal_balance">ยอดคงเหลือที่ใช้ได้ในบัญชี PayPal</string>
+    <string name="review_and_pay">ตรวจสอบและชำระเงิน</string>
+    <string name="ppwc_amount">จำนวนเงิน</string>
+    <string name="ppwc_pay">ชำระเงิน</string>
+    <string name="ppwc_payment_method">วิธีชำระเงิน</string>
+    <string name="ppwc_payment_date">วันที่ชำระเงิน</string>
+    <string name="review_and_pay_description">ยอดขายของคุณจะถูกหักเพื่อชำระเงินสินเชื่อคืนอัตโนมัติต่อไปแม้ว่าคุณจะชำระเงินแบบครั้งเดียวก็ตาม จนกว่าคุณจะชำระคืนสินเชื่อจนเต็มจำนวน</string>
+    <string name="thank_you">ขอบคุณค่ะ</string>
+    <string name="made_payment_of" formatSpecifiers="amount">คุณได้ชำระเงินจำนวน %1$s</string>
+    <string name="make_payment_success_message">บัญชีของคุณจะได้รับการอัปเดตทันทีที่เริ่มมีการชำระเงินนี้</string>
+    <string name="ppwc_done">เสร็จแล้ว</string>
+    <string name="make_payment_error_insufficient_balance">ยอดคงเหลือในบัญชี PayPal ของคุณไม่เพียงพอที่จะชำระเงินรายการนี้</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">ป้อนจำนวนเงินที่เท่ากับหรือน้อยกว่ายอดคงเหลือในบัญชี PayPal ของคุณ</string>
+    <string name="working_capital">Working Capital</string>
+    <string name="general_error_title">ลองใหม่อีกครั้ง</string>
+    <string name="general_error_message">ดูเหมือนว่าจะเกิดข้อผิดพลาดขึ้นในระบบของเรา</string>
+    <string name="ppwc_try_again">ลองอีกครั้ง</string>
+    <string name="catch_up_info_intro">ยอดคงเหลือย้อนหลังจะเกิดขึ้นเมื่อคุณถอนเงิน โอนเงิน หรือใช้ยอดขายของคุณก่อนที่จะมีการชำระคืนโดยอัตโนมัติ</string>
+    <string name="catch_up_info_how_reduced_title">ยอดคงเหลือย้อนหลังของฉันจะลดลงได้อย่างไร</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">เราจะหักการชำระเงินย้อนหลังโดยอัตโนมัติเมื่อมียอดเงินใหม่ที่ใช้ได้ในยอดเงินคงเหลือในบัญชี PayPal ของคุณจนกว่ายอดคงเหลือย้อนหลังจะลดลงเหลือ 0\n\nนอกจากนี้คุณยังสามารถ %1$s เพื่อลดยอดคงเหลือได้ในทันที</string>
+    <string name="make_manual_payment">ทำการชำระเงินด้วยตนเอง</string>
+    <string name="catch_up_info_how_avoid_title">ฉันสามารถหลีกเลี่ยงยอดคงเหลือย้อนหลังได้อย่างไร</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">เพื่อไม่ให้มียอดคงเหลือย้อนหลัง เพียงตรวจสอบให้แน่ใจว่าคุณได้รักษายอดคงเหลือในบัญชี PayPal ให้มีจำนวนมากกว่าจำนวนที่ต้องชำระคืนโดยอัตโนมัติในแต่ละวันของคุณ\n\nหากต้องการข้อมูลเพิ่มเติมเกี่ยวกับการชำระเงินย้อนหลัง %1$s</string>
+    <string name="please_see_faq">โปรดดูคำถามที่พบบ่อยของเรา</string>
+    <string name="ppwc_discovery_message">ใหม่ ดูและจัดการสินเชื่อ PayPal Working Capital ของคุณ</string>
+    <string name="last_x_days" formatSpecifiers="number">%1$s วันที่ผ่านมา</string>
+    <string name="apply_loan">สมัครสินเชื่อเพื่อธุรกิจที่ดอกเบี้ยไม่แพงโดยไม่ต้องตรวจสอบเครดิตหรือมีผู้ค้ำประกัน\n\nสามารถสมัครและรับเงินทุนได้ภายในไม่กี่นาที</string>
+    <string name="learn_how_label">ดูว่ามีการทำงานอย่างไร</string>
+    <string name="application_approved">การสมัครของคุณได้รับการอนุมัติแล้ว</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">สามารถปรับแต่งและรับข้อเสนอได้จนถึง %1$s</string>
+    <string name="review_offer">ดูข้อเสนอของคุณทันที</string>
+    <string name="view_loan_decision">ดูผลการอนุมัติสินเชื่อเพื่อธุรกิจ</string>
+    <string name="application_status_changed">มีการเปลี่ยนแปลงสถานะการสมัครของคุณ</string>
+    <string name="check_status">ตรวจสอบสถานะ</string>
+    <string name="saved_offer">คุณมีข้อเสนอเก็บบันทึกไว้</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">ข้อเสนอของคุณสามารถใช้ได้จนถึง %1$s\n\nปรับแต่ง รับข้อเสนอ และรับเงินทุนได้ในไม่กี่นาที</string>
+    <string name="review_application">เรากำลังตรวจสอบการสมัครของคุณ</string>
+    <string name="review_application_description">คุณจะได้รับอีเมลทันทีที่เราพิจารณาสินเชื่อเพื่อธุรกิจของคุณเรียบร้อยแล้ว</string>
+    <string name="more_details">รายละเอียดเพิ่มเติม</string>
+    <string name="pending_funding_primary_desc">สินเชื่อเพื่อธุรกิจของคุณอยู่ระหว่างการดำเนินการ</string>
+    <string name="pending_funding_secondary_desc">ภายใน 24 ชั่วโมงถ้าคุณไม่เห็นในบัญชี PayPal โปรดโทรหาเรา</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d เสร็จสมบูรณ์แล้ว</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d รอดำเนินการ</string>
+    <string name="make_payment_error_amount_gt_loan_due">ป้อนจำนวนเงินที่เท่ากับหรือน้อยกว่ายอดสินเชื่อคงเหลือ</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">ป้อนจำนวนเต็มโดยไม่มีทศนิยม</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

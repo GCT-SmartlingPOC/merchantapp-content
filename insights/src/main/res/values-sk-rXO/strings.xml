@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Štatistiky predaja</string>
+    <string name="month">Mesiac</string>
+    <string name="quarter">Štvrťrok</string>
+    <string name="year">Rok</string>
+    <string name="year_to_date">Od začiatku roka k dnešnému dňu</string>
+    <string name="title_sales_month">Predaj za tento mesiac</string>
+    <string name="title_this_month">Tento mesiac</string>
+    <string name="ytd">OD ZAČIATKU ROKA</string>
+    <string name="compare_last_year">Porovnať s predchádzajúcim rokom</string>
+    <string name="best_month">NAJLEPŠÍ MESIAC</string>
+    <string name="worst_month">NAJHORŠÍ MESIAC</string>
+    <string name="best_week">NAJLEPŠÍ TÝŽDEŇ</string>
+    <string name="worst_week">NAJHORŠÍ TÝŽDEŇ</string>
+    <string name="avg_order_value">PRIEMER HODNOTA OBJEDNÁVKY</string>
+    <string name="transactions">TRANSAKCIE</string>
+    <string name="last_year_sales" formatSpecifiers="amount">PREDCHÁDZAJÚCI ROK: %1$s</string>
+    <string name="year_to_date_sales">OBJEM PREDAJA OD ZAČIATKU ROKA</string>
+    <string name="total_sales">CELKOVÝ OBJEM PREDAJA</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s PREDAJ</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb %1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">Q</string>
+    <string name="data_unavailable_swipe_again">Údaje nie sú k dispozícii. Potiahnite znova.</string>
+</resources>

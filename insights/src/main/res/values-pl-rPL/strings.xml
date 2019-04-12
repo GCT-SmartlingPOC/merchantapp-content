@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Analizy dotyczące sprzedaży</string>
+    <string name="month">Miesiąc</string>
+    <string name="quarter">Kwartał</string>
+    <string name="year">Rok</string>
+    <string name="year_to_date">Od początku roku</string>
+    <string name="title_sales_month">Sprzedaż w tym miesiącu</string>
+    <string name="title_this_month">Ten miesiąc</string>
+    <string name="ytd">BIEŻĄCY ROK</string>
+    <string name="compare_last_year">W porównaniu z poprzednimi rokiem</string>
+    <string name="best_month">NAJLEPSZY MIESIĄC</string>
+    <string name="worst_month">NAJGORSZY MIESIĄC</string>
+    <string name="best_week">NAJLEPSZY TYDZIEŃ</string>
+    <string name="worst_week">NAJGORSZY TYDZIEŃ</string>
+    <string name="avg_order_value">ŚR. WARTOŚĆ ZAMÓWIENIA</string>
+    <string name="transactions">TRANSAKCJE</string>
+    <string name="last_year_sales" formatSpecifiers="amount">POPRZEDNI ROK: %1$s</string>
+    <string name="year_to_date_sales">SPRZEDAŻ W ROKU BIEŻĄCYM</string>
+    <string name="total_sales">SPRZEDAŻ ŁĄCZNIE</string>
+    <string name="month_sales" formatSpecifiers="month">SPRZEDAŻ %1$s</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">Q</string>
+    <string name="data_unavailable_swipe_again">Dane są niedostępne. Przesuń ponownie.</string>
+</resources>

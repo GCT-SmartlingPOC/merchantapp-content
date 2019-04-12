@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="invoice_date">Detailed Payment Request date</string>
+    <string name="label_invoice_number">Detailed Payment Request number</string>
+    <string name="invoice_date_warning" formatSpecifiers="dueDate">Detailed Payment Request date must be on or before due date \n(%1$s)</string>
+    <string name="invoice_due_date_warning" formatSpecifiers="invoiceDate">Detailed Payment Request due date must be on or after payment requesting date (%1$s)</string>
+    <string name="invoice_settings">Detailed Payment Request Settings</string>
+    <string name="invoice_received">Detailed Payment Request received</string>
+    <string name="catalog_empty_message">When you create and save items or services here, you\'ll be able to quickly add them to an Deatiled Payment Request.</string>
+    <string name="tax_empty_message">When you create and save tax rates here, you\'ll be able to quickly add them to an Detailed Payment Request.</string>
+    <string name="invoice_all_empty_message">Getting paid has never been easier.\nReady to send your first Detailed Payment Request\?</string>
+    <string name="invoice_paid_empty_message">Check back soon to see your Detailed Payment Requests go from unpaid to paid!</string>
+    <string name="edit_invoice_number">Edit Detailed Payment Request number</string>
+    <string name="invoice_sent_to_customer" formatSpecifiers="customerName">Your Detailed Payment Request to %1$s has been sent</string>
+    <string name="invoice_min_amount">Total of this Detailed Payment Request must be 0 or greater</string>
+    <string name="save_invoice_failed">Unable to save Detailed Payment Request</string>
+    <string name="send_invoice_failed">Unable to send Detailed Payment Request</string>
+    <string name="address_line1">Address line 1</string>
+    <string name="address_line2">Address line 2 (optional)</string>
+    <string name="invalid_address_line1">Required</string>
+    <string name="error_partial_payment_amount">The minimum amount due must be less than the Detailed Payment Request total</string>
+    <string name="error_invoice_number_in_use">You\'ve already used this Detailed Payment Request number</string>
+    <string name="error_invoice_merchant_restricted">We\'re sorry, your account is limited. Please contact us for help.</string>
+    <string name="error_negative_invoice_with_items">Detailed Payment Request total must be greater than 0</string>
+    <string name="share_link_warning">Detailed Payment Request contain your customer\'s personal information, never share the Detailed Payment Request link in a public forum.</string>
+    <string name="request_contacts_access_message">Add your phone contacts to make Detailed Payment Requesting faster.</string>
+    <string name="cancel_invoice_subject" formatSpecifiers="invoiceNumber">Detailed Payment Request %1$s has been canceled</string>
+    <string name="invoice_number_with_number" formatSpecifiers="number">Detailed Payment Request #%1$s</string>
+    <string name="invoice_num_params" formatSpecifiers="invoice_number">Detailed Payment Request #%1$s</string>
+    <string name="invoice_email_subject" formatSpecifiers="invoiceId">Re: Detailed Payment Request #%1$s</string>
+    <string name="invoice_canceled_sent_to_customer" formatSpecifiers="customerEmail">Your Detailed Payment Request to %1$s has been canceled</string>
+    <string name="send_reminder_subject">Reminder: Your payment for this Detailed Payment Request is due</string>
+    <string name="invoice_draft_empty_message">Draft new Detailed Payment Requests so you can finish them later.</string>
+    <string name="invoice_unpaid_empty_message">Unpaid Detailed Payment Requests will appear here. You can tap on an Detailed Payment Request to make edits or follow up with a customer.</string>
+    <string name="accessibility_discount_dollars_off">Euros Off</string>
+    <string name="unconfirmed_email_invoicing">You need to confirm your email address before you can send Detailed Payment Requests. Please check your email for the confirmation email or login to PayPal to resend the email.</string>
+    <string name="invoice_send_date_warning" formatSpecifiers="date">Detailed Payment Request date set to \n%1$s.\nHitting Send will deliver the Detailed Payment Request to the customer immediately</string>
+    <string name="invoicing_already_sent">This Detailed Payment Request has already been sent.</string>
+    <string name="send_invoice_title">Send Detailed Payment Request</string>
+    <string name="title_activity_create_invoice">New Detailed Payment Request</string>
+</resources>

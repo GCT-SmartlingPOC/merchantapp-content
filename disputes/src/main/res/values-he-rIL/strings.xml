@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s פתח מחלוקת עבור %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s סגר מחלוקת עבור %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">העברת את המחלוקת של %1$s עבור %2$s ל-PayPal.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s העביר מחלוקת עבור %2$s ל-PayPal.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s הגיש הכחשת עסקה על מחלוקת עבור %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">הצג את הפתרון עבור המחלוקת של %1$s עבור %2$s.</string>
+    <string name="dispute_reason_item_not_received">הפריט לא התקבל</string>
+    <string name="dispute_reason_item_not_as_described">הפריט שונה מהתיאור</string>
+    <string name="dispute_new_label">חדש</string>
+    <string name="dispute_chargeback_label">הכחשת עסקה</string>
+    <string name="dispute_awaiting_on_buyer_label">ממתין לקונה</string>
+    <string name="dispute_awaiting_on_you_label">ממתין לך</string>
+    <string name="dispute_in_review_label">בבחינה</string>
+    <string name="dispute_resolved_label">נפתר</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">הגבת ב-%1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">הקונה השיב ב-%1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">הגב עד %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">הקונה חייב להגיב עד %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">ממתין לתגובת הקונה.</string>
+    <string name="dispute_awaiting_resolution_action">ממתין לפתרון.</string>
+    <string name="dispute_card_title">מחלוקות</string>
+    <string name="dispute_respond_action">הגב</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s מחלוקות המחייבות את תגובתך</string>
+    <string name="dispute_multiple_view_all">הצג הכל</string>
+    <string name="dispute_view_details">הצג פרטים</string>
+    <string name="dispute_details_title">מחלוקת</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">מספר מזהה מקרה: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">עדכון אחרון: %1$s</string>
+    <string name="dispute_customer_contact_title">איש קשר של הלקוח</string>
+    <string name="dispute_tracking_information">פרטי מעקב</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">מספר: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">חברת שילוח: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">מזהה העסקה של המוכר</string>
+    <string name="dispute_last_comment_title">הערה אחרונה</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">לקוח: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">אתה: %1$s</string>
+    <string name="dispute_order_details_title">פרטי הזמנה</string>
+    <string name="dispute_shipped_to_title">נשלח אל</string>
+    <string name="dispute_message_buyer">הודעה לקונה</string>
+    <string name="dispute_provide_info_to_paypal">ספק פרטים ל-PayPal</string>
+    <string name="dispute_issue_refund">הפק החזר</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">הגב עד: %1$s</string>
+    <string name="dispute_claim_accepted_success">התביעה התקבלה בהצלחה.</string>
+    <string name="dispute_claim_accepted_error">לא ניתן לעבד את התביעה שלך כעת!</string>
+    <string name="dispute_esclated_success">נפתחה תביעה ב-PayPal.</string>
+    <string name="dispute_esclated_error">לא ניתן לפתוח תביעה ב-PayPal!</string>
+    <string name="dispute_full_refund_success">ההצעה הוגשה בהצלחה.</string>
+    <string name="dispute_full_refund_error">בשלב זה, לא ניתן להגיש הצעה!</string>
+    <string name="dispute_provide_evidence_success">הוכחות סופקו בהצלחה.</string>
+    <string name="dispute_action_accept_claim">החזר מלא</string>
+    <string name="dispute_action_escalate_to_paypal">הסלם ל-PayPal‏</string>
+    <string name="dispute_action_full_refund">הצע החזר מלא</string>
+    <string name="dispute_action_provide_evidence">ספק ראיות</string>
+    <string name="dispute_actions_label">פעולות</string>
+    <string name="dispute_conversation_title">הודעות</string>
+    <string name="dispute_send_message">הודעה לקונה...</string>
+    <string name="dispute_conversation_you">אתה</string>
+    <string name="dispute_hub_title">מחלוקות</string>
+    <string name="dispute_offer_refund_title">שלח הודעה</string>
+    <string name="dispute_offer_refund_send_message">שלח הודעה ללקוח שלך</string>
+    <string name="dispute_offer_refund_default_message">אני רוצה להציע לך החזר מלא. האם תרצה לקבל את הצעתי\?</string>
+    <string name="dispute_offer_refund_ask_return">בקש מהקונה להחזיר את הפריט.</string>
+    <string name="dispute_offer_refund_missing_note">השדה \'הערה\' הוא שדה חובה</string>
+    <string name="dispute_accept_claim_note_placeholder">הקלד את ההערה שלך כאן</string>
+    <string name="dispute_escalate_to_paypal_title">תאר את הבעיה</string>
+    <string name="dispute_escalate_to_paypal_header_message">הקלד תיאור מפורט של הבעיה עם עסקה זו.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">הקלד תיאור כאן</string>
+    <string name="dispute_escalate_to_paypal_missing_description">השדה \'תיאור\' הוא שדה חובה</string>
+    <string name="dispute_offer_refund_confirmation_title">בחן ואשר</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">לאחר שליחת ההחזר המלא אל %1$s, בעיה זו תיושב ותיסגר.</string>
+    <string name="dispute_offer_refund_label_transaction_amount">סכום עסקה</string>
+    <string name="dispute_offer_refund_label_transaction_id">מספר מזהה עסקה</string>
+    <string name="dispute_offer_refund_label_your_message">ההודעה שלך</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">הצע החזר מלא</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">לאחר האישור, החזר מלא יישלח אל %1$s ובעיה זו תיושב ותיסגר.</string>
+    <string name="dispute_accept_claim_confirmation_button">החזר</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">בחן ואשר</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer">אתה מסלים את המקרה ל-PayPal מכיוון שלא הצלחת להגיע להסכמה עם הקונה.\n\nאנו נעכב את סכום העסקה עד לסגירת המקרה.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">סכום עסקה</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">מספר מזהה עסקה</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">תיאור מפורט</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">הסלם</string>
+    <string name="dispute_add_tracking_confirmation_message">עדכנת בהצלחה את פרטי המעקב שלך.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">הודעת אימייל ובה הפרטים שסיפקת תישלח ללקוח.</string>
+    <string name="dispute_add_tracking_confirmation_button">אישור</string>
+    <string name="dispute_escalate_primer_title">הסלם ל-PayPal‏</string>
+    <string name="dispute_escalate_primer_preface">לפני שתבצע הסלמה, יש מספר דברים שעליך לדעת</string>
+    <string name="dispute_escalate_primer_line_one">לאחר פתיחת תביעה, לא תוכל עוד לקיים תקשורת ישירה עם הקונה.</string>
+    <string name="dispute_escalate_primer_line_two">כל הצעה פתוחה להחזר שהוגשה על ידי המוכר תבוטל.</string>
+    <string name="dispute_escalate_primer_line_three">בחינת התביעה שלך וקבלת החלטה עשויים לארוך עד 30 יום.</string>
+    <string name="dispute_escalate_primer_line_four">אנו נבחן את הפרטים שסיפקת, יחד עם תחלופת ההודעות בינך לבין הקונה בנוגע לעסקה זו.</string>
+    <string name="dispute_escalate_primer_line_five">אם נזדקק לפרטים נוספים במהלך הבדיקה, נשלח לך הודעת אימייל.</string>
+    <string name="dispute_escalate_primer_line_six">לאחר שנקבל החלטה, היא תהיה סופית ותביעה זו תיסגר.</string>
+</resources>

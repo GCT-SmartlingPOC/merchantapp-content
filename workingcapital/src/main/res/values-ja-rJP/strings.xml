@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPalワーキングキャピタル</string>
+    <string name="paid_to_date">現在までの支払額</string>
+    <string name="outstanding_balance">未払い額</string>
+    <string name="working_capital_summary_load_fail">アカウント情報は利用できません。\n下方向にスワイプしてもう一度お試しください。</string>
+    <string name="ppwc_paid">支払い済み</string>
+    <string name="view_loan_details">ローンの詳細を表示</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">%1$sのビジネスローンが全額支払われました。</string>
+    <string name="apply_again">再度申請する</string>
+    <string name="ppwc_info">情報</string>
+    <string name="outstanding_balance_title">未払い金額</string>
+    <string name="loan_details">ローンの詳細</string>
+    <string name="initial_loan_amount">初回の融資額</string>
+    <string name="loan_fee">ローン手数料</string>
+    <string name="repayment_percentage">返済率</string>
+    <string name="view_loan_activity">ローンの取引を表示</string>
+    <string name="make_one_time_payment">一度限りの支払いをする</string>
+    <string name="catch_up_balance">キャッチアップ残高</string>
+    <string name="loan_activity">ローンの取引</string>
+    <string name="loan_activity_empty">自動返済が開始されると、こちらに概要が表示されます</string>
+    <string name="ppwc_completed">完了</string>
+    <string name="ppwc_pending">保留中</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">ローン振替</string>
+    <string name="loan_activity_v3_loan_reversal">ローン支払い取り消し</string>
+    <string name="loan_activity_v3_fee">ローン手数料</string>
+    <string name="loan_activity_v3_aggregated_payment">自動返済の概要</string>
+    <string name="loan_activity_v3_automated_catchup_payment">キャッチアップ支払い</string>
+    <string name="loan_activity_v3_automated_daily_payment">売上高ベースの返済</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">手動によるキャッチアップ支払い</string>
+    <string name="loan_activity_v3_customer_initiated_payment">手動による支払い</string>
+    <string name="loan_activity_v3_loan_fee_reversal">ローン手数料の支払い取り消し</string>
+    <string name="loan_activity_v3_payment_reversal">支払い取り消し</string>
+    <string name="loan_activity_v3_loan_adjustment">ローンの調整</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">ローン手数料の調整</string>
+    <string name="loan_activity_v3_payment_adjustment">支払いの調整</string>
+    <string name="loan_activity_v3_other_payment">その他の支払い</string>
+    <string name="loan_activity_loan_transfer">ローン振替</string>
+    <string name="loan_activity_fee">ローン手数料</string>
+    <string name="loan_activity_automated_catchup_payment">自動キャッチアップ支払い</string>
+    <string name="loan_activity_automated_daily_payment">自動返済</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">手動によるキャッチアップ支払い</string>
+    <string name="loan_activity_customer_initiated_payment">手動による支払い</string>
+    <string name="loan_activity_loan_reversal">ローン支払い取り消し</string>
+    <string name="loan_activity_loan_fee_reversal">ローン手数料の支払い取り消し</string>
+    <string name="loan_activity_payment_reversal">支払い取り消し</string>
+    <string name="loan_activity_loan_adjustment">ローンの調整</string>
+    <string name="loan_activity_loan_fee_adjustment">ローン手数料の調整</string>
+    <string name="loan_activity_payment_adjustment">支払いの調整</string>
+    <string name="loan_activity_other_payment">その他の支払い</string>
+    <string name="loan_activity_aggregated_payment">自動返済の概要</string>
+    <string name="make_payment">支払いの実行</string>
+    <string name="make_payment_description">支払いは現在利用可能なPayPal残高から、ただちに差し引かれます</string>
+    <string name="choose_payment_amount">支払額を選択: </string>
+    <string name="pay_specific_amount">指定額を支払う</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">残りのローン残高%1$sを支払う</string>
+    <string name="pay_remaining_loan_balance_description">最後の支払いの処理には、最長3営業日かかる場合があります。この期間が過ぎると、別のローンを申請できます。</string>
+    <string name="ppwc_continue">続行</string>
+    <string name="enter_payment_amount">支払額を入力してください</string>
+    <string name="current_loan_balance">現在のローン残高: </string>
+    <string name="available_paypal_balance">利用可能なPayPal残高: </string>
+    <string name="review_and_pay">確認して支払う</string>
+    <string name="ppwc_amount">金額</string>
+    <string name="ppwc_pay">支払う</string>
+    <string name="ppwc_payment_method">支払方法</string>
+    <string name="ppwc_payment_date">支払日</string>
+    <string name="review_and_pay_description">自動返済は、一度限りの支払いを行った場合でも、ローンが全額支払われるまで引き続き売上から差し引かれます。</string>
+    <string name="thank_you">ありがとうございます!</string>
+    <string name="made_payment_of" formatSpecifiers="amount">%1$sの支払いが実行されました</string>
+    <string name="make_payment_success_message">アカウントは、支払いが処理されるとすぐに更新されます。</string>
+    <string name="ppwc_done">完了</string>
+    <string name="make_payment_error_insufficient_balance">PayPal残高が、この支払いを完了する金額に達していません</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance"> PayPal残高以下の金額を入力してください。</string>
+    <string name="working_capital">ワーキングキャピタル</string>
+    <string name="general_error_title">もう一度お試しください</string>
+    <string name="general_error_message">弊社側で問題が発生しているようです。</string>
+    <string name="ppwc_try_again">再実行する</string>
+    <string name="catch_up_info_intro">キャッチアップ残高は、お客さまが自動返済が発生する前に、売上金を引き出し、振替または使用した際に計上します。</string>
+    <string name="catch_up_info_how_reduced_title">どのようにキャッチアップ残高が減少しますか。</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">新しい資金がPayPal残高で利用可能になると、キャッチアップ残高が0ドルに減るまで、キャッチアップ支払いは自動的に差し引かれます。\n\nまた、%1$sを行い、すぐに残高を減らすこともできます。</string>
+    <string name="make_manual_payment">手動による支払い</string>
+    <string name="catch_up_info_how_avoid_title">どのようにキャッチアップ残高を回避できますか。</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">キャッチアップ残高を回避するには、常にPayPal残高を1日の自動返済額より上回るよう維持してください。\n\nキャッチアップ支払いについての詳細については、%1$s。</string>
+    <string name="please_see_faq">よくあるご質問を参照してください</string>
+    <string name="ppwc_discovery_message">新機能!PayPalワーキングキャピタルローンの表示および管理</string>
+    <string name="last_x_days" formatSpecifiers="number">過去%1$s日間</string>
+    <string name="apply_loan">信用調査や個人保証が不要な、お手頃なビジネスローンにお申込みください。\n\nお申込みからわずか数分で入金が完了します。</string>
+    <string name="learn_how_label">しくみを見る</string>
+    <string name="application_approved">お客さまの申請は承認されました。</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">お客さまの申込みを%1$sまでカスタマイズして受諾することができます。</string>
+    <string name="review_offer">申し込みを今すぐ確認する</string>
+    <string name="view_loan_decision">ビジネスローンの決定を表示する</string>
+    <string name="application_status_changed">お客さまの申請ステータスが変更されました。</string>
+    <string name="check_status">ステータスを確認する</string>
+    <string name="saved_offer">保存済みの申込みがあります</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">お客さまの申込みは%1$sまで有効です。\n\n申込みをカスタマイズして受け入れて、数分で資金を受け取ります。</string>
+    <string name="review_application">お客さまの申請を審査中です</string>
+    <string name="review_application_description">お客さまのビジネスローンが決定ししだい、メールをお送りします。</string>
+    <string name="more_details">詳細</string>
+    <string name="pending_funding_primary_desc">お客さまのビジネスローンは処理中です。</string>
+    <string name="pending_funding_secondary_desc">24時間経ってもPayPalアカウントに入金されない場合は、お問い合わせください。</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d完了</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">未決済額: %1$d</string>
+    <string name="make_payment_error_amount_gt_loan_due">ローン残高以下の金額を入力してください。</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">小数ではなく、整数を入力してください。　</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

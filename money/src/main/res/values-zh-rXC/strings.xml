@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">可用金额：%1$s</string>
+    <string name="error_transfer_amount_too_high">请输入不高于可用余额的金额</string>
+    <string name="fee_label" formatSpecifiers="amount">交易费：%1$s</string>
+    <string name="free_label">交易费：无</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">信用卡</string>
+    <string name="credebit_card_debit">借记卡</string>
+    <string name="withdraw_change_fi_title">正在发送到您的</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s（%2$s）</string>
+    <string name="bank_expired">已过期</string>
+    <string name="multiple_currency_disclaimer">根据最新汇率估算，包含我们的币种兑换费。</string>
+    <string name="available_parens">（可用）</string>
+    <string name="available_colon">可用：</string>
+    <string name="transfer_money">提现</string>
+    <string name="send_money">发送付款</string>
+    <string name="account_available">可用</string>
+    <string name="account_available_currency" formatSpecifiers="currency">%1$s可用余额</string>
+    <string name="account_currency_details">币种详细信息</string>
+    <string name="transfer_balance">提现余额</string>
+    <string name="select_destination">选择目的地</string>
+    <string name="account_no_fi_info">关联银行账户，以便您可以从您的PayPal账户提现到您的银行账户。</string>
+    <string name="link_a_bank_card">关联银行账户或卡</string>
+    <string name="money_balance_error">很抱歉。我们无法访问您的余额信息。请稍后重试。</string>
+    <string name="why_is_my_money_on_hold">为什么我的付款被冻结？</string>
+    <string name="no_bank_account_message">在PayPal.com上关联银行账户，以便您可以从PayPal账户提现到银行账户。</string>
+    <string name="linked_account">关联账户</string>
+    <string name="review_your_transfer">查看您的提现</string>
+    <string name="transfer_now">立即提现</string>
+    <string name="transfer_amount_title">提现金额：</string>
+    <string name="fee_title">费用：</string>
+    <string name="youll_get_title">您将获得：</string>
+    <string name="transfer">提现</string>
+    <string name="ellipse">……</string>
+    <string name="processing_time_few_minutes">几分钟</string>
+    <string name="continue_with_delayed_transfer">继续处理延迟的提现</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">为安全起见，我们需要更多时间审查该笔交易。此过程最长需要%1$s小时。您还是要继续转账吗？</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">您的%1$s即将到账</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">您正在将资金提取到%1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">您正在提现%1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">您正在使用%1$s将资金提取到您的银行账户</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">可能只需要几分钟。我们会及时通知您关于提现至%1$s的最新消息</string>
+    <string name="money_transfer_minutes_message">提现可能需要几分钟，各银行所需时间有所不同。所有提现都需经过审查，如果发现问题，可能会被延迟或停止。</string>
+    <string name="converted_from" formatSpecifiers="amount">兑换自%1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">汇率：1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">兑换之后的金额约为%1$s</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s（1 %2$s = %3$s %4$s）</string>
+    <string name="withdraw_review_conversion_legal_info">此汇率包含了我们的币种兑换费。</string>
+    <string name="transfer_successful">提现成功</string>
+    <string name="free_fee_message">交易费：无</string>
+    <string name="estimated_total_all_currencies">（所有币种的估算总额，包括兑换费）</string>
+    <string name="fees">费用</string>
+    <string name="title_money_transfer">提现</string>
+    <string name="title_currency_transfer">币种兑换</string>
+    <string name="withdraw_default_risk_holding_period">提现最多可能需要5个工作日。</string>
+    <string name="withdraw_risk_holding_default">预计到账时间：2到5个工作日\n所有提现都要经过审查，如果发现问题，可能会被延迟或停止。</string>
+    <string name="choose_balance">选择一个PayPal余额</string>
+    <string name="view_balances_title">PayPal余额</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$sPayPal余额</string>
+    <string name="transfer_to_bank">提现到银行账户</string>
+    <string name="enter_amount">输入金额</string>
+    <string name="select_currency">选择币种</string>
+    <string name="transfer_failed">很抱歉。我们无法完成此次提现。</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">金额低于%1$s的最低金额。</string>
+    <string name="transfer_to_your_bank">提现到您的银行账户</string>
+    <string name="choose_bank_or_card">选择银行账户</string>
+    <string name="got_it">知道了</string>
+    <string name="try_instant_transfer_title">试试即时转账</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">如果您使用符合条件的借记卡，通常只需几分钟就可以在银行账户中看到款项。\n\n需要支付%1$s手续费。您也可以使用免费的标准付款方式。转账最多可能需要30分钟，各银行所需时间可能有所不同。</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">如果您使用符合条件的借记卡，通常只需几分钟就可以在银行账户中看到款项。\n\n需要支付%1$s手续费。您也可以使用免费的标准付款方式。转账最多可能需要30分钟，各银行所需时间可能有所不同。</string>
+    <string name="money_transfer_to_your_bank">提现到您的银行账户</string>
+    <string name="money_transfer_link_debit_card">关联符合条件的借记卡</string>
+    <string name="money_transfer_link_debit_card_bank">关联符合条件的借记卡或银行账户</string>
+    <string name="money_transfer_link_bank">关联银行账户</string>
+    <string name="money_choose_bank_or_card">选择银行账户</string>
+    <string name="money_transfer_rate_instant">即时：通常在几分钟内</string>
+    <string name="money_transfer_rate_standard">标准：通常在1个工作日内</string>
+    <string name="money_transfer_fee_free">免费</string>
+    <string name="money_transfer_fee_unknown">需支付费用</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%%（最高%2$s）</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">转账最多可能需要%1$s分钟，各银行所需时间可能有所不同。所有转账都要经过审查，如果发现问题，可能会被延迟或停止。</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">将扣除%1$s费用</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">已扣除%1$s费用</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">费用：%1$s</string>
+    <string name="money_label_fee_none">没有费用</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">预计到账时间︰%1$s</string>
+    <string name="money_transfer_proccessing_message">美国东部时间晚上7:00后、周末或节假日进行的提现可能需要更长的时间。所有提现都要经过审查，如果发现问题，可能会被延迟或停止。</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">您已提现%1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">您的资金已提现到%1$s</string>
+    <string name="money_error_no_fi_selected">请选择一个账户。</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">金额高于最大金额%1$s。</string>
+    <string name="money_error_fi_transfered_max_amount">您已达到此卡允许的最大提现金额。</string>
+    <string name="money_missing_fi_title">看不到您所有的银行账户？</string>
+    <string name="money_missing_fi_message">不支持某些银行和发卡机构。</string>
+    <string name="money_transfer_one_business_day">1个工作日</string>
+    <string name="money_transfer_with_minutes">几分钟内</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d个工作日</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">各银行转现时间可能有所不同，某些银行最多可能需要%1$d%2$s</string>
+    <string name="transfer_full_amount">提现全部金额</string>
+    <string name="transfer_partial_amount">提现部分金额</string>
+    <string name="fee">费用</string>
+    <string name="you_will_get">您将获得</string>
+    <string name="cancel_transfer">取消提现</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">是的，在%1$s小时后提现</string>
+    <string name="oct_risk_hold_planning_title">您的提现将被延迟，您仍要提现吗？</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">为安全起见，我们需要更多时间审查该笔交易。此过程最长需要%1$s小时。您不会被收取费用。</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">为安全起见，我们需要更多时间审查该笔交易。此过程最长需要%1$s小时。</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">预计到账时间：%1$s小时</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">您已使用您的%1$s提现到您的银行账户</string>
+    <string name="you_canceled_transfer">您已取消提现</string>
+    <string name="money_remains_in_paypal_balance">该笔款项将保留在您的PayPal余额中。</string>
+    <string name="oct_your_transfer_is_delayed">您的提现已延迟</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">为安全起见，我们需要更多时间审查该笔交易。此过程最长需要%1$s小时。如有进展，我们会立刻发送电子邮件通知您。您不会被收取费用。或者，您也可以取消提现。</string>
+    <string name="error_transaction_failed_title">您的交易未完成</string>
+    <string name="error_transaction_failed_message">很抱歉，我们无法处理您的交易。请检查您的网络连接，然后重试。</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">为安全起见，我们需要更多时间审查该笔交易。此过程最长需要%1$s小时。如有进展，我们会立刻发送电子邮件通知您。</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">为安全起见，我们需要更多时间审查该笔交易。此过程最长需要%1$s小时。如有进展，我们会立刻发送电子邮件通知您。您不会被收取费用。</string>
+    <string name="oct_cancel_transfer_error">很抱歉，我们无法取消您的提现。您的交易仍在处理中。</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">我们会在30分钟内告知您%1$s提现的最新进展。</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">您已请求使用%1$s提现到您的银行账户</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">您已提现%1$s到%2$s</string>
+    <string name="confirm_your_identity">验证您的身份</string>
+    <string name="cip_transfer_success_title">您已准备就绪！</string>
+    <string name="cip_transfer_failed_title">我们无法验证您的信息</string>
+    <string name="cip_transfer_error_title">我们好像\n遇到了一些问题</string>
+    <string name="cip_transfer_aborted_title">我们无法验证您的信息</string>
+    <string name="cip_transfer_review_title">感谢您提供信息</string>
+    <string name="cip_transfer_success_explanation">我们已成功验证您的信息，您可以继续持有您的PayPal余额。您可以将其用于发送款项、消费或者保留在账户中以备不时之需。</string>
+    <string name="cip_transfer_failed_explanation">您仍然可以从PayPal提现到您关联的银行账户，但您目前无法将您的PayPal余额用于发送款项或消费。</string>
+    <string name="cip_transfer_error_explanation">您仍然可以从PayPal提现到您关联的银行账户，但您目前无法将您的PayPal余额用于发送款项或消费。</string>
+    <string name="cip_transfer_aborted_explanation">您仍然可以从PayPal提现到您关联的银行账户，但将无法使用PayPal 余额发送款项或进行消费。</string>
+    <string name="cip_transfer_review_explanation">待您的文档审查完成后，我们会即刻发送电子邮件通知您。此过程通常需要2-3个工作日。\n\n在等待期间，您随时可以向您的银行账户转账。</string>
+    <string name="transfer_partial_title">为了支持提现部分金额，我们需要验证您的身份</string>
+    <string name="partial_choice_description">如果您要将此次提现后剩余的PayPal余额用于付款或消费，我们需要您再提供一些信息以验证您的身份。</string>
+    <string name="transfer_full_amount_instead">改为提现全部金额</string>
+    <string name="your_transfer_is_pending">您的提现待处理</string>
+    <string name="compliance_pending_primary_warning">按照规定，我们需要进一步审查某些交易。您的提现暂待处理，我们正在对其进行审查。</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">您的提现已延迟，因此您不会被收取%1$s。</string>
+    <string name="there_is_a_problem">出现问题</string>
+    <string name="not_able_to_complete_transaction">我们暂时无法完成这笔交易。</string>
+    <string name="identity_not_confirmed">您尚未验证身份</string>
+    <string name="identity_not_confirmed_description">您是否想要继续并立即验证身份？如果您跳过此步骤，您仍然可以从 PayPal 转账到关联的账户，但将无法使用PayPal 余额发送款项或进行消费。</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">款项待领取</string>
+    <string name="accept_it_now">立即接受</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">您想要如何处理这%1$s？</string>
+    <string name="transfer_it_to_your_bank">提现到银行账户</string>
+    <string name="transfer_it_to_your_bank_desc">以小额费用将款项提取到您的银行账户，只需几分钟。或免费直接提取到您的银行账户。</string>
+    <string name="keep_it_in_paypal">保留在PayPal账户中</string>
+    <string name="keep_it_in_paypal_cash_desc">请设置您的PayPal Cash账户，以便您可以使用PayPal轻松付款或消费。</string>
+    <string name="unable_to_create_paypal_cash_account">很抱歉，我们暂时无法为您创建PayPal Cash账户。您可以将款项提取到您的银行账户。</string>
+    <string name="you_are_all_set">一切就绪</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s现已存入您全新的PayPal Cash账户。</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">当朋友给您付款或您销售商品时，交易会显示在您的首页上。</string>
+    <string name="error_create_paypal_cash_account">我们好像遇到了一些问题。\n请重试。</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

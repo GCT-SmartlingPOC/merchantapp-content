@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">Оплачено на сегодняшний день</string>
+    <string name="outstanding_balance">Непогашенный остаток</string>
+    <string name="working_capital_summary_load_fail">Данные о вашем счете недоступны.\nПроведите вниз, чтобы повторить попытку.</string>
+    <string name="ppwc_paid">ОПЛАЧЕНО</string>
+    <string name="view_loan_details">Просмотреть данные о займе</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Ваш кредит для бизнеса %1$s был полностью выплачен.</string>
+    <string name="apply_again">Подайте заявку еще раз</string>
+    <string name="ppwc_info">Информация</string>
+    <string name="outstanding_balance_title">Просроченный остаток</string>
+    <string name="loan_details">Данные о займе</string>
+    <string name="initial_loan_amount">Первоначальная сумма кредита</string>
+    <string name="loan_fee">Комиссия по займу</string>
+    <string name="repayment_percentage">Процент на возврат средств</string>
+    <string name="view_loan_activity">Просмотреть историю займов</string>
+    <string name="make_one_time_payment">Разовый платеж</string>
+    <string name="catch_up_balance">Остаток по платежу-компенсации</string>
+    <string name="loan_activity">История займов</string>
+    <string name="loan_activity_empty">Здесь представлен обзор автовозвратов средств</string>
+    <string name="ppwc_completed">Завершено</string>
+    <string name="ppwc_pending">Не завершено</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Перевод займа</string>
+    <string name="loan_activity_v3_loan_reversal">Возврат средств по займу</string>
+    <string name="loan_activity_v3_fee">Комиссия по займу</string>
+    <string name="loan_activity_v3_aggregated_payment">Обзор автоматического возврата средств</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Платеж-компенсация</string>
+    <string name="loan_activity_v3_automated_daily_payment">Возврат средств по продажам</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Платеж-компенсация в ручном режиме</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Платеж в ручном режиме</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Возврат комиссии по займу</string>
+    <string name="loan_activity_v3_payment_reversal">Возврат платежа</string>
+    <string name="loan_activity_v3_loan_adjustment">Корректировка займа</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Корректировка комиссии по займу</string>
+    <string name="loan_activity_v3_payment_adjustment">Корректировка платежа</string>
+    <string name="loan_activity_v3_other_payment">Другой платеж</string>
+    <string name="loan_activity_loan_transfer">Перевод займа</string>
+    <string name="loan_activity_fee">Комиссия по займу</string>
+    <string name="loan_activity_automated_catchup_payment">Автоматический платеж-компенсация</string>
+    <string name="loan_activity_automated_daily_payment">Автоматический возврат средств</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Платеж-компенсация в ручном режиме</string>
+    <string name="loan_activity_customer_initiated_payment">Платеж в ручном режиме</string>
+    <string name="loan_activity_loan_reversal">Возврат средств по займу</string>
+    <string name="loan_activity_loan_fee_reversal">Возврат комиссии по займу</string>
+    <string name="loan_activity_payment_reversal">Возврат платежа</string>
+    <string name="loan_activity_loan_adjustment">Корректировка займа</string>
+    <string name="loan_activity_loan_fee_adjustment">Корректировка комиссии по займу</string>
+    <string name="loan_activity_payment_adjustment">Корректировка платежа</string>
+    <string name="loan_activity_other_payment">Другой платеж</string>
+    <string name="loan_activity_aggregated_payment">Обзор автоматического возврата средств</string>
+    <string name="make_payment">Совершите платеж</string>
+    <string name="make_payment_description">Ваш платеж списан с вашего доступного остатка на счете PayPal</string>
+    <string name="choose_payment_amount">Выберите сумму платежа:</string>
+    <string name="pay_specific_amount">Выплата точной суммы</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Оплатите %1$s непогашенный остаток по займу</string>
+    <string name="pay_remaining_loan_balance_description">Для того чтобы обработать ваш последний платеж, может потребоваться до 3 рабочих дней. Вы сможете подать заявку на получение другого займа по прошествии этого времени.</string>
+    <string name="ppwc_continue">Продолжить</string>
+    <string name="enter_payment_amount">Введите сумму платежа</string>
+    <string name="current_loan_balance">Текущий остаток по займу:</string>
+    <string name="available_paypal_balance">Доступный остаток на счете PayPal:</string>
+    <string name="review_and_pay">Проверить и оплатить</string>
+    <string name="ppwc_amount">Сумма</string>
+    <string name="ppwc_pay">Оплатить</string>
+    <string name="ppwc_payment_method">Способ оплаты</string>
+    <string name="ppwc_payment_date">Дата платежа</string>
+    <string name="review_and_pay_description">До тех пор пока заем не будет выплачен полностью, ваш доход от продаж будет источником автоматических возвратов средств, даже если вы совершили единовременный платеж.</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Вы совершили платеж на сумму %1$s</string>
+    <string name="make_payment_success_message">Ваш счет будет обновлен, как только платеж будет обработан.</string>
+    <string name="ppwc_done">Готово</string>
+    <string name="make_payment_error_insufficient_balance">Вашего остатка на счете PayPal недостаточно для выполнения платежа</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Введите сумму, эквивалентную вашему остатку на счете PayPal или менее.</string>
+    <string name="working_capital">Оборотные средства</string>
+    <string name="general_error_title">Повторите попытку</string>
+    <string name="general_error_message">Похоже, возникла проблема с нашей стороны.</string>
+    <string name="ppwc_try_again">Повторите попытку</string>
+    <string name="catch_up_info_intro">Платеж-компенсация начисляется, когда вы выводите, переводите или тратите доходы от продаж до того, как происходит автоматический возврат средств.</string>
+    <string name="catch_up_info_how_reduced_title">Как вычитается мой остаток по платежу-компенсации\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">Когда новые средства станут доступны на вашем остатке на счете PayPal, мы автоматически вычтем платежи-компенсации, пока остаток по платежам-компенсациях не снизится до 0 долларов.\n\nВы также можете немедленно %1$s сократить остаток.</string>
+    <string name="make_manual_payment">совершайте платеж вручную</string>
+    <string name="catch_up_info_how_avoid_title">Как избежать появления остатка по платежам-компенсациям\?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Для того чтобы у вас не было остатка по платежу-компенсации, на вашем остатке счета PayPal должна находиться сумма, превышающая сумму вашего ежедневного автоматического возврата.\n\nПодробную информацию о платежах-компенсациях %1$s</string>
+    <string name="please_see_faq">можно найти в разделе часто задаваемых вопросов</string>
+    <string name="ppwc_discovery_message">НОВИНКА! Просматривайте и управляйте своим займом в PayPal Working Capital</string>
+    <string name="last_x_days" formatSpecifiers="number">ЗА ПОСЛЕДНИЕ %1$s ДН.</string>
+    <string name="apply_loan">Обратитесь за доступным кредитом для бизнеса без проверки кредитоспособности или личной гарантии.\n\nСоставление заявления и предоставление средств занимают всего несколько минут.</string>
+    <string name="learn_how_label">Узнайте, как это работает</string>
+    <string name="application_approved">Ваша заявка одобрена.</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Вы можете настроить и принять предложение до %1$s.</string>
+    <string name="review_offer">Просмотреть предложение</string>
+    <string name="view_loan_decision">Просмотреть решение по кредиту для бизнеса</string>
+    <string name="application_status_changed">Статус вашей заявки изменен.</string>
+    <string name="check_status">Проверить статус</string>
+    <string name="saved_offer">У вас есть сохраненное предложение</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Ваше предложение действует до %1$s.\n\nВы можете настроить и принять предложение и получить финансирование в считанные минуты.</string>
+    <string name="review_application">Ваша заявка находится на рассмотрении</string>
+    <string name="review_application_description">Когда мы примем решение по вашему кредиту для бизнеса, вы получите электронное письмо.</string>
+    <string name="more_details">Подробнее</string>
+    <string name="pending_funding_primary_desc">Ваш кредит для бизнеса скоро будет у вас. </string>
+    <string name="pending_funding_secondary_desc">Если средства не появятся на вашем счете PayPal в течение 24 часов, позвоните нам.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d завершен</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">В обработке: %1$d</string>
+    <string name="make_payment_error_amount_gt_loan_due">Введите сумму, эквивалентную остатку по займу или менее.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Введите целое число, без десятичных чисел.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

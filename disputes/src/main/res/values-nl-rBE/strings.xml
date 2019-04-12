@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s heeft een geschil voor %2$s geopend</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s heeft een geschil voor %2$s gesloten</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">U heeft zich tot PayPal gewend voor het geschil van %1$s voor %2$s.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s heeft zich met een geschil voor %2$s gewend tot PayPal.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s heeft een verzoek om terugboeking ingediend voor een geschil voor %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">Bekijk de oplossing voor het geschil van %1$s voor %2$s.</string>
+    <string name="dispute_reason_item_not_received">niet-ontvangen object</string>
+    <string name="dispute_reason_item_not_as_described">object wijkt af van de omschrijving</string>
+    <string name="dispute_new_label">NIEUW</string>
+    <string name="dispute_chargeback_label">TERUGBOEKINGEN</string>
+    <string name="dispute_awaiting_on_buyer_label">WACHTEND OP KOPER</string>
+    <string name="dispute_awaiting_on_you_label">WACHTEND OP U</string>
+    <string name="dispute_in_review_label">IN BEHANDELING</string>
+    <string name="dispute_resolved_label">OPGELOST</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">U heeft gereageerd op %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">Koper heeft gereageerd op %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">Reageer uiterlijk op %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">Koper moet uiterlijk op %1$s reageren.</string>
+    <string name="dispute_awaiting_buyers_response_action">Wachtend op reactie van koper.</string>
+    <string name="dispute_awaiting_resolution_action">Wachtend op oplossing.</string>
+    <string name="dispute_card_title">Geschillen</string>
+    <string name="dispute_respond_action">Reageren</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s geschillen zijn in afwachting van uw reactie</string>
+    <string name="dispute_multiple_view_all">Alles weergeven</string>
+    <string name="dispute_view_details">Details weergeven</string>
+    <string name="dispute_details_title">Geschil</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">Kwestienummer: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Laatste update: %1$s</string>
+    <string name="dispute_customer_contact_title">Contactpersoon klant</string>
+    <string name="dispute_tracking_information">Volginformatie</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">Nummer: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">Vervoerder: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">Transactiereferentie verkoper</string>
+    <string name="dispute_last_comment_title">Laatste opmerking</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">Klant: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">U: %1$s</string>
+    <string name="dispute_order_details_title">Bestelgegevens</string>
+    <string name="dispute_shipped_to_title">Verzonden naar</string>
+    <string name="dispute_message_buyer">Bericht aan koper</string>
+    <string name="dispute_provide_info_to_paypal">Verstrek informatie aan PayPal</string>
+    <string name="dispute_issue_refund">Doe een terugbetaling</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">Reageer uiterlijk op: %1$s.</string>
+    <string name="dispute_claim_accepted_success">Claim is geaccepteerd.</string>
+    <string name="dispute_claim_accepted_error">We kunnen de claim op dit moment niet verwerken.</string>
+    <string name="dispute_esclated_success">Geëscaleerd naar PayPal.</string>
+    <string name="dispute_esclated_error">We kunnen niet escaleren naar PayPal.</string>
+    <string name="dispute_full_refund_success">Aanbieding gedaan.</string>
+    <string name="dispute_full_refund_error">We kunnen op dit moment geen aanbieding doen.</string>
+    <string name="dispute_provide_evidence_success">Bewijs is verstrekt.</string>
+    <string name="dispute_action_accept_claim">Volledige terugbetaling</string>
+    <string name="dispute_action_escalate_to_paypal">Escaleren naar PayPal</string>
+    <string name="dispute_action_full_refund">Volledige terugbetaling aanbieden</string>
+    <string name="dispute_action_provide_evidence">Bewijs overleggen</string>
+    <string name="dispute_actions_label">Acties</string>
+    <string name="dispute_conversation_title">Berichten</string>
+    <string name="dispute_send_message">Bericht aan koper...</string>
+    <string name="dispute_conversation_you">U</string>
+    <string name="dispute_hub_title">Geschillen</string>
+    <string name="dispute_offer_refund_title">Een bericht versturen</string>
+    <string name="dispute_offer_refund_send_message">Een bericht aan uw klant versturen</string>
+    <string name="dispute_offer_refund_default_message">Ik wil u een volledige terugbetaling aanbieden. Wilt u dit accepteren\?</string>
+    <string name="dispute_offer_refund_ask_return">Vraag de koper het object terug te sturen.</string>
+    <string name="dispute_offer_refund_missing_note">Het veld Opmerking is vereist</string>
+    <string name="dispute_accept_claim_note_placeholder">Voer hier uw opmerking in</string>
+    <string name="dispute_escalate_to_paypal_title">Beschrijf het probleem</string>
+    <string name="dispute_escalate_to_paypal_header_message">Voer een gedetailleerde omschrijving in van het probleem dat u met deze transactie ondervindt.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">Voer hier de omschrijving in</string>
+    <string name="dispute_escalate_to_paypal_missing_description">Het veld Omschrijving is vereist</string>
+    <string name="dispute_offer_refund_confirmation_title">Controleren en bevestigen</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Zodra de volledige terugbetaling aan %1$s is verricht, is dit probleem opgelost en wordt het gesloten. </string>
+    <string name="dispute_offer_refund_label_transaction_amount">Transactiebedrag</string>
+    <string name="dispute_offer_refund_label_transaction_id">Transactiereferentie</string>
+    <string name="dispute_offer_refund_label_your_message">Uw bericht</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">Een volledige terugbetaling aanbieden</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">Zodra dit bevestigd is, wordt een volledige terugbetaling overgemaakt aan %1$s en wordt dit probleem opgelost en gesloten.</string>
+    <string name="dispute_accept_claim_confirmation_button">Terugbetaling</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">Controleren en bevestigen</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer"> U heeft dit naar PayPal geëscaleerd aangezien u niet tot overeenstemming kon komen met de koper. \n\nHet transactiebedrag wordt vastgehouden totdat deze kwestie is gesloten.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">Transactiebedrag</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">Transactiereferentie</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Gedetailleerde omschrijving</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">Escaleren</string>
+    <string name="dispute_add_tracking_confirmation_message">U heeft uw volginformatie bijgewerkt.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">Uw klant ontvangt een e-mail met de door u verstrekte informatie.</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">Escaleren naar PayPal</string>
+    <string name="dispute_escalate_primer_preface">Houd rekening met de volgende zaken voordat u overgaat tot escalatie</string>
+    <string name="dispute_escalate_primer_line_one">Zodra een claim is geopend, kunt u niet meer rechtstreeks communiceren met de koper.</string>
+    <string name="dispute_escalate_primer_line_two">Alle openstaande voorstellen tot terugbetaling van de verkoper worden geannuleerd.</string>
+    <string name="dispute_escalate_primer_line_three">Het kan tot 30 dagen duren voordat we uw claim hebben beoordeeld en een beslissing hebben genomen.</string>
+    <string name="dispute_escalate_primer_line_four">We beoordelen de informatie die u heeft verstrekt tezamen met de berichten die u en de koper over deze transactie hebben uitgewisseld.</string>
+    <string name="dispute_escalate_primer_line_five">We sturen u een e-mail als we tijdens het onderzoek meer informatie van u nodig hebben.</string>
+    <string name="dispute_escalate_primer_line_six">Als we een beslissing hebben genomen, is deze definitief en wordt de claim gesloten.</string>
+</resources>

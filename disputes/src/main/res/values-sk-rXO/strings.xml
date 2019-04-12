@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s otvoril spor vo veci: %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s uzavrel spor vo veci: %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">Spor používateľa %1$s vo veci %2$s ste postúpili spoločnosti PayPal.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s postúpil spor vo veci %2$s spoločnosti PayPal.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s požiadal o chargeback v spore vo veci %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">Zobraziť riešenie sporu používateľa %1$s vo veci %2$s.</string>
+    <string name="dispute_reason_item_not_received">nedoručený tovar</string>
+    <string name="dispute_reason_item_not_as_described">tovar nezodpovedá opisu</string>
+    <string name="dispute_new_label">NOVÉ</string>
+    <string name="dispute_chargeback_label">CHARGEBACK</string>
+    <string name="dispute_awaiting_on_buyer_label">ČAKÁ SA NA KUPUJÚCEHO</string>
+    <string name="dispute_awaiting_on_you_label">ČAKÁ SA NA VÁS</string>
+    <string name="dispute_in_review_label">OVERUJE SA</string>
+    <string name="dispute_resolved_label">VYRIEŠENÉ</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">Odpovedali ste %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">Kupujúci odpovedal %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">Odpovedzte do %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">Je potrebné, aby kupujúci odpovedal do %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">Čaká sa na odpoveď kupujúceho.</string>
+    <string name="dispute_awaiting_resolution_action">Čaká sa na riešenie.</string>
+    <string name="dispute_card_title">Spory</string>
+    <string name="dispute_respond_action">Odpovedať</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">Vašu odpoveď si vyžaduje nasledujúci počet sporov: %1$s</string>
+    <string name="dispute_multiple_view_all">Zobraziť všetko</string>
+    <string name="dispute_view_details">Zobraziť podrobnosti</string>
+    <string name="dispute_details_title">Spor</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">Prípad s ID %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Dátum poslednej aktualizácie: %1$s</string>
+    <string name="dispute_customer_contact_title">Kontaktné údaje zákazníka</string>
+    <string name="dispute_tracking_information">Údaje o sledovaní</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">Číslo: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">Dopravca: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">ID transakcie predajcu</string>
+    <string name="dispute_last_comment_title">Posledný komentár</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">Zákazník: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">Vy: %1$s</string>
+    <string name="dispute_order_details_title">Podrobnosti objednávky</string>
+    <string name="dispute_shipped_to_title">Príjemca zásielky</string>
+    <string name="dispute_message_buyer">Poslať kupujúcemu správu</string>
+    <string name="dispute_provide_info_to_paypal">Poskytnúť informácie spoločnosti PayPal</string>
+    <string name="dispute_issue_refund">Vrátiť peniaze</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">Odpovedzte do: %1$s</string>
+    <string name="dispute_claim_accepted_success">Sťažnosť bola úspešne prijatá.</string>
+    <string name="dispute_claim_accepted_error">Momentálne nie je možné sťažnosť spracovať.</string>
+    <string name="dispute_esclated_success">Sťažnosť postúpená spoločnosti PayPal.</string>
+    <string name="dispute_esclated_error">Nie je možné postúpiť sťažnosť spoločnosti PayPal.</string>
+    <string name="dispute_full_refund_success">Ponuka sa úspešne odoslala.</string>
+    <string name="dispute_full_refund_error">Momentálne nie je možné odoslať ponuku.</string>
+    <string name="dispute_provide_evidence_success">Poskytnutie dôkazov bolo úspešné.</string>
+    <string name="dispute_action_accept_claim">Úplné vrátenie peňazí</string>
+    <string name="dispute_action_escalate_to_paypal">Postúpiť sťažnosť spoločnosti PayPal</string>
+    <string name="dispute_action_full_refund">Ponúknuť úplné vrátenie peňazí</string>
+    <string name="dispute_action_provide_evidence">Poskytnúť dôkaz</string>
+    <string name="dispute_actions_label">Akcie</string>
+    <string name="dispute_conversation_title">Správy</string>
+    <string name="dispute_send_message">Poslať kupujúcemu správu</string>
+    <string name="dispute_conversation_you">VY</string>
+    <string name="dispute_hub_title">Spory</string>
+    <string name="dispute_offer_refund_title">Poslať správu</string>
+    <string name="dispute_offer_refund_send_message">Poslať správu zákazníkovi</string>
+    <string name="dispute_offer_refund_default_message">Ponúkam Vám úplné vrátenie peňazí. Chcete ponuku prijať\?</string>
+    <string name="dispute_offer_refund_ask_return">Požiadajte kupujúceho o vrátenie tovaru.</string>
+    <string name="dispute_offer_refund_missing_note">Pole Poznámka je povinné</string>
+    <string name="dispute_accept_claim_note_placeholder">Sem zadajte poznámku</string>
+    <string name="dispute_escalate_to_paypal_title">Opíšte problém</string>
+    <string name="dispute_escalate_to_paypal_header_message">Zadajte podrobný opis problému, ktorý máte s danou transakciou.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">Sem zadajte opis</string>
+    <string name="dispute_escalate_to_paypal_missing_description">Pole Opis je povinné</string>
+    <string name="dispute_offer_refund_confirmation_title">Kontrola a potvrdenie</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Po úplnom vrátení peňazí kupujúcemu %1$s sa problém vyrieši a prípad sa uzavrie.</string>
+    <string name="dispute_offer_refund_label_transaction_amount">Suma transakcie</string>
+    <string name="dispute_offer_refund_label_transaction_id">ID transakcie</string>
+    <string name="dispute_offer_refund_label_your_message">Vaša správa</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">Ponúknuť úplné vrátenie peňazí</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">Po potvrdení sa celá vrátená suma odošle kupujúcemu %1$s a tento problém sa vyrieši a uzavrie.</string>
+    <string name="dispute_accept_claim_confirmation_button">Vrátené peniaze</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">Kontrola a potvrdenie</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer">Keďže sa vám s kupujúcim nepodarilo dosiahnuť dohodu, postupujete tento prípad spoločnosti PayPal.\n\nSumu tejto transakcie zadržíme, pokiaľ prípad neuzavrieme.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">Suma transakcie</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">ID transakcie</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Podrobný opis</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">Postúpiť sťažnosť</string>
+    <string name="dispute_add_tracking_confirmation_message">Údaje o sledovaní zásielky ste úspešne aktualizovali.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">E-mail s poskytnutými údajmi sa odošle vášmu zákazníkovi.</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">Postúpiť sťažnosť spoločnosti PayPal</string>
+    <string name="dispute_escalate_primer_preface">Pred postúpením sťažnosti by ste nemali zabúdať na tieto skutočnosti</string>
+    <string name="dispute_escalate_primer_line_one">Po otvorení sťažnosti už nebudete môcť s kupujúcim komunikovať priamo.</string>
+    <string name="dispute_escalate_primer_line_two">Všetky nedokončené ponuky na vrátenie peňazí od predajcu budú zrušené.</string>
+    <string name="dispute_escalate_primer_line_three">Preverovanie sťažnosti a prijatie rozhodnutia môže trvať až 30 dní.</string>
+    <string name="dispute_escalate_primer_line_four">Preveríme údaje, ktoré ste nám poskytli, a tiež správy týkajúce sa tejto transakcie, ktoré ste si vy a kupujúci poslali navzájom.</string>
+    <string name="dispute_escalate_primer_line_five">Ak od vás budeme počas prešetrovania potrebovať ďalšie informácie, pošleme vám e-mail.</string>
+    <string name="dispute_escalate_primer_line_six">Keď vydáme rozhodnutie, bude konečné a sťažnosť uzavrieme.</string>
+</resources>

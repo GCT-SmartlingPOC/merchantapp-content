@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: Send Detailed Payment Requests</string>
+    <string name="ios_subtitle">Manage sales, detailed payment requests &amp; money</string>
+    <string name="ios_promotional_text">PayPal Business makes it easy to manage your activity, check your balance, send detailed payment requests, view customer info, and analyze sales trends. Anytime. Anywhere.</string>
+    <string name="full_description_line_1">For businesses on the go! Send detailed payment requests, track sales, and manage your money with the PayPal Business app.</string>
+    <string name="full_description_line_2_bullet_1">o Make and send detailed payment requests quickly</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_para_1_header">SEND DETAILED PAYMENT REQUESTS AND GET PAID</string>
+    <string name="full_description_para_1_description">Make, send and manage detailed payment requests quickly from the PayPal Business app. PayPal\'s detailed payment requests maker also makes it easy to send payment reminders to customers directly from your mobile device.</string>
+    <string name="full_description_para_3_header">TRANSFER FUNDS</string>
+    <string name="full_description_para_3_description">Move money to your linked merchant bank account, issue refunds, and send payments in just a few clicks. Save time by skipping the bank lines with this mobile money management app.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_footer_1">The PayPal Business app offers your small business a quick and simple way to make and send detailed payment requests, get paid, and manage your money right from your phone.</string>
+    <string name="ios_keywords">send payments,get paid,payment,bank,transfer,sales,insights,customer,invoice maker,invoice,free,pay</string>
+</resources>

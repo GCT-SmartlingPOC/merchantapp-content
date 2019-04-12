@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Salgsdata</string>
+    <string name="month">Måned</string>
+    <string name="quarter">Kvartal</string>
+    <string name="year">År</string>
+    <string name="year_to_date">År til dato</string>
+    <string name="title_sales_month">Salg i denne måned</string>
+    <string name="title_this_month">Denne måned</string>
+    <string name="ytd">ÅTD</string>
+    <string name="compare_last_year">Sammenlign med sidste år</string>
+    <string name="best_month">BEDSTE MÅNED</string>
+    <string name="worst_month">DÅRLIGSTE MÅNED</string>
+    <string name="best_week">BEDSTE UGE</string>
+    <string name="worst_week">DÅRLIGSTE UGE</string>
+    <string name="avg_order_value">GNS. STØRRELSE PÅ BESTILLINGER</string>
+    <string name="transactions">BETALINGER</string>
+    <string name="last_year_sales" formatSpecifiers="amount">SIDSTE ÅR: %1$s</string>
+    <string name="year_to_date_sales">SALG HIDTIL I ÅR</string>
+    <string name="total_sales">SAMLET SALG</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s SALG</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">KV.</string>
+    <string name="data_unavailable_swipe_again">Data er utilgængelige. Prøv igen.</string>
+</resources>

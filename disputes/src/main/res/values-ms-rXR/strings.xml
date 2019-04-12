@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s pertikaian dibuka untuk %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s pertikaian ditutup untuk %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">Anda menukar %1$s pertikaian untuk %2$s kepada PayPal.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s menukar pertikaian untuk %2$s kepada PayPal.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s difailkan untuk caj balik ke atas pertikaian untuk %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">Lihat penyelesaian pada %1$s pertikaian untuk %2$s.</string>
+    <string name="dispute_reason_item_not_received">item tidak diterima</string>
+    <string name="dispute_reason_item_not_as_described">item tidak seperti yang digambarkan</string>
+    <string name="dispute_new_label">BAHARU</string>
+    <string name="dispute_chargeback_label">CAJ BALIK</string>
+    <string name="dispute_awaiting_on_buyer_label">MENUNGGU PEMBELI</string>
+    <string name="dispute_awaiting_on_you_label">MENUNGGU ANDA</string>
+    <string name="dispute_in_review_label">DALAM SEMAKAN</string>
+    <string name="dispute_resolved_label">DISELESAIKAN</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">Anda memberi respons pada %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">Pembeli memberi respons pada %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">Respons oleh %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">Pembeli mesti memberi respons sebelum %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">Menunggu respons Pembeli.</string>
+    <string name="dispute_awaiting_resolution_action">Menunggu penyelesaian.</string>
+    <string name="dispute_card_title">Mempertikai</string>
+    <string name="dispute_respond_action">Respons</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s pertikaian memerlukan respons anda</string>
+    <string name="dispute_multiple_view_all">View all</string>
+    <string name="dispute_view_details">Lihat Butiran</string>
+    <string name="dispute_details_title">Pertikaian</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">ID Kes: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Kemas Kini Terakhir: %1$s</string>
+    <string name="dispute_customer_contact_title">Maklumat Hubungan Pelanggan</string>
+    <string name="dispute_tracking_information">Maklumat Penjejakan</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">Nombor: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">Pembawa: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">ID Transaksi Penjual</string>
+    <string name="dispute_last_comment_title">Komen Terakhir</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">Pelanggan: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">Anda: %1$s</string>
+    <string name="dispute_order_details_title">Butiran pesanan</string>
+    <string name="dispute_shipped_to_title">Dihantar kepada</string>
+    <string name="dispute_message_buyer">Hantar Mesej kepada Pembeli</string>
+    <string name="dispute_provide_info_to_paypal">Berikan Maklumat kepada PayPal</string>
+    <string name="dispute_issue_refund">Keluarkan Bayaran Balik</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">Respons oleh: %1$s</string>
+    <string name="dispute_claim_accepted_success">Tuntutan berjaya diterima.</string>
+    <string name="dispute_claim_accepted_error">Tidak dapat memproses Tuntutan sekarang!</string>
+    <string name="dispute_esclated_success">Ditambah ke PayPal.</string>
+    <string name="dispute_esclated_error">Tidak dapat menambah ke PayPal!</string>
+    <string name="dispute_full_refund_success">Tawaran berjaya dibuat.</string>
+    <string name="dispute_full_refund_error">Tidak dapat membuat Tawaran pada masa sekarang!</string>
+    <string name="dispute_provide_evidence_success">Bukti berjaya diberikan.</string>
+    <string name="dispute_action_accept_claim">Full Refund</string>
+    <string name="dispute_action_escalate_to_paypal">Tambah ke PayPal</string>
+    <string name="dispute_action_full_refund">Tawaran Bayaran Balik Penuh</string>
+    <string name="dispute_action_provide_evidence">Berikan Bukti</string>
+    <string name="dispute_actions_label">Tindakan</string>
+    <string name="dispute_conversation_title">Mesej</string>
+    <string name="dispute_send_message">Hantar Mesej kepada Pembeli...</string>
+    <string name="dispute_conversation_you">YOU</string>
+    <string name="dispute_hub_title">Mempertikai</string>
+    <string name="dispute_offer_refund_title">Send a message</string>
+    <string name="dispute_offer_refund_send_message">Send a message to your customer</string>
+    <string name="dispute_offer_refund_default_message">Saya ingin menawarkan bayaran balik penuh kepada anda. Adakah anda sudi menerima\?</string>
+    <string name="dispute_offer_refund_ask_return">Minta pembeli memulangkan item.</string>
+    <string name="dispute_offer_refund_missing_note">The note field is required</string>
+    <string name="dispute_accept_claim_note_placeholder">Enter your note here</string>
+    <string name="dispute_escalate_to_paypal_title">Describe the problem</string>
+    <string name="dispute_escalate_to_paypal_header_message">Enter a detailed description of the problem you’re having with this transaction.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">Enter description here</string>
+    <string name="dispute_escalate_to_paypal_missing_description">The description field is required</string>
+    <string name="dispute_offer_refund_confirmation_title">Review and confirm</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Once the full refund to %1$s is sent, this problem will be resolved and closed.</string>
+    <string name="dispute_offer_refund_label_transaction_amount">Amaun transaksi</string>
+    <string name="dispute_offer_refund_label_transaction_id">ID Transaksi</string>
+    <string name="dispute_offer_refund_label_your_message">Mesej anda</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">Tawaran bayaran balik penuh</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">Once confirmed, a full refund will be sent to %1$s and this problem will be resolved and closed.</string>
+    <string name="dispute_accept_claim_confirmation_button">Refund</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">Review and confirm</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer">You are escalating this to PayPal as you were unable to reach an agreement with the buyer.\n\nWe\'ll placed a hold on the transaction amount until this case is closed.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">Amaun transaksi</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">ID Transaksi</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Detailed Description</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">Escalate</string>
+    <string name="dispute_add_tracking_confirmation_message">Anda telah berjaya mengemas kini maklumat penjejakan anda.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">Satu e-mel telah dihantar kepada pelanggan anda berserta maklumat yang anda berikan.</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">Escalate to PayPal</string>
+    <string name="dispute_escalate_primer_preface">Before you escalate, some things you need to know</string>
+    <string name="dispute_escalate_primer_line_one">You\'ll no longer be able to communicte directly with the buyer once a claim has been opened.</string>
+    <string name="dispute_escalate_primer_line_two">Any open refund offers made by the seller will be cancelled.</string>
+    <string name="dispute_escalate_primer_line_three">It can take up to 30 days for us to review your claim and make a decision.</string>
+    <string name="dispute_escalate_primer_line_four">We\'ll review the information you provided, along with the messages you and the buyer exchanged regarding this transaction.</string>
+    <string name="dispute_escalate_primer_line_five">We\'ll email you if we need more information from you during the investigation.</string>
+    <string name="dispute_escalate_primer_line_six">Once we make a decision, it will be final and this claim will be closed.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_transfer">Payment transfer</string>
+    <string name="money_sent">Payment sent</string>
+    <string name="money_received">Payment received</string>
+    <string name="type_request_money">Payment request</string>
+    <string name="type_invoice">Detailed Payment Request</string>
+    <string name="deleting_invoice">Deleting Detailed Payment Request…</string>
+    <string name="cancel_invoice">Cancel Detailed Payment Request</string>
+    <string name="home_pending_invoices">Unpaid Detailed Payment Requests</string>
+    <string name="home_draft_invoices">Draft Detailed Payment Requests</string>
+    <string name="view_new_invoices">View New Detailed Payment Requests</string>
+    <string name="invoice_already_deleted">This Detailed Payment Request has already been deleted.</string>
+    <string name="can_only_delete_draft">Only draft Detailed Payment Request can be deleted.</string>
+    <string name="delete_invoice_confirmation">Delete Detailed Payment Request\?</string>
+    <string name="error_payer_account_restricted">We\'re sorry. Your account is limited. Please contact us for help.</string>
+    <string name="error_feature_unsupported_for_payee">We\'re sorry, the recipient is unable to receive payments.</string>
+    <string name="delete_invoice_failed">Unable to delete Detailed Payment Request</string>
+    <string name="no_results_activities">No Activity.\n\nPayments, Detailed Payment Request, and other account activity will show up here.</string>
+    <string name="refund_insufficent_balance">If you do not have sufficient PayPal balance this will come from your default funding source.</string>
+</resources>

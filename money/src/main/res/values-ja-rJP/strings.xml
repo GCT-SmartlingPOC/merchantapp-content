@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">利用可能残高: %1$s</string>
+    <string name="error_transfer_amount_too_high">利用可能な残高以下の金額を入力してください</string>
+    <string name="fee_label" formatSpecifiers="amount">取引手数料: %1$s</string>
+    <string name="free_label">取引手数料: なし</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">クレジットカード</string>
+    <string name="credebit_card_debit">デビットカード</string>
+    <string name="withdraw_change_fi_title">引出先</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">期限切れ</string>
+    <string name="multiple_currency_disclaimer">PayPalの通貨換算手数料を含む、直近の通貨換算レートを適用した概算額です。</string>
+    <string name="available_parens">(利用可能)</string>
+    <string name="available_colon">利用可能残高:</string>
+    <string name="transfer_money">出金</string>
+    <string name="send_money">支払いの実行</string>
+    <string name="account_available">利用可能残高</string>
+    <string name="account_available_currency" formatSpecifiers="currency">%1$sの利用可能な残高</string>
+    <string name="account_currency_details">通貨の詳細</string>
+    <string name="transfer_balance">残高の引出し</string>
+    <string name="select_destination">宛先を選択</string>
+    <string name="account_no_fi_info">銀行口座を登録すると、資金をPayPalアカウントから銀行口座に引き出すことができます。</string>
+    <string name="link_a_bank_card">銀行またはカードを登録</string>
+    <string name="money_balance_error">お客さまの残高情報にアクセスできません。</string>
+    <string name="why_is_my_money_on_hold">支払いが保留されているのはなぜですか。</string>
+    <string name="no_bank_account_message">PayPal.comで銀行口座を登録すると、支払いをPayPalアカウントから銀行口座に引き出すことができます。</string>
+    <string name="linked_account">登録済みアカウント</string>
+    <string name="review_your_transfer">送金を確認する</string>
+    <string name="transfer_now">今すぐ引き出す</string>
+    <string name="transfer_amount_title">引出し金額:</string>
+    <string name="fee_title">手数料: </string>
+    <string name="youll_get_title">受取額: </string>
+    <string name="transfer">送金</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">数分</string>
+    <string name="continue_with_delayed_transfer">遅延引出しで続ける</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">セキュリティ上の理由から、この取引を確認するためにもう少し時間が必要です。これには最大%1$s時間かかります。引出し手続きを続行しますか。</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">%1$sを振替中です</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">資金を%1$sに振替え中です</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">%1$sを振替え中です</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">お客さまの%1$sを使用して銀行に資金を引き出します</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">処理にかかる時間はほんの数分です。%1$sへの振替に関する状況を引き続きお知らせいたします</string>
+    <string name="money_transfer_minutes_message">引出しには数分かかる場合があり、銀行によって異なります。すべての引出しは審査の対象で、問題が確認された場合は遅延または停止する可能性があります。</string>
+    <string name="converted_from" formatSpecifiers="amount">%1$sから換算</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">換算レート: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">これは約%1$sに換算されます</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">本レートは通貨換算手数料を含む。</string>
+    <string name="transfer_successful">振替の完了</string>
+    <string name="free_fee_message">取引手数料: なし</string>
+    <string name="estimated_total_all_currencies">(換算手数料も含めた、全通貨の合計額の概算)</string>
+    <string name="fees">手数料</string>
+    <string name="title_money_transfer">支払いの引き出し</string>
+    <string name="title_currency_transfer">通貨の振替</string>
+    <string name="withdraw_default_risk_holding_period">送金には最長5日かかります。</string>
+    <string name="withdraw_risk_holding_default">配達予定: 1営業日\n午後7時(東部時間)以降または週末と祝日の引出しの場合は、通常より時間がかかります。すべての引出しは審査の対象で、問題が確認された場合は遅延または停止する可能性があります。</string>
+    <string name="choose_balance">PayPal残高の選択</string>
+    <string name="view_balances_title">PayPal残高</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$sPayPal残高</string>
+    <string name="transfer_to_bank">銀行への引出し</string>
+    <string name="enter_amount">金額を入力</string>
+    <string name="select_currency">通貨を選択</string>
+    <string name="transfer_failed">振替を完了できません</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">金額が最低金額の%1$s未満です。</string>
+    <string name="transfer_to_your_bank">銀行への引出し</string>
+    <string name="choose_bank_or_card">銀行またはカードを選択</string>
+    <string name="got_it">了解</string>
+    <string name="try_instant_transfer_title">即時支払いをお試しください</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">対象のデビットカードを使用した場合、通常はすぐにお客さまの銀行口座で資金が確認できます。\n\n手数料は%1$sです。もしくは、無料の標準オプションを使用することもできます。引出しには最大で30分かかる場合があり、また銀行によって異なります。</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">対象のデビットカードを使用した場合、通常はすぐにお客さまの銀行口座で資金が確認できます。\n\n手数料は%1$sです。もしくは、無料の標準オプションを使用することもできます。引出しには最大で30分かかる場合があり、また銀行によって異なります。</string>
+    <string name="money_transfer_to_your_bank">銀行への引出し</string>
+    <string name="money_transfer_link_debit_card">有効なデビットカードの登録</string>
+    <string name="money_transfer_link_debit_card_bank">有効なデビットカードまたは銀行を登録</string>
+    <string name="money_transfer_link_bank">銀行口座の登録</string>
+    <string name="money_choose_bank_or_card">銀行を選択する</string>
+    <string name="money_transfer_rate_instant">即時: 通常数分</string>
+    <string name="money_transfer_rate_standard">スタンダード: 通常1営業日</string>
+    <string name="money_transfer_fee_free">無料</string>
+    <string name="money_transfer_fee_unknown">手数料あり</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%% (最大%2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">引出しには最長で%1$sかかる場合があり、また銀行によって異なります。すべての引出しは審査の対象で、問題が確認された場合は遅延または停止する可能性があります。</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">%1$sの手数料が差し引かれます</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">%1$sの手数料が差し引かれました</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">手数料: %1$s</string>
+    <string name="money_label_fee_none">手数料不要</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">入金予定: %1$s</string>
+    <string name="money_transfer_proccessing_message">午後7時(東部時間)以降または週末と祝日の引出しの場合は、通常より時間がかかります。すべての引出しは審査の対象で、問題が確認された場合は遅延または停止する可能性があります。</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">%1$sを引き出しました</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">%1$sへ支払いを引き出しました</string>
+    <string name="money_error_no_fi_selected">アカウントを選択してください。</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">金額が可能な%1$sの上限を超えています。</string>
+    <string name="money_error_fi_transfered_max_amount">このカードを使用して上限額を引き出しました。</string>
+    <string name="money_missing_fi_title">お客さまの銀行がすべて表示されませんか\?</string>
+    <string name="money_missing_fi_message">特定の銀行やカード発行会社には対応していません。</string>
+    <string name="money_transfer_one_business_day">1営業日</string>
+    <string name="money_transfer_with_minutes">数分以内</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d営業日</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">銀行によって異なるため、引出しには最長で%1$d%2$sかかる場合があります。</string>
+    <string name="transfer_full_amount">全額を振替</string>
+    <string name="transfer_partial_amount">一部金額を振替</string>
+    <string name="fee">手数料</string>
+    <string name="you_will_get">受取額</string>
+    <string name="cancel_transfer">引出し手続きのキャンセル</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">はい、%1$s時間後に引き出します</string>
+    <string name="oct_risk_hold_planning_title">引出しに予定より時間をいただきますが、手続きを続行しますか。</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">セキュリティ上の理由から、この取引を確認するためにもう少し時間が必要です。これには最大%1$s時間かかります。手数料はかかりません。</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">セキュリティ上の理由から、この取引を確認するためにもう少し時間が必要です。これには最長%1$s時間かかります。</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">入金予定: %1$s時間後</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">%1$sを使用して、銀行へ引出しを行いました</string>
+    <string name="you_canceled_transfer">引出しをキャンセルしました</string>
+    <string name="money_remains_in_paypal_balance">資金はPayPal残高に残ります。</string>
+    <string name="oct_your_transfer_is_delayed">引出しに時間をいただいています</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">セキュリティ上の理由から、この取引を確認するためにもう少し時間が必要です。これには最大%1$s時間かかることがあります。進捗がありしだいメールでご連絡させていただきます。手数料はかかりません。または、引出しをキャンセルすることができます。</string>
+    <string name="error_transaction_failed_title">取引は完了しませんでした</string>
+    <string name="error_transaction_failed_message">申し訳ございませんが、取引を処理できませんでした。ネットワークに接続していることを確認して、もう一度お試しください。</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">セキュリティ上の理由から、この取引を確認するためにもう少し時間が必要です。これには最大%1$s時間かかることがあります。進捗がありしだいメールでご連絡させていただきます。</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">セキュリティ上の理由から、この取引を確認するためにもう少し時間が必要です。これには最大%1$s時間かかることがあります。進捗がありしだいメールでご連絡させていただきます。手数料はかかりません。</string>
+    <string name="oct_cancel_transfer_error">申し訳ございませんが、資金の引出しをキャンセルできませんでした。取引は引き続き保留中です。</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">%1$sの振替の最新情報について、30分以内にお知らせします。</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">%1$sを使用して、銀行への振替がお客さまから依頼されました。</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">%2$sに%1$sを引き出しました</string>
+    <string name="confirm_your_identity">本人確認</string>
+    <string name="cip_transfer_success_title">すべて完了しました!</string>
+    <string name="cip_transfer_failed_title">お客さまの情報を確認できませんでした</string>
+    <string name="cip_transfer_error_title">弊社のシステムで問題が\n発生しているようです。</string>
+    <string name="cip_transfer_aborted_title">お客さまの情報を確認できませんでした</string>
+    <string name="cip_transfer_review_title">情報をご提供いただき、ありがとうございます</string>
+    <string name="cip_transfer_success_explanation">お客さまの情報を確認いたしました。引き続きPayPal残高を維持することができます。支払いのほか、不意の出費への備えとして保管できます。</string>
+    <string name="cip_transfer_failed_explanation">引き続きPayPalから登録済みの銀行口座に支払いを引き出すことはできますが、現時点で残高を利用して支払いを行うことはできません。</string>
+    <string name="cip_transfer_error_explanation">引き続きPayPalから登録済みの銀行口座に支払いを引き出すことはできますが、現時点で残高を利用して支払いを行うことはできません。</string>
+    <string name="cip_transfer_aborted_explanation">引き続きPayPalから登録済みの銀行口座に資金を引き出すことはできますが、現時点で残高を利用して支払いを行うことはできません。</string>
+    <string name="cip_transfer_review_explanation">書類の確認が終わりしだい、メールでお知らせいたします。これには通常、2～3営業日かかります。\n\n確認を待っている間も、常に銀行口座への引出しはできます。</string>
+    <string name="transfer_partial_title">一部金額の振替を行うには、お客さまの本人確認を実施する必要があります</string>
+    <string name="partial_choice_description">この振替後に残りのPayPal残高を利用して支払いを行うには、本人確認のため詳細情報が必要となります。</string>
+    <string name="transfer_full_amount_instead">代わりに全額を振替</string>
+    <string name="your_transfer_is_pending">お客さまの引出しは保留中です</string>
+    <string name="compliance_pending_primary_warning">規制上の要件により、一部の取引について詳細な審査が求められています。お客さまの引出しは、確認中のため一時保留されています。</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">引出しの処理に時間をいただいているため、%1$sの手数料はかかりません。</string>
+    <string name="there_is_a_problem">問題があります</string>
+    <string name="not_able_to_complete_transaction">今すぐこの取引を完了することはできません。</string>
+    <string name="identity_not_confirmed">まだ本人確認を実施していません</string>
+    <string name="identity_not_confirmed_description">続行して、今すぐ本人確認を実施しますか。この手順を省略した場合、登録済み銀行口座にPayPalから資金を引き出すことはできますが、PayPal残高を利用して支払うことはできません。</string>
+    <string name="paypal_cash">PayPalキャッシュ</string>
+    <string name="money_waiting">待機中の資金</string>
+    <string name="accept_it_now">今すぐ受け取る</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">%1$sをどうされますか。</string>
+    <string name="transfer_it_to_your_bank">銀行への引き出し</string>
+    <string name="transfer_it_to_your_bank_desc">わずかな手数料で、資金を数分でお客さまの銀行に引き出すことができます。または無料で、お客様の銀行に移動することができます。</string>
+    <string name="keep_it_in_paypal">PayPalに残しておく</string>
+    <string name="keep_it_in_paypal_cash_desc">PayPalキャッシュアカウントを設定し、PayPalから直接送金や支払いができるようにしましょう。</string>
+    <string name="unable_to_create_paypal_cash_account">申し訳ございませんが、現時点ではお客さまのPayPalキャッシュアカウントを開設できませんでした。代わりに銀行に資金を振り替える</string>
+    <string name="you_are_all_set">すべて完了しました</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">お客さまの新しいPayPalキャッシュアカウントで%1$sを利用できるようになりました。</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">お友達がお客さまに送金したり、お客さまが商品を販売すると、ホーム画面に表示されます。</string>
+    <string name="error_create_paypal_cash_account">弊社側で問題が発生しているようです。\nもう一度お試しください。</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

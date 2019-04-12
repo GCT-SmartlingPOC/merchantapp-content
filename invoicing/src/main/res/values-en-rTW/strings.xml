@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_email_name_mobile">Enter email address or name</string>
+    <string name="email_address_required">Email address (Required)</string>
+    <string name="type_recurring">Recurring payment</string>
+    <string name="search_hint">Enter name or email address</string>
+    <string name="add_note_to_customer">Add a note to your customer</string>
+    <string name="description_hint">Enter a detailed item or service description.</string>
+    <string name="address_line1">Address</string>
+    <string name="address_line2">Address line 2 (optional)</string>
+    <string name="city">City/County/District</string>
+    <string name="state">Province/Municipality</string>
+    <string name="contacts_never_ask_again">Go to your Settings to grant this permission.</string>
+    <string name="invalid_address_line1">Required</string>
+    <string name="invalid_address_city">Required</string>
+    <string name="invalid_address_state">Required</string>
+    <string name="error_invoice_merchant_restricted">We\'re sorry. Your account is currently limited. Please contact us for help.</string>
+    <string name="specify_non_zero">Please enter an amount.</string>
+    <string name="error_negative_invoice_with_items">Your invoice total must be greater than 0</string>
+    <string name="share_link_warning">As invoices contain your customers\' personal information, never share an invoice link in a public forum.</string>
+    <string name="sending_cancellation_failed">Error sending cancelation</string>
+    <string name="request_contacts_access_message">Add your mobile contacts to invoice clients more quickly.</string>
+    <string name="select_template_to_use">Select a template</string>
+    <string name="select_template_helptext">You can change this at any time in your account settings.</string>
+    <string name="invalid_attachment">We\'re sorry, we couldn\'t open the attachment.</string>
+    <string name="reference_hint">You can include a reference, like a purchase order number, here.</string>
+    <string name="email">Email address</string>
+    <string name="send_reminder_subject">Reminder: An invoice payment is due</string>
+    <string name="invoice_draft_empty_message">Draft new invoices and finish them later.</string>
+    <string name="invoice_unpaid_empty_message">Unpaid invoices will appear here. You can tap on an invoice to edit it or follow up with a customer.</string>
+    <string name="accessibility_discount_percent_off">Percentage off</string>
+    <string name="save_tax_fail">We\'re sorry. We were unable to save that tax. Please try again.</string>
+    <string name="msg_error_loading_invoices">We\'re sorry. We were unable to load your invoices. Please try again.</string>
+    <string name="unconfirmed_email">Unconfirmed email address</string>
+    <string name="confirm_email">Confirm Email Address</string>
+    <string name="invoice_send_date_warning" formatSpecifiers="date">Invoice date set to \n%1$s.\nTapping Send will deliver the invoice to the customer immediately</string>
+    <string name="no_results_customers">Your customers will display here.</string>
+</resources>

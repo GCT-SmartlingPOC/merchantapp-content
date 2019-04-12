@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: Mengirim Faktur</string>
+    <string name="ios_subtitle">Kelola penjualan, faktur &amp; dana Anda</string>
+    <string name="ios_promotional_text">Aplikasi PayPal Business memberikan kemudahan mengelola aktivitas rekening, memeriksa saldo, mengirim faktur, melihat info pelanggan, dan menganalisis tren penjualan. Kapan pun. Di manapun. </string>
+    <string name="android_short_description">Pantau rekening bisnis PayPal Anda di mana pun Anda berada.</string>
+    <string name="full_description_line_1">Untuk bisnis daring! Kirim faktur, lacak penjualan, dan kelola dana dari aplikasi PayPal Business.</string>
+    <string name="full_description_line_2_bullet_1">o Buat dan kirim faktur dengan cepat</string>
+    <string name="full_description_line_2_bullet_2">o Kelola penjualan dan lacak aktivitas rekening</string>
+    <string name="full_description_line_2_bullet_3">o Transfer dana</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Lihat tren penjualan bulanan, triwulanan, dan tahunan secara ringkas</string>
+    <string name="full_description_line_2_bullet_6">o Akses info pelanggan dengan cepat dan mudah</string>
+    <string name="full_description_para_1_header">KIRIM FAKTUR DAN TERIMA PEMBAYARAN</string>
+    <string name="full_description_para_1_description">Buat, kirim, dan kelola faktur dengan cepat dari aplikasi PayPal Business. Fitur pembuat faktur PayPal memudahkan Anda mengirim pengingat pembayaran kepada pelanggan langsung dari perangkat seluler Anda.</string>
+    <string name="full_description_para_2_header">KELOLA PENJUALAN DAN AKTIVITAS REKENING</string>
+    <string name="full_description_para_2_description">Lihat penjualan harian Anda, dan lihat penjualan bulanan, triwulanan, dan tahunan dari bisnis Anda secara ringkas.</string>
+    <string name="full_description_para_3_header">TRANSFER DANA</string>
+    <string name="full_description_para_3_description">Transfer dana ke rekening bank pedagang yang terhubung, kembalikan dana, dan kirim pembayaran cukup dengan beberapa klik. Hemat waktu Anda dengan melewatkan antrean bank menggunakan aplikasi manajemen dana seluler ini.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">AKSES INFORMASI PELANGGAN</string>
+    <string name="full_description_para_5_description">Lihat riwayat transaksi pelanggan, informasi kontak, dan berkomunikasi dengan pelanggan langsung dari perangkat seluler Anda. Mengimpor kontak juga dapat Anda lakukan dengan mudah!</string>
+    <string name="full_description_para_footer_1">Aplikasi PayPal Business menawarkan cara yang cepat dan mudah bagi usaha kecil Anda untuk membuat dan mengirim faktur, menerima pembayaran, dan mengelola dana langsung dari ponsel Anda.</string>
+    <string name="full_description_para_footer_2">Perlu menerima kartu kredit/debit di perangkat seluler\? Coba aplikasi seluler PayPal Here!</string>
+    <string name="ios_keywords">kirim pembayaran, terima pembayaran, pembayaran, bank, transfer, penjualan, wawasan seputar, pelanggan, pembuat faktur, faktur, gratis, bayar</string>
+    <string name="ios_release_notes_1">Terima kasih telah menggunakan PayPal Business! Kami memperbaiki bug dan crash untuk meningkatkan pengalaman Anda setiap hari.</string>
+    <string name="ios_release_notes_2">Mengelola bisnis Anda kini jadi semakin mudah karena kami telah memperbaiki bug dan crash dengan pembaruan ini. Semoga aplikasi ini bermanfaat!</string>
+    <string name="ios_release_notes_3">Bersama setiap pembaruan, kami berupaya meningkatkan pengalaman Anda dan membuat pengelolaan bisnis dan pembuatan faktur Anda lebih mudah dan cepat. Terima kasih telah menggunakan PayPal Business!</string>
+    <string name="ios_release_notes_4">Bersama pembaruan ini, kami menyertakan peningkatan dan perbaikan untuk memudahkan Anda mengelola bisnis dan rekening PayPal Anda. Selamat menggunakan aplikasi PayPal Business!</string>
+    <string name="ios_release_notes_5">Dalam rilis ini, kami memperbaiki bug dan pesan kesalahan untuk meningkatkan pengalaman Anda saat mengirim faktur. Terima kasih telah menggunakan PayPal Business!</string>
+    <string name="android_release_notes_line_1">Peningkatan dan perbaikan produk</string>
+</resources>

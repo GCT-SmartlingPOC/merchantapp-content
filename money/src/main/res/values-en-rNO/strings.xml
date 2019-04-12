@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="link_a_bank_card">Link a Bank Account or Card</string>
+    <string name="money_transfer_proccessing_message">All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+</resources>

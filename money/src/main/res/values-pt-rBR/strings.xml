@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">Disponível: %1$s</string>
+    <string name="error_transfer_amount_too_high">Informe um valor menor ou igual ao seu saldo disponível</string>
+    <string name="fee_label" formatSpecifiers="amount">Tarifa da transação: %1$s</string>
+    <string name="free_label">Tarifa da transação: nenhuma</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">Crédito</string>
+    <string name="credebit_card_debit">Débito</string>
+    <string name="withdraw_change_fi_title">Enviando para</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">Vencido</string>
+    <string name="multiple_currency_disclaimer">Estimativa baseada na taxa de conversão mais recente, incluindo a nossa tarifa de conversão de moedas.</string>
+    <string name="available_parens">(disponível)</string>
+    <string name="available_colon">Disponível:</string>
+    <string name="transfer_money">Transferir saldo</string>
+    <string name="send_money">Enviar pagamentos​</string>
+    <string name="account_available">Disponível</string>
+    <string name="account_available_currency" formatSpecifiers="currency">Saldo disponível em %1$s</string>
+    <string name="account_currency_details">Detalhes da moeda</string>
+    <string name="transfer_balance">Transferir saldo</string>
+    <string name="select_destination">Selecionar destino</string>
+    <string name="account_no_fi_info">Para transferir pagamentos da sua conta do PayPal, adicione uma conta bancária.</string>
+    <string name="link_a_bank_card">Adicionar banco ou cartão</string>
+    <string name="money_balance_error">Não é possível acessar as informações do seu saldo.</string>
+    <string name="why_is_my_money_on_hold">Por que meu pagamento está retido\?</string>
+    <string name="no_bank_account_message">Adicione uma conta bancária no site do PayPal para poder transferir pagamentos da sua conta do PayPal.</string>
+    <string name="linked_account">Conta adicionada</string>
+    <string name="review_your_transfer">Revise sua transferência</string>
+    <string name="transfer_now">Transferir agora</string>
+    <string name="transfer_amount_title">Valor da transferência:</string>
+    <string name="fee_title">Tarifa:</string>
+    <string name="youll_get_title">Você receberá:</string>
+    <string name="transfer">Transferir</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">em alguns minutos</string>
+    <string name="continue_with_delayed_transfer">Continuar com a transferência atrasada</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">Por motivos de segurança, precisamos de mais tempo para analisar essa transação. Isso pode levar até %1$s horas. Você ainda quer continuar com a transferência\?</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">Seu %1$s está a caminho!</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">Você está transferindo um pagamento para %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">Você está transferindo %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">Você está transferindo recursos para sua conta bancária usando seu %1$s</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">Esse processo leva apenas alguns minutos. Manteremos você atualizado sobre sua transferência para %1$s</string>
+    <string name="money_transfer_minutes_message">As transferências podem demorar alguns minutos e variar conforme o banco. Todas as transferências estão sujeitas à análise e podem atrasar ou ser interrompidas se identificarmos um problema.</string>
+    <string name="converted_from" formatSpecifiers="amount">Convertido de %1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">Taxa de conversão: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">Após convertido, o valor será de aproximadamente %1$s</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">A taxa inclui nossa tarifa de conversão.</string>
+    <string name="transfer_successful">Transferência bem-sucedida</string>
+    <string name="free_fee_message">Tarifa da transação: nenhuma</string>
+    <string name="estimated_total_all_currencies">(Total estimado de todas as moedas, incluindo a nossa tarifa de conversão)</string>
+    <string name="fees">Tarifas</string>
+    <string name="title_money_transfer">Transferência de pagamento</string>
+    <string name="title_currency_transfer">Transferência de moeda</string>
+    <string name="withdraw_default_risk_holding_period">As transferências podem demorar até 5 dias.</string>
+    <string name="withdraw_risk_holding_default">Previsão de chegada: 1 a 5 dias úteis\nTransferências realizadas depois das 15h ou aos finais de semana ou feriados podem demorar um pouco mais. Todas as transferências estão sujeitas à análise e podem atrasar ou ser interrompidas se identificarmos um problema.</string>
+    <string name="choose_balance">Escolher saldo do PayPal</string>
+    <string name="view_balances_title">Saldos do PayPal</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$s Saldo do PayPal</string>
+    <string name="transfer_to_bank">Transferir para o banco</string>
+    <string name="enter_amount">Informe o valor</string>
+    <string name="select_currency">Selecionar moeda</string>
+    <string name="transfer_failed">Não é possível concluir a transferência</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">O valor é inferior ao mínimo de %1$s.</string>
+    <string name="transfer_to_your_bank">Transferir para o seu banco</string>
+    <string name="choose_bank_or_card">Escolher banco </string>
+    <string name="got_it">OK</string>
+    <string name="try_instant_transfer_title">Tente o débito online pré-aprovado</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">Normalmente, você verá os recursos em sua conta bancária em minutos quando usar seu cartão de débito elegível. \n\nHá uma tarifa de %1$s. Ou, você pode usar a opção padrão gratuita. As transferências podem demorar até 30 minutos e variar conforme o banco.</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">Normalmente, você verá os recursos em sua conta bancária em minutos quando usar seu cartão de débito elegível. \n\nHá uma tarifa de %1$s. Ou, você pode usar a opção padrão gratuita. As transferências podem demorar até 30 minutos e variar conforme o banco.</string>
+    <string name="money_transfer_to_your_bank">Transferir para o seu banco</string>
+    <string name="money_transfer_link_debit_card">Adicionar um cartão de débito elegível</string>
+    <string name="money_transfer_link_debit_card_bank">Vincular um cartão de débito ou conta bancária elegível</string>
+    <string name="money_transfer_link_bank">Adicionar uma conta bancária</string>
+    <string name="money_choose_bank_or_card">Escolher banco </string>
+    <string name="money_transfer_rate_instant">Instantâneo: normalmente em minutos</string>
+    <string name="money_transfer_rate_standard">Padrão: normalmente em 1 dia útil</string>
+    <string name="money_transfer_fee_free">Gratuito</string>
+    <string name="money_transfer_fee_unknown">Tarifas se aplicam</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%% (máximo %2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">As transferências podem demorar até %1$s e variar conforme o banco. Todas as transferências estão sujeitas a análise e podem ser atrasadas ou interrompidas se identificarmos um problema.</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">Uma tarifa de %1$s será deduzida</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">Tarifa deduzida de %1$s</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">Tarifa: %1$s</string>
+    <string name="money_label_fee_none">Sem tarifas</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">Previsão de chegada: %1$s</string>
+    <string name="money_transfer_proccessing_message">Transferências realizadas após as 19h ET ou em finais de semana ou feriados podem demorar um pouco mais. Todas as transferências estão sujeitas a análise e podem ser atrasadas ou interrompidas se identificarmos um problema.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">Você transferiu %1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">Você transferiu um pagamento para sua %1$s</string>
+    <string name="money_error_no_fi_selected">Escolha uma conta.</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">O valor excede o máximo permitido de %1$s.</string>
+    <string name="money_error_fi_transfered_max_amount">Você transferiu o valor máximo permitido usando este cartão.</string>
+    <string name="money_missing_fi_title">Não vê todos os seus bancos\?</string>
+    <string name="money_missing_fi_message">Alguns bancos e emissores de cartão não são aceitos.</string>
+    <string name="money_transfer_one_business_day">1 dia útil</string>
+    <string name="money_transfer_with_minutes">em minutos</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d dias úteis</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">Como o tempo de transferência varia conforme o banco, algumas transferências podem levar até %1$d %2$s</string>
+    <string name="transfer_full_amount">Transferir valor total</string>
+    <string name="transfer_partial_amount">Transferir valor parcial</string>
+    <string name="fee">Tarifa</string>
+    <string name="you_will_get">Você receberá</string>
+    <string name="cancel_transfer">Cancelar transferência</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">Sim, transferir em %1$s horas</string>
+    <string name="oct_risk_hold_planning_title">Sua transferência será adiada. Você ainda quer continuar com a transferência\?</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">Por motivos de segurança, precisamos de mais tempo para analisar essa transação. Isso pode levar até %1$s horas. Você não precisará pagar a tarifa.</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">Por motivos de segurança, precisamos de mais tempo para analisar essa transação. Isso pode levar até %1$s horas.</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">Previsão de chegada: %1$s horas</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">Você transferiu um pagamento para sua conta bancária usando %1$s</string>
+    <string name="you_canceled_transfer">Você cancelou sua transferência</string>
+    <string name="money_remains_in_paypal_balance">O pagamento continua no seu saldo do PayPal.</string>
+    <string name="oct_your_transfer_is_delayed">Sua transferência está atrasada</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">Por motivos de segurança, precisamos de mais tempo para analisar essa transação. O que pode levar até %1$s horas, mas nós lhe enviaremos um e-mail assim que tivermos uma atualização. Você não precisará pagar a tarifa. Ou, você pode cancelar a transferência.</string>
+    <string name="error_transaction_failed_title">Sua transação não foi concluída</string>
+    <string name="error_transaction_failed_message">Não foi possível processar sua transação. Verifique se você está conectado a uma rede e tente novamente.</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">Por motivos de segurança, precisamos de mais tempo para analisar essa transação. O que pode levar até %1$s horas, mas nós lhe enviaremos um e-mail assim que tivermos uma atualização.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">Por motivos de segurança, precisamos de mais tempo para analisar essa transação. O que pode levar até %1$s horas, mas nós lhe enviaremos um e-mail assim que tivermos uma atualização. Você não precisará pagar a tarifa.</string>
+    <string name="oct_cancel_transfer_error">Não foi possível cancelar a transferência de recursos. A transação ainda está pendente.</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">Você receberá atualizações sobre sua transferência %1$s em 30 minutos</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">Você solicitou uma transferência para seu banco usando %1$s</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">Você transferiu %1$s para %2$s</string>
+    <string name="confirm_your_identity">Confirmar sua identidade</string>
+    <string name="cip_transfer_success_title">Tudo pronto.</string>
+    <string name="cip_transfer_failed_title">Não foi possível confirmar suas informações</string>
+    <string name="cip_transfer_error_title">Ocorreu um erro em nosso\nsistema</string>
+    <string name="cip_transfer_aborted_title">Não foi possível confirmar suas informações</string>
+    <string name="cip_transfer_review_title">Suas informações foram recebidas com sucesso</string>
+    <string name="cip_transfer_success_explanation">Confirmamos suas informações e você pode continuar a manter um saldo do PayPal. Você pode enviar, gastar ou guardar os recursos para situações de emergência.</string>
+    <string name="cip_transfer_failed_explanation">Você ainda poderá transferir pagamentos do PayPal para sua conta bancária, mas não poderá usar seu saldo para enviar pagamentos ou gastar no momento. </string>
+    <string name="cip_transfer_error_explanation">Você ainda poderá transferir pagamentos do PayPal para sua conta bancária, mas não poderá usar seu saldo para enviar pagamentos ou gastar no momento. </string>
+    <string name="cip_transfer_aborted_explanation">Você ainda poderá transferir o pagamento do PayPal para sua conta bancária, mas não poderá usá-lo para enviar ou gastar no momento.</string>
+    <string name="cip_transfer_review_explanation">Assim que terminarmos de analisar seus documentos, enviaremos um e-mail para você. Geralmente, isso leva de dois a três dias úteis.\n\nEnquanto aguarda, você pode sempre transferir o pagamento para sua conta bancária.</string>
+    <string name="transfer_partial_title">Para transferir um valor parcial, precisamos confirmar sua identidade</string>
+    <string name="partial_choice_description">Se você quiser usar seu saldo restante do PayPal para enviar ou gastar após esta transferência, precisaremos de mais algumas informações para confirmar sua identidade.</string>
+    <string name="transfer_full_amount_instead">Transferir valor total</string>
+    <string name="your_transfer_is_pending">Sua transferência está pendente</string>
+    <string name="compliance_pending_primary_warning">As normas exigem que analisemos algumas transações com mais atenção. Sua transferência está temporariamente pendente para análise.</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">Como sua transferência está atrasada, você não precisará pagar a tarifa de %1$s.</string>
+    <string name="there_is_a_problem">Erro</string>
+    <string name="not_able_to_complete_transaction">Não é possível concluir essa transação neste momento.</string>
+    <string name="identity_not_confirmed">Você ainda não confirmou sua identidade</string>
+    <string name="identity_not_confirmed_description">Deseja continuar e confirmar sua identidade agora\? Se você pular esta etapa, poderá transferir o saldo do PayPal para sua conta, mas não poderá usá-lo para enviar pagamentos ou fazer compras.</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">Seu pagamento está aguardando</string>
+    <string name="accept_it_now">Aceitá-lo agora</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">O que você deseja fazer com esse(s) %1$s\?</string>
+    <string name="transfer_it_to_your_bank">Transferi-lo para sua conta bancária</string>
+    <string name="transfer_it_to_your_bank_desc">Transfira o pagamento para sua conta bancária em minutos, por uma pequena tarifa. Ou direto para sua conta bancária, gratuitamente.</string>
+    <string name="keep_it_in_paypal">Mantê-lo no PayPal</string>
+    <string name="keep_it_in_paypal_cash_desc">Vamos configurar uma conta do PayPal Cash para que você possa enviar ou gastar direto do PayPal.</string>
+    <string name="unable_to_create_paypal_cash_account">Não foi possível criar sua conta do PayPal Cash no momento. Transferir pagamento para sua conta bancária.</string>
+    <string name="you_are_all_set">Tudo pronto</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s já está disponível em sua nova conta do PayPal Cash.</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">Quando seus amigos lhe enviam pagamentos ou quando você vende algo, o lançamento aparecerá em sua tela inicial.</string>
+    <string name="error_create_paypal_cash_account">Ocorreu um erro em nosso sistema. \nPor favor, tente novamente.</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

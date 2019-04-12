@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s avasi valituksen kohteesta %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s sulki valituksen kohteesta %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">Ohjasit PayPalille ostajan %1$s valituksen kohteesta %2$s.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s ohjasi PayPalille valituksen kohteesta %2$s.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s haki takaisinveloitusta koskien valitusta kohteesta %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">Katso ratkaisu ostajan %1$s valitukseen kohteesta %2$s.</string>
+    <string name="dispute_reason_item_not_received">tuotetta ei vastaanotettu</string>
+    <string name="dispute_reason_item_not_as_described">tuote ei vastaa kuvausta</string>
+    <string name="dispute_new_label">UUTTA</string>
+    <string name="dispute_chargeback_label">TAKAISINVELOITUS</string>
+    <string name="dispute_awaiting_on_buyer_label">ODOTTAA OSTAJAA</string>
+    <string name="dispute_awaiting_on_you_label">ODOTTAA SINUA</string>
+    <string name="dispute_in_review_label">TARKISTUKSESSA</string>
+    <string name="dispute_resolved_label">RATKAISTU</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">Vastasit %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">Ostaja vastasi %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">Vastaa viimeistään %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">Ostajan on vastattava viimeistään %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">Odottaa ostajan vastausta.</string>
+    <string name="dispute_awaiting_resolution_action">Odottaa ratkaisua.</string>
+    <string name="dispute_card_title">Valitukset</string>
+    <string name="dispute_respond_action">Vastaa</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s valitusta edellyttää vastaustasi</string>
+    <string name="dispute_multiple_view_all">Näytä kaikki</string>
+    <string name="dispute_view_details">Näytä tiedot</string>
+    <string name="dispute_details_title">Valitus</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">Tapauksen tunniste: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Edellinen päivitys: %1$s</string>
+    <string name="dispute_customer_contact_title">Asiakkaan yhteystiedot</string>
+    <string name="dispute_tracking_information">Seurantatiedot</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">Numero: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">Kuljetusliike: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">Myyjän tapahtuman tunniste</string>
+    <string name="dispute_last_comment_title">Viimeinen kommentti</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">Asiakas: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">Sinä: %1$s</string>
+    <string name="dispute_order_details_title">Tilauksen tiedot</string>
+    <string name="dispute_shipped_to_title">Lähetetty osoitteeseen</string>
+    <string name="dispute_message_buyer">Lähetä viesti ostajalle</string>
+    <string name="dispute_provide_info_to_paypal">Toimita tiedot PayPalille</string>
+    <string name="dispute_issue_refund">Tee maksunpalautus</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">Vastaa viimeistään: %1$s</string>
+    <string name="dispute_claim_accepted_success">Riitautus hyväksytty onnistuneesti.</string>
+    <string name="dispute_claim_accepted_error">Riitautuksen käsittely ei juuri nyt onnistu.</string>
+    <string name="dispute_esclated_success">Ohjattu PayPalin käsiteltäväksi.</string>
+    <string name="dispute_esclated_error">PayPaliin eskaloiminen ei onnistu.</string>
+    <string name="dispute_full_refund_success">Tarjouksen tekeminen onnistui.</string>
+    <string name="dispute_full_refund_error">Tarjouksen tekeminen ei juuri nyt onnistu.</string>
+    <string name="dispute_provide_evidence_success">Todisteet lähetetty onnistuneesti.</string>
+    <string name="dispute_action_accept_claim">Täysi maksunpalautus</string>
+    <string name="dispute_action_escalate_to_paypal">Eskaloi PayPaliin</string>
+    <string name="dispute_action_full_refund">Tarjoa täyttä maksunpalautusta</string>
+    <string name="dispute_action_provide_evidence">Lähetä todisteita</string>
+    <string name="dispute_actions_label">Toiminta</string>
+    <string name="dispute_conversation_title">Viestit</string>
+    <string name="dispute_send_message">Lähetä viesti ostajalle...</string>
+    <string name="dispute_conversation_you">SINÄ</string>
+    <string name="dispute_hub_title">Valitukset</string>
+    <string name="dispute_offer_refund_title">Lähetä viesti</string>
+    <string name="dispute_offer_refund_send_message">Lähetä viesti asiakkaalle</string>
+    <string name="dispute_offer_refund_default_message">Haluan tarjota sinulle täyden maksunpalautuksen. Hyväksytkö\?</string>
+    <string name="dispute_offer_refund_ask_return">Pyydä ostajaa palauttamaan tuote.</string>
+    <string name="dispute_offer_refund_missing_note">Huomautuskenttä on pakollinen</string>
+    <string name="dispute_accept_claim_note_placeholder">Kirjoita huomautus tässä</string>
+    <string name="dispute_escalate_to_paypal_title">Kuvaile ongelmaa</string>
+    <string name="dispute_escalate_to_paypal_header_message">Kirjoita tarkka kuvaus tapahtumaan liittyvästä ongelmasta.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">Kirjoita kuvaus tähän</string>
+    <string name="dispute_escalate_to_paypal_missing_description">Kuvauskenttä on pakollinen</string>
+    <string name="dispute_offer_refund_confirmation_title">Tarkista ja vahvista</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Kun maksunpalautus ostajalle %1$s on lähetetty, tämä ongelma merkitään ratkaistuksi ja suljetaan. </string>
+    <string name="dispute_offer_refund_label_transaction_amount">Tapahtuman summa</string>
+    <string name="dispute_offer_refund_label_transaction_id">Tapahtuman tunniste</string>
+    <string name="dispute_offer_refund_label_your_message">Viestisi</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">Tarjoa täyttä maksunpalautusta</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">Vahvistuksen jälkeen %1$s saa täyden maksunpalautuksen, ja tämä ongelma ratkaistaan ja suljetaan.</string>
+    <string name="dispute_accept_claim_confirmation_button">Maksunpalautus</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">Tarkista ja vahvista</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer">Ohjasit tämän PayPalin käsiteltäväksi, koska et päässyt sopimukseen ostajan kanssa. \n\nAsetamme tapahtumasumman pitoon, kunnes tämä tapaus on suljettu.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">Tapahtuman summa</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">Tapahtuman tunniste</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Tarkka kuvaus</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">Eskaloi</string>
+    <string name="dispute_add_tracking_confirmation_message">Olet päivittänyt seurantatiedot onnistuneesti.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">Sähköposti lähetetään asiakkaalle antamillasi tiedoilla.</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">Eskaloi PayPaliin</string>
+    <string name="dispute_escalate_primer_preface">Ennen eskalointia sinun tulee tietää muutamia asioita</string>
+    <string name="dispute_escalate_primer_line_one">Riitautuksen avaamisen jälkeen et voi enää olla suoraan yhteydessä ostajaan.</string>
+    <string name="dispute_escalate_primer_line_two">Kaikki myyjän antamat avoimet maksunpalautustarjoukset peruutetaan.</string>
+    <string name="dispute_escalate_primer_line_three">Meiltä saattaa kulua riitautuksen tarkistamiseen ja päätöksen tekemiseen enintään 30 päivää.</string>
+    <string name="dispute_escalate_primer_line_four">Tarkistamme ilmoittamasi tiedot, sekä sinun ja ostajan väliset tätä tapahtumaa koskevat viestit.</string>
+    <string name="dispute_escalate_primer_line_five">Lähetämme sähköpostia, jos tarvitsemme sinulta lisätietoja tutkimuksen aikana.</string>
+    <string name="dispute_escalate_primer_line_six">Kun teemme päätöksen, se on lopullinen ja tämä riitautus suljetaan.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_email_name_mobile">Enter email address or name</string>
+    <string name="description_hint">Enter a detailed item or service description.</string>
+    <string name="contacts_never_ask_again">Go to your Settings to grant this permission.</string>
+    <string name="invalid_address_line1">Required</string>
+    <string name="invalid_address_city">Required</string>
+    <string name="invalid_address_state">Required</string>
+    <string name="error_negative_invoice_with_items">Your invoice total must be greater than 0</string>
+    <string name="invoice_send_date_warning" formatSpecifiers="date">Invoice date set to \n%1$s.\nTapping Send will deliver the invoice to the customer immediately</string>
+</resources>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">Beschikbaar: %1$s</string>
+    <string name="error_transfer_amount_too_high">Voer een bedrag in lager dan of gelijk aan uw beschikbare saldo</string>
+    <string name="fee_label" formatSpecifiers="amount">Kosten zijn %1$s</string>
+    <string name="free_label">Het is gratis</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">Creditcard</string>
+    <string name="credebit_card_debit">Debetkaart</string>
+    <string name="withdraw_change_fi_title">Overmaken naar uw</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">Vervallen</string>
+    <string name="multiple_currency_disclaimer">Schatting gebaseerd op de meest recente wisselkoers, inclusief onze kosten voor valutaomrekening.</string>
+    <string name="available_parens">(beschikbaar)</string>
+    <string name="available_colon">Beschikbaar:</string>
+    <string name="transfer_money">Overmaken naar bank</string>
+    <string name="send_money">Geld overmaken</string>
+    <string name="account_available">Beschikbaar</string>
+    <string name="account_available_currency" formatSpecifiers="currency">Beschikbaar saldo in %1$s</string>
+    <string name="account_currency_details">Valutagegevens</string>
+    <string name="transfer_balance">Saldo overmaken</string>
+    <string name="select_destination">Bestemming selecteren</string>
+    <string name="account_no_fi_info">Koppel een bankrekening zodat u geld kunt overmaken, terugbetalingen kunt uitvoeren en geld kunt overschrijven van PayPal naar uw bankrekening.</string>
+    <string name="link_a_bank_card">Een bankrekening of creditcard koppelen</string>
+    <string name="money_balance_error">Kan geen toegang verkrijgen tot uw saldogegevens.</string>
+    <string name="why_is_my_money_on_hold">Waarom wordt mijn geld vastgehouden\?</string>
+    <string name="no_bank_account_message">Koppel een bankrekening op PayPal.com zodat u geld kunt overmaken, terugbetalingen kunt uitvoeren en geld kunt overschrijven van PayPal naar uw bankrekening.</string>
+    <string name="linked_account">Gekoppelde rekening</string>
+    <string name="review_your_transfer">Overschrijving controleren</string>
+    <string name="transfer_now">Nu overmaken</string>
+    <string name="transfer_amount_title">Bedrag van de overschrijving:</string>
+    <string name="fee_title">Kosten:</string>
+    <string name="youll_get_title">Je ontvangt:</string>
+    <string name="transfer">Overschrijving</string>
+    <string name="ellipse">...</string>
+    <string name="processing_time_few_minutes">een paar minuten</string>
+    <string name="continue_with_delayed_transfer">Doorgaan met vertraagde overschrijving</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">Om veiligheidsredenen hebben we wat meer tijd nodig om deze transactie te controleren. Dit kan tot %1$s uur duren. Wil je toch verder gaan met de overschrijving\?</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">Je %1$s is onderweg</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">Je maakt geld over naar %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">Je maakt %1$s over</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">Je maakt geld over naar je bankrekening met je %1$s</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">Dit neemt slechts enkele minuten in beslag. We houden je op de hoogte over je overschrijving naar %1$s</string>
+    <string name="money_transfer_minutes_message">Overschrijvingen kunnen enkele minuten in beslag nemen, maar dit kan per bank verschillen. Alle overschrijvingen kunnen worden gecontroleerd en kunnen worden uitgesteld of geblokkeerd als we een probleem constateren.</string>
+    <string name="converted_from" formatSpecifiers="amount">Omgerekend van %1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">Wisselkoers: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">Dit wordt omgerekend ongeveer %1$s</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">Dit tarief is inclusief onze kosten voor valutaomrekening.</string>
+    <string name="transfer_successful">Overschrijving geslaagd</string>
+    <string name="free_fee_message">Kosten: het is gratis!</string>
+    <string name="estimated_total_all_currencies">(Geschat totaal van alle valuta\'s)</string>
+    <string name="fees">Kosten</string>
+    <string name="title_money_transfer">Overschrijving</string>
+    <string name="title_currency_transfer">Valutaoverschrijving</string>
+    <string name="withdraw_default_risk_holding_period">Overschrijving kan tot 5 dagen duren.</string>
+    <string name="withdraw_risk_holding_default">Geschatte ontvangst: 1 werkdag\nDe verwerking van overschrijvingen die na 19:00 uur ET, tijdens weekenden of op feestdagen zijn verricht, duurt langer dan normaal. Alle overschrijvingen kunnen worden gecontroleerd en kunnen worden uitgesteld of geblokkeerd als we een probleem constateren.</string>
+    <string name="choose_balance">Kies een PayPal-saldo</string>
+    <string name="view_balances_title">PayPal-saldo\'s</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$s PayPal-saldo</string>
+    <string name="transfer_to_bank">Overmaken naar bank</string>
+    <string name="enter_amount">Voer het bedrag in</string>
+    <string name="select_currency">Valuta selecteren</string>
+    <string name="transfer_failed">Kan overschrijving niet voltooien</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">Bedrag is lager dan het minimumbedrag %1$s.</string>
+    <string name="transfer_to_your_bank">Overmaken naar uw bank</string>
+    <string name="choose_bank_or_card">Bankrekening kiezen </string>
+    <string name="got_it">Begrepen</string>
+    <string name="try_instant_transfer_title">Probeer een directe overschrijving</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">Meestal ziet u het geld binnen een paar minuten op uw bankrekening als u uw in aanmerking komende debit card gebruikt.\n\nDe kosten bedragen %1$s. U kunt ook de gratis standaardoptie gebruiken. Overschrijvingen kunnen tot 30 minuten duren. Dit kan per bank verschillen.</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">Meestal ziet u het geld binnen een paar minuten op uw bankrekening als u uw in aanmerking komende debit card gebruikt.\n\nDe kosten bedragen %1$s. U kunt ook de gratis standaardoptie gebruiken. Overschrijvingen kunnen tot 30 minuten duren. Dit kan per bank verschillen.</string>
+    <string name="money_transfer_to_your_bank">Overmaken naar uw bank</string>
+    <string name="money_transfer_link_debit_card">Een debit card koppelen</string>
+    <string name="money_transfer_link_debit_card_bank">Betaalpas of bankrekening koppelen</string>
+    <string name="money_transfer_link_bank">Bankrekening koppelen</string>
+    <string name="money_choose_bank_or_card">Bankrekening kiezen </string>
+    <string name="money_transfer_rate_instant">Direct: meestal binnen enkele minuten</string>
+    <string name="money_transfer_rate_standard">Standaard: meestal binnen 1 werkdag</string>
+    <string name="money_transfer_fee_free">Gratis</string>
+    <string name="money_transfer_fee_unknown">Kosten van toepassing</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%% (max. %2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">Overschrijvingen nemen tot %1$s in beslag en dit verschilt per bank. Alle overschrijvingen kunnen worden gecontroleerd en kunnen worden uitgesteld of geblokkeerd als we een probleem constateren.</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">%1$s aan kosten wordt afgeschreven</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">%1$s aan kosten afgeschreven</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">Kosten: %1$s</string>
+    <string name="money_label_fee_none">Geen kosten</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">Geschatte ontvangst: %1$s</string>
+    <string name="money_transfer_proccessing_message">Alle overschrijvingen kunnen worden gecontroleerd en kunnen worden uitgesteld of geblokkeerd als we een probleem constateren.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">U heeft %1$s overgemaakt</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">U heeft geld overgemaakt naar uw %1$s</string>
+    <string name="money_error_no_fi_selected">Kies een rekening.</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">Bedrag is hoger dan het maximum van %1$s.</string>
+    <string name="money_error_fi_transfered_max_amount">U heeft het maximale bedrag overgemaakt dat is toegestaan voor deze creditcard.</string>
+    <string name="money_missing_fi_title">Ziet u niet al uw bankrekeningen\?</string>
+    <string name="money_missing_fi_message">Sommige banken en kaartuitgevende instanties worden niet ondersteund.</string>
+    <string name="money_transfer_one_business_day">1 werkdag</string>
+    <string name="money_transfer_with_minutes">binnen enkele minuten</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d werkdagen</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">Sommige overschrijvingen kunnen tot %1$d %2$s duren. Dit verschilt per bank.</string>
+    <string name="transfer_full_amount">Totaalbedrag overschrijven</string>
+    <string name="transfer_partial_amount">Deelbedrag overschrijven</string>
+    <string name="fee">Kosten</string>
+    <string name="you_will_get">U ontvangt</string>
+    <string name="cancel_transfer">Overschrijving annuleren</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">Ja, overmaken over %1$s uur</string>
+    <string name="oct_risk_hold_planning_title">Uw overschrijving zal vertraging oplopen. Wilt u toch doorgaan met uw overschrijving\?</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">Om veiligheidsredenen hebben we wat meer tijd nodig om deze transactie te controleren. Dit kan tot %1$s uur duren. De kosten worden niet in rekening gebracht.</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">Om veiligheidsredenen hebben we wat meer tijd nodig om deze transactie te controleren. Dit kan tot %1$s uur duren.</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">Geschatte ontvangst: binnen %1$s uur</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">U heeft geld naar uw bankrekening overgemaakt met uw %1$s.</string>
+    <string name="you_canceled_transfer">U heeft uw overschrijving geannuleerd</string>
+    <string name="money_remains_in_paypal_balance">Het geld blijft op uw PayPal-saldo staan.</string>
+    <string name="oct_your_transfer_is_delayed">Uw overschrijving is vertraagd</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">Om veiligheidsredenen hebben we wat meer tijd nodig om deze transactie te controleren. Dit kan maximaal %1$s uur duren. We sturen u een e-mail zodra er nieuws is. De kosten worden niet in rekening gebracht. U kunt de overschrijving ook annuleren.</string>
+    <string name="error_transaction_failed_title">Uw transactie is niet voltooid.</string>
+    <string name="error_transaction_failed_message">Het spijt ons. Uw transactie kon niet worden verwerkt. Controleer of u bent verbonden met een netwerk en probeer het opnieuw.</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">Om veiligheidsredenen hebben we wat meer tijd nodig om deze transactie te controleren. Dit kan maximaal %1$s uur duren. We sturen u een e-mail zodra er nieuws is.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">Om veiligheidsredenen hebben we wat meer tijd nodig om deze transactie te controleren. Dit kan maximaal %1$s uur duren. We sturen u een e-mail zodra er nieuws is. De kosten worden niet in rekening gebracht.</string>
+    <string name="oct_cancel_transfer_error">Het spijt ons. We kunnen uw geldoverschrijving niet annuleren. Uw transactie is nog steeds in behandeling.</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">We geven je binnen 30 minuten een update over je overschrijving van %1$s</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">Je hebt verzocht om een overschrijving naar je bankrekening met je %1$s.</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">U heeft %1$s overgemaakt naar %2$s</string>
+    <string name="confirm_your_identity">Uw identiteit bevestigen</string>
+    <string name="cip_transfer_success_title">Dat is alles!</string>
+    <string name="cip_transfer_failed_title">We kunnen uw gegevens niet bevestigen</string>
+    <string name="cip_transfer_error_title">Het lijkt erop dat er fout is\ngegaan aan onze kant</string>
+    <string name="cip_transfer_aborted_title">We kunnen uw gegevens niet bevestigen</string>
+    <string name="cip_transfer_review_title">Hartelijk dank voor het verzenden van uw gegevens</string>
+    <string name="cip_transfer_success_explanation">We hebben uw gegevens bevestigd. U kunt vanaf nu een PayPal-saldo onderhouden. U kunt het overmaken, uitgeven of gewoon bewaren als een reserve voor onverwachte uitgaven.</string>
+    <string name="cip_transfer_failed_explanation">U kunt wel geld overschrijven van PayPal naar uw gekoppelde bankrekening, maar u kunt uw saldo op dit moment niet gebruiken om geld over te maken of te besteden.</string>
+    <string name="cip_transfer_error_explanation">U kunt wel geld overschrijven van PayPal naar uw gekoppelde bankrekening, maar u kunt uw saldo op dit moment niet gebruiken om geld over te maken of te besteden.</string>
+    <string name="cip_transfer_aborted_explanation">U kunt wel geld overschrijven van PayPal naar uw gekoppelde bankrekening, maar u kunt uw saldo op dit moment niet gebruiken om geld over te maken of te besteden.</string>
+    <string name="cip_transfer_review_explanation">We sturen een e-mail zodra we uw documenten hebben gecontroleerd. Dit duurt doorgaans 2-3 werkdagen.\n\nOndertussen kunt u het geld altijd overschrijven naar uw bankrekening.</string>
+    <string name="transfer_partial_title">Voordat u een deelbedrag kunt overschrijven, moeten we uw identiteit bevestigen</string>
+    <string name="partial_choice_description">Als u na deze overschrijving uw resterende PayPal-saldo wilt gebruiken om geld over te maken of uit te geven, hebben we wat meer informatie nodig om uw identiteit te bevestigen.</string>
+    <string name="transfer_full_amount_instead">In plaats daarvan totaalbedrag overschrijven</string>
+    <string name="your_transfer_is_pending">Uw overschrijving is in behandeling</string>
+    <string name="compliance_pending_primary_warning">Conform regelgeving zijn we verplicht sommige transacties nader te onderzoeken. Uw overschrijving is tijdens onze controle in behandeling.</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">Omdat uw overschrijving vertraagd is, worden de %1$s niet in rekening gebracht.</string>
+    <string name="there_is_a_problem">Er is een probleem opgetreden</string>
+    <string name="not_able_to_complete_transaction">We kunnen deze transactie op dit moment niet voltooien.</string>
+    <string name="identity_not_confirmed">U heeft uw identiteit nog niet bevestigd</string>
+    <string name="identity_not_confirmed_description">Wilt u doorgaan en uw identiteit nu bevestigen\? Al u deze stap overslaat, kunt u wel geld overschrijven van PayPal naar uw gekoppelde rekening, maar u kunt uw PayPal-saldo niet gebruiken om geld over te maken of te besteden.</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">Er staat geld voor je klaar</string>
+    <string name="accept_it_now">Nu accepteren</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">Wat wil je met je %1$s doen\?</string>
+    <string name="transfer_it_to_your_bank">Overmaken naar je bank</string>
+    <string name="transfer_it_to_your_bank_desc">Maak voor een klein bedrag geld over naar je bankrekening, dan is het binnen enkele minuten beschikbaar. Of maak het gratis over naar je bankrekening.</string>
+    <string name="keep_it_in_paypal">Op je PayPal-rekening laten staan</string>
+    <string name="keep_it_in_paypal_cash_desc">Open een PayPal Cash-rekening zodat je je geld rechtstreeks vanaf PayPal kunt overmaken of uitgeven.</string>
+    <string name="unable_to_create_paypal_cash_account">Helaas kunnen we op dit moment geen PayPal Cash-rekening voor je openen. Je kunt het geld wel overmaken naar je bankrekening.</string>
+    <string name="you_are_all_set">Je bent nu helemaal klaar</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s is nu beschikbaar op je nieuwe PayPal Cash-rekening.</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">Wanneer vrienden geld naar je overmaken of je iets verkoopt, zie je het op je startscherm.</string>
+    <string name="error_create_paypal_cash_account">Het lijkt erop dat er aan onze kant iets fout is gegaan. \nProbeer het opnieuw.</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

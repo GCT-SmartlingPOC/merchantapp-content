@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Businesskredit</string>
+    <string name="paid_to_date">Repaid to date</string>
+    <string name="ppwc_paid">REPAID</string>
+    <string name="make_one_time_payment">Make a one-time repayment</string>
+    <string name="catch_up_balance"/>
+    <string name="loan_activity_empty">You\'ll find a summary here once your automatic repayments start</string>
+    <string name="loan_activity_v3_aggregated_payment">Automatic repayment summary</string>
+    <string name="loan_activity_v3_automated_catchup_payment"/>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment"/>
+    <string name="loan_activity_v3_customer_initiated_payment">Manual repayment</string>
+    <string name="loan_activity_v3_payment_reversal">Repayment reversal</string>
+    <string name="loan_activity_v3_payment_adjustment">Repayment adjustment</string>
+    <string name="loan_activity_v3_other_payment">Other repayment</string>
+    <string name="loan_activity_automated_catchup_payment"/>
+    <string name="loan_activity_customer_initiated_catchup_payment"/>
+    <string name="loan_activity_customer_initiated_payment">Manual repayment</string>
+    <string name="loan_activity_payment_reversal">Repayment reversal</string>
+    <string name="loan_activity_payment_adjustment">Repayment adjustment</string>
+    <string name="loan_activity_other_payment">Other repayment</string>
+    <string name="loan_activity_aggregated_payment">Automatic repayment summary</string>
+    <string name="make_payment">Make a Repayment</string>
+    <string name="make_payment_description">Your repayment is instantly deducted from your currently available PayPal balance</string>
+    <string name="choose_payment_amount">Choose a repayment amount:</string>
+    <string name="pay_specific_amount">Repay a specific amount</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Repay %1$s remaining loan balance</string>
+    <string name="pay_remaining_loan_balance_description">It may take up to 3 working days to process your final repayment. You\'ll be able to apply for another loan after this time.</string>
+    <string name="enter_payment_amount">Enter Repayment Amount</string>
+    <string name="review_and_pay">Review and Repay</string>
+    <string name="ppwc_pay">Repay</string>
+    <string name="ppwc_payment_method">Repayment method</string>
+    <string name="ppwc_payment_date">Repayment date</string>
+    <string name="review_and_pay_description">Automatic repayments will continue to be taken from your sales even if you\'ve made a one-time repayment until your loan is repaid in full.</string>
+    <string name="made_payment_of" formatSpecifiers="amount">You made a repayment of %1$s</string>
+    <string name="make_payment_success_message">Your account will be updated as soon as the repayment is processed.</string>
+    <string name="make_payment_error_insufficient_balance">Your PayPal balance is not enough to complete this repayment</string>
+    <string name="working_capital">Businesskredit</string>
+    <string name="catch_up_info_intro"/>
+    <string name="catch_up_info_how_reduced_title"/>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">\n\n%1$s </string>
+    <string name="make_manual_payment">make a manual repayment</string>
+    <string name="catch_up_info_how_avoid_title"/>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">\n\n%1$s</string>
+    <string name="ppwc_discovery_message">NEW! View and manage your PayPal Businesskredit</string>
+</resources>

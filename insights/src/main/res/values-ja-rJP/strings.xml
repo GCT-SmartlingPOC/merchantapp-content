@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">売上分析情報</string>
+    <string name="month">月</string>
+    <string name="quarter">四半期</string>
+    <string name="year">年</string>
+    <string name="year_to_date">今年</string>
+    <string name="title_sales_month">今月の売上</string>
+    <string name="title_this_month">今月</string>
+    <string name="ytd">過去1年間</string>
+    <string name="compare_last_year">前年と比較する</string>
+    <string name="best_month">最も良い月</string>
+    <string name="worst_month">最も悪い月</string>
+    <string name="best_week">最も良い週</string>
+    <string name="worst_week">最も悪い週</string>
+    <string name="avg_order_value">平均注文額</string>
+    <string name="transactions">取引</string>
+    <string name="last_year_sales" formatSpecifiers="amount">前年: %1$s</string>
+    <string name="year_to_date_sales">過去1年間の売上</string>
+    <string name="total_sales">合計金額</string>
+    <string name="month_sales" formatSpecifiers="month">%1$sの売上</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb\'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">Q</string>
+    <string name="data_unavailable_swipe_again">データをご利用いただけません。もう一度スワイプしてください。</string>
+</resources>

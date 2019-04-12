@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money">Balance</string>
+    <string name="send_money_install_chrome_msg">To send payments, you\'ll need to install and use Google Chrome as your default browser.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="app_education_title">Ready to send invoices, track your customers and manage your payments on the go\?</string>
+    <string name="money_education_title">Manage your payments from anywhere</string>
+    <string name="money_education_message">Withdraw funds to your bank account, issue refunds and send payments to almost anyone, in just a few clicks.</string>
+    <string name="legal_user_agreement_policy">User Agreement</string>
+    <string name="not_kycd_japanese_account_title">Help us confirm your identity</string>
+    <string name="not_kycd_japanese_account_message">Please complete Identity Confirmation Process on our website to access the Business app.</string>
+    <string name="title_activity_account_info">Account Information</string>
+    <string name="remember_me_description">See your photo, payment preferences and more before you log in. (Not recommended if you share your device.)</string>
+    <string name="use_pin_name">Log In with PIN</string>
+    <string name="touch_id_pin_also_disabled">Touch ID and PIN will be disabled</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your PIN.</string>
+    <string name="notification_setting_request_money">Someone requests payment from you</string>
+    <string name="notification_setting_send_money">You send payment to someone</string>
+</resources>

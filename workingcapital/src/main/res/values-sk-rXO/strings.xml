@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">Zaplatené k dnešnému dňu</string>
+    <string name="outstanding_balance">Dlžná suma</string>
+    <string name="working_capital_summary_load_fail">Údaje o vašom účte nie sú k dispozícii.\nAk to chcete skúsiť znova, potiahnite prstom dole.</string>
+    <string name="ppwc_paid">ZAPLATENÉ</string>
+    <string name="view_loan_details">Zobraziť podrobnosti o pôžičke</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Váš podnikateľský úver vo výške %1$s bol úplne splatený.</string>
+    <string name="apply_again">Znova požiadať</string>
+    <string name="ppwc_info">Informácie</string>
+    <string name="outstanding_balance_title">Nesplatená suma</string>
+    <string name="loan_details">Podrobnosti o pôžičke</string>
+    <string name="initial_loan_amount">Počiatočná suma pôžičky</string>
+    <string name="loan_fee">Poplatok za pôžičku</string>
+    <string name="repayment_percentage">Percento splátky</string>
+    <string name="view_loan_activity">Zobraziť aktivitu pôžičky</string>
+    <string name="make_one_time_payment">Pošlite jednorazovú platbu</string>
+    <string name="catch_up_balance">Zostatok na vyrovnanie</string>
+    <string name="loan_activity">Aktivita pôžičky</string>
+    <string name="loan_activity_empty">Keď sa začnú odosielať automatické platby, tu nájdete ich súhrn.</string>
+    <string name="ppwc_completed">Dokončené</string>
+    <string name="ppwc_pending">Čakajúce na spracovanie</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Prevod pôžičky</string>
+    <string name="loan_activity_v3_loan_reversal">Storno pôžičky</string>
+    <string name="loan_activity_v3_fee">Poplatok za pôžičku</string>
+    <string name="loan_activity_v3_aggregated_payment">Súhrn automatických splátok</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Dodatočná splátka</string>
+    <string name="loan_activity_v3_automated_daily_payment">Splátka odvodená od objemu predaja</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Dodatočná splátka zadaná ručne</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Splátka zadaná ručne</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Storno poplatku za pôžičku</string>
+    <string name="loan_activity_v3_payment_reversal">Storno platby</string>
+    <string name="loan_activity_v3_loan_adjustment">Úprava pôžičky</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Úprava poplatku za pôžičku</string>
+    <string name="loan_activity_v3_payment_adjustment">Úprava splátky</string>
+    <string name="loan_activity_v3_other_payment">Ďalšia splátka</string>
+    <string name="loan_activity_loan_transfer">Prevod pôžičky</string>
+    <string name="loan_activity_fee">Poplatok za pôžičku</string>
+    <string name="loan_activity_automated_catchup_payment">Automatická vyrovnávacia platba</string>
+    <string name="loan_activity_automated_daily_payment">Automatická splátka</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Dodatočná splátka zadaná ručne</string>
+    <string name="loan_activity_customer_initiated_payment">Splátka zadaná ručne</string>
+    <string name="loan_activity_loan_reversal">Storno pôžičky</string>
+    <string name="loan_activity_loan_fee_reversal">Storno poplatku za pôžičku</string>
+    <string name="loan_activity_payment_reversal">Storno platby</string>
+    <string name="loan_activity_loan_adjustment">Úprava pôžičky</string>
+    <string name="loan_activity_loan_fee_adjustment">Úprava poplatku za pôžičku</string>
+    <string name="loan_activity_payment_adjustment">Úprava splátky</string>
+    <string name="loan_activity_other_payment">Ďalšia splátka</string>
+    <string name="loan_activity_aggregated_payment">Súhrn automatických splátok</string>
+    <string name="make_payment">Zaplatiť</string>
+    <string name="make_payment_description">Vaša splátka je okamžite odpočítaná z aktuálneho zostatku na účte PayPal.</string>
+    <string name="choose_payment_amount">Vyberte sumu splátky:</string>
+    <string name="pay_specific_amount">Zaplatiť konkrétnu sumu</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Zaplatiť zostatok pôžičky vo výške %1$s</string>
+    <string name="pay_remaining_loan_balance_description">Spracovanie poslednej splátky môže trvať až 3 pracovné dni. Po ich uplynutí budete môcť požiadať o ďalšiu pôžičku.</string>
+    <string name="ppwc_continue">Pokračovať</string>
+    <string name="enter_payment_amount">Zadajte sumu splátky.</string>
+    <string name="current_loan_balance">Aktuálny zostatok pôžičky:</string>
+    <string name="available_paypal_balance">Dostupný zostatok na účte PayPal:</string>
+    <string name="review_and_pay">Skontrolovať a zaplatiť</string>
+    <string name="ppwc_amount">Suma</string>
+    <string name="ppwc_pay">Zaplatiť</string>
+    <string name="ppwc_payment_method">Spôsob platby</string>
+    <string name="ppwc_payment_date">Dátum platby</string>
+    <string name="review_and_pay_description">Hoci ste uhradili jednorazovú splátku, automatické platby odvodené z objemu predaja sa vám budú naďalej odpisovať, až kým pôžička nebude splatená v plnej výške.</string>
+    <string name="thank_you">Ďakujeme.</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Odoslali ste platbu vo výške %1$s</string>
+    <string name="make_payment_success_message">Váš účet sa aktualizuje hneď, ako sa táto platba spracuje.</string>
+    <string name="ppwc_done">Hotovo</string>
+    <string name="make_payment_error_insufficient_balance">Zostatok na účte PayPal nepostačuje na dokončenie tejto platby.</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Zadajte sumu, ktorá je rovnaká alebo nižšia ako suma zostatku na účte PayPal.</string>
+    <string name="working_capital">Working Capital</string>
+    <string name="general_error_title">Skúste to znova.</string>
+    <string name="general_error_message">Zdá sa, že sa vyskytla chyba na našej strane.</string>
+    <string name="ppwc_try_again">Skúsiť znova</string>
+    <string name="catch_up_info_intro">Zostatok na vyrovnanie vznikne, keď tržby z predaja z účtu vyberiete, prevediete alebo vyčerpáte skôr, ako sa uskutoční automatická splátka.</string>
+    <string name="catch_up_info_how_reduced_title">Ako môžem znížiť zostatok na vyrovnanie\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">Keď budú na vašom účte PayPal dostupné nové prostriedky, budeme z neho automaticky odpisovať dodatočné splátky, kým sa hodnota zostatku na vyrovnanie nezníži na 0 USD.\n\nMáte tiež možnosť %1$s znížiť zostatok na vyrovnanie okamžite.</string>
+    <string name="make_manual_payment">odoslať splátku ručne</string>
+    <string name="catch_up_info_how_avoid_title">Ako sa môžem vyhnúť vzniku zostatku na vyrovnanie\?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Ak chcete zabrániť vzniku zostatku na vyrovnanie, jednoducho sa uistite, že zostatok na vašom účte PayPal je vyšší ako denná automatická splátka.\n\nAk chcete získať ďalšie informácie o dodatočných splátkach, %1$s.</string>
+    <string name="please_see_faq">prečítajte si časté otázky a odpovede</string>
+    <string name="ppwc_discovery_message">NOVINKA Zobrazujte si a spravujte svoju pôžičku PayPal Working Capital.</string>
+    <string name="last_x_days" formatSpecifiers="number">POSLEDNÝCH %1$s DNÍ</string>
+    <string name="apply_loan">Požiadajte o dostupný podnikateľský úver bez úverovej kontroly a osobného ručenia.\n\nVyplnenie žiadosti a získanie prostriedkov môže trvať len niekoľko minút.</string>
+    <string name="learn_how_label">Zistite, ako to funguje</string>
+    <string name="application_approved">Vaša žiadosť bola schválená.</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Ponuku môžete prispôsobiť a prijať do %1$s.</string>
+    <string name="review_offer">Prezrieť si ponuku</string>
+    <string name="view_loan_decision">Zobraziť rozhodnutie o poskytnutí podnikateľského úveru</string>
+    <string name="application_status_changed">Stav vašej žiadosti sa zmenil.</string>
+    <string name="check_status">Skontrolovať stav</string>
+    <string name="saved_offer">Máte uloženú ponuku</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Vaša ponuka je platná do %1$s.\n\nPrispôsobte a prijmite ponuku a získajte prostriedky v priebehu niekoľkých minút.</string>
+    <string name="review_application">Vašu žiadosť posudzujeme</string>
+    <string name="review_application_description">Keď prijmeme rozhodnutie o poskytnutí podnikateľského úveru, hneď vám pošleme e-mail.</string>
+    <string name="more_details">Ďalšie podrobnosti</string>
+    <string name="pending_funding_primary_desc">Váš podnikateľský úver je na ceste.</string>
+    <string name="pending_funding_secondary_desc">Ak ho v účte PayPal neuvidíte do 24 hodín, zavolajte nám.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">Dokončené: %1$d</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">Suma čakajúca na spracovanie: %1$d</string>
+    <string name="make_payment_error_amount_gt_loan_due">Zadajte sumu, ktorá je rovnaká alebo nižšia ako zostatok pôžičky.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Zadajte celé číslo bez desatinných čísel.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

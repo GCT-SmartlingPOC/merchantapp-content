@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s 님이 %2$s에 대한 분쟁을 제기했습니다.</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s 님이 %2$s에 대한 분쟁을 종료했습니다.</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">%2$s에 대한 %1$s의 분쟁을 PayPal로 전환하셨습니다.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s 님이 %2$s에 대한 분쟁을 PayPal로 전환하셨습니다.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s 님이 %2$s에 대한 분쟁에 지불거절을 제기했습니다.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">%2$s에 대한 %1$s의 분쟁 해결을 확인합니다.</string>
+    <string name="dispute_reason_item_not_received">미수령 상품</string>
+    <string name="dispute_reason_item_not_as_described">상품이 설명과 다름</string>
+    <string name="dispute_new_label">신규</string>
+    <string name="dispute_chargeback_label">지불거절</string>
+    <string name="dispute_awaiting_on_buyer_label">구매자를 기다리는 중</string>
+    <string name="dispute_awaiting_on_you_label">사용자를 기다리는 중</string>
+    <string name="dispute_in_review_label">검토 중</string>
+    <string name="dispute_resolved_label">해결됨</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">%1$s에 응답하셨습니다.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">구매자가 %1$s에 응답했습니다.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">%1$s까지 응답해 주세요.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">구매자는 %1$s까지 응답해야 합니다.</string>
+    <string name="dispute_awaiting_buyers_response_action">구매자의 응답을 기다리는 중입니다.</string>
+    <string name="dispute_awaiting_resolution_action">해결을 기다리는 중입니다.</string>
+    <string name="dispute_card_title">분쟁</string>
+    <string name="dispute_respond_action">응답</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s 분쟁에 응답해야 합니다.</string>
+    <string name="dispute_multiple_view_all">모두 보기</string>
+    <string name="dispute_view_details">세부정보 보기</string>
+    <string name="dispute_details_title">분쟁</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">케이스 ID: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">최종 업데이트: %1$s</string>
+    <string name="dispute_customer_contact_title">고객 연락처</string>
+    <string name="dispute_tracking_information">배송 추적 정보</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">번호: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">배송업체: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">판매자 거래 ID</string>
+    <string name="dispute_last_comment_title">지난 의견</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">고객: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">본인: %1$s</string>
+    <string name="dispute_order_details_title">주문 세부정보</string>
+    <string name="dispute_shipped_to_title">배송 주소(배송완료):</string>
+    <string name="dispute_message_buyer">구매자에게 메시지 보내기</string>
+    <string name="dispute_provide_info_to_paypal">PayPal에 정보 제공</string>
+    <string name="dispute_issue_refund">환불하기</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">응답 기한: %1$s</string>
+    <string name="dispute_claim_accepted_success">클레임이 수락되었습니다.</string>
+    <string name="dispute_claim_accepted_error">지금은 클레임을 처리할 수 없습니다!</string>
+    <string name="dispute_esclated_success">PayPal에 클레임으로 격상되었습니다.</string>
+    <string name="dispute_esclated_error">PayPal에 클레임으로 격상할 수 없습니다!</string>
+    <string name="dispute_full_refund_success">혜택이 성공적으로 사용되었습니다.</string>
+    <string name="dispute_full_refund_error">지금은 혜택을 사용할 수 없습니다!</string>
+    <string name="dispute_provide_evidence_success">증거를 성공적으로 제공했습니다.</string>
+    <string name="dispute_action_accept_claim">전액 환불</string>
+    <string name="dispute_action_escalate_to_paypal">PayPal에 클레임으로 격상</string>
+    <string name="dispute_action_full_refund">전액 환불 제공</string>
+    <string name="dispute_action_provide_evidence">증거 제공</string>
+    <string name="dispute_actions_label">작업</string>
+    <string name="dispute_conversation_title">메시지</string>
+    <string name="dispute_send_message">구매자에게 메시지 보내기...</string>
+    <string name="dispute_conversation_you">본인</string>
+    <string name="dispute_hub_title">분쟁</string>
+    <string name="dispute_offer_refund_title">메시지 보내기</string>
+    <string name="dispute_offer_refund_send_message">고객에게 메시지 보내기</string>
+    <string name="dispute_offer_refund_default_message">전액 환불을 제공해 드리겠습니다. 수락하시겠어요\?</string>
+    <string name="dispute_offer_refund_ask_return">구매자에게 반품 요청을 합니다.</string>
+    <string name="dispute_offer_refund_missing_note">메모 필드는 필수 항목입니다.</string>
+    <string name="dispute_accept_claim_note_placeholder">여기에 메모를 입력하세요.</string>
+    <string name="dispute_escalate_to_paypal_title">문제 설명</string>
+    <string name="dispute_escalate_to_paypal_header_message">이 거래와 관련된 문제에 대한 자세한 설명을 입력하세요.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">여기에 설명 입력</string>
+    <string name="dispute_escalate_to_paypal_missing_description">설명 필드는 필수 항목입니다.</string>
+    <string name="dispute_offer_refund_confirmation_title">검토 및 확인</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">%1$s 님에게 전액 환불되면 이 문제가 해결 및 종료됩니다. </string>
+    <string name="dispute_offer_refund_label_transaction_amount">거래 금액</string>
+    <string name="dispute_offer_refund_label_transaction_id">거래 ID</string>
+    <string name="dispute_offer_refund_label_your_message">메시지</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">전액 환불 제안</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">확인 후 %1$s 님에게 전액 환불되면 이 문제가 해결 및 종료됩니다.</string>
+    <string name="dispute_accept_claim_confirmation_button">환불</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">검토 및 확인</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer"> 판매자가 구매자와 합의에 이르지 못해 이 케이스를 PayPal 클레임으로 격상하고 있습니다. \n\n이 케이스가 종료될 때까지 거래 금액이 보류됩니다.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">거래 금액</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">거래 ID</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">세부 설명</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">업그레이드</string>
+    <string name="dispute_add_tracking_confirmation_message">배송 추적 정보를 업데이트했습니다.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">제공하신 정보가 포함된 이메일이 고객에게 전송됩니다.</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">PayPal에 클레임으로 격상</string>
+    <string name="dispute_escalate_primer_preface">격상하기 전에 알아야 할 사항</string>
+    <string name="dispute_escalate_primer_line_one">클레임이 제기되면 더 이상 구매자와 직접 해결할 수 없게 됩니다.</string>
+    <string name="dispute_escalate_primer_line_two">판매자가 제공한 환불 제안은 취소될 것입니다.</string>
+    <string name="dispute_escalate_primer_line_three">PayPal에서 클레임을 검토하고 결정을 내리기까지 최대 30일이 걸릴 수 있습니다.</string>
+    <string name="dispute_escalate_primer_line_four">제공하신 정보를 비롯하여 고객님과 구매자가 이 거래와 관련하여 주고받은 모든 메시지를 검토할 것입니다.</string>
+    <string name="dispute_escalate_primer_line_five">조사 중에 추가 정보가 필요한 경우 이메일로 연락 드리겠습니다.</string>
+    <string name="dispute_escalate_primer_line_six">내려진 결정은 번복되지 않으며 이 클레임은 종료됩니다.</string>
+</resources>

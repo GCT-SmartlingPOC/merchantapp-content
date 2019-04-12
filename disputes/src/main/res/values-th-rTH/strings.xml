@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s ได้ยื่นข้อพิพาทสำหรับ %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s ได้ปิดข้อพิพาทสำหรับ %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">คุณได้ส่งข้อพิพาทของ %1$s สำหรับ %2$s ไปที่ PayPal</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s ได้ส่งข้อพิพาทสำหรับ %2$s ไปที่ PayPal</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s ได้ยื่นเรื่องปฏิเสธการชำระเงินในข้อพิพาทสำหรับ %2$s</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">ดูการแก้ไขปัญหาในข้อพิพาทของ %1$s สำหรับ %2$s</string>
+    <string name="dispute_reason_item_not_received">ไม่ได้รับสินค้า</string>
+    <string name="dispute_reason_item_not_as_described">สินค้าแตกต่างจากที่ระบุไว้</string>
+    <string name="dispute_new_label">ใหม่</string>
+    <string name="dispute_chargeback_label">การปฏิเสธชำระเงิน</string>
+    <string name="dispute_awaiting_on_buyer_label">กำลังรอผู้ซื้อ</string>
+    <string name="dispute_awaiting_on_you_label">กำลังรอคุณ</string>
+    <string name="dispute_in_review_label">อยู่ในระหว่างตรวจสอบ</string>
+    <string name="dispute_resolved_label">ได้รับการแก้ไขแล้ว</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">คุณได้ตอบกลับเมื่อ %1$s</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">ผู้ซื้อตอบกลับเมื่อ %1$s</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">ตอบกลับภายใน %1$s</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">ผู้ซื้อต้องตอบกลับภายใน %1$s</string>
+    <string name="dispute_awaiting_buyers_response_action">กำลังรอการตอบกลับของผู้ซื้อ</string>
+    <string name="dispute_awaiting_resolution_action">กำลังรอการแก้ไขปัญหา</string>
+    <string name="dispute_card_title">ข้อพิพาท</string>
+    <string name="dispute_respond_action">ตอบกลับ</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s ข้อพิพาทจำเป็นต้องได้รับการตอบกลับจากคุณ</string>
+    <string name="dispute_multiple_view_all">ดูทั้งหมด</string>
+    <string name="dispute_view_details">ดูรายละเอียด</string>
+    <string name="dispute_details_title">ข้อพิพาท</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">ID เรื่อง: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">ปรับปรุงครั้งล่าสุด: %1$s</string>
+    <string name="dispute_customer_contact_title">ข้อมูลติดต่อของลูกค้า</string>
+    <string name="dispute_tracking_information">ข้อมูลการติดตามพัสดุ</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">หมายเลข: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">ผู้จัดส่ง: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">ID การทำรายการของผู้ขาย</string>
+    <string name="dispute_last_comment_title">ความคิดเห็นล่าสุด</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">ลูกค้า: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">คุณ: %1$s</string>
+    <string name="dispute_order_details_title">รายละเอียดคำสั่งซื้อ</string>
+    <string name="dispute_shipped_to_title">จัดส่งไปที่</string>
+    <string name="dispute_message_buyer">ส่งข้อความถึงผู้ซื้อ</string>
+    <string name="dispute_provide_info_to_paypal">ให้ข้อมูลกับ PayPal</string>
+    <string name="dispute_issue_refund">คืนเงิน</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">ตอบกลับภายใน: %1$s</string>
+    <string name="dispute_claim_accepted_success">ข้อเรียกร้องได้รับการยอมรับเรียบร้อยแล้ว</string>
+    <string name="dispute_claim_accepted_error">ไม่สามารถดำเนินการข้อเรียกร้องได้ในขณะนี้</string>
+    <string name="dispute_esclated_success">ยกระดับเรื่องให้ PayPal ช่วยตรวจสอบ</string>
+    <string name="dispute_esclated_error">ไม่สามารถยกระดับเรื่องให้ PayPal ช่วยตรวจสอบได้</string>
+    <string name="dispute_full_refund_success">ยื่นข้อเสนอเรียบร้อยแล้ว</string>
+    <string name="dispute_full_refund_error">ไม่สามารถยื่นข้อเสนอได้ในขณะนี้</string>
+    <string name="dispute_provide_evidence_success">แสดงหลักฐานเรียบร้อยแล้ว</string>
+    <string name="dispute_action_accept_claim">คืนเงินเต็มจำนวน</string>
+    <string name="dispute_action_escalate_to_paypal">ส่งเรื่องไปที่ PayPal</string>
+    <string name="dispute_action_full_refund">เสนอเงินคืนเต็มจำนวน</string>
+    <string name="dispute_action_provide_evidence">แสดงหลักฐาน</string>
+    <string name="dispute_actions_label">การดำเนินการ</string>
+    <string name="dispute_conversation_title">ข้อความ</string>
+    <string name="dispute_send_message">ส่งข้อความถึงผู้ซื้อ...</string>
+    <string name="dispute_conversation_you">คุณ</string>
+    <string name="dispute_hub_title">ข้อพิพาท</string>
+    <string name="dispute_offer_refund_title">ส่งข้อความ</string>
+    <string name="dispute_offer_refund_send_message">ส่งข้อความถึงลูกค้า</string>
+    <string name="dispute_offer_refund_default_message">ต้องการเสนอเงินคืนให้คุณเต็มจำนวน คุณต้องการยอมรับหรือไม่</string>
+    <string name="dispute_offer_refund_ask_return">ขอให้ผู้ซื้อคืนสินค้า</string>
+    <string name="dispute_offer_refund_missing_note">ต้องระบุข้อมูลในช่องหมายเหตุ</string>
+    <string name="dispute_accept_claim_note_placeholder">ป้อนข้อความของคุณที่นี่</string>
+    <string name="dispute_escalate_to_paypal_title">โปรดอธิบายปัญหา</string>
+    <string name="dispute_escalate_to_paypal_header_message">ป้อนคำอธิบายโดยละเอียดเกี่ยวกับปัญหาที่เกิดขึ้นกับการทำรายการนี้</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">ป้อนคำอธิบายที่นี่</string>
+    <string name="dispute_escalate_to_paypal_missing_description">ต้องระบุข้อมูลในช่องคำอธิบาย</string>
+    <string name="dispute_offer_refund_confirmation_title">ตรวจสอบและยืนยัน</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">เมื่อมีการคืนเงินเต็มจำนวนให้กับ %1$s แล้ว ปัญหานี้จะได้รับการแก้ไขและปิดลง</string>
+    <string name="dispute_offer_refund_label_transaction_amount">จำนวนเงินที่ทำรายการ</string>
+    <string name="dispute_offer_refund_label_transaction_id">ID การทำรายการ</string>
+    <string name="dispute_offer_refund_label_your_message">ข้อความของคุณ</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">เสนอเงินคืนเต็มจำนวน</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">เมื่อได้รับการยืนยันแล้ว เงินคืนเต็มจำนวนจะถูกส่งไปยัง %1$s ปัญหานี้จะได้รับการแก้ไขและปิดลง</string>
+    <string name="dispute_accept_claim_confirmation_button">คืนเงิน</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">ตรวจสอบและยืนยัน</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer">คุณกำลังจะส่งเรื่องนี้ไปที่ PayPal เนื่องจากคุณไม่สามารถเจรจาตกลงกับผู้ซื้อได้\n\nเราจะพักจำนวนเงินที่ทำรายการนี้ไว้ชั่วคราวจนกว่าเรื่องนี้จะปิดลง</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">จำนวนเงินที่ทำรายการ</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">ID การทำรายการ</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">คำอธิบายอย่างละเอียด</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">ส่งต่อ</string>
+    <string name="dispute_add_tracking_confirmation_message">คุณอัปเดตข้อมูลการติดตามพัสดุสำเร็จแล้ว</string>
+    <string name="dispute_add_tracking_confirmation_subtext">เราจะส่งอีเมลไปยังลูกค้าของคุณพร้อมข้อมูลที่คุณให้ไว้</string>
+    <string name="dispute_add_tracking_confirmation_button">ตกลง</string>
+    <string name="dispute_escalate_primer_title">ส่งเรื่องไปที่ PayPal</string>
+    <string name="dispute_escalate_primer_preface">สิ่งที่คุณควรทราบก่อนที่จะยกระดับเรื่องนี้</string>
+    <string name="dispute_escalate_primer_line_one">เมื่อมีการเปิดข้อเรียกร้องแล้ว คุณจะไม่สามารถติดต่อกับผู้ขายโดยตรงได้อีกต่อไป</string>
+    <string name="dispute_escalate_primer_line_two">ข้อเสนอคืนเงินใดๆ จากผู้ขายที่เปิดอยู่จะถูกยกเลิก</string>
+    <string name="dispute_escalate_primer_line_three">การตรวจสอบข้อเรียกร้องและสรุปผลการตัดสินอาจใช้เวลาถึง 30 วัน</string>
+    <string name="dispute_escalate_primer_line_four">เราจะตรวจสอบข้อมูลที่คุณให้พร้อมกับข้อความที่คุณและผู้ขายเขียนถึงกันเกี่ยวกับการทำรายการนี้</string>
+    <string name="dispute_escalate_primer_line_five">เราจะส่งอีเมลถึงคุณ ถ้าเราต้องการข้อมูลเพิ่มเติมจากคุณในระหว่างการตรวจสอบ</string>
+    <string name="dispute_escalate_primer_line_six">เมื่อเราพิจารณาตัดสินแล้ว คำตัดสินถือเป็นอันสิ้นสุด และเราจะปิดข้อเรียกร้องนี้ลง</string>
+</resources>

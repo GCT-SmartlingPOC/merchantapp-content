@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">ยอดเงินที่ใช้ได้ %1$s</string>
+    <string name="error_transfer_amount_too_high">ป้อนจำนวนเงินที่น้อยกว่า หรือเท่ากับยอดคงเหลือที่ใช้ได้ของคุณ</string>
+    <string name="fee_label" formatSpecifiers="amount">ค่าธรรมเนียมการทำรายการ %1$s</string>
+    <string name="free_label">ไม่มีค่าธรรมเนียมการทำรายการ</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s•••%2$s</string>
+    <string name="credebit_card_credit">เครดิต</string>
+    <string name="credebit_card_debit">เดบิต</string>
+    <string name="withdraw_change_fi_title">ชำระเงินให้คุณ</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">หมดอายุแล้ว</string>
+    <string name="multiple_currency_disclaimer">ค่าโดยประมาอ้างอิงตามอัตราการแปลงสกุลเงินล่าสุด บวกค่าธรรมเนียมการแปลงสกุลเงินของเรา</string>
+    <string name="available_parens">(ยอดเงินที่ใช้ได้)</string>
+    <string name="available_colon">ยอดเงินที่ใช้ได้:</string>
+    <string name="transfer_money">ถอนเงิน</string>
+    <string name="send_money">ชำระเงิน​</string>
+    <string name="account_available">ยอดเงินที่ใช้ได้</string>
+    <string name="account_available_currency" formatSpecifiers="currency">ยอดคงเหลือที่ใช้ได้ใน %1$s</string>
+    <string name="account_currency_details">รายละเอียดสกุลเงิน</string>
+    <string name="transfer_balance">โอนยอดคงเหลือ</string>
+    <string name="select_destination">เลือกจุดหมายปลายทาง</string>
+    <string name="account_no_fi_info">เชื่อมโยงบัญชีธนาคารเพื่อให้คุณสามารถถอนเงินจากบัญชี PayPal ของคุณไปยังบัญชีธนาคารของคุณได้</string>
+    <string name="link_a_bank_card">เชื่อมโยงบัญชีธนาคารหรือบัตร</string>
+    <string name="money_balance_error">ขออภัยค่ะ เราไม่สามารถเข้าถึงข้อมูลยอดคงเหลือของคุณได้ โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="why_is_my_money_on_hold">ทำไมการชำระเงินจึงถูกพัก</string>
+    <string name="no_bank_account_message">เชื่อมโยงบัญชีธนาคารที่ PayPal.com เพื่อให้คุณสามารถถอนเงินจากบัญชี PayPal ของคุณไปยังบัญชีธนาคารของคุณได้</string>
+    <string name="linked_account">บัญชีที่เชื่อมโยง</string>
+    <string name="review_your_transfer">ตรวจสอบการโอนเงินของคุณ</string>
+    <string name="transfer_now">โอนเงินทันที</string>
+    <string name="transfer_amount_title">จำนวนเงินที่จะโอน:</string>
+    <string name="fee_title">ค่าธรรมเนียม</string>
+    <string name="youll_get_title">คุณจะได้รับ:</string>
+    <string name="transfer">ถอนเงิน</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">สองถึงสามนาที</string>
+    <string name="continue_with_delayed_transfer">ดำเนินการ \"โอนเงินล่าช้า\" ต่อ</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">ด้วยเหตุผลด้านความปลอดภัย เราต้องใช้เวลาอีกเล็กน้อยในการตรวจสอบการทำรายการนี้ ซึ่งอาจใช้เวลาถึง %1$s ชั่วโมง คุณต้องการดำเนินการโอนเงินต่อหรือไม่</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">%1$s ของคุณอยู่ระหว่างดำเนินการ</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">คุณกำลังโอนเงินไปยัง %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">คุณกำลังโอนเงินจำนวน %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">คุณกำลังโอนเงินไปยังธนาคารของคุณโดยใช้ %1$s ของคุณ</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">ใช้เวลาเพียงไม่กี่นาที เราจะแจ้งให้คุณทราบเมื่อมีการโอนเงินไปที่ %1$s</string>
+    <string name="money_transfer_minutes_message">การโอนเงินอาจใช้เวลาไม่กี่นาที และแตกต่างกันไปแล้วแต่ธนาคาร ทุกการโอนเงินจะได้รับการตรวจสอบและอาจมีความล่าช้าหรือถูกระงับถ้าพบการโอนเงินที่มีปัญหา</string>
+    <string name="converted_from" formatSpecifiers="amount">แปลงจาก %1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">อัตราแลกเปลี่ยน: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">ซึ่งจะถูกแปลงเป็น %1$s โดยประมาณ</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">อัตรานี้รวมค่าธรรมเนียมการแปลงสกุลเงินของเราแล้ว</string>
+    <string name="transfer_successful">การโอนเงินสำเร็จ</string>
+    <string name="free_fee_message">ไม่มีค่าธรรมเนียมการทำรายการ</string>
+    <string name="estimated_total_all_currencies">(ยอดรวมทุกสกุลเงินโดยประมาณ รวมค่าธรรมเนียมการแปลง)</string>
+    <string name="fees">ค่าธรรมเนียม</string>
+    <string name="title_money_transfer">การถอนเงิน</string>
+    <string name="title_currency_transfer">การโอนข้ามสกุลเงิน</string>
+    <string name="withdraw_default_risk_holding_period">การถอนเงินจะใช้เวลาไม่เกิน 3 วันทำการ</string>
+    <string name="withdraw_risk_holding_default">ถึงประมาณ 2-3 วันทำการ\nการถอนเงินทั้งหมดจะได้รับการตรวจสอบและอาจล่าช้าหรือถูกระงับถ้าพบปัญหา</string>
+    <string name="choose_balance">เลือกยอดคงเหลือในบัญชี PayPal</string>
+    <string name="view_balances_title">ยอดคงเหลือในบัญชี PayPal</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$s ยอดคงเหลือในบัญชี PayPal</string>
+    <string name="transfer_to_bank">ถอนเงินไปเข้าบัญชีธนาคาร</string>
+    <string name="enter_amount">ป้อนจำนวนเงิน</string>
+    <string name="select_currency">เลือกสกุลเงิน</string>
+    <string name="transfer_failed">ขออภัยค่ะ เราไม่สามารถทำการถอนเงินดังกล่าวได้</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">จำนวนเงินน้อยกว่าจำนวนขั้นต่ำ %1$s</string>
+    <string name="transfer_to_your_bank">โอนเงินเข้าธนาคารของคุณ</string>
+    <string name="choose_bank_or_card">เลือกธนาคาร </string>
+    <string name="got_it">เข้าใจแล้ว</string>
+    <string name="try_instant_transfer_title">ลองใช้การโอนเงินแบบทันที</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">โดยปกติคุณจะเห็นเงินในบัญชีธนาคารของคุณภายในไม่กี่นาทีเมื่อคุณใช้บัตรเดบิตที่มีสิทธิ์ของคุณ\n\nโดยมีค่าธรรมเนียม %1$s หรือคุณจะใช้ตัวเลือกมาตรฐานแบบที่ไม่ต้องเสียค่าธรรมเนียมก็ได้ การโอนเงินอาจใช้เวลาถึง 30 นาที หรือแตกต่างกันไปแล้วแต่ธนาคาร</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">โดยปกติคุณจะเห็นเงินในบัญชีธนาคารของคุณภายในไม่กี่นาทีเมื่อคุณใช้บัตรเดบิตที่มีสิทธิ์ของคุณ\n\nโดยมีค่าธรรมเนียม %1$s หรือคุณจะใช้ตัวเลือกมาตรฐานแบบที่ไม่ต้องเสียค่าธรรมเนียมก็ได้ การโอนเงินอาจใช้เวลาถึง 30 นาที หรือแตกต่างกันไปแล้วแต่ธนาคาร</string>
+    <string name="money_transfer_to_your_bank">โอนเงินเข้าธนาคารของคุณ</string>
+    <string name="money_transfer_link_debit_card">เชื่อมโยงบัตรเดบิตที่มีสิทธิ์</string>
+    <string name="money_transfer_link_debit_card_bank">เชื่อมโยงบัตรเดบิตหรือบัญชีธนาคารที่มีสิทธิ์</string>
+    <string name="money_transfer_link_bank">เชื่อมโยงบัญชีธนาคาร</string>
+    <string name="money_choose_bank_or_card">เลือกธนาคาร </string>
+    <string name="money_transfer_rate_instant">แบบทันที โดยทั่วไปในไม่กี่นาที</string>
+    <string name="money_transfer_rate_standard">แบบมาตรฐาน โดยทั่วไปใน 1 วันทำการ</string>
+    <string name="money_transfer_fee_free">ไม่มีค่าใช้จ่าย</string>
+    <string name="money_transfer_fee_unknown">มีค่าธรรมเนียม</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%% (สูงสุด %2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">การโอนเงินอาจใช้เวลาถึง %1$s และแตกต่างกันไปแล้วแต่ธนาคาร ทุกการโอนเงินจะได้รับการตรวจสอบและอาจมีความล่าช้าหรือถูกระงับถ้าพบการโอนเงินที่มีปัญหา</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">จะมีการหักค่าธรรมเนียม %1$s</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">หักค่าธรรมเนียม %1$s</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">ค่าธรรมเนียม %1$s</string>
+    <string name="money_label_fee_none">ไม่มีค่าธรรมเนียม</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">ถึงประมาณ %1$s</string>
+    <string name="money_transfer_proccessing_message">การถอนเงินหลังเวลา 19:00 น. ตามเวลาฝั่งตะวันออกหรือในวันสุดสัปดาห์หรือวันหยุดอาจใช้เวลานานกว่านั้น ทุกการถอนเงินจะได้รับการตรวจสอบและอาจล่าช้าหรือถูกระงับถ้าพบปัญหา</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">คุณได้ถอนเงิน %1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">คุณได้ถอนเงินไปยัง %1$s ของคุณ</string>
+    <string name="money_error_no_fi_selected">โปรดเลือกบัญชี</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">จำนวนเงินเกินกว่าจำนวนสูงสุดที่เป็นไปได้ %1$s</string>
+    <string name="money_error_fi_transfered_max_amount">คุณได้โอนเงินจำนวนเงินสูงสุดที่ได้รับอนุญาตโดยใช้บัตรใบนี้</string>
+    <string name="money_missing_fi_title">ไม่เห็นธนาคารทั้งหมดใช่ไหมคะ</string>
+    <string name="money_missing_fi_message">ไม่รองรับธนาคารและผู้ออกบัตรบางแห่ง</string>
+    <string name="money_transfer_one_business_day">1 วันทำการ</string>
+    <string name="money_transfer_with_minutes">ภายในไม่กี่นาที</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d วันทำการ</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">เนื่องจากแต่ละธนาคารใช้เวลาดำเนินถอนเงินแตกต่างกันไป การถอนเงินบางรายการอาจใช้เวลาถึง %1$d %2$s</string>
+    <string name="transfer_full_amount">ถอนเงินเต็มจำนวน</string>
+    <string name="transfer_partial_amount">ถอนเงินบางส่วน</string>
+    <string name="fee">ค่าธรรมเนียม</string>
+    <string name="you_will_get">คุณจะได้รับ</string>
+    <string name="cancel_transfer">ยกเลิกการถอนเงิน</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">ใช่ ถอนเงินใน %1$s ชั่วโมง</string>
+    <string name="oct_risk_hold_planning_title">การถอนเงินของคุณจะล่าช้า คุณยังต้องการถอนเงินต่อหรือไม่</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">ด้วยเหตุผลด้านความปลอดภัย เราต้องใช้เวลาอีกเล็กน้อยในการตรวจสอบการทำรายการนี้ ซึ่งอาจใช้เวลาถึง %1$s ชั่วโมง คุณจะไม่เสียค่าธรรมเนียม</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">ด้วยเหตุผลด้านความปลอดภัย เราต้องใช้เวลาอีกเล็กน้อยในการตรวจสอบการทำรายการนี้ ซึ่งอาจใช้เวลาถึง %1$s ชั่วโมง</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">จะถึงประมาณ %1$s ชั่วโมง</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">คุณถอนเงินไปที่ธนาคารของคุณโดยใช้ %1$s ของคุณ</string>
+    <string name="you_canceled_transfer">คุณได้ยกเลิกการถอนเงินของคุณแล้ว</string>
+    <string name="money_remains_in_paypal_balance">การชำระเงินยังคงอยู่ในยอดคงเหลือในบัญชี PayPal ของคุณ</string>
+    <string name="oct_your_transfer_is_delayed">การถอนเงินของคุณมีความล่าช้า</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">ด้วยเหตุผลด้านความปลอดภัย เราต้องใช้เวลาอีกเล็กน้อยในการตรวจสอบการทำรายการนี้ ซึ่งจะใช้เวลาไม่เกิน %1$s ชั่วโมง แล้วเราจะอีเมลคุณทันทีที่มีความคืบหน้า คุณจะไม่เสียค่าธรรมเนียม หรือคุณสามารถยกเลิกการโอนเงินของคุณได้</string>
+    <string name="error_transaction_failed_title">การทำรายการของคุณไม่เสร็จสมบูรณ์</string>
+    <string name="error_transaction_failed_message">ขออภัยค่ะ เราไม่สามารถทำรายการของคุณได้ ตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">ด้วยเหตุผลด้านความปลอดภัย เราต้องใช้เวลาอีกเล็กน้อยในการตรวจสอบการทำรายการนี้ ซึ่งจะใช้เวลาไม่เกิน %1$s ชั่วโมง แล้วเราจะอีเมลคุณทันทีที่มีความคืบหน้า</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">ด้วยเหตุผลด้านความปลอดภัย เราต้องใช้เวลาอีกเล็กน้อยในการตรวจสอบการทำรายการนี้ ซึ่งจะใช้เวลาไม่เกิน %1$s ชั่วโมง แล้วเราจะอีเมลคุณทันทีที่มีความคืบหน้า คุณจะไม่เสียค่าธรรมเนียม</string>
+    <string name="oct_cancel_transfer_error">ขออภัยค่ะ เราไม่สามารถยกเลิกการถอนเงินของคุณได้ การทำรายการของคุณยังคงรอดำเนินการ</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">เราจะแจ้งความคืบหน้าให้คุณทราบเกี่ยวกับการโอนเงินจำนวน %1$s ภายใน 30 นาที</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">คุณได้ขอโอนเงินไปยังธนาคารของคุณโดยใช้ %1$s ของคุณ</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">คุณได้ถอนเงิน %1$s ไปที่ %2$s</string>
+    <string name="confirm_your_identity">ยืนยันตัวตนของคุณ</string>
+    <string name="cip_transfer_success_title">เรียบร้อยแล้วค่ะ</string>
+    <string name="cip_transfer_failed_title">เราไม่สามารถยืนยันข้อมูลของคุณได้</string>
+    <string name="cip_transfer_error_title">ดูเหมือนจะเกิดข้อผิดพลาด\nขึ้นในระบบของเรา</string>
+    <string name="cip_transfer_aborted_title">เราไม่สามารถยืนยันข้อมูลของคุณได้</string>
+    <string name="cip_transfer_review_title">ขอบคุณที่ส่งข้อมูลค่ะ</string>
+    <string name="cip_transfer_success_explanation">เรายืนยันข้อมูลของคุณเรียบร้อยแล้ว และคุณสามารถดำเนินการรักษายอดคงเหลือในบัญชี PayPal ของคุณต่อได้ คุณสามารถชำระเงิน ใช้ซื้อสินค้า หรือเก็บไว้เป็นเงินสำรองเมื่อเกิดเหตุไม่คาดคิด</string>
+    <string name="cip_transfer_failed_explanation">คุณยังคงสามารถถอนเงินจาก PayPal ไปยังบัญชีธนาคารที่คุณเชื่อมโยงไว้ได้ แต่คุณไม่สามารถใช้ยอดคงเหลือของคุณเพื่อชำระเงินหรือใช้จ่ายได้ในขณะนี้</string>
+    <string name="cip_transfer_error_explanation">คุณยังคงสามารถถอนเงินจาก PayPal ไปยังบัญชีธนาคารที่คุณเชื่อมโยงไว้ได้ แต่คุณไม่สามารถใช้ยอดคงเหลือของคุณเพื่อชำระเงินหรือใช้จ่ายได้ในขณะนี้</string>
+    <string name="cip_transfer_aborted_explanation">คุณยังสามารถโอนเงินจาก PayPal ไปยังบัญชีธนาคารที่คุณเชื่อมโยงไว้ได้ แต่คุณจะไม่สามารถใช้ยอดคงเหลือของคุณเพื่อชำระเงินหรือใช้จ่ายได้ในขณะนี้</string>
+    <string name="cip_transfer_review_explanation">เราจะส่งอีเมลทันทีที่เราตรวจสอบเอกสารของคุณเรียบร้อยแล้ว ซึ่งจะใช้เวลา 2-3 วันทำการ\n\nในระหว่างที่รอนี้ คุณจะยังสามารถโอนเงินเข้าบัญชีธนาคารของคุณได้ตลอดเวลา</string>
+    <string name="transfer_partial_title">ในการถอนเงินบางส่วน เราจำเป็นต้องทำการยืนยันตัวตนของคุณ</string>
+    <string name="partial_choice_description">ถ้าคุณต้องการใช้ยอดคงเหลือในบัญชี PayPal ของคุณที่มีอยู่เพื่อชำระหรือใช้จ่ายหลังจากการถอนเงินรายการนี้ เราต้องการข้อมูลเพิ่มเติมเพื่อยืนยันตัวตนของคุณ</string>
+    <string name="transfer_full_amount_instead">ถอนเงินเต็มจำนวนแทน</string>
+    <string name="your_transfer_is_pending">การถอนเงินของคุณอยู่ระหว่างรอดำเนินการ</string>
+    <string name="compliance_pending_primary_warning">เพื่อปฏิบัติตามกฎข้อบังคับ เราจึงต้องตรวจสอบการทำรายการบางรายการอย่างละเอียด การถอนเงินของคุณจะถูกพักไว้ชั่วคราวขณะที่เราตรวจสอบ</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">เนื่องจากการโอนเงินของคุณมีความล่าช้า คุณจะไม่ถูกเรียกเก็บ %1$s</string>
+    <string name="there_is_a_problem">เกิดข้อผิดพลาดขึ้น</string>
+    <string name="not_able_to_complete_transaction">ขณะนี้ เราไม่สามารถทำรายการนี้ให้เสร็จสมบูรณ์</string>
+    <string name="identity_not_confirmed">คุณยังไม่ได้ยืนยันตัวตนของคุณ</string>
+    <string name="identity_not_confirmed_description">คุณต้องการดำเนินต่อและยืนยันตัวตนของคุณตอนนี้หรือไม่ หากคุณข้ามขั้นตอนนี้ คุณจะสามารถโอนเงินจาก PayPal เข้าบัญชีของคุณที่เชื่อมโยงไว้ แต่คุณจะไม่สามารถใช้ ยอดคงเหลือในบัญชี PayPal ของคุณเพื่อชำระเงินหรือใช้จ่าย</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">เงินที่รอดำเนินการ</string>
+    <string name="accept_it_now">ยอมรับตอนนี้</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">คุณต้องการทำอะไรกับ %1$s</string>
+    <string name="transfer_it_to_your_bank">โอนไปยังธนาคารของคุณ</string>
+    <string name="transfer_it_to_your_bank_desc">ย้ายเงินไปยังบัญชีธนาคารของคุณในไม่กี่นาทีโดยมีค่าธรรมเนียมเพียงเล็กน้อย หรือหักบัญชีอัตโนมัติไปยังบัญชีธนาคารของคุณฟรี</string>
+    <string name="keep_it_in_paypal">เก็บเงินไว้ใน PayPal</string>
+    <string name="keep_it_in_paypal_cash_desc">มาตั้งค่าบัญชี PayPal Cash ของคุณเพื่อให้คุณชำระหรือใช้จ่ายเงินของคุณผ่าน PayPal ได้</string>
+    <string name="unable_to_create_paypal_cash_account">ขออภัยค่ะ เราไม่สามารถสร้างบัญชี PayPal Cash ของคุณได้ในขณะนี้ โอนเงินไปยังบัญชีธนาคารของคุณแทน</string>
+    <string name="you_are_all_set">คุณพร้อมแล้วค่ะ</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s อยู่ในบัญชี PayPal Cash ใหม่ของคุณแล้ว</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">เมื่อเพื่อนชำระเงินให้หรือขายสินค้าได้ คุณจะเห็นบนหน้าจอหลักของคุณ</string>
+    <string name="error_create_paypal_cash_account">ดูเหมือนว่าจะเกิดข้อผิดพลาดขึ้นในระบบของเรา \nโปรดลองอีกครั้ง</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Businesskredit</string>
+    <string name="paid_to_date">Bis dato zurückgezahlt</string>
+    <string name="outstanding_balance">Ausstehender Betrag</string>
+    <string name="working_capital_summary_load_fail">Ihre Kontoinformationen sind nicht verfügbar.\nStreichen Sie nach unten, um es erneut zu versuchen.</string>
+    <string name="ppwc_paid">ZURÜCKGEZAHLT</string>
+    <string name="view_loan_details">Kreditdetails anzeigen</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Ihr Businesskredit über %1$s wurde vollständig abbezahlt.</string>
+    <string name="apply_again">Neuen Kredit beantragen</string>
+    <string name="ppwc_info">Info</string>
+    <string name="outstanding_balance_title">Ausstehender Betrag</string>
+    <string name="loan_details">Kreditdetails</string>
+    <string name="initial_loan_amount">Ursprünglicher Kreditbetrag</string>
+    <string name="loan_fee">Kreditgebühr</string>
+    <string name="repayment_percentage">Prozentanteil zur Tilgung</string>
+    <string name="view_loan_activity">Kreditaktivitäten anzeigen</string>
+    <string name="make_one_time_payment">Einmalige Rückzahlung senden</string>
+    <string name="catch_up_balance"/>
+    <string name="loan_activity">Kreditaktivitäten</string>
+    <string name="loan_activity_empty">Sobald Ihre automatischen Rückzahlungen beginnen, finden Sie hier eine Übersicht.</string>
+    <string name="ppwc_completed">Abgeschlossen</string>
+    <string name="ppwc_pending">Offen</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Kreditgutschrift</string>
+    <string name="loan_activity_v3_loan_reversal">Rückbuchung Kreditbetrag</string>
+    <string name="loan_activity_v3_fee">Kreditgebühr</string>
+    <string name="loan_activity_v3_aggregated_payment">Automatische Zusammenfassung der Rückzahlungen</string>
+    <string name="loan_activity_v3_automated_catchup_payment"/>
+    <string name="loan_activity_v3_automated_daily_payment">Umsatzbasierte Rückzahlung</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment"/>
+    <string name="loan_activity_v3_customer_initiated_payment">Manuelle Rückzahlung</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Kreditgebühr für Rückbuchung</string>
+    <string name="loan_activity_v3_payment_reversal">Rückbuchung der Rückzahlung</string>
+    <string name="loan_activity_v3_loan_adjustment">Kreditanpassung</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Anpassung Kreditgebühr</string>
+    <string name="loan_activity_v3_payment_adjustment">Anpassung der Rückzahlung</string>
+    <string name="loan_activity_v3_other_payment">Andere Rückzahlung</string>
+    <string name="loan_activity_loan_transfer">Kreditgutschrift</string>
+    <string name="loan_activity_fee">Kreditgebühr</string>
+    <string name="loan_activity_automated_catchup_payment"/>
+    <string name="loan_activity_automated_daily_payment">Automatische Rückzahlung</string>
+    <string name="loan_activity_customer_initiated_catchup_payment"/>
+    <string name="loan_activity_customer_initiated_payment">Manuelle Rückzahlung</string>
+    <string name="loan_activity_loan_reversal">Rückbuchung Kreditbetrag</string>
+    <string name="loan_activity_loan_fee_reversal">Kreditgebühr für Rückbuchung</string>
+    <string name="loan_activity_payment_reversal">Rückbuchung der Rückzahlung</string>
+    <string name="loan_activity_loan_adjustment">Kreditanpassung</string>
+    <string name="loan_activity_loan_fee_adjustment">Anpassung Kreditgebühr</string>
+    <string name="loan_activity_payment_adjustment">Anpassung der Rückzahlung</string>
+    <string name="loan_activity_other_payment">Andere Rückzahlung</string>
+    <string name="loan_activity_aggregated_payment">Automatische Zusammenfassung der Rückzahlungen</string>
+    <string name="make_payment">Rückzahlung senden</string>
+    <string name="make_payment_description">Ihre Rückzahlung wird sofort von Ihrem derzeit verfügbaren PayPal-Guthaben abgebucht.</string>
+    <string name="choose_payment_amount">Wählen Sie einen Rückzahlungsbetrag:</string>
+    <string name="pay_specific_amount">Einen bestimmten Betrag zurückzahlen</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Restlichen Kreditbetrag %1$s zurückzahlen</string>
+    <string name="pay_remaining_loan_balance_description">Es kann bis zu drei Werktage dauern, um Ihre letzte Rückzahlung abzuschließen. Danach können Sie einen neuen Kredit beantragen.</string>
+    <string name="ppwc_continue">Weiter</string>
+    <string name="enter_payment_amount">Rückzahlungsbetrag eingeben</string>
+    <string name="current_loan_balance">Aktueller Kreditbetrag:</string>
+    <string name="available_paypal_balance">Verfügbares PayPal-Guthaben:</string>
+    <string name="review_and_pay">Überprüfen und zurückzahlen</string>
+    <string name="ppwc_amount">Betrag</string>
+    <string name="ppwc_pay">Zurückzahlen</string>
+    <string name="ppwc_payment_method">Rückzahlungsquelle</string>
+    <string name="ppwc_payment_date">Rückzahlungsdatum</string>
+    <string name="review_and_pay_description">Die automatischen Rückzahlungen aus Ihren Verkaufserlösen werden weiterhin fortgesetzt, auch wenn Sie eine einmalige Zahlung gesendet haben. Dies geschieht, bis Sie Ihren Kredit vollständig zurückgezahlt haben.</string>
+    <string name="thank_you">Vielen Dank!</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Sie haben eine Rückzahlung über %1$s gesendet.</string>
+    <string name="make_payment_success_message">Ihr Konto wird aktualisiert, sobald die Rückzahlung bearbeitet ist.</string>
+    <string name="ppwc_done">Fertig</string>
+    <string name="make_payment_error_insufficient_balance">Ihr PayPal-Guthaben reicht für diese Zahlung nicht aus.</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Geben Sie einen Betrag ein, der kleiner oder gleich Ihrem PayPal-Guthaben ist.</string>
+    <string name="working_capital">Businesskredit</string>
+    <string name="general_error_title">Erneut versuchen</string>
+    <string name="general_error_message">Bei uns ist ein Fehler aufgetreten.</string>
+    <string name="ppwc_try_again">Erneut versuchen</string>
+    <string name="catch_up_info_intro"/>
+    <string name="catch_up_info_how_reduced_title"/>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">\n\n%1$s </string>
+    <string name="make_manual_payment">manuelle Rückzahlung senden</string>
+    <string name="catch_up_info_how_avoid_title"/>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">\n\n%1$s</string>
+    <string name="please_see_faq">finden Sie in unseren häufigen Fragen</string>
+    <string name="ppwc_discovery_message">Neu! Ihren PayPal Businesskredit anzeigen und verwalten</string>
+    <string name="last_x_days" formatSpecifiers="number">Letzte %1$s Tage</string>
+    <string name="apply_loan">Beantragen Sie einen günstigen Businesskredit ohne Bonitätsprüfung oder persönliche Garantie.\n\nDer Antrag und die Angabe der Zahlungsquelle dauern nur wenige Minuten.</string>
+    <string name="learn_how_label">So funktioniert es</string>
+    <string name="application_approved">Ihr Antrag wurde genehmigt.</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Sie können Ihr Angebot bis zum %1$s anpassen und akzeptieren.</string>
+    <string name="review_offer">Angebot jetzt überprüfen</string>
+    <string name="view_loan_decision">Entscheidung über Businesskredit anzeigen</string>
+    <string name="application_status_changed">Der Status Ihres Antrags hat sich geändert.</string>
+    <string name="check_status">Status überprüfen</string>
+    <string name="saved_offer">Sie haben ein gespeichertes Angebot</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Ihr Angebot ist bis zum %1$s gültig.\n\nPassen Sie Ihr Angebot an und akzeptieren Sie es – und Sie erhalten das Geld im Handumdrehen.</string>
+    <string name="review_application">Wir prüfen Ihren Antrag</string>
+    <string name="review_application_description">Sie erhalten eine E-Mail, sobald wir die Entscheidung über Ihren Businesskredit haben.</string>
+    <string name="more_details">Weitere Details</string>
+    <string name="pending_funding_primary_desc">Der Businesskredit wird Ihnen gutgeschrieben.</string>
+    <string name="pending_funding_secondary_desc">Rufen Sie uns an, wenn Sie den Kreditbetrag auch nach 24 Stunden noch nicht in Ihrem PayPal-Konto sehen.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d abgeschlossen</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d offen</string>
+    <string name="make_payment_error_amount_gt_loan_due">Geben Sie einen Betrag ein, der kleiner oder gleich Ihrem Kreditbetrag ist.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Geben Sie eine Ganzzahl ohne Dezimalstellen ein.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

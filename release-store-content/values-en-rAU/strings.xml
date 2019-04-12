@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ios_subtitle">Manage sales, invoices and money</string>
+    <string name="ios_promotional_text">PayPal business makes it easy to manage your activity, check your balance, send invoices, view customer information and analyse sales trends. Any time. Anywhere.</string>
+    <string name="full_description_line_1">For businesses on the go. Send invoices, track sales and manage your money with the PayPal Business app.</string>
+    <string name="full_description_line_2_bullet_4">Manage your Working Capital business loan</string>
+    <string name="full_description_line_2_bullet_6">o Access your customer information quickly and easily</string>
+    <string name="full_description_para_1_description">Make, send and manage invoices quickly from the PayPal Business app. PayPal\'s invoice maker makes it easy to send payment reminders to customers directly from your mobile.</string>
+    <string name="full_description_para_2_description">See your daily sales and view your business\' monthly, quarterly and yearly sales at a glance.</string>
+    <string name="full_description_para_3_description">Move money to your linked bank account, issue refunds and send money in just a few clicks. Manage your money on your mobile.</string>
+    <string name="full_description_para_4_header">MAKE REPAYMENTS TOWARDS YOUR WORKING CAPITAL BUSINESS LOAN</string>
+    <string name="full_description_para_4_description">Have a PayPal Working Capital Business Loan\? Now you can make repayments and track your repayment progress from the PayPal business app.</string>
+    <string name="full_description_para_5_description">View customer transaction history, contact details and get in touch with your customers directly from your mobile. It\'s easy to import your contacts too!</string>
+    <string name="full_description_para_footer_1">The PayPal Business app gives your small business a quick and easy way to make and send invoices, get paid and manage your money on your mobile.</string>
+    <string name="full_description_para_footer_2">Want to accept cards on your mobile\? Try the PayPal Here app.</string>
+    <string name="ios_keywords">send money, get paid, payment, bank, transfer, sales, insights, customer, invoice maker, invoice, free, pay</string>
+    <string name="ios_release_notes_1">Thanks for using PayPal business. We\'ve fixed bugs and crashes to help make your experience better every day.</string>
+    <string name="ios_release_notes_2">Managing your businesses will be easier now that we\'ve fixed bugs and crashes with this update. We hope you enjoy the app.</string>
+    <string name="ios_release_notes_3">With every update we try to improve your experience and make your business management and invoice creation easier and faster. Thanks for using PayPal business.</string>
+    <string name="ios_release_notes_4">In this update you\'ll find improvements and fixes to help make it easier for you to manage your business and PayPal account. Enjoy the PayPal business app.</string>
+    <string name="ios_release_notes_5">In this release, we\'ve fixed bugs and error messages to help improve your experience when sending an invoice. Thanks for using PayPal business.</string>
+</resources>

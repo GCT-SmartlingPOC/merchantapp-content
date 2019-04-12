@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">Driftskapital fra PayPal</string>
+    <string name="paid_to_date">Betalt hidtil</string>
+    <string name="outstanding_balance">Udestående saldo</string>
+    <string name="working_capital_summary_load_fail">Dine kontooplysninger er ikke tilgængelige.\nStryg nedad for at prøve igen.</string>
+    <string name="ppwc_paid">BETALT</string>
+    <string name="view_loan_details">Vis detaljer for virksomhedslån</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Dit virksomhedslån på %1$s er blevet betalt fuldt ud.</string>
+    <string name="apply_again">Ansøg igen</string>
+    <string name="ppwc_info">Info</string>
+    <string name="outstanding_balance_title">Udestående saldo</string>
+    <string name="loan_details">Detaljer for virksomhedslån</string>
+    <string name="initial_loan_amount">Oprindeligt lånebeløb</string>
+    <string name="loan_fee">Gebyr for virksomhedslån</string>
+    <string name="repayment_percentage">Tilbagebetalingsprocent</string>
+    <string name="view_loan_activity">Vis aktivitet for virksomhedslån</string>
+    <string name="make_one_time_payment">Foretag en engangsbetaling</string>
+    <string name="catch_up_balance">Restbetalingssaldo</string>
+    <string name="loan_activity">Aktivitet for virksomhedslån</string>
+    <string name="loan_activity_empty">Du vil kunne se en oversigt her, når dine automatiske tilbagebetalinger begynder</string>
+    <string name="ppwc_completed">Gennemført</string>
+    <string name="ppwc_pending">Afventer</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Overførsel af virksomhedslån</string>
+    <string name="loan_activity_v3_loan_reversal">Tilbageførsel af virksomhedslån</string>
+    <string name="loan_activity_v3_fee">Gebyr for virksomhedslån</string>
+    <string name="loan_activity_v3_aggregated_payment">Oversigt over automatiske tilbagebetalinger</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Restbetaling</string>
+    <string name="loan_activity_v3_automated_daily_payment">Salgsbaseret tilbagebetaling</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Manuel restbetaling</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Manuel betaling</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Tilbageførsel af gebyr for virksomhedslån</string>
+    <string name="loan_activity_v3_payment_reversal">Tilbageførsel af betaling</string>
+    <string name="loan_activity_v3_loan_adjustment">Justering af virksomhedslån</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Justering af gebyr for virksomhedslån</string>
+    <string name="loan_activity_v3_payment_adjustment">Justering af betaling</string>
+    <string name="loan_activity_v3_other_payment">Anden betaling</string>
+    <string name="loan_activity_loan_transfer">Overførsel af virksomhedslån</string>
+    <string name="loan_activity_fee">Gebyr for virksomhedslån</string>
+    <string name="loan_activity_automated_catchup_payment">Automatisk restbetaling</string>
+    <string name="loan_activity_automated_daily_payment">Automatisk tilbagebetaling</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Manuel restbetaling</string>
+    <string name="loan_activity_customer_initiated_payment">Manuel betaling</string>
+    <string name="loan_activity_loan_reversal">Tilbageførsel af virksomhedslån</string>
+    <string name="loan_activity_loan_fee_reversal">Tilbageførsel af gebyr for virksomhedslån</string>
+    <string name="loan_activity_payment_reversal">Tilbageførsel af betaling</string>
+    <string name="loan_activity_loan_adjustment">Justering af virksomhedslån</string>
+    <string name="loan_activity_loan_fee_adjustment">Justering af gebyr for virksomhedslån</string>
+    <string name="loan_activity_payment_adjustment">Justering af betaling</string>
+    <string name="loan_activity_other_payment">Anden betaling</string>
+    <string name="loan_activity_aggregated_payment">Oversigt over automatiske tilbagebetalinger</string>
+    <string name="make_payment">Betal</string>
+    <string name="make_payment_description">Din betaling trækkes med det samme fra din tilgængelige PayPal-saldo</string>
+    <string name="choose_payment_amount">Vælg et betalingsbeløb:</string>
+    <string name="pay_specific_amount">Betal et bestemt beløb</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Betal resterende %1$s af virksomhedslånet</string>
+    <string name="pay_remaining_loan_balance_description">Det kan tage op til 3 hverdage at behandle din sidste betaling. Du kan ansøge om et andet virksomhedslån efter dette tidspunkt.</string>
+    <string name="ppwc_continue">Fortsæt</string>
+    <string name="enter_payment_amount">Indtast betalingsbeløb</string>
+    <string name="current_loan_balance">Nuværende saldo for virksomhedslån:</string>
+    <string name="available_paypal_balance">Tilgængelig PayPal-saldo:</string>
+    <string name="review_and_pay">Gennemse og betal</string>
+    <string name="ppwc_amount">Beløb</string>
+    <string name="ppwc_pay">Betal</string>
+    <string name="ppwc_payment_method">Betalingsmetode</string>
+    <string name="ppwc_payment_date">Betalingsdato</string>
+    <string name="review_and_pay_description">Automatiske tilbagebetalinger vil fortsat blive taget fra dine salg, indtil dit virksomhedslån er betalt fuldt ud, også selvom du har foretaget en engangsbetaling.</string>
+    <string name="thank_you">Tak</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Du har gennemført en betaling på %1$s</string>
+    <string name="make_payment_success_message">Din konto vil blive opdateret, så snart betalingen er behandlet.</string>
+    <string name="ppwc_done">Udført</string>
+    <string name="make_payment_error_insufficient_balance">Din PayPal-saldo er ikke tilstrækkelig til at dække denne betaling</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Indtast et beløb, der er lig med eller mindre end din PayPal-saldo.</string>
+    <string name="working_capital">Driftskapital</string>
+    <string name="general_error_title">Prøv igen</string>
+    <string name="general_error_message">Der opstod en fejl.</string>
+    <string name="ppwc_try_again">Prøv igen</string>
+    <string name="catch_up_info_intro">Restbetalingssaldoen påløber, når du overfører penge til en bankkonto, overfører penge til andre eller bruger dine salgsindtægter, før automatisk tilbagebetaling udføres.</string>
+    <string name="catch_up_info_how_reduced_title">Hvordan reduceres min restbetalingssaldo\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">Vi trækker automatisk restbetalinger, når nye penge bliver tilgængelige på din PayPal-konto, indtil restbetalingssaldoen er reduceret til 0 USD.\n\nDu kan også %1$s for at reducere saldoen med det samme.</string>
+    <string name="make_manual_payment">foretage en manuel betaling</string>
+    <string name="catch_up_info_how_avoid_title">Hvordan kan jeg undgå at have en restbetalingssaldo\?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Hvis du vil undgå at have en restbetalingssaldo, skal du bare sørge for, at din PayPal-saldo altid er større end din daglige automatiske tilbagebetaling.\n\nHvis du vil have flere oplysninger om restbetalinger, %1$s.</string>
+    <string name="please_see_faq">kan du læse ofte stillede spørgsmål</string>
+    <string name="ppwc_discovery_message">NYHED! Se og administrer dit PayPal-driftskapitalslån</string>
+    <string name="last_x_days" formatSpecifiers="number">SENESTE %1$s DAGE</string>
+    <string name="apply_loan">Ansøg om et økonomisk overkommeligt virksomhedslån uden kredittjek eller personlig garanti.\n\nAnsøgning og finansiering tager ned til få minutter.</string>
+    <string name="learn_how_label">Se, hvordan det fungerer.</string>
+    <string name="application_approved">Din ansøgning er godkendt.</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Du kan tilpasse og acceptere dit tilbud indtil %1$s.</string>
+    <string name="review_offer">Gennemgå dit tilbud nu</string>
+    <string name="view_loan_decision">Vis afgørelse om virksomhedslån</string>
+    <string name="application_status_changed">Status for din ansøgning er blevet ændret.</string>
+    <string name="check_status">Se status.</string>
+    <string name="saved_offer">Du har gemt et tilbud.</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Dit tilbud gælder indtil %1$s.\n\nTilpas og accepter dit tilbud, og modtag pengene i løbet af få minutter.</string>
+    <string name="review_application">Vi gennemgår din ansøgning.</string>
+    <string name="review_application_description">Du modtager en e-mail, så snart vi har nået en afgørelse om dit virksomhedslån.</string>
+    <string name="more_details">Få flere oplysninger.</string>
+    <string name="pending_funding_primary_desc">Dit virksomhedslån er på vej. </string>
+    <string name="pending_funding_secondary_desc">Ring til os, hvis du ikke kan se pengene på din PayPal-konto inden for 24 timer.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d gennemført</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d afventer</string>
+    <string name="make_payment_error_amount_gt_loan_due">Indtast et beløb, der er lig med eller mindre end din saldo for virksomhedslånet.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Indtast et heltal, ingen decimaler.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fee_label" formatSpecifiers="amount">Transaction fee: %1$s</string>
+    <string name="free_label">Transaction fee: None</string>
+    <string name="transfer_money">Withdraw Funds</string>
+    <string name="send_money">Send Payments​</string>
+    <string name="account_no_fi_info">Link a bank account so you can withdraw money from your PayPal account to your bank account.</string>
+    <string name="why_is_my_money_on_hold">Why is my payment on hold\?</string>
+    <string name="no_bank_account_message">Link a bank account at PayPal.com so you can withdraw payment from your PayPal account to your bank account.</string>
+    <string name="free_fee_message">Transaction fee: None</string>
+    <string name="estimated_total_all_currencies">(Estimated total of all currencies, including our conversion fee)</string>
+    <string name="title_money_transfer">Payment Transfer</string>
+    <string name="enter_amount">Enter the Amount</string>
+    <string name="choose_bank_or_card">Choose Bank </string>
+    <string name="money_choose_bank_or_card">Choose Bank </string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">You transferred payment to your %1$s</string>
+    <string name="money_missing_fi_title">Don\'t see all of your banks\?</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">You transferred payment to your bank using your %1$s</string>
+    <string name="money_remains_in_paypal_balance">The payment remains in your PayPal balance.</string>
+    <string name="cip_transfer_failed_explanation">You\'ll still be able to transfer payment from PayPal to your linked bank, but you won\'t be able to use your balance to send or spend at this time.</string>
+    <string name="cip_transfer_error_explanation">You\'ll still be able to transfer payment from PayPal to your linked bank, but you won\'t be able to use your balance to send or spend at this time.</string>
+</resources>

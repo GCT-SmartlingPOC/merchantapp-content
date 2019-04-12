@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Értékesítési statisztikák</string>
+    <string name="month">Hónap</string>
+    <string name="quarter">Negyedév</string>
+    <string name="year">Év</string>
+    <string name="year_to_date">Idei</string>
+    <string name="title_sales_month">E havi értékesítések</string>
+    <string name="title_this_month">Aktuális hónap</string>
+    <string name="ytd">IDEI</string>
+    <string name="compare_last_year">Összehasonlítás az előző évvel</string>
+    <string name="best_month">LEGJOBB HÓNAP</string>
+    <string name="worst_month">LEGROSSZABB HÓNAP</string>
+    <string name="best_week">LEGJOBB HÉT</string>
+    <string name="worst_week">LEGROSSZABB HÉT</string>
+    <string name="avg_order_value">ÁTLAG MEGRENDELÉSI ÉRTÉK</string>
+    <string name="transactions">TRANZAKCIÓK</string>
+    <string name="last_year_sales" formatSpecifiers="amount">ELŐZŐ ÉV: %1$s</string>
+    <string name="year_to_date_sales">IDEI ÉRTÉKESÍTÉS</string>
+    <string name="total_sales">TELJES ÉRTÉKESÍTÉS</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s ÉRTÉKESÍTÉS</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">Q</string>
+    <string name="data_unavailable_swipe_again">Az adatok nem érhetők el. Húzza le ismét.</string>
+</resources>

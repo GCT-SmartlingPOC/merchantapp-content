@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="ios_release_notes_1"/>
+    <string name="ios_release_notes_2"/>
+    <string name="ios_release_notes_3"/>
+    <string name="ios_release_notes_4"/>
+    <string name="ios_release_notes_5"/>
+</resources>

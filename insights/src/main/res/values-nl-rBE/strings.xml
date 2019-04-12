@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Verkoopinzichten</string>
+    <string name="month">Maand</string>
+    <string name="quarter">Kwartaal</string>
+    <string name="year">Jaar</string>
+    <string name="year_to_date">Jaar tot heden</string>
+    <string name="title_sales_month">Omzet deze maand</string>
+    <string name="title_this_month">Deze maand</string>
+    <string name="ytd">JTH</string>
+    <string name="compare_last_year">Vergelijken met afgelopen jaar</string>
+    <string name="best_month">BESTE MAAND</string>
+    <string name="worst_month">SLECHTSTE MAAND</string>
+    <string name="best_week">BESTE WEEK</string>
+    <string name="worst_week">SLECHTSTE WEEK</string>
+    <string name="avg_order_value">GEM. BESTELWAARDE</string>
+    <string name="transactions">TRANSACTIES</string>
+    <string name="last_year_sales" formatSpecifiers="amount">VORIG JAAR: %1$s</string>
+    <string name="year_to_date_sales">VERKOPEN JAAR TOT HEDEN</string>
+    <string name="total_sales">TOTAALOMZET</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s OMZET</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">Q</string>
+    <string name="data_unavailable_swipe_again">Gegevens niet beschikbaar. Veeg nogmaals.</string>
+</resources>

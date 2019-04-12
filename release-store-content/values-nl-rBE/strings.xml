@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: facturen versturen</string>
+    <string name="ios_subtitle">Verkoop, facturen en geld beheren</string>
+    <string name="ios_promotional_text">PayPal Business maakt het eenvoudig om uw activiteiten te beheren, uw saldo te controleren, facturen te verzenden, klantgegevens te bekijken en verkooptrends te analyseren. Altijd. Overal.</string>
+    <string name="android_short_description">Blijf goed geïnformeerd over uw zakelijke PayPal-rekening terwijl u onderweg bent.</string>
+    <string name="full_description_line_1">Voor bedrijven onderweg! Verstuur facturen, volg de verkoop en beheer uw geld met de PayPal Business-app.</string>
+    <string name="full_description_line_2_bullet_1">o Maak en verstuur snel facturen</string>
+    <string name="full_description_line_2_bullet_2">o Beheer de verkoop en volg rekeningactiviteiten</string>
+    <string name="full_description_line_2_bullet_3">o Maak geld over</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Bekijk in één oogopslag de maandelijkse, driemaandelijkse en jaarlijkse verkooptrends</string>
+    <string name="full_description_line_2_bullet_6">o Krijg snel en gemakkelijk toegang tot uw klantgegevens</string>
+    <string name="full_description_para_1_header">VERSTUUR FACTUREN EN KRIJG BETAALD</string>
+    <string name="full_description_para_1_description">Maak, verstuur en beheer snel facturen vanuit de PayPal Business-app. De factuurmaker van PayPal maakt het ook gemakkelijk om betalingsherinneringen rechtstreeks vanaf uw mobiele apparaat naar klanten te sturen.</string>
+    <string name="full_description_para_2_header">BEHEER DE VERKOOP- EN REKENINGACTIVITEITEN</string>
+    <string name="full_description_para_2_description">Bekijk uw dagelijkse verkoop en de maandelijkse, driemaandelijkse en jaarlijkse verkoop van uw bedrijf in één oogopslag.</string>
+    <string name="full_description_para_3_header">MAAK GELD OVER</string>
+    <string name="full_description_para_3_description">Schrijf geld over naar uw gekoppelde zakelijke bankrekening, betaal geld terug en maak geld over met een paar klikken. Bespaar tijd met deze mobiele app voor geldbeheer.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">KRIJG TOEGANG TOT KLANTGEGEVENS</string>
+    <string name="full_description_para_5_description">Bekijk de transactiegeschiedenis en contactgegevens van uw klant en neem rechtstreeks vanaf uw mobiele apparaat contact op met uw klanten. Uw contactpersonen importeren gaat ook gemakkelijk!</string>
+    <string name="full_description_para_footer_1">De PayPal Business-app biedt u als klein bedrijf een snelle en eenvoudige manier om facturen te maken en te versturen, betaald te worden en uw geld direct vanaf uw telefoon te beheren.</string>
+    <string name="full_description_para_footer_2">Moet u creditcards of betaalpassen op een mobiel apparaat accepteren\? Probeer de mobiele PayPal Here-app!</string>
+    <string name="ios_keywords">betalingen overmaken, betaald krijgen, betaling, bank, overschrijving, verkoop, inzichten, klant, factuurmaker, factuur, gratis, betalen</string>
+    <string name="ios_release_notes_1">Dank u dat u heeft gekozen voor PayPal Business! We hebben bugs en crashes opgelost om uw ervaring iedere dag te verbeteren.</string>
+    <string name="ios_release_notes_2">Het is nu makkelijker om uw bedrijfsactiviteiten te beheren, doordat we met deze update bugs en crashes hebben opgelost. We wensen u veel plezier met de app!</string>
+    <string name="ios_release_notes_3">We proberen uw gebruikservaring bij iedere update te verbeteren. Ook doen we ons best om het beheer van uw bedrijfsactiviteiten en het maken van facturen sneller en makkelijker te maken. Dank u dat u heeft gekozen voor PayPal Business! </string>
+    <string name="ios_release_notes_4">In deze update kunt u verbeteringen en oplossingen vinden die het makkelijker maken om uw bedrijfsactiviteiten en uw PayPal-rekening te beheren. Veel plezier met de PayPal Business-app!</string>
+    <string name="ios_release_notes_5">In deze release hebben we bugs en foutmeldingen opgelost waardoor u makkelijker facturen kunt versturen. Dank u dat u heeft gekozen voor PayPal Business! </string>
+    <string name="android_release_notes_line_1">Productverbeteringen en probleemoplossingen</string>
+</resources>

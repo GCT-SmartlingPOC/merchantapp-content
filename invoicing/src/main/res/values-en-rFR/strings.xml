@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attachment_name_entry">Name this photo</string>
+    <string name="add_memo_to_self">Add memo to yourself (your recipient won\'t see this)</string>
+    <string name="invoice_paid_empty_message">Check back soon to see your invoices change from unpaid to paid!</string>
+    <string name="invoice_sent_to_customer" formatSpecifiers="customerName">Your invoice has been sent to %1$s.</string>
+    <string name="save_invoice_failed">We\'re sorry, we\'re unable to save your invoice. Please try again.</string>
+    <string name="send_invoice_failed">We\'re sorry, we\'re unable to send your invoice. Please try again.</string>
+    <string name="send_reminder_failed">We\'re sorry, we\'re unable to send your reminder. Please try again.</string>
+    <string name="description_hint">Enter a detailed item or service description.</string>
+    <string name="address_line1">Address line 1</string>
+    <string name="address_line2">Address line 2 (optional)</string>
+    <string name="postal_code">Postcode</string>
+    <string name="shipping_label">Packaging &amp; Shipping</string>
+    <string name="invalid_address_line1">Address line 1 is required</string>
+    <string name="invalid_address_city">Town/City is required</string>
+    <string name="error_invoice_number_in_use">You\'ve already used this invoice number. Please try another.</string>
+    <string name="error_invoice_merchant_restricted">We\'re sorry. Your account is currently limited. Please contact us for help.</string>
+    <string name="specify_non_zero">Please enter an amount.</string>
+    <string name="request_contacts_access_title">PayPal Business would like to access your contacts.</string>
+    <string name="invalid_attachment">We\'re sorry. We couldn\'t open that attachment.</string>
+    <string name="send_reminder_subject">Payment due</string>
+    <string name="invoice_unpaid_empty_message">Unpaid invoices will appear here. You can tap on an invoice to edit it or follow up with a customer.</string>
+    <string name="accessibility_discount_dollars_off">Euros Off</string>
+    <string name="unconfirmed_email_invoicing">You need to confirm your email address before you can send invoices. Please check your inbox for the confirmation email or log in to PayPal from your computer to resend the email.</string>
+    <string name="invoice_send_date_warning" formatSpecifiers="date">Invoice date set to \n%1$s.\nTapping Send will deliver the invoice to the customer immediately</string>
+    <string name="invalid_to_email_address_message">Please check the email address and try again.</string>
+    <string name="invalid_cc_email_address">Please check the email address in CC and try again.</string>
+</resources>

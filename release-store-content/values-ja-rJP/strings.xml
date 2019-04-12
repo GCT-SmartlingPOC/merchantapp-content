@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: 請求書の送信</string>
+    <string name="ios_subtitle">売上、請求書、資金の管理</string>
+    <string name="ios_promotional_text">PayPal Businessでは、取引の管理、残高確認、請求書の送信、顧客情報の確認、売上傾向の分析がよりしやすくなりました。いつでも、どこでもスムーズに。</string>
+    <string name="android_short_description">外出先でPayPalビジネスアカウントを把握できます。</string>
+    <string name="full_description_line_1">外出先での取引に最適です。PayPal Businessアプリで、請求書を送信、売上を追跡、支払いを管理しましょう。</string>
+    <string name="full_description_line_2_bullet_1">o 請求書の迅速な作成と送信</string>
+    <string name="full_description_line_2_bullet_2">o 売上の管理とアカウントの取引の追跡</string>
+    <string name="full_description_line_2_bullet_3">o 振替による支払い</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o 月間、四半期間、年間の売上傾向を一目で把握</string>
+    <string name="full_description_line_2_bullet_6">o 顧客情報への迅速かつ簡単なアクセス</string>
+    <string name="full_description_para_1_header">請求書の送信と支払いの受け取り</string>
+    <string name="full_description_para_1_description">PayPal Businessアプリから、請求書の作成、送信と管理を迅速に行えます。PayPalの請求書作成機能により、モバイル端末から、簡単に支払い請求の通知メッセージを直接お客さまに送信できるようになりました。</string>
+    <string name="full_description_para_2_header">売上およびアカウント取引の管理</string>
+    <string name="full_description_para_2_description">1日の売上や、月間、四半期、年間の売上を一目で把握できます。</string>
+    <string name="full_description_para_3_header">資金の移動</string>
+    <string name="full_description_para_3_description">数回クリックするだけで、登録した銀行口座への引出し、返金、送金を行えます。資金管理のモバイルアプリを使用すれば、銀行で列に並ばずに、時間を節約できます。</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">顧客情報へのアクセス</string>
+    <string name="full_description_para_5_description">モバイル端末から、買い手の取引履歴や連絡先情報を確認して、直接買い手に連絡を取ることができます。連絡先のインポートも簡単です。</string>
+    <string name="full_description_para_footer_1">PayPal Businessアプリでは、携帯電話から、請求書の作成と送信、支払いの受け取り、資金の管理を迅速かつ簡単に行えます。</string>
+    <string name="full_description_para_footer_2">モバイル端末で、クレジットカードまたはデビットカードに対応する必要がありますか\?PayPal Hereモバイルアプリをお試しください。</string>
+    <string name="ios_keywords">送金、支払いの受け取り、支払い、銀行、振替、売上、分析情報、顧客、請求書作成機能、請求書、無料、支払う</string>
+    <string name="ios_release_notes_1">PayPal Businessをご利用いただきありがとうございます!お客さまの毎日の利用体験を向上させるため、バグおよびクラッシュを修正しました。</string>
+    <string name="ios_release_notes_2">お客さまがビジネスをより簡単に管理できるよう、今回の更新でバグおよびクラッシュを修正しました。アプリをいつもご利用いただきありがとうございます。</string>
+    <string name="ios_release_notes_3">毎回の更新で、お客さまの利用体験を向上させ、ビジネスの管理および請求書の作成がより簡単かつ迅速に行えるようになることを目指しております。PayPal Businessをご利用いただきありがとうございます!</string>
+    <string name="ios_release_notes_4">今回の更新で加えられた改善と修正により、お客さまのビジネスおよびPayPalアカウントの管理がより簡単に行えるようになりました。PayPal Businessアプリをご利用いただきありがとうございます!</string>
+    <string name="ios_release_notes_5">今回のリリースでは、請求書の送信時の利用体験を改善するために、バグおよびエラーメッセージを修正しました。PayPal Businessをご利用いただきありがとうございます!</string>
+    <string name="android_release_notes_line_1">製品の改善と修正</string>
+</resources>

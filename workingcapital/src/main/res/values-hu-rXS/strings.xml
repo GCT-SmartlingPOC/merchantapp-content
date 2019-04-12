@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal-forgótőke</string>
+    <string name="paid_to_date">Mai napig kifizetett</string>
+    <string name="outstanding_balance">Hátralék</string>
+    <string name="working_capital_summary_load_fail">A számlaadatai nem érhetők el.\nHúzza ujját lefelé, ha szeretné újra megpróbálni.</string>
+    <string name="ppwc_paid">KIFIZETVE</string>
+    <string name="view_loan_details">Kölcsön részleteinek megtekintése</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">%1$s összegű üzleti kölcsönét teljes egészében visszafizette.</string>
+    <string name="apply_again">Jelentkezzen ismét</string>
+    <string name="ppwc_info">Tudnivalók</string>
+    <string name="outstanding_balance_title">Fennálló egyenleg</string>
+    <string name="loan_details">Kölcsön részletei</string>
+    <string name="initial_loan_amount">Eredeti kölcsön összege</string>
+    <string name="loan_fee">Kölcsön díja</string>
+    <string name="repayment_percentage">Visszafizetési százalék</string>
+    <string name="view_loan_activity">Kölcsöntevékenység megtekintése</string>
+    <string name="make_one_time_payment">Egyszeri kifizetés</string>
+    <string name="catch_up_balance">Utólagos egyenleg</string>
+    <string name="loan_activity">Kölcsöntevékenység</string>
+    <string name="loan_activity_empty">Az automatikus visszatérítések indítását követően itt egy összefoglaló jelenik meg</string>
+    <string name="ppwc_completed">Befejezett</string>
+    <string name="ppwc_pending">Függő</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Kölcsönátutalás</string>
+    <string name="loan_activity_v3_loan_reversal">Kölcsön visszavonása</string>
+    <string name="loan_activity_v3_fee">Kölcsön díja</string>
+    <string name="loan_activity_v3_aggregated_payment">Automatikus visszafizetés összefoglalója</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Utólagos kifizetés</string>
+    <string name="loan_activity_v3_automated_daily_payment">Értékesítésalapú visszafizetés</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Egyszeri utólagos kifizetés</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Egyszeri kifizetés</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Kölcsön díjának visszavonása</string>
+    <string name="loan_activity_v3_payment_reversal">Kifizetés visszavonása</string>
+    <string name="loan_activity_v3_loan_adjustment">Kölcsön kiigazítása</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Kölcsön díjának kiigazítása</string>
+    <string name="loan_activity_v3_payment_adjustment">Kifizetés kiigazítása</string>
+    <string name="loan_activity_v3_other_payment">Más kifizetés</string>
+    <string name="loan_activity_loan_transfer">Kölcsönátutalás</string>
+    <string name="loan_activity_fee">Kölcsön díja</string>
+    <string name="loan_activity_automated_catchup_payment">Automatikus utólagos kifizetés</string>
+    <string name="loan_activity_automated_daily_payment">Automatikus visszafizetés</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Egyszeri utólagos kifizetés</string>
+    <string name="loan_activity_customer_initiated_payment">Egyszeri kifizetés</string>
+    <string name="loan_activity_loan_reversal">Kölcsön visszavonása</string>
+    <string name="loan_activity_loan_fee_reversal">Kölcsön díjának visszavonása</string>
+    <string name="loan_activity_payment_reversal">Kifizetés visszavonása</string>
+    <string name="loan_activity_loan_adjustment">Kölcsön kiigazítása</string>
+    <string name="loan_activity_loan_fee_adjustment">Kölcsön díjának kiigazítása</string>
+    <string name="loan_activity_payment_adjustment">Kifizetés kiigazítása</string>
+    <string name="loan_activity_other_payment">Más kifizetés</string>
+    <string name="loan_activity_aggregated_payment">Automatikus visszafizetés összefoglalója</string>
+    <string name="make_payment">Kifizetés indítása</string>
+    <string name="make_payment_description">Ennek a kifizetésnek az összegét azonnal levontuk jelenleg hozzáférhető PayPal-egyenlegéről</string>
+    <string name="choose_payment_amount">Fizetési összeg kiválasztása:</string>
+    <string name="pay_specific_amount">Konkrét összeg kifizetése</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">%1$s maradék kölcsönegyenleg kifizetése</string>
+    <string name="pay_remaining_loan_balance_description">Végső kifizetése feldolgozásáig akár 3 munkanap is eltelhet. Újabb kölcsönigénylését majd akkor nyújthatja be.</string>
+    <string name="ppwc_continue">Folytatás</string>
+    <string name="enter_payment_amount">Fizetendő összeg megadása</string>
+    <string name="current_loan_balance">Jelenlegi kölcsönegyenleg:</string>
+    <string name="available_paypal_balance">Elérhető PayPal-egyenleg:</string>
+    <string name="review_and_pay">Áttekintés és fizetés</string>
+    <string name="ppwc_amount">Összeg</string>
+    <string name="ppwc_pay">Fizetés</string>
+    <string name="ppwc_payment_method">Fizetési mód</string>
+    <string name="ppwc_payment_date">Kifizetés dátuma</string>
+    <string name="review_and_pay_description">Az automatikus visszafizetések továbbra is le lesznek vonva az értékesítéseiből, még akkor is, ha egyszeri kifizetést végzett, mindaddig, míg a kölcsönt teljes egészében ki nem egyenlíti.</string>
+    <string name="thank_you">Köszönjük!</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Ön %1$s összegben teljesített kifizetést</string>
+    <string name="make_payment_success_message">A kifizetés feldolgozását követően azonnal frissítjük számláját.</string>
+    <string name="ppwc_done">Kész</string>
+    <string name="make_payment_error_insufficient_balance">A PayPal-egyenlege nem elegendő ennek a kifizetésnek az elvégzéséhez</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Az egyenlegén elérhető összeggel azonos vagy annál kisebb összeget adjon meg.</string>
+    <string name="working_capital">Forgótőke</string>
+    <string name="general_error_title">Próbálja meg újra</string>
+    <string name="general_error_message">Rendszerünkben probléma merült fel.</string>
+    <string name="ppwc_try_again">Próbálja újra</string>
+    <string name="catch_up_info_intro">Utólagos egyenleg akkor halmozódik fel, ha az automatikus visszafizetés megvalósulása előtt pénzt vesz fel vagy utal át, illetve elkölti az értékesítését.</string>
+    <string name="catch_up_info_how_reduced_title">Hogyan csökkenthető az utólagos egyenlegem\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">Az utólagos kifizetéseket automatikusan levonjuk, amint PayPal-egyenlegén új pénzösszeg válik elérhetővé, mindaddig, amíg az utólagos egyenleg 0 USD értékre nem csökken.\n\nAz egyenleg azonnali csökkentése %1$s révén is elérhető.</string>
+    <string name="make_manual_payment">egyszeri kifizetés indítása</string>
+    <string name="catch_up_info_how_avoid_title">Hogyan kerülhetem el az utólagos egyenleget\?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Az utólagos egyenleg elkerüléséhez csupán arról kell gondoskodnia, hogy PayPal-egyenlege mindig nagyobb legyen a napi automatikus visszafizetésénél.\n\nAz utólagos kifizetésekkel kapcsolatos további információért %1$s.</string>
+    <string name="please_see_faq">Olvassa el a Gyakran ismétlődő kérdéseket</string>
+    <string name="ppwc_discovery_message">ÚJ! PayPal-forgótőke kölcsön megtekintése és kezelése</string>
+    <string name="last_x_days" formatSpecifiers="number">AZ ELMÚLT %1$s NAP</string>
+    <string name="apply_loan">Most megfizethető üzleti kölcsönhöz juthat hitelbírálat és személyes kezességvállalás nélkül.\n\nA kérelem benyújtása és a kifizetés csak néhány percet vesz igénybe.</string>
+    <string name="learn_how_label">További információk</string>
+    <string name="application_approved">Kérelmét jóváhagytuk!</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Az ajánlatot testreszabhatja és elfogadhatja a következő időpontig: %1$s.</string>
+    <string name="review_offer">Tekintse át az ajánlatot most</string>
+    <string name="view_loan_decision">Üzleti kölcsönnel kapcsolatos döntés megtekintése</string>
+    <string name="application_status_changed">Az alkalmazás állapota megváltozott.</string>
+    <string name="check_status">Állapot megtekintése</string>
+    <string name="saved_offer">Egy mentett ajánlattal rendelkezik</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Az ajánlat elfogadásának határideje: %1$s.\n\nVégezze el az ajánlat testreszabását, és fogadja el az ajánlatot, így perceken belül pénzhez juthat.</string>
+    <string name="review_application">Kérelem áttekintése folyamatban</string>
+    <string name="review_application_description">Az üzleti kölcsönnel kapcsolatos döntést követően azonnal értesítjük e-mailben.</string>
+    <string name="more_details">További részletek</string>
+    <string name="pending_funding_primary_desc">Az üzleti kölcsön összegét elutaltuk. </string>
+    <string name="pending_funding_secondary_desc">Ha az összeg 24 órán belül nem jelenik meg PayPal-számláján, hívjon minket.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d befejezve</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d függőben</string>
+    <string name="make_payment_error_amount_gt_loan_due">A kölcsönegyenlegén elérhető összeggel azonos vagy annál kisebb összeget adjon meg.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Egész számot adjon meg, tizedesjegyek nélkül.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

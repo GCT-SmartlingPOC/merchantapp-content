@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Sales insights</string>
+    <string name="compare_last_year">Compare to previous year</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: enviar formatos de pago</string>
+    <string name="ios_subtitle">Administre sus ventas, formatos de pago y fondos</string>
+    <string name="ios_promotional_text">PayPal Business hace que sea fácil administrar los movimientos en su cuenta, enviar formatos de pago, ver la información del cliente y analizar las tendencias de ventas. En cualquier momento. En cualquier lugar. </string>
+    <string name="android_short_description">Lleve el control de su cuenta PayPal Business en cualquier momento y lugar.</string>
+    <string name="full_description_line_1">¡Para los negocios en movimiento! Envíe formatos de pago, rastree ventas y administre sus fondos con la aplicación PayPal Business.</string>
+    <string name="full_description_line_2_bullet_1">o Cree y envíe formatos de pago rápidamente</string>
+    <string name="full_description_line_2_bullet_2">o Gestione sus ventas y rastree los movimientos de su cuenta</string>
+    <string name="full_description_line_2_bullet_3">o Transferir pagos</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Vea las tendencias de venta mensuales, trimestrales y anuales al instante</string>
+    <string name="full_description_line_2_bullet_6">o Acceda a la información de su cliente de forma rápida y sencilla</string>
+    <string name="full_description_para_1_header">ENVÍE FORMATOS DE PAGO Y RECIBA PAGOS</string>
+    <string name="full_description_para_1_description">Cree, envíe y administre formatos de pago de forma rápida con la aplicación PayPal Business. Con el creador de formatos de pago de PayPal también podrá enviar recordatorios de pago a sus clientes de manera fácil desde su dispositivo móvil.</string>
+    <string name="full_description_para_2_header">ADMINISTRE LAS VENTAS Y LOS MOVIMIENTOS DE LA CUENTA</string>
+    <string name="full_description_para_2_description">Vea sus ventas diarias y las ventas mensuales, trimestrales y anuales de su empresa al instante.</string>
+    <string name="full_description_para_3_header">TRANSFERIR FONDOS</string>
+    <string name="full_description_para_3_description">Transfiera fondos a su cuenta bancaria asociada, emita reembolsos y envíe pagos en un par de clics. Ahorre tiempo al saltarse las filas del banco con esta aplicación que le permite administrar sus fondos.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">TENGA ACCESO A LA INFORMACIÓN DEL CLIENTE</string>
+    <string name="full_description_para_5_description">Vea el historial de transacciones y la información de contacto del cliente, y póngase en contacto con sus clientes directamente desde su dispositivo móvil. ¡También es muy sencillo importar sus contactos!</string>
+    <string name="full_description_para_footer_1">La aplicación PayPal Business ofrece a su pequeña empresa una manera simple y rápida de enviar y recibir formatos de pago, recibir pagos y administrar sus fondos directamente desde su teléfono.</string>
+    <string name="full_description_para_footer_2">¿Necesita aceptar tarjetas de débito/crédito en un dispositivo móvil\? ¡Pruebe la aplicación móvil PayPal Here!</string>
+    <string name="ios_keywords">enviar pagos, recibir pagos, pagos, banco, transferencia, ventas, información, cliente, creador de formatos de pago, formato de pago, gratis, pagar</string>
+    <string name="ios_release_notes_1">¡Gracias por utilizar PayPal Business! Corregimos los errores y las fallas para que sus experiencias sean mejores cada día.</string>
+    <string name="ios_release_notes_2">Administrar sus negocios ahora será más fácil, ya que en esta actualización corregimos los errores y las fallas. ¡Esperamos que disfrute la aplicación!</string>
+    <string name="ios_release_notes_3">Con cada actualización intentamos mejorar su experiencia y hacer que la administración de la empresa y la creación de formatos de pago sea más fácil y rápida. ¡Gracias por utilizar PayPal Business! </string>
+    <string name="ios_release_notes_4">En esta actualización encontrará mejoras y correcciones que harán más fácil para usted la administración de su empresa y de su cuenta PayPal. ¡Disfrute la aplicación PayPal Business!</string>
+    <string name="ios_release_notes_5">En esta versión, corregimos los errores y mensajes de error para mejorar su experiencia al enviar un formato de pago. ¡Gracias por utilizar PayPal Business! </string>
+    <string name="android_release_notes_line_1">Mejoras y errores de productos</string>
+</resources>

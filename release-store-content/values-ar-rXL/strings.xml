@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: إرسال الفواتير</string>
+    <string name="ios_subtitle">إدارة المبيعات والفواتير والأموال</string>
+    <string name="ios_promotional_text">يسهّل تطبيق PayPal Business عليك إدارة الأنشطة، والتحقق من الرصيد، وإرسال الفواتير، وعرض معلومات العملاء وتحليل اتجاهات المبيعات. في أي وقت. وفي أي مكان.</string>
+    <string name="android_short_description">تابع جميع أمور حسابك التجاري على PayPal في أي وقت وأي مكان.</string>
+    <string name="full_description_line_1">لأصحاب الأنشطة التجارية في أي وقت وأي مكان! أرسل الفواتير وتتبع المبيعات وقم بإدارة أموالك من خلال تطبيق PayPal Business.</string>
+    <string name="full_description_line_2_bullet_1">o إصدار وإرسال الفواتير بسرعة</string>
+    <string name="full_description_line_2_bullet_2">o إدارة المبيعات وتتبع أنشطة الحساب</string>
+    <string name="full_description_line_2_bullet_3">o تحويل المدفوعات</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o الاطلاع على اتجاهات المبيعات الشهرية وربع السنوية والسنوية في نظرة سريعة</string>
+    <string name="full_description_line_2_bullet_6">o الدخول إلى معلومات العملاء بسرعة وسهولة</string>
+    <string name="full_description_para_1_header">إرسال الفواتير وتلقي المدفوعات</string>
+    <string name="full_description_para_1_description">يمكنك إصدار الفواتير وإرسالها وإدارتها بسرعة من خلال تطبيق PayPal Business. تسهّل أيضاً أداة PayPal لإصدار الفاتورة من إرسال رسائل تذكير بالدفع للعملاء مباشرة من جهازك المحمول.</string>
+    <string name="full_description_para_2_header">إدارة المبيعات وأنشطة الحساب</string>
+    <string name="full_description_para_2_description">اطلع على مبيعاتك اليومية، واستعرض مبيعات نشاطك التجاري الشهرية وربع السنوية والسنوية بنظرة سريعة.</string>
+    <string name="full_description_para_3_header">تحويل المبالغ المالية</string>
+    <string name="full_description_para_3_description">يمكنك تحويل المبالغ المالية إلى حساب التاجر البنكي المربوط بحسابك، ورد المبالغ المالية، وإرسال المدفوعات ببضع نقرات فقط. وفّر الوقت عن طريق تخطي الطرق البنكية باستخدام هذا التطبيق لإدارة الأموال عبر الهاتف المحمول.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">الدخول إلى معلومات العميل</string>
+    <string name="full_description_para_5_description">استعرض سجل معاملات العملاء ومعلومات الاتصال بهم وتواصل مع عملائك مباشرة من جهازك المحمول. يمكن أيضاً استيراد جهات الاتصال الخاصة بك بسهولة!</string>
+    <string name="full_description_para_footer_1">يقدم تطبيق PayPal Business لنشاطك التجاري الصغير طريقة سريعة وبسيطة لإصدار وإرسال الفواتير وتلقي المدفوعات وإدارة الأموال مباشرة من هاتفك.</string>
+    <string name="full_description_para_footer_2">هل تحتاج إلى قبول بطاقات ائتمان/سحب على جهاز محمول؟ جرّب تطبيق PayPal Here للهاتف المحمول!</string>
+    <string name="ios_keywords">إرسال مدفوعات، تلقي مدفوعات، مدفوعات، بنك، تحويل، مبيعات، إحصائيات، عملاء، أداة إصدار الفواتير، فاتورة، مجاناً، دفع</string>
+    <string name="ios_release_notes_1"/>
+    <string name="ios_release_notes_2"/>
+    <string name="ios_release_notes_3"/>
+    <string name="ios_release_notes_4"/>
+    <string name="ios_release_notes_5"/>
+    <string name="android_release_notes_line_1">تحسينات وإصلاحات المنتج</string>
+</resources>

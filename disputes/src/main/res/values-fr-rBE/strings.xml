@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s a ouvert un litige pour %2$s.</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s a fermé un litige pour %2$s.</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">Vous avez transmis à PayPal le litige de %1$s pour %2$s.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s a ouvert un litige pour %2$s auprès de PayPal.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s a signalé une opposition au paiement dans un litige pour %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">Consultez la résolution du litige de %1$s pour %2$s.</string>
+    <string name="dispute_reason_item_not_received">objet non reçu</string>
+    <string name="dispute_reason_item_not_as_described">objet ne correspondant pas à sa description</string>
+    <string name="dispute_new_label">NOUVEAUTÉS</string>
+    <string name="dispute_chargeback_label">OPPOSITION AU PAIEMENT</string>
+    <string name="dispute_awaiting_on_buyer_label">EN ATTENTE D\'UNE RÉPONSE DE L\'ACHETEUR</string>
+    <string name="dispute_awaiting_on_you_label">EN ATTENTE D\'UNE RÉPONSE DE VOTRE PART</string>
+    <string name="dispute_in_review_label">EN COURS DE VÉRIFICATION</string>
+    <string name="dispute_resolved_label">RÉSOLU</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">Vous avez répondu le %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">L\'acheteur a répondu le %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">Répondez avant le %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">L\'acheteur doit répondre avant le %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">En attente d\'une réponse de l\'acheteur.</string>
+    <string name="dispute_awaiting_resolution_action">En attente de résolution.</string>
+    <string name="dispute_card_title">Litiges</string>
+    <string name="dispute_respond_action">Répondre</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s litiges nécessitent une réponse de votre part</string>
+    <string name="dispute_multiple_view_all">Afficher tout</string>
+    <string name="dispute_view_details">Afficher les informations</string>
+    <string name="dispute_details_title">Litige</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">Numéro de dossier : %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Dernière mise à jour : %1$s</string>
+    <string name="dispute_customer_contact_title">Contact client</string>
+    <string name="dispute_tracking_information">Informations de suivi</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">Numéro : %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">Transporteur : %1$s</string>
+    <string name="dispute_seller_transaction_id_title">Numéro de transaction du vendeur</string>
+    <string name="dispute_last_comment_title">Dernier commentaire</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">Client : %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">Vous : %1$s</string>
+    <string name="dispute_order_details_title">Détails de la commande</string>
+    <string name="dispute_shipped_to_title">Expédié à</string>
+    <string name="dispute_message_buyer">Envoyer un message à l\'acheteur</string>
+    <string name="dispute_provide_info_to_paypal">Communiquer des informations à PayPal</string>
+    <string name="dispute_issue_refund">Effectuer un remboursement</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">Répondez avant le : %1$s</string>
+    <string name="dispute_claim_accepted_success">La réclamation a été acceptée.</string>
+    <string name="dispute_claim_accepted_error">Impossible de traiter la réclamation pour l\'instant.</string>
+    <string name="dispute_esclated_success">Transféré à PayPal.</string>
+    <string name="dispute_esclated_error">Impossible de transférer à PayPal.</string>
+    <string name="dispute_full_refund_success">Offre effectuée.</string>
+    <string name="dispute_full_refund_error">Impossible d\'effectuer cette offre pour l\'instant.</string>
+    <string name="dispute_provide_evidence_success">Preuves envoyées.</string>
+    <string name="dispute_action_accept_claim">Remboursement intégral</string>
+    <string name="dispute_action_escalate_to_paypal">Transformer en réclamation PayPal</string>
+    <string name="dispute_action_full_refund">Proposer un remboursement intégral</string>
+    <string name="dispute_action_provide_evidence">Fournir des preuves</string>
+    <string name="dispute_actions_label">Actions</string>
+    <string name="dispute_conversation_title">Messages</string>
+    <string name="dispute_send_message">Envoyer un message à l\'acheteur…</string>
+    <string name="dispute_conversation_you">VOUS</string>
+    <string name="dispute_hub_title">Litiges</string>
+    <string name="dispute_offer_refund_title">Envoyer un message</string>
+    <string name="dispute_offer_refund_send_message">Envoyer un message à votre client</string>
+    <string name="dispute_offer_refund_default_message">Je souhaite vous proposer un remboursement intégral. L\'acceptez-vous \?</string>
+    <string name="dispute_offer_refund_ask_return">Demandez à l\'acheteur de renvoyer l\'objet.</string>
+    <string name="dispute_offer_refund_missing_note">Le champ Remarque doit être renseigné</string>
+    <string name="dispute_accept_claim_note_placeholder">Saisissez votre remarque ici</string>
+    <string name="dispute_escalate_to_paypal_title">Décrivez le problème</string>
+    <string name="dispute_escalate_to_paypal_header_message">Saisissez une description détaillée du problème que vous rencontrez avec cette transaction.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">Saisissez une description ici</string>
+    <string name="dispute_escalate_to_paypal_missing_description">Le champ Description doit être renseigné</string>
+    <string name="dispute_offer_refund_confirmation_title">Vérifiez et confirmez</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Une fois le remboursement intégral envoyé à %1$s, ce problème sera résolu et clos. </string>
+    <string name="dispute_offer_refund_label_transaction_amount">Montant de la transaction</string>
+    <string name="dispute_offer_refund_label_transaction_id">Numéro de transaction</string>
+    <string name="dispute_offer_refund_label_your_message">Votre message</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">Proposer un remboursement intégral</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">Lorsque cela aura été confirmé, un remboursement intégral sera envoyé à %1$s et ce problème sera résolu et clos.</string>
+    <string name="dispute_accept_claim_confirmation_button">Rembourser</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">Vérifiez et confirmez</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer"> Vous formulez une réclamation auprès de PayPal car vous n\'avez pas trouvé de solution avec l\'acheteur. \n\nNous avons suspendu le montant de la transaction jusqu\'à la fermeture de ce dossier.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">Montant de la transaction</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">Numéro de transaction</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Description détaillée</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">Transformer le litige en réclamation</string>
+    <string name="dispute_add_tracking_confirmation_message">Vous venez de mettre à jour vos informations de suivi.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">Un email contenant les informations saisies va être adressé à votre client.</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">Transformer en réclamation PayPal</string>
+    <string name="dispute_escalate_primer_preface">Avant que vous ne transformiez ce dossier en réclamation, quelques informations importantes</string>
+    <string name="dispute_escalate_primer_line_one">Vous ne pourrez plus communiquer directement avec l\'acheteur une fois la réclamation ouverte.</string>
+    <string name="dispute_escalate_primer_line_two">Toute offre de remboursement ouverte faite par le vendeur sera annulée.</string>
+    <string name="dispute_escalate_primer_line_three">Nous pouvons mettre jusqu\'à 30 jours pour étudier votre réclamation et prendre notre décision.</string>
+    <string name="dispute_escalate_primer_line_four">Nous examinerons les informations que vous avez fournies et tous les messages que vous et l\'acheteur avez échangés au sujet de cette transaction.</string>
+    <string name="dispute_escalate_primer_line_five">Nous vous enverrons un email si nous avons besoin de plus d\'informations de votre part pendant notre étude.</string>
+    <string name="dispute_escalate_primer_line_six">Une fois que nous aurons pris une décision, celle-ci sera définitive et la réclamation sera close.</string>
+</resources>

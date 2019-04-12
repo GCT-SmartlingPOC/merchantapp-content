@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Wawasan Jualan</string>
+    <string name="month">Bulan</string>
+    <string name="quarter">Suku Tahun</string>
+    <string name="year">Tahun</string>
+    <string name="year_to_date">Tahun terkini</string>
+    <string name="title_sales_month">Jualan bulan ini</string>
+    <string name="title_this_month">Bulan ini</string>
+    <string name="ytd">YTD</string>
+    <string name="compare_last_year">Bandingkan dengan Tahun Sebelumnya</string>
+    <string name="best_month">BULAN TERBAIK</string>
+    <string name="worst_month">BULAN TERBURUK</string>
+    <string name="best_week">MINGGU TERBAIK</string>
+    <string name="worst_week">MINGGU TERBURUK</string>
+    <string name="avg_order_value">PURATA NILAI PESANAN</string>
+    <string name="transactions">TRANSAKSI</string>
+    <string name="last_year_sales" formatSpecifiers="amount">TAHUN SEBELUMNYA: %1$s</string>
+    <string name="year_to_date_sales">JUALAN TAHUN TERKINI</string>
+    <string name="total_sales">JUMLAH JUALAN</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s JUALAN</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb ‘%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">S</string>
+    <string name="data_unavailable_swipe_again">Data tidak tersedia. Sila seret sekali lagi.</string>
+</resources>

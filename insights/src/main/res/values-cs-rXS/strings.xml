@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Statistika prodeje</string>
+    <string name="month">Měsíc</string>
+    <string name="quarter">Čtvrtletí</string>
+    <string name="year">Rok</string>
+    <string name="year_to_date">Od zač. roku</string>
+    <string name="title_sales_month">Tržby za tento měsíc</string>
+    <string name="title_this_month">Tento měsíc</string>
+    <string name="ytd">Od začátku roku</string>
+    <string name="compare_last_year">Porovnat s předchozím rokem</string>
+    <string name="best_month">NEJLEPŠÍ MĚSÍC</string>
+    <string name="worst_month">NEJHORŠÍ MĚSÍC</string>
+    <string name="best_week">NEJLEPŠÍ TÝDEN</string>
+    <string name="worst_week">NEJHORŠÍ TÝDEN</string>
+    <string name="avg_order_value">PRŮMĚRNÁ HODNOTA OBJ.</string>
+    <string name="transactions">TRANSAKCE</string>
+    <string name="last_year_sales" formatSpecifiers="amount">PŘEDCHOZÍ ROK: %1$s</string>
+    <string name="year_to_date_sales">OD ZAČÁTKU ROKU</string>
+    <string name="total_sales">CELKOVÉ TRŽBY</string>
+    <string name="month_sales" formatSpecifiers="month">TRŽBY %1$s</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb %1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">ČTVRT.</string>
+    <string name="data_unavailable_swipe_again">Data nejsou k dispozici. Přejeďte znovu.</string>
+</resources>

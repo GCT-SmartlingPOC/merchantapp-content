@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transfer_money">Transfer Funds</string>
+    <string name="send_money">Send Payments​</string>
+    <string name="account_no_fi_info">Link a bank account so you can send payment, issue refunds, and transfer payment from PayPal to your bank.</string>
+    <string name="link_a_bank_card">Link a Bank Account or Card</string>
+    <string name="why_is_my_money_on_hold">Why is my payment on hold\?</string>
+    <string name="title_money_transfer">Payment Transfer</string>
+    <string name="money_transfer_proccessing_message">All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">You transferred payment to your %1$s</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">You transferred payment to your bank using your %1$s</string>
+    <string name="money_remains_in_paypal_balance">The payment remains in your PayPal balance.</string>
+    <string name="cip_transfer_failed_explanation">You\'ll still be able to transfer payment from PayPal to your linked bank, but you won\'t be able to use your balance to send or spend at this time.</string>
+    <string name="cip_transfer_error_explanation">You\'ll still be able to transfer payment from PayPal to your linked bank, but you won\'t be able to use your balance to send or spend at this time.</string>
+    <string name="cip_transfer_aborted_explanation">You\'ll still be able to transfer payment from PayPal to your linked bank, but you won\'t be able to use your balance to send or spend at this time.</string>
+    <string name="cip_transfer_review_explanation">We\'ll send an email as soon as we\'re done reviewing your docs. This usually takes 2-3 business days.\n\nWhile you\'re waiting you can always transfer the payment to your bank.</string>
+    <string name="identity_not_confirmed_description">Would you like to continue and confirm your identity now\? If you skip this step, you can transfer payment from PayPal to your linked account, but you won\'t be able to use your PayPal balance to send or spend any payment.</string>
+</resources>

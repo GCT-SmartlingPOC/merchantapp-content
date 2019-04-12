@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">銷量數據分析報告</string>
+    <string name="month">月</string>
+    <string name="quarter">季</string>
+    <string name="year">年</string>
+    <string name="year_to_date">本年至今</string>
+    <string name="title_sales_month">本月銷售</string>
+    <string name="title_this_month">本月</string>
+    <string name="ytd">本年至今</string>
+    <string name="compare_last_year">比較前一年</string>
+    <string name="best_month">最佳月份</string>
+    <string name="worst_month">最差月份</string>
+    <string name="best_week">最佳星期</string>
+    <string name="worst_week">最差星期</string>
+    <string name="avg_order_value">平均訂單價值</string>
+    <string name="transactions">交易宗數</string>
+    <string name="last_year_sales" formatSpecifiers="amount">前一年：%1$s</string>
+    <string name="year_to_date_sales">本年至今的銷售額</string>
+    <string name="total_sales">銷售總</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s 銷售</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">季度</string>
+    <string name="data_unavailable_swipe_again">無法提供資料。請再滑動一次。</string>
+</resources>

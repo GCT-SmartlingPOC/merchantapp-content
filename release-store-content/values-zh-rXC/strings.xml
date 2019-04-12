@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business：随时发送账单</string>
+    <string name="ios_subtitle">轻松管理交易、账单和资金</string>
+    <string name="ios_promotional_text">有了PayPal Business应用，您可以轻松管理账户活动、查看余额和客户信息、发送账单以及分析销售趋势。随时随地，轻松搞定！</string>
+    <string name="android_short_description">随时随地管理您的PayPal企业账户。</string>
+    <string name="full_description_line_1">随时随地开展业务！使用PayPal Business应用发送账单、跟踪销售情况以及管理资金。</string>
+    <string name="full_description_line_2_bullet_1">o 快速开具并发送账单</string>
+    <string name="full_description_line_2_bullet_2">o 管理销售，跟踪账户活动</string>
+    <string name="full_description_line_2_bullet_3">o 转款</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o 快速掌握月度、季度和年度销售趋势</string>
+    <string name="full_description_line_2_bullet_6">o 轻松查看客户信息</string>
+    <string name="full_description_para_1_header">创建及发送账单</string>
+    <string name="full_description_para_1_description">使用PayPal Business应用快速创建、发送和管理账单。利用PayPal的账单工具，您还可以直接通过移动设备轻松向客户发送付款提醒。</string>
+    <string name="full_description_para_2_header">管理销售业务和查询账户交易</string>
+    <string name="full_description_para_2_description">查看每日销售情况，或您公司的月度、季度和年度销售情况，所有信息一目了然。</string>
+    <string name="full_description_para_3_header">转款</string>
+    <string name="full_description_para_3_description">只需轻点几下，您就能将资金提现到关联的商家银行账户，给客户发放退款或者付款给您的供应商。这款移动资金管理应用为您节省了去银行排队办理业务的时间。</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">查看客户信息</string>
+    <string name="full_description_para_5_description">轻松查看客户交易记录和联系信息，并直接通过移动设备与客户联系。导入联系人也很轻松！</string>
+    <string name="full_description_para_footer_1">借助PayPal Business应用，小型企业可直接在手机上方便快捷地开具和发送账单、收款，并管理资金。</string>
+    <string name="full_description_para_footer_2">需要在移动设备上接受信用卡或借记卡付款？不妨使用PayPal Here移动应用！</string>
+    <string name="ios_keywords">汇款, 收款, 付款, 银行, 转账, 销售, 数据分析, 客户, 创建账单, 账单, 免费, 支付</string>
+    <string name="ios_release_notes_1">感谢您使用PayPal Business！我们通过修复错误和崩溃不断改善您的使用体验。</string>
+    <string name="ios_release_notes_2">在此次更新中，我们修复了错误和崩溃的问题，您现在可以更轻松地管理业务。希望您喜欢我们的应用！</string>
+    <string name="ios_release_notes_3">每一次更新，我们都会尝试改善您的使用体验，使业务管理和账单创建更加简单快捷。感谢您使用PayPal Business！</string>
+    <string name="ios_release_notes_4">本次更新中包含的改进和修复可让您更轻松地管理业务和PayPal账户。充分享受PayPal Business应用带来的便利！</string>
+    <string name="ios_release_notes_5">在此版本中，我们修复了错误和错误提示消息，以改善您的账单发送体验。感谢您使用PayPal Business！</string>
+    <string name="android_release_notes_line_1">产品改进和修复</string>
+</resources>

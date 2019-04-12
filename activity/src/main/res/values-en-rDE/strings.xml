@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="refund_transaction_refused_payee_preference">We\'re sorry, the transaction could not be completed.</string>
+    <string name="error_payer_account_restricted">We\'re sorry. Your account is limited. Please contact us for help.</string>
+    <string name="error_payee_account_restricted">We\'re sorry, the transaction could not be completed.</string>
+    <string name="error_feature_unsupported_for_payee">We\'re sorry, the recipient is unable to receive payments.</string>
+    <string name="cannot_send_text">It looks like you can\'t send SMSs from this device.</string>
+    <string name="refund_insufficent_balance_with_fundingsource_info" formatSpecifiers="bankName">You don\'t have enough funds in your PayPal balance to cover this refund. The full refund amount will be drawn from %1$s and will take 3-5 working days to complete.</string>
+    <string name="refund_insufficent_balance">If you do not have sufficient PayPal balance this will come from your default funding source.</string>
+</resources>

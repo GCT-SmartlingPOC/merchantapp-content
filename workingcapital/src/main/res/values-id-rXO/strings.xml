@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">Dibayar hingga hari ini</string>
+    <string name="outstanding_balance">Saldo terutang</string>
+    <string name="working_capital_summary_load_fail">Informasi rekening Anda tidak tersedia.\nUsap ke bawah untuk mencoba lagi.</string>
+    <string name="ppwc_paid">SUDAH DIBAYAR</string>
+    <string name="view_loan_details">Lihat Perincian Pinjaman</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Pinjaman usaha Anda sejumlah %1$s telah dilunasi.</string>
+    <string name="apply_again">Mendaftar kembali</string>
+    <string name="ppwc_info">Informasi</string>
+    <string name="outstanding_balance_title">Saldo Terutang</string>
+    <string name="loan_details">Perincian Pinjaman</string>
+    <string name="initial_loan_amount">Jumlah pinjaman awal</string>
+    <string name="loan_fee">Biaya pinjaman</string>
+    <string name="repayment_percentage">Persentase pembayaran kembali</string>
+    <string name="view_loan_activity">Lihat aktivitas pinjaman</string>
+    <string name="make_one_time_payment">Lakukan pembayaran satu kali</string>
+    <string name="catch_up_balance">Saldo susulan</string>
+    <string name="loan_activity">Aktivitas Pinjaman</string>
+    <string name="loan_activity_empty">Ringkasan akan tercantum di sini setelah pembayaran kembali otomatis Anda dimulai</string>
+    <string name="ppwc_completed">Selesai</string>
+    <string name="ppwc_pending">Tertunda</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Transfer pinjaman</string>
+    <string name="loan_activity_v3_loan_reversal">Pembalikan Pinjaman</string>
+    <string name="loan_activity_v3_fee">Biaya pinjaman</string>
+    <string name="loan_activity_v3_aggregated_payment">Ringkasan pembayaran kembali otomatis</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Pembayaran susulan</string>
+    <string name="loan_activity_v3_automated_daily_payment">Pembayaran kembali berdasarkan penjualan</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Pembayaran susulan secara manual</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Pembayaran secara manual</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Pembalikan biaya pinjaman</string>
+    <string name="loan_activity_v3_payment_reversal">Pembalikan pembayaran</string>
+    <string name="loan_activity_v3_loan_adjustment">Penyesuaian pinjaman</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Penyesuaian biaya pinjaman</string>
+    <string name="loan_activity_v3_payment_adjustment">Penyesuaian pembayaran</string>
+    <string name="loan_activity_v3_other_payment">Pembayaran lain</string>
+    <string name="loan_activity_loan_transfer">Transfer pinjaman</string>
+    <string name="loan_activity_fee">Biaya pinjaman</string>
+    <string name="loan_activity_automated_catchup_payment">Pembayaran susulan otomatis</string>
+    <string name="loan_activity_automated_daily_payment">Pembayaran kembali otomatis</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Pembayaran susulan secara manual</string>
+    <string name="loan_activity_customer_initiated_payment">Pembayaran secara manual</string>
+    <string name="loan_activity_loan_reversal">Pembalikan Pinjaman</string>
+    <string name="loan_activity_loan_fee_reversal">Pembalikan biaya pinjaman</string>
+    <string name="loan_activity_payment_reversal">Pembalikan pembayaran</string>
+    <string name="loan_activity_loan_adjustment">Penyesuaian pinjaman</string>
+    <string name="loan_activity_loan_fee_adjustment">Penyesuaian biaya pinjaman</string>
+    <string name="loan_activity_payment_adjustment">Penyesuaian pembayaran</string>
+    <string name="loan_activity_other_payment">Pembayaran lain</string>
+    <string name="loan_activity_aggregated_payment">Ringkasan pembayaran kembali otomatis</string>
+    <string name="make_payment">Lakukan Pembayaran</string>
+    <string name="make_payment_description">Pembayaran Anda akan langsung diambilkan dari saldo PayPal yang tersedia saat ini</string>
+    <string name="choose_payment_amount">Pilih jumlah pembayaran:</string>
+    <string name="pay_specific_amount">Bayar dalam jumlah tertentu</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Bayar %1$s sisa pinjaman</string>
+    <string name="pay_remaining_loan_balance_description">Mungkin dibutuhkan waktu hingga 3 hari kerja untuk memproses pembayaran akhir Anda. Anda dapat kembali mengajukan permohonan pinjaman setelah periode ini.</string>
+    <string name="ppwc_continue">Lanjutkan</string>
+    <string name="enter_payment_amount">Masukkan Jumlah Pembayaran</string>
+    <string name="current_loan_balance">Sisa pinjaman saat ini:</string>
+    <string name="available_paypal_balance">Saldo PayPal yang Tersedia:</string>
+    <string name="review_and_pay">Periksa dan Bayar</string>
+    <string name="ppwc_amount">Jumlah</string>
+    <string name="ppwc_pay">Bayar</string>
+    <string name="ppwc_payment_method">Metode pembayaran</string>
+    <string name="ppwc_payment_date">Tanggal pembayaran</string>
+    <string name="review_and_pay_description">Pembayaran kembali otomatis akan tetap diambilkan dari penjualan Anda, meskipun pinjaman Anda telah dilunasi dengan satu kali pembayaran sekaligus.</string>
+    <string name="thank_you">Terima kasih.</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Anda telah melakukan pembayaran sejumlah %1$s</string>
+    <string name="make_payment_success_message">Rekening Anda akan diperbarui segera setelah pembayaran diproses.</string>
+    <string name="ppwc_done">Selesai</string>
+    <string name="make_payment_error_insufficient_balance">Saldo PayPal Anda tidak cukup untuk menyelesaikan pembayaran ini</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Masukkan jumlah yang sama dengan atau kurang dari saldo PayPal Anda.</string>
+    <string name="working_capital">Working Capital</string>
+    <string name="general_error_title">Mari kita coba lagi</string>
+    <string name="general_error_message">Sepertinya ada yang salah pada sistem kami.</string>
+    <string name="ppwc_try_again">Coba Lagi</string>
+    <string name="catch_up_info_intro">Saldo susulan timbul saat Anda menarik, mentransfer, atau menggunakan hasil penjualan sebelum pembayaran kembali dilakukan secara otomatis.</string>
+    <string name="catch_up_info_how_reduced_title">Bagaimana saldo susulan saya bisa berkurang\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">Kami akan memotong pembayaran susulan secara otomatis saat dana baru tersedia di saldo PayPal Anda hingga saldo susulan berkurang hingga $0 USD.\n\nAnda juga dapat %1$s untuk segera mengurangi saldo.</string>
+    <string name="make_manual_payment">melakukan pembayaran secara manual</string>
+    <string name="catch_up_info_how_avoid_title">Bagaimana cara menghindari adanya saldo susulan\?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Untuk menghindari adanya saldo susulan, cukup pastikan bahwa saldo PayPal selalu lebih besar dari jumlah pembayaran kembali otomatis harian Anda.\n\nUntuk informasi tambahan tentang pembayaran susulan, %1$s.</string>
+    <string name="please_see_faq">lihat TJ kami</string>
+    <string name="ppwc_discovery_message">BARU! Lihat dan Kelola pinjaman PayPal Working Capital Anda</string>
+    <string name="last_x_days" formatSpecifiers="number">%1$s HARI TERAKHIR</string>
+    <string name="apply_loan">Ajukan permohonan pinjaman usaha yang terjangkau tanpa pemeriksaan riwayat kredit atau jaminan pribadi.\n\nPengajuan permohonan dan pendanaan mungkin hanya memerlukan waktu beberapa menit.</string>
+    <string name="learn_how_label">Pelajari Cara Kerjanya</string>
+    <string name="application_approved">Permohonan Anda disetujui!</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Anda dapat menyesuaikan dan menerima penawaran hingga %1$s.</string>
+    <string name="review_offer">Periksa Penawaran Sekarang</string>
+    <string name="view_loan_decision">Lihat keputusan pinjaman usaha</string>
+    <string name="application_status_changed">Status permohonan Anda telah berubah.</string>
+    <string name="check_status">Periksa Status</string>
+    <string name="saved_offer">Anda memiliki penawaran tersimpan</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Penawaran Anda berlaku hingga %1$s.\n\nSesuaikan, terima penawaran, dan dapatkan dana dalam hitungan menit.</string>
+    <string name="review_application">Kami sedang memeriksa permohonan Anda</string>
+    <string name="review_application_description">Anda akan menerima email segera setelah ada keputusan terkait pinjaman usaha Anda.</string>
+    <string name="more_details">Perincian Lebih Lanjut</string>
+    <string name="pending_funding_primary_desc">Pinjaman usaha Anda sedang diproses.</string>
+    <string name="pending_funding_secondary_desc">Telepon kami jika belum muncul di rekening PayPal Anda dalam 24 jam.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d selesai</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d tertunda</string>
+    <string name="make_payment_error_amount_gt_loan_due">Masukkan jumlah yang sama dengan atau kurang dari sisa pinjaman Anda.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Masukkan bilangan bulat, tanpa desimal.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

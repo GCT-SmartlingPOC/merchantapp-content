@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="payment_amount">Payment amount</string>
+    <string name="date_paid">Date paid</string>
+    <string name="record">Record Payment</string>
+    <string name="invalid_refund_amount">Enter an amount less than or equal to the original transaction amount.</string>
+    <string name="refund_sent_to_customer" formatSpecifiers="customerName">The refund has been sent to %1$s</string>
+    <string name="reminder_sent_to_customer" formatSpecifiers="customerName">A reminder has been sent to %1$s.</string>
+    <string name="email_address">Email</string>
+    <string name="send_email">Email</string>
+    <string name="call_customer">Call</string>
+    <string name="empty_list_hint">No transactions available.</string>
+    <string name="authorization">Authorisation</string>
+    <string name="paypal_credit_payment">PayPal Credit payment</string>
+    <string name="preapproved_payment">Pre-approved payment</string>
+    <string name="status_partially_refunded">Partially refunded</string>
+    <string name="status_partially_paid">Partially paid</string>
+    <string name="status_payment_pending">Payment pending</string>
+    <string name="role_requestee">Requestee</string>
+    <string name="role_requester">Requester</string>
+    <string name="retry">Try Again</string>
+    <string name="msg_error_loading_activities">We\'re sorry. We experienced an issue loading your activity.</string>
+    <string name="amount_received">Amount received</string>
+    <string name="amount_paid">Paid</string>
+    <string name="amount_due">Due</string>
+    <string name="paypal_fees">PayPal fees</string>
+    <string name="error_loading_customer_list">We\'re sorry. We experienced an issue loading your customers.</string>
+    <string name="deleting_invoice">Deleting invoice…</string>
+    <string name="paypal_not_supported_prompt">PayPal payments aren\'t yet supported.</string>
+    <string name="refund_timing_disclaimer">It may take a few minutes to appear on your activity list.</string>
+    <string name="bank_account">Bank account</string>
+    <string name="buyer_credit">Buyer credit</string>
+    <string name="generic_instrument">Generic instrument</string>
+    <string name="net_collected">Net collected:</string>
+    <string name="insurance_amount">Insurance</string>
+    <string name="currency_conversion">Currency conversion</string>
+    <string name="send_to_customer">Send</string>
+    <string name="home_pending_invoices">Unpaid invoices</string>
+    <string name="home_draft_invoices">Draft invoices</string>
+    <string name="no_activity_with_customer">No activity to display.</string>
+    <string name="record_payment_failed">We\'re sorry. We were unable to record that payment.</string>
+    <string name="activity_date_time">%1$s. %2$s</string>
+    <string name="refund_failed">We\'re sorry. We\'re unable to complete this refund.</string>
+    <string name="refund_transaction_refused">We\'re sorry. We\'re unable to complete this refund.</string>
+    <string name="refund_transaction_refused_payee_preference">We\'re sorry. That recipient is unable to receive payments. Please contact us for help.</string>
+    <string name="refund_transaction_already_refunded">You\'ve already issued a refund for this transaction.</string>
+    <string name="refund_time_limit_exceeded">You can\'t refund a payment more than 90 days after the original transaction.</string>
+    <string name="refund_full_refund_not_allowed_after_partial_refund">You\'ve already issued a partial refund. Please enter a new amount.</string>
+    <string name="delete_invoice_confirmation">Delete this invoice\?</string>
+    <string name="error_payer_account_restricted">Your account is currently limited. Please contact us for help.</string>
+    <string name="error_payee_account_restricted">We\'re sorry. Your recipient\'s account is limited so we can\'t complete this payment.</string>
+    <string name="error_feature_unsupported_for_payee">We\'re sorry. Your recipient is unable to receive payments. Please contact us if you need help.</string>
+    <string name="refund_sent">Refund sent.</string>
+    <string name="invoice_canceled">Your invoice has been cancelled.</string>
+    <string name="quantity_times" formatSpecifiers="first,second">%1$sx%2$s</string>
+    <string name="delete_invoice_failed">We\'re sorry. We were unable to delete your invoice. Please try again.</string>
+    <string name="tracking_added">Tracking information has been added</string>
+    <string name="in_process">In progress</string>
+    <string name="canceled">Cancelled</string>
+    <string name="add_tracking_coming_soon">Add tracking is coming soon!</string>
+    <string name="error_refund_insufficient_funds">Refund amount exceeds your available PayPal balance. Please add more money first.</string>
+    <string name="cannot_send_email">It looks like you can\'t send emails from this device.</string>
+    <string name="cannot_send_text">It looks like you can\'t send SMSs from this device.</string>
+    <string name="load_invoice_history_failed">We\'re sorry. We experienced an issue loading your payment history. Please try again.</string>
+    <string name="no_results_activities">There\'s no activity to display right now.\n\nYour payments, invoices and other activity on your account will display here.</string>
+    <string name="sales_tax">Tax</string>
+    <string name="shipping_amount">Shipping</string>
+    <string name="handling_amount">Handling</string>
+    <string name="payment_recorded">The payment has been recorded.</string>
+    <string name="activity_history_load_fail">We\'re sorry. We were unable to load your activity. Please swipe down to try again.</string>
+    <string name="transaction_email_subject" formatSpecifiers="transactionId">Re: Transaction ID%1$s</string>
+    <string name="view_and_pay">View and Pay</string>
+    <string name="see_history">See activity</string>
+    <string name="refund_insufficent_balance_with_fundingsource_info" formatSpecifiers="bankName">You don\'t have enough money in your PayPal balance to cover this refund. As such, the full refund amount will be drawn from %1$s. This refund will take 3–5 business days to complete.</string>
+    <string name="refund_insufficent_balance">If you don\'t have sufficient PayPal balance to cover this refund, the rest of the payment will be drawn from your default payment method.</string>
+    <string name="record_refund_failed">We\'re sorry. We were unable to record that refund. Please try again.</string>
+    <string name="activity_empty_message">Welcome to PayPal.\nActivity on your account will appear here.</string>
+</resources>

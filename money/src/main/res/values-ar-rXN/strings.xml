@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">متاح: %1$s</string>
+    <string name="error_transfer_amount_too_high">أدخل مبلغاً أقل من أو يساوي رصيدك المتاح</string>
+    <string name="fee_label" formatSpecifiers="amount">تبلغ الرسوم %1$s</string>
+    <string name="free_label">مجاناً</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s ‎•••• %2$s</string>
+    <string name="credebit_card_credit">ائتمان</string>
+    <string name="credebit_card_debit">سحب ‎</string>
+    <string name="withdraw_change_fi_title">إرسال إلى</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">منتهية الصلاحية</string>
+    <string name="multiple_currency_disclaimer">يعتمد التقدير على أحدث سعر تحويل، شاملاً الرسوم التي نطبقها على تحويل العملات.</string>
+    <string name="available_parens">(متاح)</string>
+    <string name="available_colon">متاح:</string>
+    <string name="transfer_money">تحويل مبالغ مالية</string>
+    <string name="send_money">إرسال المدفوعات</string>
+    <string name="account_available">متاح</string>
+    <string name="account_available_currency" formatSpecifiers="currency">الرصيد المتاح بعملة %1$s</string>
+    <string name="account_currency_details">بيانات العملات</string>
+    <string name="transfer_balance">تحويل رصيد</string>
+    <string name="select_destination">اختر الوجهة</string>
+    <string name="account_no_fi_info">اربط حساباً بنكياً حتى يتسنى لك إرسال مدفوعات ورد أي مبالغ مطلوبة وتحويل مبالغ مالية من PayPal إلى حسابك البنكي.</string>
+    <string name="link_a_bank_card">ربط حساب بنكي أو بطاقة</string>
+    <string name="money_balance_error">يتعذر الدخول إلى معلومات الرصيد.</string>
+    <string name="why_is_my_money_on_hold">لماذا اُحتجزت مبالغي المالية؟</string>
+    <string name="no_bank_account_message">اربط حساباً بنكياً في PayPal.com حتى تتمكن من إرسال مدفوعات ورد أي مبالغ مطلوبة وتحويل مبالغ مالية من PayPal إلى حسابك البنكي.</string>
+    <string name="linked_account">حساب مربوط</string>
+    <string name="review_your_transfer">مراجعة تحويلك</string>
+    <string name="transfer_now">التحويل الآن</string>
+    <string name="transfer_amount_title">مبلغ التحويل:</string>
+    <string name="fee_title">الرسوم:</string>
+    <string name="youll_get_title">سوف تحصل على:</string>
+    <string name="transfer">تحويل</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">بضع دقائق</string>
+    <string name="continue_with_delayed_transfer">متابعة إجراء التحويل المتأخر</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">لأسباب تتعلق بالحماية، نحتاج إلى مزيد من الوقت لمراجعة هذه المعاملة. قد يستغرق ذلك حتى %1$s ساعة/ ساعات. هل لا تزال ترغب في إجراء التحويل؟</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount"> تحويلك البالغ %1$s في طريقه إليك</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">أنت بصدد تحويل مبالغ مالية إلى %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">أنت بصدد تحويل %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">أنت بصدد تحويل مبالغ إلى حسابك البنكي باستخدام %1$s</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">لا يستغرق وصولها سوى بضع دقائق. سنطلعك على حالة التحويل الذي أجريته إلى حساب %1$s</string>
+    <string name="money_transfer_minutes_message">قد تستغرق التحويلات بضع دقائق ويختلف الوقت بحسب البنك. تخضع جميع التحويلات للمراجعة، وقد تتعرض للتأخير أو الإيقاف إذا اكتشفنا مشكلة بها.</string>
+    <string name="converted_from" formatSpecifiers="amount">تم التحويل من  %1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">سعر التحويل: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">سيتم تحويل هذا المبلغ إلى %1$s تقريباً</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">يشمل هذا السعر الرسوم التي نُطبقها على تحويل العملات.</string>
+    <string name="transfer_successful">تم  التحويل بنجاح</string>
+    <string name="free_fee_message">الرسوم: مجاناً!</string>
+    <string name="estimated_total_all_currencies">(الإجمالي التقديري لكل العملات)</string>
+    <string name="fees">الرسوم</string>
+    <string name="title_money_transfer">تحويل مبالغ مالية</string>
+    <string name="title_currency_transfer">تحويل العملات</string>
+    <string name="withdraw_default_risk_holding_period">قد يستغرق التحويل حتى 5 أيام.</string>
+    <string name="withdraw_risk_holding_default">الموعد التقديري للوصول: يوم عمل واحد\nتستغرق التحويلات التي يتم إجراؤها بعد 7:00 مساءً بالتوقيت الشرقي أو خلال العطلات الأسبوعية أو الإجازات وقتاً أطول. تخضع جميع التحويلات للمراجعة، وقد تتعرض للتأخير أو الإيقاف إذا اكتشفنا مشكلة بها.</string>
+    <string name="choose_balance">اختر رصيد PayPal</string>
+    <string name="view_balances_title">أرصدة PayPal</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$s رصيد PayPal‏</string>
+    <string name="transfer_to_bank">تحويل إلى حساب بنكي</string>
+    <string name="enter_amount">أدخل المبلغ</string>
+    <string name="select_currency">اختر العملة</string>
+    <string name="transfer_failed">يتعذر إتمام التحويل</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">المبلغ أقل من الحد الأدنى البالغ %1$s.</string>
+    <string name="transfer_to_your_bank">تحويل إلى حسابك البنكي</string>
+    <string name="choose_bank_or_card">اختر حساباً بنكياً أو بطاقة</string>
+    <string name="got_it">فهمت</string>
+    <string name="try_instant_transfer_title">جرّب التحويل الفوري</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">سوف ترى عادةً المبالغ المالية في حسابك البنكي خلال دقائق عندما تستخدم بطاقة سحب مستوفية الشروط للتحويل.\n\nتطبق رسوم قدرها %1$s. أو يمكنك استخدام الخيار القياسي المجاني. قد يستغرق التحويل حتى 30 دقيقة ويختلف الوقت بحسب البنك.</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">سوف ترى عادةً المبالغ المالية في حسابك البنكي خلال دقائق عندما تستخدم بطاقة سحب مستوفية الشروط للتحويل.\n\nتطبق رسوم قدرها %1$s. أو يمكنك استخدام الخيار القياسي المجاني. قد يستغرق التحويل حتى 30 دقيقة ويختلف الوقت بحسب البنك.</string>
+    <string name="money_transfer_to_your_bank">تحويل إلى حسابك البنكي</string>
+    <string name="money_transfer_link_debit_card">اربط بطاقة سحب مستوفية للشروط</string>
+    <string name="money_transfer_link_debit_card_bank">ربط بطاقة سحب أو حساب بنكي مستوفٍ للشروط</string>
+    <string name="money_transfer_link_bank">ربط حساب بنكي</string>
+    <string name="money_choose_bank_or_card">اختر حساباً بنكياً أو بطاقة</string>
+    <string name="money_transfer_rate_instant">فوري: عادةً خلال دقائق</string>
+    <string name="money_transfer_rate_standard">قياسي: عادةً في غضون يوم عمل واحد</string>
+    <string name="money_transfer_fee_free">مجاناً</string>
+    <string name="money_transfer_fee_unknown">تنطبق رسوم</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%% (%2$s كحد أقصى)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">قد تستغرق التحويلات حتى %1$s ويختلف الوقت بحسب البنك. تخضع جميع التحويلات للمراجعة، وقد تتعرض للتأخير أو الإيقاف إذا اكتشفنا مشكلة بها.</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">سيتم خصم رسم قيمته %1$s</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">تم خصم رسم قدره %1$s</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">الرسوم: %1$s</string>
+    <string name="money_label_fee_none">لا توجد رسوم</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">وقت الوصول المقدر: %1$s</string>
+    <string name="money_transfer_proccessing_message">تستغرق التحويلات التي يتم إجراؤها بعد 7:00 مساءً بالتوقيت الشرقي أو خلال العطلات الأسبوعية أو الإجازات وقتاً أطول. تخضع جميع التحويلات للمراجعة، وقد تتعرض للتأخير أو الإيقاف إذا اكتشفنا مشكلة بها.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">لقد حولت %1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">لقد حوّلت مبالغ مالية إلى %1$s</string>
+    <string name="money_error_no_fi_selected">يُرجى اختيار حساب.</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">يتجاوز المبلغ الحد الأقصى المسموح به وهو %1$s.</string>
+    <string name="money_error_fi_transfered_max_amount">لقد قمت بتحويل المبلغ الأقصى المسموح به باستخدام هذه البطاقة.</string>
+    <string name="money_missing_fi_title">لا ترى جميع حساباتك البنكية وبطاقاتك؟</string>
+    <string name="money_missing_fi_message">بعض البنوك وجهات إصدار البطاقات غير مدعومة.</string>
+    <string name="money_transfer_one_business_day">يوم عمل واحد</string>
+    <string name="money_transfer_with_minutes">خلال دقائق</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d أيام عمل</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">ونظراً لتباين مواعيد التحويلات من بنكٍ لآخر، قد تستغرق بعض التحويلات حتى %1$d %2$s</string>
+    <string name="transfer_full_amount">تحويل المبلغ بالكامل</string>
+    <string name="transfer_partial_amount">تحويل جزء من المبلغ</string>
+    <string name="fee">الرسوم</string>
+    <string name="you_will_get">سوف تحصل على</string>
+    <string name="cancel_transfer">إلغاء التحويل</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">نعم، إجراء التحويل في غضون %1$s ساعة/ساعات</string>
+    <string name="oct_risk_hold_planning_title">سوف يتأخر التحويل الخاص بك، هل لا تزال ترغب في متابعة إجراءات التحويل؟</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">لأسباب تتعلق بالحماية، نحتاج إلى مزيد من الوقت لمراجعة هذه المعاملة. قد يستغرق ذلك حتى %1$s ساعة/ ساعات. لن يتم تحميلك الرسم.</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">لأسباب تتعلق بالحماية، نحتاج إلى مزيد من الوقت لمراجعة هذه المعاملة. قد يستغرق ذلك حتى %1$s ساعة/ ساعات.</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">الموعد التقديري للوصول: %1$s ساعة/ ساعات</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">لقد حوّلت مبالغ مالية إلى حسابك البنكي باستخدام %1$s</string>
+    <string name="you_canceled_transfer">لقد ألغيتَ التحويل</string>
+    <string name="money_remains_in_paypal_balance">لا تزال المبالغ المالية موجودة في رصيدك على PayPal.</string>
+    <string name="oct_your_transfer_is_delayed">يتم تأخير التحويل الخاص بك</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">لأسباب تتعلق بالحماية، نحتاج إلى مزيد من الوقت لمراجعة هذه المعاملة. قد يستغرق هذا مدة تصل إلى %1$s ساعة، إلا أننا سوف نراسلك إلكترونياً لإبلاغك بأي مستجدات. لن يتم تحميلك الرسم. أو يمكنك إلغاء التحويل.</string>
+    <string name="error_transaction_failed_title">لم تكتمل المعاملة التي أجريتها</string>
+    <string name="error_transaction_failed_message">عذراً، لم نتمكن من معالجة المعاملة. تحقق من اتصالك بشبكة اتصال وأعد المحاولة.</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">لأسباب تتعلق بالحماية، نحتاج إلى مزيد من الوقت لمراجعة هذه المعاملة. قد يستغرق هذا مدة تصل إلى %1$s ساعة/ ساعات، إلا أننا سوف نراسلك إلكترونياً لإبلاغك بأي مستجدات.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">لأسباب تتعلق بالحماية، نحتاج إلى مزيد من الوقت لمراجعة هذه المعاملة. قد يستغرق هذا مدة تصل إلى %1$s ساعة، إلا أننا سوف نراسلك إلكترونياً لإبلاغك بأي مستجدات. لن يتم تحميلك الرسم.</string>
+    <string name="oct_cancel_transfer_error">عذراً، لم نتمكن من إلغاء تحويل المبالغ المالية الخاصة بك. المعاملة لا تزال معلقة.</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">سنبلغك بمستجدات تحويلك البالغ %1$s في غضون 30 دقيقة.</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">لقد طلبت إجراء تحويل إلى حسابك البنكي باستخدام %1$s</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">لقد حولت %1$s إلى %2$s</string>
+    <string name="confirm_your_identity">تأكيد هُويتك</string>
+    <string name="cip_transfer_success_title">الآن لديك كل ما يلزم!</string>
+    <string name="cip_transfer_failed_title">تعذر علينا التأكد من معلوماتك</string>
+    <string name="cip_transfer_error_title">يبدو أنه وقع\nخطأ ما من طرفنا</string>
+    <string name="cip_transfer_aborted_title">تعذر علينا التأكد من معلوماتك</string>
+    <string name="cip_transfer_review_title">شكراً لك على إرسال معلوماتك</string>
+    <string name="cip_transfer_success_explanation">لقد نجحنا في تأكيد معلوماتك، ويمكنك الاستمرار في الاحتفاظ برصيد على PayPal. يمكنك إرساله أو إنفاقه أو الاحتفاظ به كاحتياطي نقدي في أوقات الضيق.</string>
+    <string name="cip_transfer_failed_explanation">لا يزال بإمكانك تحويل مبالغ مالية من PayPal إلى حسابك البنكي المربوط، ولكن لن تتمكن من استخدام رصيدك لإرسال مدفوعات أو إنفاقه في الوقت الحالي.</string>
+    <string name="cip_transfer_error_explanation">لا يزال بإمكانك تحويل مبالغ مالية من PayPal إلى حسابك البنكي المربوط، ولكن لن تتمكن من استخدام رصيدك لإرسال مدفوعات أو إنفاقه في الوقت الحالي.</string>
+    <string name="cip_transfer_aborted_explanation">لا يزال بإمكانك تحويل مبالغ مالية من PayPal إلى حسابك البنكي المربوط، ولكن لن تتمكن من استخدام رصيدك لإرسال مدفوعات أو إنفاقه في الوقت الحالي.</string>
+    <string name="cip_transfer_review_explanation">سوف نرسل لك رسالة إلكترونية بمجرد الانتهاء من مراجعة مستنداتك. عادةً ما يستغرق ذلك من يومي إلى 3 أيام عمل.\n\nفي أثناء فترة انتظارك، يمكنك دائماً تحويل مبالغ مالية إلى حسابك البنكي.</string>
+    <string name="transfer_partial_title">يجب أن نتأكد من هويتك لتتمكن من تحويل جزء من المبلغ</string>
+    <string name="partial_choice_description">إذا كنت تريد استخدام المبالغ المتبقية في رصيدك على PayPal لإرسالها أو إنفاقها بعد هذا التحويل، فسوف نحتاج إلى بعض المعلومات الإضافية لتأكيد هويتك.</string>
+    <string name="transfer_full_amount_instead">تحويل المبلغ بالكامل بدلاً من ذلك</string>
+    <string name="your_transfer_is_pending">تحويلك معلق</string>
+    <string name="compliance_pending_primary_warning">تلزمنا القوانين أن ندقق في مراجعة بعض المعاملات. تم تعليق التحويل الخاص بك مؤقتاً لحين إتمام مراجعته.</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">نظراً لتأخير تحويلك، فلن يُخصَم منك %1$s.</string>
+    <string name="there_is_a_problem">توجد مشكلة</string>
+    <string name="not_able_to_complete_transaction">لا يمكننا إتمام هذه المعاملة في الوقت الحالي،</string>
+    <string name="identity_not_confirmed">لم تقم بتأكيد هويتك حتى الآن</string>
+    <string name="identity_not_confirmed_description">هل ترغب في المتابعة وتأكيد هويتك الآن؟ إذا قمت بتخطي هذه الخطوة، فسوف يتسنى لك تحويل مبالغ مالية من PayPal إلى حسابك المربوط، ولكن لن تتمكن من استخدام رصيدك على PayPal لإرسال مدفوعات أو إنفاقه.</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">الأموال في انتظارك</string>
+    <string name="accept_it_now">اقبلها الآن</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">ماذا تريد أن تفعل بـ%1$s؟</string>
+    <string name="transfer_it_to_your_bank">تحويلها إلى حسابك البنكي</string>
+    <string name="transfer_it_to_your_bank_desc">حوّل مبالغك المالية إلى حسابك البنكي في دقائق مقابل رسوم بسيطة. أو مباشرة إلى حسابك البنكي مجاناً.</string>
+    <string name="keep_it_in_paypal">الاحتفاظ بها في PayPal</string>
+    <string name="keep_it_in_paypal_cash_desc">دعنا نعدّ لك حساب PayPal Cash لتتمكن من إرسال مبالغ مالية أو إنفاقها مباشرة من PayPal.</string>
+    <string name="unable_to_create_paypal_cash_account">عذراً، لم نتمكن من إنشاء حسابك على PayPal Cash في الوقت الحالي. تحويل الأموال إلى حسابك البنكي، بدلاً من ذلك.</string>
+    <string name="you_are_all_set">لقد أتممتَ كل ما يلزم</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s متاحة الآن في حسابك الجديد على PayPal Cash.</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">عندما يرسل الأصدقاء مدفوعات لك أو عندما تبيع غرض ما، ستتمكن من رؤية ذلك على الشاشة الرئيسية.</string>
+    <string name="error_create_paypal_cash_account">يبدو أنه قد حدث خطأ من طرفنا. \nيُرجى إعادة المحاولة.</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

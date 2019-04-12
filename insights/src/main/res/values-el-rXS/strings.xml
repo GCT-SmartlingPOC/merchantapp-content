@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Ενημερώσεις πωλήσεων</string>
+    <string name="month">Μήνας</string>
+    <string name="quarter">Τρίμηνο</string>
+    <string name="year">Έτος</string>
+    <string name="year_to_date">Έτος έως σήμερα</string>
+    <string name="title_sales_month">Πωλήσεις τρέχοντος μήνα</string>
+    <string name="title_this_month">Τρέχων μήνας</string>
+    <string name="ytd">Έτος έως σήμερα</string>
+    <string name="compare_last_year">Σύγκριση με το προηγούμενο έτος</string>
+    <string name="best_month">ΚΑΛΥΤΕΡΟΣ ΜΗΝΑΣ</string>
+    <string name="worst_month">ΧΕΙΡΟΤΕΡΟΣ ΜΗΝΑΣ</string>
+    <string name="best_week">ΚΑΛΥΤΕΡΗ ΕΒΔΟΜΑΔΑ</string>
+    <string name="worst_week">ΧΕΙΡΟΤΕΡΗ ΕΒΔΟΜΑΔΑ</string>
+    <string name="avg_order_value">ΜΕΣΟΣ ΟΡΟΣ ΑΞΙΑΣ ΠΑΡΑΓΓΕΛΙΑΣ</string>
+    <string name="transactions">ΣΥΝΑΛΛΑΓΕΣ</string>
+    <string name="last_year_sales" formatSpecifiers="amount">ΠΡΟΗΓΟΥΜΕΝΟ ΕΤΟΣ: %1$s</string>
+    <string name="year_to_date_sales">ΕΤΗΣΙΕΣ ΠΩΛΗΣΕΙΣ ΕΩΣ ΣΗΜΕΡΑ</string>
+    <string name="total_sales">ΣΥΝΟΛΙΚΕΣ ΠΩΛΗΣΕΙΣ</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s ΠΩΛΗΣΕΙΣ</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">Q</string>
+    <string name="data_unavailable_swipe_again">Τα δεδομένα δεν είναι διαθέσιμα. Σαρώστε ξανά.</string>
+</resources>

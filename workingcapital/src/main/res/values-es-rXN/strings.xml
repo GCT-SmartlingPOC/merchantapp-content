@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">Pagado hasta la fecha</string>
+    <string name="outstanding_balance">Saldo pendiente de pago</string>
+    <string name="working_capital_summary_load_fail">La información de su cuenta no está disponible.\nDeslice hacia abajo para intentar de nuevo.</string>
+    <string name="ppwc_paid">PAGADO</string>
+    <string name="view_loan_details">Ver detalles del préstamo</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Su préstamo para empresas de %1$s se ha pagado en su totalidad.</string>
+    <string name="apply_again">Solicitar de nuevo</string>
+    <string name="ppwc_info">Información</string>
+    <string name="outstanding_balance_title">Saldo pendiente de pago</string>
+    <string name="loan_details">Detalles del préstamo</string>
+    <string name="initial_loan_amount">Importe inicial del préstamo</string>
+    <string name="loan_fee">Comisión del préstamo</string>
+    <string name="repayment_percentage">Porcentaje del pago</string>
+    <string name="view_loan_activity">Ver movimientos del préstamo</string>
+    <string name="make_one_time_payment">Realice un pago en una sola exhibición</string>
+    <string name="catch_up_balance">Saldo de recuperación</string>
+    <string name="loan_activity">Movimientos de préstamos</string>
+    <string name="loan_activity_empty">Encontrará un resumen aquí una vez que comiencen sus pagos automáticos</string>
+    <string name="ppwc_completed">Completado</string>
+    <string name="ppwc_pending">Pendiente</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Transferencia del préstamo</string>
+    <string name="loan_activity_v3_loan_reversal">Anulación del préstamo</string>
+    <string name="loan_activity_v3_fee">Comisión del préstamo</string>
+    <string name="loan_activity_v3_aggregated_payment">Resumen del reembolso automático</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Pago de recuperación</string>
+    <string name="loan_activity_v3_automated_daily_payment">Reembolso basado en las ventas</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Pago de recuperación manual</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Pago manual</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Cancelación de la comisión del préstamo</string>
+    <string name="loan_activity_v3_payment_reversal">Cancelación del pago</string>
+    <string name="loan_activity_v3_loan_adjustment">Ajuste del préstamo</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Ajuste de la comisión del préstamo</string>
+    <string name="loan_activity_v3_payment_adjustment">Ajuste del pago</string>
+    <string name="loan_activity_v3_other_payment">Otro pago</string>
+    <string name="loan_activity_loan_transfer">Transferencia del préstamo</string>
+    <string name="loan_activity_fee">Comisión del préstamo</string>
+    <string name="loan_activity_automated_catchup_payment">Pago de recuperación automático</string>
+    <string name="loan_activity_automated_daily_payment">Reembolso automático</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Pago de recuperación manual</string>
+    <string name="loan_activity_customer_initiated_payment">Pago manual</string>
+    <string name="loan_activity_loan_reversal">Anulación del préstamo</string>
+    <string name="loan_activity_loan_fee_reversal">Cancelación de la comisión del préstamo</string>
+    <string name="loan_activity_payment_reversal">Cancelación del pago</string>
+    <string name="loan_activity_loan_adjustment">Ajuste del préstamo</string>
+    <string name="loan_activity_loan_fee_adjustment">Ajuste de la comisión del préstamo</string>
+    <string name="loan_activity_payment_adjustment">Ajuste del pago</string>
+    <string name="loan_activity_other_payment">Otro pago</string>
+    <string name="loan_activity_aggregated_payment">Resumen del reembolso automático</string>
+    <string name="make_payment">Realizar un pago</string>
+    <string name="make_payment_description">Su pago se descuenta de forma instantánea desde su saldo PayPal actualmente disponible</string>
+    <string name="choose_payment_amount">Elija un importe de pago:</string>
+    <string name="pay_specific_amount">Pagar un importe específico</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Pagar %1$s del saldo restante del préstamo</string>
+    <string name="pay_remaining_loan_balance_description">Su pago final puede tardar hasta tres días hábiles en procesarse. Podrá volver a solicitar otro préstamo una vez concluido este plazo.</string>
+    <string name="ppwc_continue">Continuar</string>
+    <string name="enter_payment_amount">Ingrese el importe del pago</string>
+    <string name="current_loan_balance">Saldo actual de su préstamo:</string>
+    <string name="available_paypal_balance">Saldo PayPal disponible:</string>
+    <string name="review_and_pay">Revisar y pagar</string>
+    <string name="ppwc_amount">Importe</string>
+    <string name="ppwc_pay">Pagar</string>
+    <string name="ppwc_payment_method">Forma de pago</string>
+    <string name="ppwc_payment_date">Fecha del pago</string>
+    <string name="review_and_pay_description">Los reembolsos automáticos continuarán obteniéndose de sus ventas, incluso si ha realizado un pago único, hasta que el préstamo se haya pagado en su totalidad.</string>
+    <string name="thank_you">Gracias</string>
+    <string name="made_payment_of" formatSpecifiers="amount">Realizó un pago de %1$s</string>
+    <string name="make_payment_success_message">Su cuenta se actualizará en cuanto se procese el pago.</string>
+    <string name="ppwc_done">Listo</string>
+    <string name="make_payment_error_insufficient_balance">Su saldo PayPal no es suficiente para completar este pago</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Ingrese un importe igual o inferior a su saldo PayPal.</string>
+    <string name="working_capital">Working Capital</string>
+    <string name="general_error_title">Inténtelo de nuevo</string>
+    <string name="general_error_message">Se ha producido un error.</string>
+    <string name="ppwc_try_again">Inténtelo de nuevo</string>
+    <string name="catch_up_info_intro">Un saldo de recuperación se acumula al retirar, transferir o gastar los ingresos de sus ventas antes de que ocurra el reembolso automático.</string>
+    <string name="catch_up_info_how_reduced_title">¿Cómo se reduce mi saldo de recuperación\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">Deduciremos automáticamente los pagos de recuperación cuando hayan fondos disponibles en su saldo PayPal hasta que el saldo de recuperación se haya reducido a 0 USD.\n\nTambién puede %1$s para reducir el saldo de inmediato.</string>
+    <string name="make_manual_payment">realizar un pago manual</string>
+    <string name="catch_up_info_how_avoid_title">¿Cómo puedo evitar tener un saldo de recuperación\?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Para evitar tener un saldo de recuperación, simplemente asegúrese de siempre mantener un saldo PayPal mayor que su reembolso automático diario.\n\nPara obtener información adicional sobre los pagos de recuperación, %1$s.</string>
+    <string name="please_see_faq">consulte nuestras preguntas frecuentes</string>
+    <string name="ppwc_discovery_message">¡NUEVO! Ver y administrar su préstamo de PayPal Working Capital</string>
+    <string name="last_x_days" formatSpecifiers="number">ÚLTIMOS %1$s DÍAS</string>
+    <string name="apply_loan">Solicite un préstamo para empresas asequible sin verificación de crédito ni garantía personal.\n\nPuede tardar solamente unos minutos en enviar la solicitud y recibir el financiamiento.</string>
+    <string name="learn_how_label">Descubra cómo funciona</string>
+    <string name="application_approved">¡Su solicitud fue aprobada!</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">Puede personalizar y aceptar su oferta hasta el %1$s.</string>
+    <string name="review_offer">Revisar oferta ahora</string>
+    <string name="view_loan_decision">Ver decisión de préstamo para empresas</string>
+    <string name="application_status_changed">El estado de su solicitud ha cambiado.</string>
+    <string name="check_status">Comprobar estado</string>
+    <string name="saved_offer">Tiene una oferta guardada</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Su oferta es válida hasta el %1$s.\n\nPersonalice su oferta, acéptela y reciba financiamiento en cosa de minutos.</string>
+    <string name="review_application">Estamos revisando su solicitud</string>
+    <string name="review_application_description">Recibirá un correo electrónico tan pronto tengamos la decisión de su préstamo para empresas.</string>
+    <string name="more_details">Más información</string>
+    <string name="pending_funding_primary_desc">Su préstamo para empresas va en camino.</string>
+    <string name="pending_funding_secondary_desc">Llámenos si no lo ve en su cuenta PayPal en un plazo de 24 horas.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d completado</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d pendiente</string>
+    <string name="make_payment_error_amount_gt_loan_due">Ingrese un importe igual o menor al saldo de su préstamo.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Ingrese un número entero, sin decimales.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

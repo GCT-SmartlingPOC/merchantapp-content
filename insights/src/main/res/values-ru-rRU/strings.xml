@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">Статистика и анализ продаж</string>
+    <string name="month">Месяц</string>
+    <string name="quarter">Квартал</string>
+    <string name="year">Год</string>
+    <string name="year_to_date">С начала года до текущей даты</string>
+    <string name="title_sales_month">Продажи в этом месяце</string>
+    <string name="title_this_month">За этот месяц</string>
+    <string name="ytd">С начала года по сегодняшний день</string>
+    <string name="compare_last_year">Сравнить с предыдущим годом</string>
+    <string name="best_month">ЛУЧШИЙ МЕСЯЦ</string>
+    <string name="worst_month">ХУДШИЙ МЕСЯЦ</string>
+    <string name="best_week">ЛУЧШАЯ НЕДЕЛЯ</string>
+    <string name="worst_week">ХУДШАЯ НЕДЕЛЯ</string>
+    <string name="avg_order_value">СРЕДН. СТОИМОСТЬ ЗАКАЗА</string>
+    <string name="transactions">ОПЕРАЦИИ</string>
+    <string name="last_year_sales" formatSpecifiers="amount">В ПРЕДЫДУЩЕМ ГОДУ: %1$s</string>
+    <string name="year_to_date_sales">ПРОДАЖИ С НАЧАЛА ГОДА ДО ТЕКУЩЕЙ ДАТЫ</string>
+    <string name="total_sales">ОБЩИЕ ПРОДАЖИ</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s ПРОДАЖИ</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">В</string>
+    <string name="data_unavailable_swipe_again">Данные недоступны. Проведите вниз еще раз.</string>
+</resources>

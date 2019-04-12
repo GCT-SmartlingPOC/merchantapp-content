@@ -1,0 +1,290 @@
+<resources>
+
+    <!-- base -->
+    <string name="business_app_name">PayPal Business</string>
+
+    <string name="title_activity_transaction_list">Activity</string>
+    <string name="title_activity_refund">Refund</string>
+    <string name="title_account">Account</string>
+    <string name="title_invoicing">Invoicing</string>
+    <string name="title_customers">Customers</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="money">Money</string>
+    <string name="paypal_balance">PayPal Balance</string>
+
+    <string name="logout_prompt">You are about to log out.</string>
+
+    <string name="ok">OK</string>
+    <string name="continue_text">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+    <string name="error_internal_service_error">Let’s try that again\nLooks like something went wrong on our end.</string>
+    <string name="done">Done</string>
+
+    <string name="next">Next</string>
+    <string name="paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="app_update_available">An app update is available</string>
+    <string name="download_now">Download Now</string>
+    <string name="mandatory_app_update_available">A mandatory update is available</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <string name="sorry_about_that">Sorry about that</string>
+    <string name="tap_to_retry">Tap to retry.</string>
+    <string name="exceeds_character_limit" formatSpecifiers="title, maxLength">%1$s cannot exceed %2$s characters</string>
+
+    <string name="dont_save">Don\'t save</string>
+    <string name="none">None</string>
+    <string name="check_wifi_settings">Please check your Wi-Fi settings and try again.</string>
+
+    <string name="accessibility_navigation_reselected_tab" formatSpecifiers="tab">Reselected %1$s tab</string>
+    <string name="accessibility_navigation_loading_tab" formatSpecifiers="tab">Loading %1$s tab</string>
+    <string name="customer_details">Customer Details</string>
+    <string name="submit">Submit</string>
+    <string name="maybe_later">Maybe Later</string>
+    <string name="rate_now">Rate Now</string>
+    <string name="how_satisfied_are_you">How satisfied are you with the app?</string>
+    <string name="tap_star_to_rate">Tap a star to rate</string>
+    <string name="we_want_to_hear_from_you">We want to hear from you</string>
+    <string name="how_can_we_improve">How can we improve?</string>
+    <string name="title_error">Error</string>
+
+    <string name="try_again">Try Again</string>
+    <string name="error_loading_details">Error Loading Details</string>
+
+    <string name="install_chrome_msg">To open, you\'ll need to install and use Google Chrome as your default browser.</string>
+    <string name="send_money_install_chrome_title">Install Google Chrome</string>
+    <string name="send_money_install_chrome_msg">To send money, you\'ll need to install and use Google Chrome as your default browser.</string>
+    <string name="dialog_text_to_install_chrome_msg">PayPal Business requires Google Chrome for this feature.</string>
+
+    <string name="caution">Caution</string>
+    <string name="unable_load_info">Unable to load your information</string>
+    <string name="something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="home_discoverability" formatSpecifiers="feature_title">New! %1$s</string>
+    <string name="checkmark">Checkmark</string>
+
+    <string name="msg_feedback_hint">Got a suggestion or feedback? Let us know.</string>
+    <string name="msg_phone_survey_hint">Enter your ten digit phone number.</string>
+    <string name="msg_phone_survey_desc">We\'re collecting feedback on our app, if you have a few minutes we would love to talk with you on the phone.</string>
+    <string name="err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="error_getting_details_tap_to_retry">Error getting details. Tap to retry.</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="error">Error</string>
+    <string name="missing_required_field_title">Missing Required Fields</string>
+    <string name="unexpected_error">Unexpected Error</string>
+    <string name="go_to_settings">Go To Settings</string>
+    <string name="satisfaction_message">How would you rate your experience using the app so far?</string>
+    <string name="rating_message">Would you like to rate this app on the Google Play Store?</string>
+    <string name="load_info_failure">Unable to access your information.\nSwipe down to try again.</string>
+    <string name="home_balance_error">Unable to access your information.\nSwipe down to try again.</string>
+    <string name="not_connected_to_network">It seems you\'re not connected to a network.</string>
+    <string name="title_terms_conditions">Terms &amp; Conditions</string>
+    <string name="check_your_details">Check your details and try again.</string>
+    <string name="taking_to_paypal">Taking you to PayPal.com</string>
+    <string name="thanks_please_rate_in_app_store">Thanks! How about rating us in the App Store?</string>
+    <string name="account_type_business_sub_account">Business sub account</string>
+
+    <string name="no_network_error_title">This device is not connected to the Internet</string>
+    <string name="no_network_error_message">Check your Wi-Fi or network settings and try again</string>
+    <string name="error_unable_to_retrieve_account">Unable to retrieve account information</string>>
+    <string name="save_changes_prompt">You have unsaved changes</string>
+
+    <!-- First Time Use -->
+    <string name="app_education_title">Ready to send invoices, track your customers and manage your money on the go?</string>
+    <string name="invoices_education_title">Send invoices and get paid on the go</string>
+    <string name="customers_education_title">Connect with your customers</string>
+    <string name="customers_education_message">With all your customer contacts at your fingertips it’s never been easier to view transactions, send invoices or contact a customer when you’re on the go.</string>
+    <string name="login">Log In</string>
+    <string name="money_education_title">Manage your money from anywhere</string>
+    <string name="transactions_education_title">Track your account activity</string>
+    <string name="transactions_education_message">Stay on top of your business by viewing your account activity when you’re away from the office.</string>
+    <string name="invoices_education_message">Create and send invoices anywhere you work so your customers can pay in just a few clicks. Keep track of unpaid invoices and contact customers when they need a reminder.</string>
+    <string name="unsupported_location_alert_title">Sorry, the app does not yet support your account’s location. Please check back later</string>
+    <string name="secondary_user_not_supported_alert_title">Sorry, the app does not yet support secondary users. Please check back later</string>
+    <string name="money_education_message">Transfer funds to your bank, issue customer refunds and send money, in just a few clicks.</string>
+    <string name="education_swipe_learn">Swipe to learn how</string>
+
+    <!-- Cross sell  -->
+    <string name="cross_sell_generic_title">Do more with PayPal</string>
+    <string name="cross_sell_oct_body">Transfer money instantly to an eligible debit card for a small fee within 30 minutes</string>
+    <string name="cross_sell_oct_no_card_body">Try Instant Transfer to your bank using a debit card</string>
+    <string name="cross_sell_ppwc_body">Apply for a PayPal Working Capital affordable business loan and pay as you grow</string>
+    <string name="cross_sell_debit_card_body">Use PayPal balance in-store with the PayPal Business Debit Mastercard\u00AE</string>
+
+    <!-- Balance Card -->
+    <string name="balance_card_title">PayPal balance</string>
+
+    <string name="open_quick_actions">Open Quick Actions</string>
+    <string name="open_navigation_drawer">Open Navigation Drawer</string>
+
+    <string name="order_ref_number" formatSpecifiers="referenceNumber">Ref&#35; %1$s</string>
+    <string name="transfer_amount">Transfer amount</string>
+    <string name="review_your_transfer">Review your transfer</string>
+    <string name="transfer_now">Transfer now</string>
+    <string name="transfer_amount_title">Transfer amount:</string>
+    <string name="fee_title">Fee:</string>
+    <string name="youll_get_title">You\'ll get:</string>
+
+
+    <!-- User -->
+    <string name="legal_user_agreement_policy">User Agreement Policy</string>
+    <string name="legal_privacy_policy">Privacy Statement</string>
+    <string name="legal_electronic_communications_delivery_policy">Electronic Communications Delivery Policy</string>
+    <string name="legal_acknowledgements">Acknowledgements</string>
+    <string name="legal_combined_fin_services_guide_prod_disclosure">Combined Financial Services Guide and Product Disclosure Statement</string>
+
+    <!-- User not supported  -->
+    <string name="not_kycd_japanese_account_title">Help us verify your identity</string>
+    <string name="not_kycd_japanese_account_message">You need to complete the verification process on our website to access the Business app.</string>
+    <string name="go_to_website_title">Go to website</string>
+
+    <!-- orphan -->
+    <string name="missing_item_information">Missing information for:</string>
+    <string name="not_now">Not Now</string>
+    <string name="give_access">Give Access</string>
+    <string name="sending_cancellation">Sending cancellation</string>
+    <string name="subject">Subject</string>
+
+    <!-- Account Settings -->
+    <string name="login_security_settings">Login and Security</string>
+    <string name="remember_me_name">Remember Me</string>
+    <string name="change_pin_name">Change your PIN</string>
+    <string name="confirm_email_message">Confirm your email address to create and send invoices.</string>
+    <string name="touch_id">Touch ID</string>
+    <string name="build_version" formatSpecifiers="info">Version: %1$s</string>
+    <string name="account_type_business">Business</string>
+    <string name="account_type_personal">Personal</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="account_type_premier">Premier</string>
+    <string name="title_activity_account_info">Account Info</string>
+    <string name="title_account_holder">Account holder</string>
+    <string name="label_account_logout">Log out</string>
+    <string name="legal_license_agreement">License Agreement</string>
+    <string name="legal_state_licenses">State Licenses</string>
+    <string name="remember_me_description">See your photo, payment preferences, saved offers, and more before you log in. (Not recommended if you share your device)</string>
+    <string name="use_pin_name">Use Your PIN</string>
+    <string name="use_pin_description">Next time, log in faster using your PIN.</string>
+    <string name="touch_id_security_description">All Touch ID fingerprints stored on this device can be used to log into your PayPal account.</string>
+    <string name="touch_id_pin_also_disabled">Touch ID &amp; PIN will also be disabled</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your pin.</string>
+    <string name="fingerprint_info">All of the fingerprints stored on this device can be used to log into your PayPal account.</string>
+    <string name="legal_key_payment_service_info">Key Payment and Service Information</string>
+    <string name="legal_key_legal_notices">Legal Notices</string>
+    <string name="title_merchant_id">Merchant ID</string>
+    <string name="title_account_type">Account type</string>
+    <string name="title_activity_account_main">Account</string>
+    <string name="label_account_help">Help</string>
+    <string name="label_account_legal">Legal Agreements</string>
+    <string name="label_account_cards_and_banks">Cards and Banks</string>
+    <string name="face_id_usage_description">Use Face ID to log in to PayPal Business</string>
+
+    <!-- Customers -->
+    <string name="customer_info">Customer Info</string>
+    <string name="shipping_address">Shipping address</string>
+    <string name="history">History</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="customer_empty_message">All your customers who pay with PayPal are now in one place, right at your fingertips.</string>
+
+
+    <!-- Shipping -->
+    <string name="shipped_to">Shipped to</string>
+    <string name="ready_to_ship">Ready to ship to</string>
+    <string name="title_shipping_handling">Shipping &amp; Handling</string>
+    <string name="accessibility_edit_shipping_address">Edit Shipping Address</string>
+    <string name="title_ready_to_ship">READY TO SHIP</string>
+    <string name="title_ready_to_pack">READY TO PACK</string>
+    <string name="label_ready_to_pack">Ready to pack</string>
+    <string name="title_add_tracking">ADD TRACKING</string>
+    <string name="label_add_tracking">Add Tracking</string>
+    <string name="title_shipped">SHIPPED</string>
+    <string name="label_shipped">Shipped</string>
+    <string name="subtitle_received_on">Received on</string>
+    <string name="subtitle_packed_on">Packed on</string>
+    <string name="subtitle_last_status_view">Last status view</string>
+    <string name="title_shipping">Shipping</string>
+    <string name="label_shipping">Shipping</string>
+    <string name="shipping_item_amount" formatSpecifiers="itemAmount">%1$s items</string>
+    <string name="update_tracking">Update tracking</string>
+    <string name="tracking_number">Tracking Number</string>
+    <string name="shipping_carrier">Carrier</string>
+    <string name="choose_carrier">Select a Carrier</string>
+    <string name="scan_tracking_label">Scan Tracking Label</string>
+    <string name="add_tracking_number_manually">Add Tracking Number Manually</string>
+    <string name="order_status">Order Status</string>
+    <string name="shipping_missing_info_title">Add Shipping Info</string>
+    <string name="shipping_missing_all_message">Enter tracking number and carrier name</string>
+    <string name="shipping_missing_tracking_message">Enter tracking number for your package</string>
+    <string name="shipping_missing_carrier_message">Select the name of the delivery service or carrier</string>
+    <string name="shipping_education_card_title">NEW! PACK AND SHIP</string>
+    <string name="shipping_education_card_message">Pack, ship and track your orders from the PayPal Business App</string>
+    <string name="shipping_pill">Shipping</string>
+    <string name="edu_pack_orders_title">Pick and pack orders</string>
+    <string name="edu_pack_orders_message">Review orders and pick items for packing directly from the app</string>
+    <string name="edu_add_tracking_title">Tracking your orders got easier</string>
+    <string name="edu_add_tracking_message">Just scan or enter tracking numbers to your orders</string>
+    <string name="edu_track_orders_title">Track and manage shipped orders</string>
+    <string name="edu_track_orders_message">Follow your orders, know when they are delivered or delayed</string>
+    <string name="get_started">Get Started</string>
+    <string name="dismiss_shipping">I don\'t use shipping</string>
+    <string name="shipping_title_pack_your_order">Pack Your Order</string>
+    <string name="shipping_header_order_details">Order details</string>
+    <string name="shipping_header_shipping_to">Shipping to</string>
+    <string name="shipping_button_actions">Actions</string>
+    <string name="shipping_button_scan_tracking">Scan tracking label</string>
+    <string name="shipping_button_add_tracking">Add tracking number</string>
+    <string name="shipping_button_mark_shipped">Mark as shipped</string>
+    <string name="empty_card_ready_to_pack">There are no orders ready to ship</string>
+    <string name="empty_card_add_tracking">There are no orders that need tracking information</string>
+    <string name="empty_card_shipped">There are no shipped orders</string>
+    <string name="empty_list_ready_to_pack">Orders that have been packed for shipment that need tracking information will be listed here. Tap on the order to scan or enter a tracking number.</string>
+    <string name="empty_list_add_tracking">Orders that are ready to ship will be listed here. You can add tracking information to your orders.</string>
+    <string name="empty_list_shipped">Orders that have been shipped will be listed here. You\'ll see the order is on its way and when it has been delivered.</string>
+    <string name="label_ready_to_ship">Ready to ship</string>
+    <string name="invalid_tracking_number_error">Tracking number is invalid. Check and try again</string>
+
+    <!-- Notification -->
+    <string name="default_group_name">General</string>
+    <string name="default_channel_name">Updates</string>
+
+    <string name="invoice_paid_channel_name">Invoice paid</string>
+    <string name="request_money">Request money</string>
+    <string name="notification_setting_invoice_paid">Your invoices are paid</string>
+    <string name="notification_setting_request_money">Someone requests money from you</string>
+    <string name="notification_setting_send_money">You send money to someone</string>
+    <string name="notification_setting_receive_money">You receive money from someone</string>
+    <string name="notification_setting_purchase">You purchase something</string>
+
+    <string name="label_notifications">Notifications</string>
+    <string name="notifications_description">We\'ll notify you when&#8230;</string>
+    <string name="system_notifications_disabled">Push notifications for PayPal Business app are turned off. Go to Settings, turn them on, then reopen your PayPal Business app.</string>
+    <string name="system_notifications_enabled">Push notifications for PayPal Business app are enabled. To disable them, go to Settings, turn them off, and then reopen your PayPal Business app.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="notifications_education_card_title">NEW! PUSH NOTIFICATIONS</string>
+    <string name="notifications_education_card_message">Enable notifications to receive important account activity alerts</string>
+    <string name="notification_message_invoice_paid" formatSpecifiers="name, amount">%1$s paid an invoice of %2$s</string>
+    <string name="notification_message_request_money" formatSpecifiers="name, amount">%1$s requested %2$s from you</string>
+    <string name="notification_message_receive_money" formatSpecifiers="amount, name">You received %1$s from %2$s</string>
+    <string name="notification_message_send_money" formatSpecifiers="amount, name">You sent %1$s to %2$s</string>
+    <string name="notification_message_purchase" formatSpecifiers="amount, name">You paid %1$s to %2$s</string>
+    <string name="notification_message_purchase_offer" formatSpecifiers="amountOffer, amountTotal, name">You saved %1$s on a %2$s purchase at %3$s</string>
+
+    <!-- Feedback -->
+    <string name="inst_debug_send_feedback">Send us feedback</string>
+    <string name="instr_debug_submit_bug">Submit a bug</string>
+    <string name="title_send_feedback">Send Feedback</string>
+    <string name="msg_feedback_sent">Feedback Sent</string>
+    <string name="msg_error_sending_feedback">Unable to send feedback</string>
+    <string name="msg_phone_survey_title">Phone Number</string>
+
+    <!-- Link Debit Card to Device Wallet-->
+    <string name="link_apple_pay_add_paypal_cash">ADD YOUR PAYPAL CASH CARD TO APPLE PAY™</string>
+    <string name="link_apple_pay_description">Pay for just about anything, easily and securely - right from your phone.</string>
+
+    <!-- Onboarding -->
+    <string name="sign_up">Sign Up</string>
+    <string name="we_need_more_info">We need more information</string>
+    <string name="complete_pp_account_to_access">You need to complete your PayPal account to access the Business app.</string>
+    <string name="complete_now">Complete Now</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_address_required">Email address (Required)</string>
+    <string name="type_recurring">Recurring payment</string>
+    <string name="search_hint">Enter name or email address</string>
+    <string name="add_note_to_customer">Add a note to your customer.</string>
+    <string name="address_line1">Address line 1</string>
+    <string name="address_line2">Address line 2 (optional)</string>
+    <string name="invalid_address_line1">Required</string>
+    <string name="invalid_address_city">Required</string>
+    <string name="invalid_address_state">Required</string>
+    <string name="error_invoice_merchant_restricted">We\'re sorry, your account is limited. Please contact us for help.</string>
+    <string name="share_link_warning">As invoices contain your customers\' personal information, never share an invoice link in a public forum.</string>
+    <string name="email">Email Address</string>
+    <string name="accessibility_discount_dollars_off">Euros Off</string>
+    <string name="unconfirmed_email">Unconfirmed email address</string>
+    <string name="confirm_email">Confirm Email Address</string>
+    <string name="unconfirmed_email_invoicing">You need to confirm your email address before you can send invoices. Please check your inbox for the confirmation email or log in to PayPal from your computer to resend the email.</string>
+</resources>

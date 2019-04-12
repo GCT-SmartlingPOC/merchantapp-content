@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">可用：%1$s</string>
+    <string name="error_transfer_amount_too_high">輸入小於或等於可用餘額的數字</string>
+    <string name="fee_label" formatSpecifiers="amount">交易手續費：%1$s</string>
+    <string name="free_label">交易手續費：無</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">Credit</string>
+    <string name="credebit_card_debit">扣帳卡</string>
+    <string name="withdraw_change_fi_title">傳送至你的</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">已到期</string>
+    <string name="multiple_currency_disclaimer">以最新貨幣轉換匯率估計，已內含貨幣轉換費。</string>
+    <string name="available_parens">（可用）</string>
+    <string name="available_colon">可用：</string>
+    <string name="transfer_money">提領交易款項</string>
+    <string name="send_money">付款</string>
+    <string name="account_available">可用</string>
+    <string name="account_available_currency" formatSpecifiers="currency">%1$s 可用餘額</string>
+    <string name="account_currency_details">貨幣詳細資料</string>
+    <string name="transfer_balance">提領餘額</string>
+    <string name="select_destination">選擇目的地</string>
+    <string name="account_no_fi_info">連結銀行帳戶，即可從你的 PayPal 帳戶提領交易款項至銀行帳戶。</string>
+    <string name="link_a_bank_card">連結銀行帳戶或信用卡 / 扣帳卡</string>
+    <string name="money_balance_error">很抱歉，我們無法存取你的餘額資料。請稍後重試。</string>
+    <string name="why_is_my_money_on_hold">為什麼我的款項遭到暫時保留？</string>
+    <string name="no_bank_account_message">在 PayPal.com 連結銀行帳戶，即可從你的 PayPal 帳戶提領交易款項至銀行帳戶。</string>
+    <string name="linked_account">連結的帳戶</string>
+    <string name="review_your_transfer">檢視你的提領</string>
+    <string name="transfer_now">立即提領</string>
+    <string name="transfer_amount_title">提領金額：</string>
+    <string name="fee_title">費用：</string>
+    <string name="youll_get_title">你將會收到：</string>
+    <string name="transfer">提領</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">幾分鐘的時間</string>
+    <string name="continue_with_delayed_transfer">繼續使用延遲提領</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">基於交易安全考量，我們需要更多時間審核此筆交易。此程序最多需要 %1$s 小時。你是否仍要繼續提領？</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">你的 %1$s 即將到手！</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">你正在將交易款項提領至 %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">你正在提領 %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">你正使用 %1$s 提領款項至你的銀行。</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">應該只需要幾分鐘的時間。我們會持續向你更新，你提領至 %1$s 的狀態。</string>
+    <string name="money_transfer_minutes_message">提領可能需要幾分鐘的時間，實際時間視銀行而異。所有提領作業皆須經過審核，但如果我們發現問題，提領作業可能會延遲或遭拒。</string>
+    <string name="converted_from" formatSpecifiers="amount">從 %1$s 轉換</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">轉換匯率：1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">轉換貨幣後約 %1$s</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">此匯率包含貨幣轉換費。</string>
+    <string name="transfer_successful">提領成功</string>
+    <string name="free_fee_message">交易手續費：無</string>
+    <string name="estimated_total_all_currencies">（所有貨幣的預估總金額，包括我們的轉換手續費）</string>
+    <string name="fees">費用</string>
+    <string name="title_money_transfer">交易款項提領</string>
+    <string name="title_currency_transfer">貨幣提領</string>
+    <string name="withdraw_default_risk_holding_period">提領款項最多需要 5 個工作日。</string>
+    <string name="withdraw_risk_holding_default">預計入帳時間：2 至 5 個工作日\n所有提領作業皆須經過審核，但如果我們發現問題，提領作業可能會延遲或遭拒。</string>
+    <string name="choose_balance">選擇 PayPal 餘額</string>
+    <string name="view_balances_title">PayPal 餘額</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$s PayPal 餘額</string>
+    <string name="transfer_to_bank">提領交易款項到銀行帳戶</string>
+    <string name="enter_amount">輸入金額</string>
+    <string name="select_currency">選擇貨幣</string>
+    <string name="transfer_failed">很抱歉，我們無法完成此提領。</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">金額少於 %1$s 的最低限額。</string>
+    <string name="transfer_to_your_bank">提領至你的銀行</string>
+    <string name="choose_bank_or_card">選擇銀行</string>
+    <string name="got_it">了解</string>
+    <string name="try_instant_transfer_title">試試即時提領</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">使用符合資格的扣帳卡時，通常在數分鐘內即可於銀行帳戶中看到你的款項。\n\n需支付 %1$s 手續費。或者，你可使用免費的標準選項。提領最多需花費 30 分鐘時間，實際時間視銀行而異。</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">使用符合資格的扣帳卡時，通常在數分鐘內即可於銀行帳戶中看到你的款項。\n\n需支付 %1$s 手續費。或者，你可使用免費的標準選項。提領最多需花費 30 分鐘時間，實際時間視銀行而異。</string>
+    <string name="money_transfer_to_your_bank">提領至你的銀行</string>
+    <string name="money_transfer_link_debit_card">連結符合資格的扣帳卡</string>
+    <string name="money_transfer_link_debit_card_bank">連結符合資格的扣帳卡或銀行</string>
+    <string name="money_transfer_link_bank">連結銀行帳戶</string>
+    <string name="money_choose_bank_or_card">選擇銀行</string>
+    <string name="money_transfer_rate_instant">立即：一般在數分鐘內完成</string>
+    <string name="money_transfer_rate_standard">標準：一般在 1 個工作日內完成</string>
+    <string name="money_transfer_fee_free">免費</string>
+    <string name="money_transfer_fee_unknown">需支付手續費</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%%（上限 %2$s）</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">提領最多需花費 %1$s，實際時間視銀行而異。所有提領作業皆須經過審核，但如果我們發現問題，提領作業可能會延遲或遭拒。</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">將扣除 %1$s 手續費</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">扣除 %1$s 手續費</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">費用：%1$s</string>
+    <string name="money_label_fee_none">無需額外付費</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">預計入帳時間︰%1$s</string>
+    <string name="money_transfer_proccessing_message">若在美東時間晚上 7:00 或是週末例假日提領，則需要更長時間。所有提領作業皆須經過審核，但如果我們發現問題，提領作業可能會延遲或遭拒。</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">你已提領 %1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">你已提領交易款項至你的 %1$s</string>
+    <string name="money_error_no_fi_selected">請選擇帳戶。</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">金額大於允許的上限 %1$s。</string>
+    <string name="money_error_fi_transfered_max_amount">你已使用此卡片提領至金額上限。</string>
+    <string name="money_missing_fi_title">看不到的你的銀行？</string>
+    <string name="money_missing_fi_message">不支援某些銀行及發卡方。</string>
+    <string name="money_transfer_one_business_day">1 個工作日</string>
+    <string name="money_transfer_with_minutes">數分鐘內</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d 個工作日</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">實際提領時間視銀行而異，部分可能需時 %1$d。%2$s</string>
+    <string name="transfer_full_amount">提領全額</string>
+    <string name="transfer_partial_amount">提領部分金額</string>
+    <string name="fee">費用</string>
+    <string name="you_will_get">你將會收到</string>
+    <string name="cancel_transfer">取消提領</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">是，在 %1$s 小時內提領</string>
+    <string name="oct_risk_hold_planning_title">你的提領可能會延遲，仍要繼續提領嗎？</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">基於交易安全考量，我們需要更多時間審核此筆交易。此程序最多需要 %1$s 小時。我們不會向你收取手續費。</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">基於交易安全考量，我們需要更多時間審核此筆交易。此程序最多需要 %1$s 小時。</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">預計入帳時間：%1$s 小時</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">你已從 %1$s 提領交易款項至你的銀行</string>
+    <string name="you_canceled_transfer">你已取消提領</string>
+    <string name="money_remains_in_paypal_balance">款項仍在你的 PayPal 餘額中。</string>
+    <string name="oct_your_transfer_is_delayed">你的提領已延遲</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">基於交易安全考量，我們需要更多時間審核此筆交易。最長可能需 %1$s 小時，如有任何最新消息，我們會盡快以電郵通知你。我們不會向你收取手續費。或者，你可取消提領。</string>
+    <string name="error_transaction_failed_title">你的交易未能完成</string>
+    <string name="error_transaction_failed_message">抱歉，我們無法處理你的交易。請檢查你已連結到網路，然後重試。</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">基於交易安全考量，我們需要更多時間審核此筆交易。最長可能需 %1$s 小時，如有任何最新消息，我們會盡快以電郵通知你。</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">基於交易安全考量，我們需要更多時間審核此筆交易。最長可能需 %1$s 小時，如有任何最新消息，我們會盡快以電郵通知你。我們不會向你收取手續費。</string>
+    <string name="oct_cancel_transfer_error">抱歉，我們無法取消交易款項提領。你的交易仍為待處理狀態。</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">我們會在 30 分鐘內更新你的 %1$s 提領狀態</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">你要求使用 %1$s 提領至你的銀行。</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">你已提領 %1$s 到%2$s</string>
+    <string name="confirm_your_identity">確認你的身份</string>
+    <string name="cip_transfer_success_title">現在一切就緒！</string>
+    <string name="cip_transfer_failed_title">我們無法確認你的資料</string>
+    <string name="cip_transfer_error_title">我們的系統\n似乎出現問題</string>
+    <string name="cip_transfer_aborted_title">我們無法確認你的資料</string>
+    <string name="cip_transfer_review_title">感謝你提供資料</string>
+    <string name="cip_transfer_success_explanation">我們已成功確認資料，你可以繼續保留 PayPal 餘額。你可以用來付款、消費，或存下來以備不時之需。</string>
+    <string name="cip_transfer_failed_explanation">你仍可從 PayPal 提領交易款項至連結的銀行，但你目前無法使用餘額付款或消費。</string>
+    <string name="cip_transfer_error_explanation">你仍可從 PayPal 提領交易款項至連結的銀行，但你目前無法使用餘額付款或消費。</string>
+    <string name="cip_transfer_aborted_explanation">你仍可從 PayPal 提領至連結的銀行，但你目前無法使用餘額付款或消費。</string>
+    <string name="cip_transfer_review_explanation">我們審核你的文件後，便會寄送電子郵件告知你。這通常需要 2 至 3 個工作日。\n\n在等候同時，你可以隨時將交易款項提領至你的銀行帳戶。</string>
+    <string name="transfer_partial_title">若要提領部分金額，我們需要確認你的身分</string>
+    <string name="partial_choice_description">如果你想在此次提款後使用你的 PayPal 餘額付款或消費，我們需要更多資料以確認你的身分。</string>
+    <string name="transfer_full_amount_instead">改為提領全額</string>
+    <string name="your_transfer_is_pending">你的提領要求尚待處理</string>
+    <string name="compliance_pending_primary_warning">為遵守法規，我們必須仔細審核特定交易。由於我們正在進行審核，因此將這筆提領暫時設為待處理狀態。</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">由於提領遭到延遲，因此我們不會向你收取 %1$s 的手續費。</string>
+    <string name="there_is_a_problem">發生問題</string>
+    <string name="not_able_to_complete_transaction">我們目前無法完成此交易。</string>
+    <string name="identity_not_confirmed">你尚未確認身分</string>
+    <string name="identity_not_confirmed_description">你想要繼續並立即確認身分嗎？如果你略過此步驟，你仍可以將交易款項從 PayPal 提領至連結帳戶，但你將無法使用你的 PayPal 餘額付款或消費交易款項。</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">交易款項正在等待領取</string>
+    <string name="accept_it_now">立即接受</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">你希望如何使用 %1$s？</string>
+    <string name="transfer_it_to_your_bank">提領至你的銀行</string>
+    <string name="transfer_it_to_your_bank_desc">在幾分鐘內將款項提領至你的銀行只需支付小額手續費。或免費直接提領至你的銀行。</string>
+    <string name="keep_it_in_paypal">將款項保留在 PayPal</string>
+    <string name="keep_it_in_paypal_cash_desc">立即設定 PayPal Cash 帳戶，讓你可以直接使用 PayPal 來付款或消費。</string>
+    <string name="unable_to_create_paypal_cash_account">抱歉，我們現在無法建立你的 PayPal Cash 帳戶。改為將交易款項提領至你的銀行。</string>
+    <string name="you_are_all_set">現在一切就緒！</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s 現在已可以於你新的 PayPal Cash 帳戶中使用。</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">當朋友付款給你或成交了一筆銷售，該款項將顯示於你的首頁上。</string>
+    <string name="error_create_paypal_cash_account">我們的系統似乎發生問題，\n請重試。</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

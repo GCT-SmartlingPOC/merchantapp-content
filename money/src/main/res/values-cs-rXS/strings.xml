@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">K dispozici: %1$s</string>
+    <string name="error_transfer_amount_too_high">Zadejte částku, které nebude vyšší než dostupný zůstatek.</string>
+    <string name="fee_label" formatSpecifiers="amount">Poplatek: %1$s</string>
+    <string name="free_label">Zdarma</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">Kreditní</string>
+    <string name="credebit_card_debit">Debetní</string>
+    <string name="withdraw_change_fi_title">Posílání na váš účet</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">Platnost vypršela.</string>
+    <string name="multiple_currency_disclaimer">Odhad vychází z aktuálního směnného kurzu (zahrnut je i náš poplatek za převod měny).</string>
+    <string name="available_parens">(k dispozici)</string>
+    <string name="available_colon">K dispozici:</string>
+    <string name="transfer_money">Převést peníze</string>
+    <string name="send_money">Poslat peníze</string>
+    <string name="account_available">K dispozici</string>
+    <string name="account_available_currency" formatSpecifiers="currency">Dostupný zůstatek v %1$s</string>
+    <string name="account_currency_details">Podrobnosti o měně</string>
+    <string name="transfer_balance">Převést zůstatek</string>
+    <string name="select_destination">Vybrat cíl</string>
+    <string name="account_no_fi_info">Propojte bankovní účet, abyste mohli posílat peníze, vracet peníze a převádět peníze z účtu PayPal na bankovní účet.</string>
+    <string name="link_a_bank_card">Propojit s bankovním účtem nebo kartou</string>
+    <string name="money_balance_error">Nelze získat přístup k informacím o zůstatku.</string>
+    <string name="why_is_my_money_on_hold">Proč jsou moje peníze zadrženy\?</string>
+    <string name="no_bank_account_message">Propojte si na webu PayPal.com bankovní účet, abyste mohli posílat peníze, vracet peníze a převádět peníze z účtu PayPal na svůj bankovní účet.</string>
+    <string name="linked_account">Propojený účet</string>
+    <string name="review_your_transfer">Zkontrolovat převod</string>
+    <string name="transfer_now">Převést</string>
+    <string name="transfer_amount_title">Převáděná částka:</string>
+    <string name="fee_title">Poplatek:</string>
+    <string name="youll_get_title">Obdržíte:</string>
+    <string name="transfer">Převést</string>
+    <string name="ellipse">...</string>
+    <string name="processing_time_few_minutes">za pár minut</string>
+    <string name="continue_with_delayed_transfer">Pokračovat ve zpožděném převodu</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">Z bezpečnostních důvodů potřebujeme více času, abychom mohli transakci zkontrolovat. Kontrola může trvat až %1$s h. Chcete přesto v převodu pokračovat\?</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">Vaše částka %1$s je na cestě</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">Právě převádíte peníze na %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">Právě převádíte %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">Převedli jste peníze na svůj bankovní účet prostřednictvím karty %1$s</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">Mělo by to trvat pouze několik minut. O vašem převodu na účet %1$s vás budeme informovat.</string>
+    <string name="money_transfer_minutes_message">Převod může trvat několik minut v závislosti na bance. Všechny převody podléhají kontrole a může dojít k jejich zpoždění nebo pozastavení, pokud odhalíme problém.</string>
+    <string name="converted_from" formatSpecifiers="amount">Převedeno z: %1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">Směnný kurz: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">Částka bude převedena přibližně na %1$s.</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">Tento kurz zahrnuje náš poplatek za převod.</string>
+    <string name="transfer_successful">Převod proběhl úspěšně.</string>
+    <string name="free_fee_message">Poplatek: Zdarma</string>
+    <string name="estimated_total_all_currencies">(Odhadovaná celková částka ve všech měnách)</string>
+    <string name="fees">Poplatky</string>
+    <string name="title_money_transfer">Převod peněz</string>
+    <string name="title_currency_transfer">Převod měny</string>
+    <string name="withdraw_default_risk_holding_period">Zpracování převodu může trvat až 5 dnů.</string>
+    <string name="withdraw_risk_holding_default">Předpokládaná doba trvání doručení: 1 pracovní den\nPřevody provedené po 19. hodině východního času nebo o víkendech či svátcích trvají déle. Všechny převody podléhají kontrole a může dojít k jejich zpoždění nebo pozastavení, pokud odhalíme problém.</string>
+    <string name="choose_balance">Zvolit zůstatek na účtu PayPal</string>
+    <string name="view_balances_title">Zůstatky na účtu PayPal</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">Zůstatek na účtu PayPal: %1$s</string>
+    <string name="transfer_to_bank">Převést na bankovní účet</string>
+    <string name="enter_amount">Zadat částku</string>
+    <string name="select_currency">Vybrat měnu</string>
+    <string name="transfer_failed">Převod nelze dokončit.</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">Částka je nižší než minimální částka %1$s.</string>
+    <string name="transfer_to_your_bank">Převést na bankovní účet</string>
+    <string name="choose_bank_or_card">Vybrat bankovní účet nebo kartu</string>
+    <string name="got_it">OK</string>
+    <string name="try_instant_transfer_title">Vyzkoušejte okamžitý převod.</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">Pokud použijete způsobilou debetní kartu, objeví se peníze na vašem bankovním účtu zpravidla za pár minut.\n\nBude účtován poplatek ve výši %1$s. Případně můžete zdarma využít standardní možnost. Převod může v závislosti na bance trvat až 30 minut.</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">Pokud použijete způsobilou debetní kartu, objeví se peníze na vašem bankovním účtu zpravidla za pár minut.\n\nBude účtován poplatek ve výši %1$s. Případně můžete zdarma využít standardní možnost. Převod může v závislosti na bance trvat až 30 minut.</string>
+    <string name="money_transfer_to_your_bank">Převést na bankovní účet</string>
+    <string name="money_transfer_link_debit_card">Propojit s podporovanou debetní kartou</string>
+    <string name="money_transfer_link_debit_card_bank">Propojit s podporovanou debetní kartou nebo bankovním účtem</string>
+    <string name="money_transfer_link_bank">Propojit s bankovním účtem</string>
+    <string name="money_choose_bank_or_card">Vybrat bankovní účet nebo kartu</string>
+    <string name="money_transfer_rate_instant">Okamžitý: Zpravidla během pár minut</string>
+    <string name="money_transfer_rate_standard">Standardní: Zpravidla během jednoho pracovního dne</string>
+    <string name="money_transfer_fee_free">Zdarma</string>
+    <string name="money_transfer_fee_unknown">Jsou účtovány poplatky.</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s %% (max. %2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">Převod může v závislosti na bance trvat až %1$s. Všechny převody podléhají kontrole a může dojít k jejich zpoždění nebo pozastavení, pokud odhalíme problém.</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">Bude odečten poplatek %1$s.</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">Odečten poplatek %1$s</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">Poplatek: %1$s</string>
+    <string name="money_label_fee_none">Bez poplatku</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">Předpokládaná doba trvání doručení: %1$s</string>
+    <string name="money_transfer_proccessing_message">Zpracování převodů zadaných po 19:00 amerického východního času nebo o víkendech a svátcích může trvat déle. Všechny převody podléhají kontrole a může dojít k jejich zpoždění nebo pozastavení, pokud odhalíme problém.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">Převedli jste %1$s.</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">Převedli jste peníze na svůj účet %1$s.</string>
+    <string name="money_error_no_fi_selected">Vyberte účet.</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">Částka je vyšší než maximální limit %1$s.</string>
+    <string name="money_error_fi_transfered_max_amount">Převedli jste maximální částku povolenou pro tuto kartu.</string>
+    <string name="money_missing_fi_title">Nevidíte všechny své bankovní účty a karty\?</string>
+    <string name="money_missing_fi_message">Některé banky a někteří vydavatelé karet nejsou podporováni.</string>
+    <string name="money_transfer_one_business_day">1 pracovní den</string>
+    <string name="money_transfer_with_minutes">Během pár minut</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d prac. d</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">Vzhledem k tomu, že rychlost zpracování transakcí závisí na bance, mohou některé převody trvat až %1$d %2$s.</string>
+    <string name="transfer_full_amount">Převést celou částku</string>
+    <string name="transfer_partial_amount">Převést část částky</string>
+    <string name="fee">Poplatek</string>
+    <string name="you_will_get">Obdržíte</string>
+    <string name="cancel_transfer">Zrušit převod</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">Ano, převést za %1$s h</string>
+    <string name="oct_risk_hold_planning_title">Převod bude opožděn. Chcete přesto v převodu pokračovat\?</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">Z bezpečnostních důvodů potřebujeme více času, abychom mohli transakci zkontrolovat. Může to trvat až %1$s h. Nebude vám účtován poplatek.</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">Z bezpečnostních důvodů potřebujeme více času, abychom mohli transakci zkontrolovat. Může to trvat až %1$s h.</string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">Předpokládaná doba trvání doručení: %1$s h</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">Převedli jste peníze na svůj bankovní účet prostřednictvím karty %1$s.</string>
+    <string name="you_canceled_transfer">Zrušili jste převod.</string>
+    <string name="money_remains_in_paypal_balance">Peníze zůstanou na účtu PayPal.</string>
+    <string name="oct_your_transfer_is_delayed">U převodu došlo ke zpoždění.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">Z bezpečnostních důvodů potřebujeme více času, abychom mohli transakci zkontrolovat. Může to trvat až %1$s h. Jakmile budeme mít další informace, dáme vám vědět e-mailem. Nebude vám účtován poplatek. Převod můžete také zrušit.</string>
+    <string name="error_transaction_failed_title">Vaše transakce nebyla dokončena.</string>
+    <string name="error_transaction_failed_message">Vaši transakci jsme bohužel nemohli zpracovat. Zkontrolujte, zda jste připojeni k síti, a zkuste to znovu.</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">Z bezpečnostních důvodů potřebujeme více času, abychom mohli transakci zkontrolovat. Může to trvat až %1$s h. Jakmile budeme mít další informace, dáme vám vědět e-mailem.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">Z bezpečnostních důvodů potřebujeme více času, abychom mohli transakci zkontrolovat. Může to trvat až %1$s h. Jakmile budeme mít další informace, dáme vám vědět e-mailem. Nebude vám účtován poplatek.</string>
+    <string name="oct_cancel_transfer_error">Převod prostředků se nám bohužel nepodařilo zrušit. Vaše zransakce stále čeká na zpracování.</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">O vašem převodu %1$s vás budeme informovat během 30 minut</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">Požádali jste o převod na bankovní účet prostřednictvím: %1$s</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">Převedli jste částku %1$s na účet %2$s.</string>
+    <string name="confirm_your_identity">Potvrďte svou totožnost.</string>
+    <string name="cip_transfer_success_title">Vše je nastaveno.</string>
+    <string name="cip_transfer_failed_title">Nemohli jsme potvrdit vaše údaje.</string>
+    <string name="cip_transfer_error_title">Zřejmě došlo k chybě\nna naší straně.</string>
+    <string name="cip_transfer_aborted_title">Nemohli jsme potvrdit vaše údaje.</string>
+    <string name="cip_transfer_review_title">Děkujeme vám za zaslání vašich údajů.</string>
+    <string name="cip_transfer_success_explanation">Úspěšně jsme potvrdili vaše údaje a můžete nadále spravovat zůstatek na účtu PayPal. Peníze můžete někomu poslat, utratit je nebo si je ponechat na nečekané výdaje.</string>
+    <string name="cip_transfer_failed_explanation">Peníze z účtu PayPal budete moci nadále převádět na propojený bankovní účet, ale momentálně je nebudete moci nikomu poslat ani je utratit.</string>
+    <string name="cip_transfer_error_explanation">Peníze z účtu PayPal budete moci nadále převádět na propojený bankovní účet, ale momentálně je nebudete moci nikomu poslat ani je utratit.</string>
+    <string name="cip_transfer_aborted_explanation">Peníze z účtu PayPal budete moci nadále převádět na propojený bankovní účet, ale nebudete je moci nikomu poslat ani je utratit.</string>
+    <string name="cip_transfer_review_explanation">Jakmile vaše doklady zkontrolujeme, pošleme vám e-mail. Obvykle to trvá 2–3 pracovní dny.\n\nBěhem čekání můžete peníze kdykoli převést na svůj bankovní účet.</string>
+    <string name="transfer_partial_title">Abychom mohli převést část částky, potřebujeme potvrdit vaši totožnost.</string>
+    <string name="partial_choice_description">Pokud budete chtít po tomto převodu poslat nebo utratit zbývající zůstatek na účtu PayPal, budeme potřebovat více údajů, abychom mohli potvrdit vaši totožnost.</string>
+    <string name="transfer_full_amount_instead">Převést raději celou částku</string>
+    <string name="your_transfer_is_pending">Váš převod čeká na zpracování.</string>
+    <string name="compliance_pending_primary_warning">Dle předpisů je nutné, abychom některé transakce zkontrolovali podrobněji. Váš převod dočasně čeká na zpracování. Prověřujeme ho.</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">Vzhledem k tomu, že u vašeho převodu došlo ke zpoždění, nebudeme vám účtovat %1$s.</string>
+    <string name="there_is_a_problem">Došlo k problému.</string>
+    <string name="not_able_to_complete_transaction">Tuto transakci teď není možné dokončit.</string>
+    <string name="identity_not_confirmed">Dosud jste nepotvrdili svou totožnost.</string>
+    <string name="identity_not_confirmed_description">Chcete pokračovat a potvrdit svou totožnost\? Pokud tento krok vynecháte, budete moci peníze z účtu PayPal převádět na propojený účet, ale nebudete je moci nikomu poslat ani je utratit.</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">Peníze čekající na přijetí</string>
+    <string name="accept_it_now">Přijmout</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">Co chcete udělat s %1$s\?</string>
+    <string name="transfer_it_to_your_bank">Převést na bankovní účet</string>
+    <string name="transfer_it_to_your_bank_desc">Přesuňte peníze na váš bankovní účet během několika minut pouze za drobný poplatek. Nebo převádějte zcela zdarma přímo na váš bankovní účet.</string>
+    <string name="keep_it_in_paypal">Ponechat na účtu PayPal</string>
+    <string name="keep_it_in_paypal_cash_desc">Založte si účet PayPal Cash a posílejte nebo čerpejte peníze přímo prostřednictvím služby PayPal.</string>
+    <string name="unable_to_create_paypal_cash_account">Účet PayPal Cash se bohužel nyní nepodařilo vytvořit. Převeďte místo toho peníze na váš bankovní účet.</string>
+    <string name="you_are_all_set">Vše je nastaveno</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s je nyní k dispozici na vašem novém účtu PayPal Cash.</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">Když vám přátelé pošlou peníze nebo něco prodáte, uvidíte to na domovské obrazovce.</string>
+    <string name="error_create_paypal_cash_account">Zřejmě došlo k chybě na naší straně. \nZkuste to znovu.</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

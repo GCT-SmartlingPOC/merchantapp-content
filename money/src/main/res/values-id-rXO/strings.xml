@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">Tersedia: %1$s</string>
+    <string name="error_transfer_amount_too_high">Masukkan jumlah yang kurang dari atau sama dengan saldo yang tersedia</string>
+    <string name="fee_label" formatSpecifiers="amount">Biaya transaksi: %1$s</string>
+    <string name="free_label">Biaya transaksi: Tidak Ada</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">kredit</string>
+    <string name="credebit_card_debit">Otorisasi</string>
+    <string name="withdraw_change_fi_title">Mengirim ke</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">Kedaluwarsa</string>
+    <string name="multiple_currency_disclaimer">Perkiraan berdasarkan kurs konversi terkini, termasuk biaya konversi mata uang kami.</string>
+    <string name="available_parens">(tersedia)</string>
+    <string name="available_colon">Tersedia:</string>
+    <string name="transfer_money">Tarik Dana</string>
+    <string name="send_money">Kirim Pembayaran​</string>
+    <string name="account_available">Tersedia</string>
+    <string name="account_available_currency" formatSpecifiers="currency">Saldo yang tersedia dalam %1$s</string>
+    <string name="account_currency_details">Perincian Mata Uang</string>
+    <string name="transfer_balance">Transfer Saldo</string>
+    <string name="select_destination">Pilih Tujuan</string>
+    <string name="account_no_fi_info">Hubungkan rekening bank agar Anda dapat menarik dana dari rekening PayPal ke rekening bank.</string>
+    <string name="link_a_bank_card">Hubungkan Bank atau Kartu</string>
+    <string name="money_balance_error">Tidak dapat mengakses informasi saldo Anda.</string>
+    <string name="why_is_my_money_on_hold">Mengapa pembayaran saya ditahan\?</string>
+    <string name="no_bank_account_message">Hubungkan rekening bank di PayPal.com sehingga Anda dapat menarik pembayaran dari rekening PayPal ke rekening bank.</string>
+    <string name="linked_account">Rekening terhubung</string>
+    <string name="review_your_transfer">Periksa transfer Anda</string>
+    <string name="transfer_now">Transfer sekarang</string>
+    <string name="transfer_amount_title">Jumlah transfer:</string>
+    <string name="fee_title">Biaya:</string>
+    <string name="youll_get_title">Anda akan memperoleh:</string>
+    <string name="transfer">Transfer</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">beberapa menit</string>
+    <string name="continue_with_delayed_transfer">Lanjutkan transfer yang tertunda</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">Demi alasan keamanan, kami memerlukan sedikit tambahan waktu untuk memeriksa transaksi ini. Proses ini dapat berlangsung hingga %1$s jam. Masih ingin melanjutkan transfer\?</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">%1$s Anda hampir sampai</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">Anda mentransfer dana ke %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">Anda mentransfer %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">Anda mentransfer dana ke bank menggunakan %1$s</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">Mungkin butuh beberapa menit. Kami akan memastikan Anda selalu mendapat informasi terbaru tentang transfer ke %1$s</string>
+    <string name="money_transfer_minutes_message">Transfer dapat memakan waktu beberapa menit dan berbeda untuk setiap bank. Seluruh transfer dikenai pemeriksaan dan dapat tertunda atau dihentikan jika kami mengidentifikasi adanya masalah.</string>
+    <string name="converted_from" formatSpecifiers="amount">Dikonversi dari %1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">Kurs konversi: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">Ini akan dikonversikan menjadi sekitar %1$s</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">Tarif ini mencakup biaya konversi.</string>
+    <string name="transfer_successful">Transfer Berhasil</string>
+    <string name="free_fee_message">Biaya transaksi: Tidak Ada</string>
+    <string name="estimated_total_all_currencies">(Estimasi total semua mata uang, termasuk biaya konversi)</string>
+    <string name="fees">Biaya</string>
+    <string name="title_money_transfer">Transfer Pembayaran</string>
+    <string name="title_currency_transfer">Transfer Mata Uang</string>
+    <string name="withdraw_default_risk_holding_period">Transfer dapat memakan waktu hingga 5 hari.</string>
+    <string name="withdraw_risk_holding_default">Perkiraan waktu penerimaan: 1 hari kerja\nTransfer yang dilakukan setelah pukul 19.00 ET (07.00 WIB) atau di akhir pekan serta hari libur membutuhkan waktu lebih lama. Seluruh transfer dikenai pemeriksaan dan dapat tertunda atau dihentikan jika kami mengidentifikasi adanya masalah.</string>
+    <string name="choose_balance">Pilih saldo PayPal</string>
+    <string name="view_balances_title">Saldo PayPal</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">Saldo PayPal dalam %1$s</string>
+    <string name="transfer_to_bank">Transfer ke Bank</string>
+    <string name="enter_amount">Masukkan Jumlah</string>
+    <string name="select_currency">Pilih Mata Uang.</string>
+    <string name="transfer_failed">Tidak dapat menyelesaikan transfer</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">Jumlah kurang dari minimum %1$s.</string>
+    <string name="transfer_to_your_bank">Transfer ke Bank Anda</string>
+    <string name="choose_bank_or_card">Pilih Bank atau Kartu</string>
+    <string name="got_it">Dapatkan!</string>
+    <string name="try_instant_transfer_title">Coba Transfer Instan</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">Dana tersebut biasanya akan muncul di rekening bank dalam beberapa menit jika Anda menggunakan kartu debit yang memenuhi syarat. \n\nDikenakan biaya %1$s. Atau, Anda dapat menggunakan pilihan standar secara gratis. Transfer dapat memakan waktu hingga 30 menit dan dapat berbeda untuk setiap bank.</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">Dana tersebut akan muncul di rekening bank dalam beberapa menit jika Anda menggunakan kartu debit yang memenuhi syarat. \n\nDikenakan biaya %1$s. Atau, Anda dapat menggunakan pilihan standar secara gratis. Transfer dapat memakan waktu hingga 30 menit dan dapat berbeda untuk setiap bank.</string>
+    <string name="money_transfer_to_your_bank">Transfer ke Bank Anda</string>
+    <string name="money_transfer_link_debit_card">Hubungkan kartu debit yang memenuhi syarat</string>
+    <string name="money_transfer_link_debit_card_bank">Hubungkan kartu debit atau bank yang memenuhi syarat</string>
+    <string name="money_transfer_link_bank">Hubungkan rekening bank</string>
+    <string name="money_choose_bank_or_card">Pilih Bank atau Kartu</string>
+    <string name="money_transfer_rate_instant">Instan: umumnya dalam hitungan menit</string>
+    <string name="money_transfer_rate_standard">Standar: umumnya 1 hari kerja</string>
+    <string name="money_transfer_fee_free">Gratis</string>
+    <string name="money_transfer_fee_unknown">Dikenakan biaya</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%% (maks %2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">Transfer dapat memakan waktu hingga %1$s dan dapat berbeda untuk setiap bank. Seluruh transfer dikenai pemeriksaan dan dapat tertunda atau dihentikan jika kami mengidentifikasi adanya masalah.</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">Akan dikurangi biaya %1$s</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">Dikurangi biaya %1$s</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">Biaya: %1$s</string>
+    <string name="money_label_fee_none">Tanpa Biaya</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">Perkiraan waktu penerimaan: %1$s</string>
+    <string name="money_transfer_proccessing_message">Transfer yang dilakukan setelah pukul 19.00 ET (07.00 WIB) atau di akhir pekan serta hari libur membutuhkan waktu lebih lama. Seluruh transfer dikenai pemeriksaan dan dapat tertunda atau dihentikan jika kami mengidentifikasi adanya masalah.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">Anda telah mentransfer %1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">Anda telah mentransfer dana ke %1$s</string>
+    <string name="money_error_no_fi_selected">Mohon pilih rekening.</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">Jumlah melebihi batas maksimum %1$s yang tersedia.</string>
+    <string name="money_error_fi_transfered_max_amount">Anda telah mentransfer jumlah maksimum yang diizinkan menggunakan kartu ini.</string>
+    <string name="money_missing_fi_title">Semua bank dan kartu Anda tidak muncul\?</string>
+    <string name="money_missing_fi_message">Beberapa bank dan penerbit kartu memang tidak didukung.</string>
+    <string name="money_transfer_one_business_day">1 hari kerja</string>
+    <string name="money_transfer_with_minutes">dalam beberapa menit</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d hari kerja</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">Karena waktu transfer berbeda untuk setiap bank, sejumlah transfer mungkin butuh waktu hingga %1$d %2$s</string>
+    <string name="transfer_full_amount">Transfer Jumlah Penuh</string>
+    <string name="transfer_partial_amount">Transfer Sebagian Dana</string>
+    <string name="fee">Biaya</string>
+    <string name="you_will_get">Anda akan memperoleh</string>
+    <string name="cancel_transfer">Batalkan Transfer</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">Ya, transfer dalam %1$s jam</string>
+    <string name="oct_risk_hold_planning_title">Transfer akan tertunda, Anda masih ingin melanjutkan transfer\?</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">Demi alasan keamanan, kami memerlukan sedikit tambahan waktu untuk memeriksa transaksi ini. Proses ini dapat berlangsung hingga %1$s jam. Anda tidak akan dikenakan biaya.</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">Demi alasan keamanan, kami memerlukan sedikit tambahan waktu untuk memeriksa transaksi ini. Proses ini dapat berlangsung hingga %1$s jam. </string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">Perkiraan waktu penerimaan: %1$s jam</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">Anda telah mentransfer dana ke bank menggunakan %1$s</string>
+    <string name="you_canceled_transfer">Anda membatalkan transfer</string>
+    <string name="money_remains_in_paypal_balance">Dana akan tetap berada dalam saldo PayPal.</string>
+    <string name="oct_your_transfer_is_delayed">Transfer Anda tertunda</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">Demi alasan keamanan, kami memerlukan sedikit tambahan waktu untuk memeriksa transaksi ini. Proses ini dapat berlangsung hingga %1$s jam, namun kami akan mengirim email segera setelah kami memiliki informasi terbaru. Anda tidak akan dikenakan biaya. Atau, Anda dapat membatalkan transfer.</string>
+    <string name="error_transaction_failed_title">Transaksi Anda belum selesai</string>
+    <string name="error_transaction_failed_message">Maaf, transaksi Anda tidak dapat diproses. Cek apakah Anda tersambung ke jaringan dan coba lagi.</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">Demi alasan keamanan, kami memerlukan sedikit tambahan waktu untuk memeriksa transaksi ini. Proses ini dapat berlangsung hingga %1$s jam, namun kami akan mengirim email segera setelah kami memiliki informasi terbaru.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">Demi alasan keamanan, kami memerlukan sedikit tambahan waktu untuk memeriksa transaksi ini. Proses ini dapat berlangsung hingga %1$s jam, namun kami akan mengirim email segera setelah kami memiliki informasi terbaru. Anda tidak akan dikenakan biaya.</string>
+    <string name="oct_cancel_transfer_error">Maaf, transfer dana Anda tidak dapat dibatalkan. Transaksi Anda masih tertunda.</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">Kami akan memberitahukan status transfer sejumlah %1$s Anda dalam 30 menit.</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">Anda meminta transfer ke bank Anda menggunakan %1$s.</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">Anda mentransfer %1$s ke %2$s</string>
+    <string name="confirm_your_identity">Konfirmasikan Identitas Anda</string>
+    <string name="cip_transfer_success_title">Anda siap!</string>
+    <string name="cip_transfer_failed_title">Kami tidak dapat mengonfirmasi info Anda</string>
+    <string name="cip_transfer_error_title">Tampaknya ada kesalahan\npada sistem kami</string>
+    <string name="cip_transfer_aborted_title">Kami tidak dapat mengonfirmasi info Anda</string>
+    <string name="cip_transfer_review_title">Terima kasih telah mengirimkan informasi Anda</string>
+    <string name="cip_transfer_success_explanation">Informasi telah dikonfirmasi dan Anda dapat tetap mempertahankan saldo PayPal. Anda dapat mentransfer, membelanjakan, atau menyimpan dana tersebut sebagai cadangan untuk kebutuhan tak terduga.</string>
+    <string name="cip_transfer_failed_explanation">Anda tetap dapat mentransfer pembayaran dari PayPal ke bank yang terhubung, namun Anda tidak akan dapat menggunakan saldo untuk dikirim atau dibelanjakan saat ini.</string>
+    <string name="cip_transfer_error_explanation">Anda tetap dapat mentransfer pembayaran dari PayPal ke bank yang terhubung, namun Anda tidak akan dapat menggunakan saldo untuk dikirim atau dibelanjakan saat ini.</string>
+    <string name="cip_transfer_aborted_explanation">Anda tetap dapat mentransfer dana dari PayPal ke bank yang terhubung, namun Anda tidak akan dapat menggunakan saldo untuk dikirim atau dibelanjakan saat ini.</string>
+    <string name="cip_transfer_review_explanation">Kami akan mengirim email segera setelah selesai memeriksa dokumen Anda. Biasanya ini berlangsung selama 2-3 hari kerja.\n\nSelagi menunggu, Anda dapat mentransfer dana ke bank Anda.</string>
+    <string name="transfer_partial_title">Agar dapat mentransfer sebagian dana, identitas Anda harus dikonfirmasi</string>
+    <string name="partial_choice_description">Kami memerlukan informasi lebih lanjut untuk mengonfirmasi identitas Anda, sehingga Anda dapat menggunakan saldo PayPal yang tersisa untuk dikirim atau dibelanjakan setelah transfer ini.</string>
+    <string name="transfer_full_amount_instead">Transfer Seluruhnya Sebagai Gantinya</string>
+    <string name="your_transfer_is_pending">Transfer Anda tertunda</string>
+    <string name="compliance_pending_primary_warning">Peraturan mewajibkan kami untuk melihat beberapa transaksi dengan lebih cermat. Transfer Anda tertunda untuk sementara selagi kami memeriksanya.</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">Karena transfer tertunda, Anda tidak akan dikenakan biaya %1$s.</string>
+    <string name="there_is_a_problem">Terdapat masalah</string>
+    <string name="not_able_to_complete_transaction">Saat ini, kami tidak dapat menyelesaikan transaksi. </string>
+    <string name="identity_not_confirmed">Anda belum mengonfirmasi identitas</string>
+    <string name="identity_not_confirmed_description">Anda ingin melanjutkan dan mengonfirmasi identitas sekarang\? Jika langkah ini dilewati, Anda dapat mentransfer dana dari PayPal ke rekening yang terhubung, namun Anda tidak akan dapat menggunakan saldo PayPal untuk mengirim pembayaran atau dibelanjakan.</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">Ada dana menunggu Anda</string>
+    <string name="accept_it_now">Terima sekarang</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">Apa yang ingin dilakukan dengan %1$s\?</string>
+    <string name="transfer_it_to_your_bank">Transfer ke bank Anda</string>
+    <string name="transfer_it_to_your_bank_desc">Transfer dana ke rekening bank dalam sekejap dengan biaya kecil. Atau langsung ke bank Anda secara gratis.</string>
+    <string name="keep_it_in_paypal">Simpan di PayPal</string>
+    <string name="keep_it_in_paypal_cash_desc">Mari mengonfigurasi rekening PayPal Cash sehingga Anda dapat mengirim atau membelanjakan langsung dari PayPal.</string>
+    <string name="unable_to_create_paypal_cash_account">Maaf, saat ini kami tidak dapat membuat rekening PayPal Cash Anda. Sebagai gantinya, transfer dananya ke rekening bank Anda</string>
+    <string name="you_are_all_set">Anda sudah siap</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s kini tersedia di rekening PayPal Cash Anda yang baru.</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">Saat teman mengirim pembayaran atau Anda menjual sesuatu, transaksi ini akan ditampilkan di layar halaman muka.</string>
+    <string name="error_create_paypal_cash_account">Sepertinya ada yang salah pada sistem kami. \nCoba lagi.</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

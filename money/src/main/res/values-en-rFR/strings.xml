@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_no_fi_info">Link a bank account so you can send and withdraw money, and issue refunds.</string>
+    <string name="link_a_bank_card">Add a Bank Account or Card</string>
+    <string name="no_bank_account_message">Add a bank account at PayPal.fr so you can send money, issue refunds, and transfer money from PayPal to your bank.</string>
+    <string name="transfer">Withdraw</string>
+    <string name="transfer_successful">Withdrawal Successful</string>
+    <string name="withdraw_default_risk_holding_period">Withdrawals can take up to 5 working days.</string>
+    <string name="withdraw_risk_holding_default">Estimated arrival: 3-5 business days\nAll transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="transfer_to_bank">Withdraw to bank account</string>
+    <string name="transfer_failed">Unable to complete withdrawal</string>
+    <string name="transfer_to_your_bank">Withdraw to Your Bank</string>
+    <string name="choose_bank_or_card">Choose Bank </string>
+    <string name="try_instant_transfer_title">Try Instant Witdrawal</string>
+    <string name="money_transfer_to_your_bank">Withdraw to Your Bank</string>
+    <string name="money_choose_bank_or_card">Choose Bank </string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">Withdrawals may take up to %1$s and vary by bank. All withdrawals are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="money_transfer_proccessing_message">All withdrawals are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">You withdrew %1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">You withdrew money to your %1$s</string>
+    <string name="money_missing_fi_title">Don\'t see all of your banks\?</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">Because withdrawal times vary by bank, some withdrawals may take up to %1$d %2$s</string>
+    <string name="transfer_full_amount">Withdraw Full Amount</string>
+    <string name="transfer_partial_amount">Withdraw Partial Amount</string>
+    <string name="cancel_transfer">Cancel Withdrawal</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">Yes, withdraw in %1$s hours</string>
+    <string name="oct_risk_hold_planning_title">Your withdrawal will be delayed, would you still like to continue with your withdrawal\?</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">You withdrew money to your bank using your %1$s</string>
+    <string name="you_canceled_transfer">You canceled your withdrawal</string>
+    <string name="oct_your_transfer_is_delayed">Your withdrawal is delayed</string>
+    <string name="oct_cancel_transfer_error">Sorry, we weren\'t able to cancel your funds withdrawal. Your transaction is still pending.</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">You withdrew %1$s to %2$s</string>
+    <string name="cip_transfer_failed_explanation">You\'ll still be able to withdraw money from PayPal to your linked bank, but you won\'t be able to use your balance to send or spend at this time.</string>
+    <string name="cip_transfer_error_explanation">You\'ll still be able to withdraw funds from PayPal to your linked bank, but you won\'t be able to use your balance to send or spend at this time.</string>
+    <string name="cip_transfer_aborted_explanation">You\'ll still be able to withdraw money from PayPal to your linked bank, but you won\'t be able to use your balance to send or spend at this time.</string>
+    <string name="cip_transfer_review_explanation">We\'ll send an email as soon as we\'re done reviewing your docs. This usually takes 2-3 business days.\n\nWhile you\'re waiting you can always withdraw the money to your bank.</string>
+    <string name="transfer_partial_title">In order to withdraw a partial amount we need to confirm your identity</string>
+    <string name="partial_choice_description">If you want to use your remaining PayPal balance to send or spend after this withdrawal, we\'ll need a bit more information to confirm your identity.</string>
+    <string name="transfer_full_amount_instead">Withdraw Full Amount Instead</string>
+    <string name="your_transfer_is_pending">Your withdrawal is pending</string>
+    <string name="compliance_pending_primary_warning">Regulations require us to take a closer look at some withdrawals. Your withdrawal is temporarily pending while we review it.</string>
+    <string name="identity_not_confirmed_description">Would you like to continue and confirm your identity now\? If you skip this step, you can withdraw money from PayPal to your linked account, but you won\'t be able to use your PayPal balance to send or spend money.</string>
+</resources>

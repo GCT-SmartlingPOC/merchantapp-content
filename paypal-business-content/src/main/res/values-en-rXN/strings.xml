@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="legal_user_agreement_policy">User Agreement</string>
+    <string name="touch_id_pin_also_disabled">Touch ID and PIN will be disabled</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your PIN.</string>
+    <string name="request_money">Request payment</string>
+    <string name="notification_setting_request_money">Someone requests payment from you</string>
+    <string name="notification_setting_send_money">You send payment to someone</string>
+    <string name="notification_setting_receive_money">You receive payment from someone</string>
+</resources>

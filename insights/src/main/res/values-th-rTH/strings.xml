@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sales_insights">ข้อมูลเชิงลึกด้านการขาย</string>
+    <string name="month">เดือน</string>
+    <string name="quarter">ไตรมาส</string>
+    <string name="year">ปี</string>
+    <string name="year_to_date">จากต้นปี</string>
+    <string name="title_sales_month">ยอดขายในเดือนนี้</string>
+    <string name="title_this_month">เดือนนี้</string>
+    <string name="ytd">YTD</string>
+    <string name="compare_last_year">เปรียบเทียบกับปีก่อน</string>
+    <string name="best_month">เดือนที่ดีที่สุด</string>
+    <string name="worst_month">เดือนที่แย่ที่สุด</string>
+    <string name="best_week">สัปดาห์ที่ดีที่สุด</string>
+    <string name="worst_week">สัปดาห์ที่แย่ที่สุด</string>
+    <string name="avg_order_value">ยอดขาย มูลค่าคำสั่งซื้อ</string>
+    <string name="transactions">การทำรายการ</string>
+    <string name="last_year_sales" formatSpecifiers="amount">ปีที่ผ่านมา %1$s</string>
+    <string name="year_to_date_sales">ยอดขายนับจากต้นปีถึงวันปัจจุบัน</string>
+    <string name="total_sales">ยอดขายรวม</string>
+    <string name="month_sales" formatSpecifiers="month">%1$s ยอดขาย</string>
+    <string name="month_day" formatSpecifiers="month,day">%1$s %2$s</string>
+    <string name="month_year" formatSpecifiers="MMM,yy">%1$tb \'%1$ty</string>
+    <string name="short_month_year" formatSpecifiers="month,year">%1$s %2$s</string>
+    <string name="short_quarter_year" formatSpecifiers="quarterLabel,quarterValue,year">%1$s%2$s %3$s</string>
+    <string name="short_quarter" formatSpecifiers="quarterLabel">คำถาม</string>
+    <string name="data_unavailable_swipe_again">ข้อมูลไม่พร้อมใช้งาน โปรดเลื่อนอีกครั้ง</string>
+</resources>

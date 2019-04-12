@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal 商業：發出帳單</string>
+    <string name="ios_subtitle">管理銷售、帳單和款項</string>
+    <string name="ios_promotional_text">「PayPal 商業」讓你輕鬆管理帳戶活動、檢查餘額、發出帳單、檢視客戶資料和分析銷售趨勢，不限時間和地點。</string>
+    <string name="android_short_description">隨時隨地掌握 PayPal 商業帳戶的狀況。</string>
+    <string name="full_description_line_1">隨時隨地，配合業務所需！使用 PayPal 商業應用程式發出帳單、追蹤銷售表現及管理你的款項。</string>
+    <string name="full_description_line_2_bullet_1">o 迅速建立和發出帳單</string>
+    <string name="full_description_line_2_bullet_2">o 管理銷售及追蹤帳戶活動</string>
+    <string name="full_description_line_2_bullet_3">o 轉帳付款</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o 每月、每季及每年銷售趨勢一目了然</string>
+    <string name="full_description_line_2_bullet_6">o 迅速輕鬆地存取客戶資料</string>
+    <string name="full_description_para_1_header">發出帳單並收款</string>
+    <string name="full_description_para_1_description">透過 PayPal 商業應用程式，迅速建立、發出和管理帳單。PayPal 的帳單編製功能讓你輕鬆地從流動裝置直接向客戶發出付款提醒。</string>
+    <string name="full_description_para_2_header">管理銷售及帳戶活動</string>
+    <string name="full_description_para_2_description">方便查看每日銷售額，每月、每季及每年銷售額亦一目了然。</string>
+    <string name="full_description_para_3_header">款項轉帳</string>
+    <string name="full_description_para_3_description">輕按幾下，即可將款項匯入已連結的商家銀行帳戶、發放退款和發出付款。使用這個款項管理手機應用程式，就能跳過銀行訊息，節省時間。</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">存取客戶資料</string>
+    <string name="full_description_para_5_description">直接從你的流動裝置檢視客戶交易紀錄、聯絡資料及聯絡你的客戶。匯入你的聯絡人資料也相當簡易！</string>
+    <string name="full_description_para_footer_1">PayPal 商業應用程式讓你能直接透過手機，迅速簡易地為你的小型業務編製及發出帳單、收款和管理款項。</string>
+    <string name="full_description_para_footer_2">需要在流動裝置上接受信用卡 / 扣帳卡嗎？PayPal Here 流動應用程式幫到你！</string>
+    <string name="ios_keywords">發出付款、收款、付款、銀行、轉帳、銷售、資料分析、客戶、帳單編製功能、帳單、免費、付款</string>
+    <string name="ios_release_notes_1">多謝你使用「PayPal 商業」！我們已修正錯誤和當機問題，令你每日享受更佳使用體驗。</string>
+    <string name="ios_release_notes_2">我們已使用這項更新修正錯誤和當機問題，你現在將可更輕鬆管理自己的業務。希望你喜歡使用此應用程式！</string>
+    <string name="ios_release_notes_3">我們嘗試以每次更新來提升你的體驗，助你更輕鬆、更快速管理業務和建立帳單。多謝你使用「PayPal 商業」！</string>
+    <string name="ios_release_notes_4">這次更新含有許多改善和修正，令你管理業務和 PayPal 帳戶更輕鬆方便。盡情使用 PayPal 商業應用程式！</string>
+    <string name="ios_release_notes_5">此版本已修正錯誤和錯誤訊息，可改善你發送帳單時的使用體驗。多謝你使用「PayPal 商業」！</string>
+    <string name="android_release_notes_line_1">產品改良及修正</string>
+</resources>

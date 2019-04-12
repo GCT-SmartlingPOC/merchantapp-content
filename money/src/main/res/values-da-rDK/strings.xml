@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="money_available_amount" formatSpecifiers="amount">Til rådighed: %1$s</string>
+    <string name="error_transfer_amount_too_high">Indtast et beløb, der er mindre end eller lig med din tilgængelige saldo</string>
+    <string name="fee_label" formatSpecifiers="amount">Gebyret er %1$s</string>
+    <string name="free_label">Intet gebyr</string>
+    <string name="carousel_text_overlay" formatSpecifiers="cardIssuer,cardLastFour">%1$s •••• %2$s</string>
+    <string name="credebit_card_credit">Betalingskort</string>
+    <string name="credebit_card_debit">Betalingskort</string>
+    <string name="withdraw_change_fi_title">Overfører til din</string>
+    <string name="transfer_artifact_text" formatSpecifiers="accountName,accountNumber">%1$s (%2$s)</string>
+    <string name="bank_expired">Udløbet</string>
+    <string name="multiple_currency_disclaimer">Beløbet er baseret på den senest anvendte valutaomregningskurs, inklusive vores gebyr for valutaomregning.</string>
+    <string name="available_parens">(tilgængelig)</string>
+    <string name="available_colon">Tilgængeligt:</string>
+    <string name="transfer_money">Overfør penge</string>
+    <string name="send_money">Betal og overfør</string>
+    <string name="account_available">Tilgængeligt</string>
+    <string name="account_available_currency" formatSpecifiers="currency">Tilgængelig saldo i %1$s</string>
+    <string name="account_currency_details">Valutaoplysninger</string>
+    <string name="transfer_balance">Overfør saldo</string>
+    <string name="select_destination">Vælg destination</string>
+    <string name="account_no_fi_info">Tilknyt en bankkonto, så du kan overføre penge, udstede tilbagebetalinger og overføre penge fra PayPal til din bankkonto.</string>
+    <string name="link_a_bank_card">Tilknyt en bankkonto eller et kort</string>
+    <string name="money_balance_error">Der kan ikke oprettes adgang til dine saldooplysninger.</string>
+    <string name="why_is_my_money_on_hold">Hvorfor tilbageholdes mine penge\?</string>
+    <string name="no_bank_account_message">Tilknyt en bankkonto på PayPal.dk, så du kan overføre penge, udstede tilbagebetalinger og overføre penge fra PayPal til din bankkonto.</string>
+    <string name="linked_account">Tilknyttet konto</string>
+    <string name="review_your_transfer">Gennemgå din overførsel</string>
+    <string name="transfer_now">Overfør nu</string>
+    <string name="transfer_amount_title">Overførselsbeløb:</string>
+    <string name="fee_title">Gebyr:</string>
+    <string name="youll_get_title">Du modtager:</string>
+    <string name="transfer">Overførsel</string>
+    <string name="ellipse">…</string>
+    <string name="processing_time_few_minutes">nogle få minutter</string>
+    <string name="continue_with_delayed_transfer">Fortsæt med forsinket overførsel</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">Af sikkerhedsmæssige årsager har vi brug for lidt mere tid til at gennemgå denne betaling. Det kan tage op til %1$s timer. Vil du stadig fortsætte med overførslen\?</string>
+    <string name="amount_on_its_way_standard" formatSpecifiers="amount">Dine %1$s er på vej</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">Du overfører penge til %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">Du overfører %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">Du overfører penge til din bank via %1$s</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">Det burde ikke tage mere end et par minutter. Vi holder dig opdateret om din overførsel til %1$s</string>
+    <string name="money_transfer_minutes_message">Overførsler kan tage et par minutter, afhængigt af din bank. Alle overførsler kan blive gennemgået og muligvis forsinket eller standset, hvis der er et problem.</string>
+    <string name="converted_from" formatSpecifiers="amount">Omregnet fra %1$s</string>
+    <string name="conversion_rate" formatSpecifiers="currentCurrency, exchangeRate, primaryCurrencyCode">Vekselkurs: 1 %1$s = %2$s %3$s</string>
+    <string name="withdraw_conversion_amount_info" formatSpecifiers="formattedTotalExchangeRate">Det vil blive omregnet til ca. %1$s</string>
+    <string name="withdraw_currency_conversion_info" formatSpecifiers="formattedTotalExchangeRate, currentCurrency, exchangeRate, primaryCurrencyCode">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_review_conversion_legal_info">Kursen er inkl. vores vekselgebyr.</string>
+    <string name="transfer_successful">Overførslen er gennemført</string>
+    <string name="free_fee_message">Gebyr: Intet gebyr.</string>
+    <string name="estimated_total_all_currencies">(Anslået total for alle valutaer)</string>
+    <string name="fees">Gebyrer</string>
+    <string name="title_money_transfer">Pengeoverførsel</string>
+    <string name="title_currency_transfer">Valutaoverførsel</string>
+    <string name="withdraw_default_risk_holding_period">Det kan tage op til 5 dage, før pengene bliver overført.</string>
+    <string name="withdraw_risk_holding_default">Forventet overførselstid: 1 hverdag\nBetalinger foretaget efter kl. 19.00 ET, i weekender eller på helligdage tager længere tid. Alle overførsler kan blive gennemgået og muligvis forsinket eller standset, hvis der er et problem.</string>
+    <string name="choose_balance">Vælg en PayPal-saldo</string>
+    <string name="view_balances_title">PayPal-saldi</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$s PayPal-saldo</string>
+    <string name="transfer_to_bank">Overfør til bankkonto</string>
+    <string name="enter_amount">Indtast beløbet</string>
+    <string name="select_currency">Vælg valuta</string>
+    <string name="transfer_failed">Kan ikke gennemføre overførsel</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">Beløbet er mindre end minimumbeløbet på %1$s.</string>
+    <string name="transfer_to_your_bank">Overfør til din bankkonto</string>
+    <string name="choose_bank_or_card">Vælg en bank </string>
+    <string name="got_it">OK</string>
+    <string name="try_instant_transfer_title">Prøv en øjeblikkelig overførsel</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">Du kan typisk se pengene på din bankkonto inden for få minutter, når du bruger dit betalingskort. \n\nDer opkræves et gebyr på %1$s. Eller du kan bruge den gratis standardfunktion. Der kan gå op til 30 minutter, før pengene er overført, afhængigt af din bank.</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">Du kan typisk se pengene på din bankkonto inden for få minutter, når du bruger dit betalingskort. \n\nDer opkræves et gebyr på %1$s. Eller du kan bruge den gratis standardfunktion. Der kan gå op til 30 minutter, før pengene er overført, afhængigt af din bank.</string>
+    <string name="money_transfer_to_your_bank">Overfør til din bankkonto</string>
+    <string name="money_transfer_link_debit_card">Tilknyt et gyldigt betalingskort</string>
+    <string name="money_transfer_link_debit_card_bank">Tilknyt et gyldigt betalingskort eller en gyldig bankkonto</string>
+    <string name="money_transfer_link_bank">Tilknyt en bankkonto</string>
+    <string name="money_choose_bank_or_card">Vælg en bank </string>
+    <string name="money_transfer_rate_instant">Øjeblikkeligt: Typisk inden for få minutter</string>
+    <string name="money_transfer_rate_standard">Standard: Typisk efter én hverdag</string>
+    <string name="money_transfer_fee_free">Intet gebyr</string>
+    <string name="money_transfer_fee_unknown">Gebyrer pålægges</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s %% (maks. %2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">Der kan gå op til %1$s, før pengene er overført, afhængigt af din bank. Alle overførsler kan blive gennemgået og muligvis forsinket eller standset, hvis der er et problem.</string>
+    <string name="money_fee_will_be_deducted" formatSpecifiers="amount">Det pålægges et gebyr på %1$s</string>
+    <string name="money_fee_deducted" formatSpecifiers="amount">Et gebyr på %1$s er fratrukket</string>
+    <string name="money_label_fee_amount" formatSpecifiers="amount">Gebyr: %1$s</string>
+    <string name="money_label_fee_none">Intet gebyr</string>
+    <string name="money_label_estimated_arrival" formatSpecifiers="estimate">Forventet overførselstid:%1$s</string>
+    <string name="money_transfer_proccessing_message">Alle overførsler kan blive gennemgået og muligvis forsinket eller standset, hvis der er et problem.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">Du har overført %1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">Du har overført penge til %1$s</string>
+    <string name="money_error_no_fi_selected">Vælg en konto.</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">Beløbet er større end det maksimale på %1$s.</string>
+    <string name="money_error_fi_transfered_max_amount">Du har overført det maksimale beløb, det er tilladt at bruge på dette kort.</string>
+    <string name="money_missing_fi_title">Kan du ikke se alle dine banker\?</string>
+    <string name="money_missing_fi_message">Visse banker og kortudstedere understøttes ikke.</string>
+    <string name="money_transfer_one_business_day">1 hverdag</string>
+    <string name="money_transfer_with_minutes">inden for få minutter</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d hverdage</string>
+    <string name="money_transfer_estimated_arrival_time" formatSpecifiers="maxDuration, maxDurationType">%1$d %2$s</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">Der kan gå op til %1$d %2$s, før pengene er overført, afhængigt af din bank</string>
+    <string name="transfer_full_amount">Overfør det fulde beløb</string>
+    <string name="transfer_partial_amount">Overfør delvist beløb</string>
+    <string name="fee">Gebyr</string>
+    <string name="you_will_get">Du modtager</string>
+    <string name="cancel_transfer">Annuller overførsel</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">Ja, overfør om %1$s timer</string>
+    <string name="oct_risk_hold_planning_title">Din overførsel vil blive forsinket. Vil du stadig gennemføre den\?</string>
+    <string name="oct_risk_hold_planning_debit_message" formatSpecifiers="hours, percent">Af sikkerhedsmæssige årsager har vi brug for lidt mere tid til at gennemgå denne betaling. Det kan tage op til %1$s timer. Du skal ikke betale gebyret.</string>
+    <string name="oct_risk_hold_planning_bank_message" formatSpecifiers="hours">Af sikkerhedsmæssige årsager har vi brug for lidt mere tid til at gennemgå denne betaling. Det kan tage op til %1$s timer. </string>
+    <string name="estimated_arrival_hours" formatSpecifiers="hours">Forventet overførselstid: %1$s timer</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">Du har overført penge til din bankkonto via %1$s</string>
+    <string name="you_canceled_transfer">Du har annulleret din overførsel</string>
+    <string name="money_remains_in_paypal_balance">Pengene bliver stående på din PayPal-saldo.</string>
+    <string name="oct_your_transfer_is_delayed">Din overførsel er forsinket</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">Af sikkerhedsmæssige årsager har vi brug for lidt mere tid til at gennemgå denne betaling. Det kan tage op til %1$s timer, men vi sender dig en e-mail, så snart vi har en opdatering. Du skal ikke betale gebyret. Du kan også annullere din overførsel.</string>
+    <string name="error_transaction_failed_title">Din overførsel blev ikke gennemført</string>
+    <string name="error_transaction_failed_message">Vi kunne ikke behandle din betaling. Tjek, at du har forbindelse til et netværk, og prøv igen.</string>
+    <string name="oct_risk_hold_fulfillment_ach_message" formatSpecifiers="hours">Af sikkerhedsmæssige årsager har vi brug for lidt mere tid til at gennemgå denne betaling. Det kan tage op til %1$s timer, men vi sender dig en e-mail, så snart vi har en opdatering.</string>
+    <string name="oct_risk_hold_fulfillment_debit_message_without_cancel" formatSpecifiers="hours,percent">Af sikkerhedsmæssige årsager har vi brug for lidt mere tid til at gennemgå denne betaling. Det kan tage op til %1$s timer, men vi sender dig en e-mail, så snart vi har en opdatering. Du skal ikke betale gebyret.</string>
+    <string name="oct_cancel_transfer_error">Vi kunne ikke annullere din pengeoverførsel. Din betaling er stadig afventende.</string>
+    <string name="update_you_on_your_amount_transfer" formatSpecifiers="amount">Vi opdaterer dig om din overførsel på %1$s indenfor 30 minutter</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">Du har anmodet om en overførsel til din bankkonto via dit %1$s</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">Du har overført %1$s til %2$s</string>
+    <string name="confirm_your_identity">Bekræft din identitet</string>
+    <string name="cip_transfer_success_title">Så er du klar.</string>
+    <string name="cip_transfer_failed_title">Vi kunne ikke bekræfte dine oplysninger</string>
+    <string name="cip_transfer_error_title">Der opstod et problem\n</string>
+    <string name="cip_transfer_aborted_title">Vi kunne ikke bekræfte dine oplysninger</string>
+    <string name="cip_transfer_review_title">Tak, fordi du har sendt oplysningerne</string>
+    <string name="cip_transfer_success_explanation">Vi har bekræftet dine oplysninger. Du kan fortsat bruge din PayPal-saldo. Du kan bruge saldoen til at overføre eller betale, eller du kan gemme den til uventede udgifter.</string>
+    <string name="cip_transfer_failed_explanation">Du vil stadig kunne overføre penge fra PayPal til din tilknyttede bankkonto, men du kan ikke bruge din saldo til at overføre eller betale på nuværende tidspunkt.</string>
+    <string name="cip_transfer_error_explanation">Du vil stadig kunne overføre penge fra PayPal til din tilknyttede bankkonto, men du kan ikke bruge din saldo til at overføre eller betale på nuværende tidspunkt.</string>
+    <string name="cip_transfer_aborted_explanation">Du vil stadig kunne overføre penge fra PayPal til din tilknyttede bankkonto, men du kan ikke bruge din saldo til at overføre eller betale på nuværende tidspunkt.</string>
+    <string name="cip_transfer_review_explanation">Vi sender en e-mail, så snart vi er færdige med at gennemgå dine dokumenter. Dette tager normalt 2-3 hverdage.\n\nMens du venter, kan du altid overføre pengene til din bank.</string>
+    <string name="transfer_partial_title">Hvis du vil overføre et delvist beløb, skal vi bekræfte din identitet</string>
+    <string name="partial_choice_description">Hvis du vil bruge din resterende PayPal-saldo til at overføre eller betale efter denne overførsel, har vi brug for lidt flere oplysninger for at bekræfte din identitet.</string>
+    <string name="transfer_full_amount_instead">Overfør i stedet det fulde beløb</string>
+    <string name="your_transfer_is_pending">Din overførsel er afventende</string>
+    <string name="compliance_pending_primary_warning">Lovbestemmelser kræver, at vi ser nærmere på visse betalinger. Din overførsel er midlertidigt afventende, mens vi gennemgår den.</string>
+    <string name="compliance_pending_secondary_warning" formatSpecifiers="percentageOrAmount">Da din overførsel er forsinket, skal du ikke betale %1$s.</string>
+    <string name="there_is_a_problem">Der opstod en fejl</string>
+    <string name="not_able_to_complete_transaction">Vi kan ikke gennemføre denne betaling i øjeblikket. </string>
+    <string name="identity_not_confirmed">Du har endnu ikke bekræftet din identitet</string>
+    <string name="identity_not_confirmed_description">Vil du gerne fortsætte og bekræfte din identitet nu\? Hvis du springer dette trin over, kan du overføre penge fra PayPal til din tilknyttede konto, men du vil ikke kunne bruge din PayPal-saldo til at overføre penge eller betale for varer.</string>
+    <string name="paypal_cash">PayPal Cash</string>
+    <string name="money_waiting">Penge, der venter</string>
+    <string name="accept_it_now">Accepter dem nu</string>
+    <string name="title_cfpb_choice_screen" formatSpecifiers="balance">Hvad vil du gøre med dine %1$s\?</string>
+    <string name="transfer_it_to_your_bank">Overfør dem til din bankkonto</string>
+    <string name="transfer_it_to_your_bank_desc">Overfør pengene til din bankkonto på bare nogle minutter for et mindre gebyr. Eller direkte til din bankkonto helt gratis.</string>
+    <string name="keep_it_in_paypal">Behold dem på PayPal</string>
+    <string name="keep_it_in_paypal_cash_desc">Lad os oprette en PayPal Cash-konto til dig, så du kan overføre og betale direkte fra PayPal.</string>
+    <string name="unable_to_create_paypal_cash_account">Desværre kan vi ikke oprette din PayPal Cash-konto lige nu. Overfør pengene til din bankkonto i stedet.</string>
+    <string name="you_are_all_set">Så er du klar</string>
+    <string name="success_paypal_cash_account_create_primary_desc" formatSpecifiers="balance">%1$s er nu tilgængelige på din nye PayPal Cash-konto.</string>
+    <string name="success_paypal_cash_account_create_secondary_desc">Når dine venner overfører penge til dig, eller du sælger noget, vil du kunne se det på din startside.</string>
+    <string name="error_create_paypal_cash_account">Der opstod en fejl. \nPrøv igen.</string>
+    <string name="cip_in_review_message">We\'re still reviewing your information. We\'ll let you know as soon as we\'re done.</string>
+</resources>

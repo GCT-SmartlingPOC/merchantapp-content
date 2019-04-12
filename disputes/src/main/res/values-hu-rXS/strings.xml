@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s vitát indított a következő ügyben: %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s lezárt egy vitát a következő ügyben: %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">A(z) %1$s által a(z) %2$s ügyben kezdeményezett vitát továbbította a PayPal felé.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">A(z) %1$s által kezdeményezett %2$s vitát továbbította a PayPal felé.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s egy %2$s visszaterhelési kérelmet nyújtott be.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">Tekintse meg a(z) %1$s által kezdeményezett %2$s vita megoldását.</string>
+    <string name="dispute_reason_item_not_received">tétel nem érkezett meg</string>
+    <string name="dispute_reason_item_not_as_described">a termék nem felel meg a leírtaknak</string>
+    <string name="dispute_new_label">ÚJ</string>
+    <string name="dispute_chargeback_label">VISSZATERHELÉS</string>
+    <string name="dispute_awaiting_on_buyer_label">VÁRAKOZÁS A VEVŐRE</string>
+    <string name="dispute_awaiting_on_you_label">VÁRAKOZÁS ÖNRE</string>
+    <string name="dispute_in_review_label">FELÜLVIZSGÁLAT ALATT</string>
+    <string name="dispute_resolved_label">MEGOLDVA</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">Ön a következő napon válaszolt: %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">Vevő a következő napon válaszolt: %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">Válaszadás határideje: %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">A vevő válaszadási határideje: %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">Várakozás a vevő válaszára.</string>
+    <string name="dispute_awaiting_resolution_action">Várakozás a vitarendezésre.</string>
+    <string name="dispute_card_title">Viták</string>
+    <string name="dispute_respond_action">Válaszadás</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">A(z) %1$s vitában az Ön válaszára várunk</string>
+    <string name="dispute_multiple_view_all">Összes megtekintése</string>
+    <string name="dispute_view_details">Részletek megtekintése</string>
+    <string name="dispute_details_title">Vita</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">Eset azonosítója: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Utolsó frissítés: %1$s</string>
+    <string name="dispute_customer_contact_title">Ügyfél elérhetősége</string>
+    <string name="dispute_tracking_information">Követési információ</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">Szám: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">Futár: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">Eladó tranzakcióazonosítója</string>
+    <string name="dispute_last_comment_title">Utolsó megjegyzés</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">Ügyfél: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">Ön: %1$s</string>
+    <string name="dispute_order_details_title">Megrendelés részletei</string>
+    <string name="dispute_shipped_to_title">Kiszállítva ide:</string>
+    <string name="dispute_message_buyer">Üzenet a vevőnek</string>
+    <string name="dispute_provide_info_to_paypal">Adatok megadása a PayPalnak</string>
+    <string name="dispute_issue_refund">Visszatérítés elutalása</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">Válaszadás határideje: %1$s</string>
+    <string name="dispute_claim_accepted_success">Reklamáció sikeresen elfogadva.</string>
+    <string name="dispute_claim_accepted_error">A reklamáció feldolgozása nem sikerült!</string>
+    <string name="dispute_esclated_success">Továbbítva a PayPal számára.</string>
+    <string name="dispute_esclated_error">Nem sikerült továbbítani a PayPal számára!</string>
+    <string name="dispute_full_refund_success">Ajánlat sikeresen létrehozva.</string>
+    <string name="dispute_full_refund_error">Az ajánlat létrehozása nem sikerült!</string>
+    <string name="dispute_provide_evidence_success">A bizonyíték sikeresen benyújtva.</string>
+    <string name="dispute_action_accept_claim">Teljes visszatérítés</string>
+    <string name="dispute_action_escalate_to_paypal">Továbbítás a PayPalhoz</string>
+    <string name="dispute_action_full_refund">Teljes visszatérítés felajánlása</string>
+    <string name="dispute_action_provide_evidence">Nyújtson be bizonyítékot</string>
+    <string name="dispute_actions_label">Műveletek</string>
+    <string name="dispute_conversation_title">Üzenetek</string>
+    <string name="dispute_send_message">Üzenet a vevőnek...</string>
+    <string name="dispute_conversation_you">ÖN</string>
+    <string name="dispute_hub_title">Viták</string>
+    <string name="dispute_offer_refund_title">Küldjön üzenetet</string>
+    <string name="dispute_offer_refund_send_message">Küldjön üzenetet a vásárlónak</string>
+    <string name="dispute_offer_refund_default_message">Teljes visszatérítést szeretnék felajánlani. Szeretné elfogadni\?</string>
+    <string name="dispute_offer_refund_ask_return">Kérje meg a vevőt, hogy küldje vissza a tételt.</string>
+    <string name="dispute_offer_refund_missing_note">A Megjegyzés mező kitöltése kötelező</string>
+    <string name="dispute_accept_claim_note_placeholder">Ide írja a megjegyzést</string>
+    <string name="dispute_escalate_to_paypal_title">A probléma leírása</string>
+    <string name="dispute_escalate_to_paypal_header_message">Adjon meg egy részletes leírást arról, hogy mi a problémája ezzel a tranzakcióval kapcsolatban.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">Írja ide a leírást</string>
+    <string name="dispute_escalate_to_paypal_missing_description">A leírás mező kitöltése kötelező</string>
+    <string name="dispute_offer_refund_confirmation_title">Áttekintés és megerősítés</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Ha a teljes visszatérítést elküldte %1$s számára, a problémát megoldottnak tekintjük, az ügyet pedig lezárjuk. </string>
+    <string name="dispute_offer_refund_label_transaction_amount">Tranzakció összege</string>
+    <string name="dispute_offer_refund_label_transaction_id">Tranzakcióazonosító</string>
+    <string name="dispute_offer_refund_label_your_message">Az Ön üzenete</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">Teljes visszatérítés felajánlása</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">Ha a megerősítés megtörtént, a teljes visszatérítést elküldjük %1$s számára, és a problémát megoldottnak tekintjük, az ügyet pedig lezárjuk.</string>
+    <string name="dispute_accept_claim_confirmation_button">Visszatérítés</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">Áttekintés és megerősítés</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer"> Továbbítja a PayPal számára, mert a vevővel nem sikerült megállapodásra jutnia. \n\nAz eset lezárásáig a tranzakció összegét visszatartjuk.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">Tranzakció összege</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">Tranzakcióazonosító</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Részletes leírás</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">Felminősítés</string>
+    <string name="dispute_add_tracking_confirmation_message">Sikeresen frissítette a követési adatait.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">Ügyfelének e-mailben elküldjük az Ön által megadott adatokat.</string>
+    <string name="dispute_add_tracking_confirmation_button">OK</string>
+    <string name="dispute_escalate_primer_title">Továbbítás a PayPalhoz</string>
+    <string name="dispute_escalate_primer_preface">Mielőtt felminősítené a problémát, néhány dolog tudnia kell</string>
+    <string name="dispute_escalate_primer_line_one">Reklamáció megnyitása után már nem tud közvetlenül kommunikálni a vevővel.</string>
+    <string name="dispute_escalate_primer_line_two">Az eladó minden nyitott visszatérítési ajánlata törölve lesz.</string>
+    <string name="dispute_escalate_primer_line_three">A reklamáció felülvizsgálata és a döntés meghozatala akár 30 napot is igénybe vehet.</string>
+    <string name="dispute_escalate_primer_line_four">Megvizsgáljuk a megadott adatokat, valamint az adott tranzakcióval kapcsolatban az Ön és a vevő közötti üzenetváltást.</string>
+    <string name="dispute_escalate_primer_line_five">Ha a vizsgálat során további információra lesz szükségünk, e-mailben felvesszük Önnel a kapcsolatot.</string>
+    <string name="dispute_escalate_primer_line_six">Az általunk meghozott döntés végleges lesz, és azzal lezárjuk a reklamációt.</string>
+</resources>

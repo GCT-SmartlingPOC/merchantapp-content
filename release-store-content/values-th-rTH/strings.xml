@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: ส่งใบแจ้งหนี้</string>
+    <string name="ios_subtitle">จัดการการขาย ใบแจ้งหนี้ และเงิน</string>
+    <string name="ios_promotional_text">PayPal ธุรกิจช่วยให้สามารถจัดการกิจกรรม ตรวจสอบยอดคงเหลือ ส่งใบแจ้งหนี้ ดูข้อมูลลูกค้า และวิเคราะห์แนวโน้มยอดขายได้ง่าย ทุกเวลา ทุกที่</string>
+    <string name="android_short_description">ดูแลบัญชีธุรกิจ PayPal ของคุณได้แม้กำลังเดินทาง</string>
+    <string name="full_description_line_1">ทำธุรกิจได้สะดวกไม่จำกัดเวลาและสถานที่ ส่งใบแจ้งหนี้ ติดตามการขาย และจัดการเงินของคุณด้วยแอป PayPal ธุรกิจ</string>
+    <string name="full_description_line_2_bullet_1">o ออกและส่งใบแจ้งหนี้ได้อย่างรวดเร็ว</string>
+    <string name="full_description_line_2_bullet_2">o จัดการการขายและติดตามความเคลื่อนไหวในบัญชี</string>
+    <string name="full_description_line_2_bullet_3">o การชำระเงินแบบโอนเงิน</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o ดูแนวโน้มยอดขายรายเดือน รายไตรมาส และรายปีได้ง่ายๆ</string>
+    <string name="full_description_line_2_bullet_6">o เข้าดูข้อมูลลูกค้าของคุณได้อย่างรวดเร็ว และง่ายดาย</string>
+    <string name="full_description_para_1_header">ส่งใบแจ้งหนี้และรับเงิน</string>
+    <string name="full_description_para_1_description">ออก ส่ง และจัดการใบแจ้งหนี้ได้อย่างรวดเร็วจากแอป PayPal Business เครื่องมือออกใบแจ้งหนี้ของ PayPal ช่วยให้คุณสามารถส่งแจ้งเตือนการชำระเงินไปให้ลูกค้าได้โดยตรงจากอุปกรณ์เคลื่อนที่ของคุณ</string>
+    <string name="full_description_para_2_header">จัดการการขายและความเคลื่อนไหวในบัญชี</string>
+    <string name="full_description_para_2_description">ดูยอดขายรายวัน รายเดือน รายไตรมาส และรายปีของธุรกิจคุณได้ง่ายๆ</string>
+    <string name="full_description_para_3_header">โอนเงิน</string>
+    <string name="full_description_para_3_description">โอนเงินไปยังบัญชีธนาคารที่เชื่อมโยงแล้วของผู้ค้า คืนเงิน และชำระเงินได้ เพียงคลิกไม่กี่ครั้ง ใช้แอปนี้เพื่อจัดการเงินบนมือถือ และไม่ต้องเสียเวลาเข้าแถวรอคิวที่ธนาคารอีกต่อไป</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">เข้าถึงข้อมูลลูกค้า</string>
+    <string name="full_description_para_5_description">ดูประวัติการทำรายการของลูกค้า ข้อมูลติดต่อ และติดต่อลูกค้าของคุณโดยตรงจากอุปกรณ์เคลื่อนที่ของคุณ นอกจากนี้ยังสามารถนำเข้ารายชื่อผู้ติดต่อของคุณได้ง่ายๆ อีกด้วย</string>
+    <string name="full_description_para_footer_1">แอป PayPal Business ช่วยให้ธุรกิจขนาดเล็กของคุณออกและส่งใบแจ้งหนี้ รับชำระเงิน และจัดการเงินของคุณได้อย่างรวดเร็วและง่ายดาย จากโทรศัพท์ของคุณโดยตรง</string>
+    <string name="full_description_para_footer_2">ต้องการรับชำระเงินผ่านบัตรเครดิต/เดบิตบนอุปกรณ์มือถือใช่ไหม ลองใช้แอป PayPal Here บนมือถือเลย!</string>
+    <string name="ios_keywords">ชำระเงิน, รับเงิน, การชำระเงิน, ธนาคาร, โอนเงิน, การขาย, ข้อมูลเชิงลึก, ลูกค้า, เครื่องสร้างใบแจ้งหนี้, ใบแจ้งหนี้, ฟรี, ชำระ</string>
+    <string name="ios_release_notes_1">ขอบคุณที่เลือกใช้ PayPal Business เราได้แก้ไขข้อผิดพลาดและปรับปรุงประสบการณ์ใช้งานของคุณให้ดีขึ้นทุกวัน</string>
+    <string name="ios_release_notes_2">ตอนนี้คุณจะสามารถจัดการธุรกิจได้ง่ายขึ้นเพราะเราได้แก้ไขข้อผิดพลาดต่างๆ พร้อมการอัปเดตนี้ เราหวังว่าคุณจะเพลิดเพลินกับการใช้งานแอปนะคะ</string>
+    <string name="ios_release_notes_3">ทุกครั้งที่มีการอัปเดต เราพยายามที่จะปรับปรุงประสบการณ์การใช้งานของคุณ และทำให้การจัดการธุรกิจและการสร้างใบแจ้งหนี้ทำได้ง่ายดายและรวดเร็วยิ่งขึ้น ขอบคุณที่เลือกใช้ PayPal Business </string>
+    <string name="ios_release_notes_4">ในการอัปเดตครั้งนี้ คุณจะพบว่ามีการปรับปรุงและแก้ไขข้อผิดพลาดเพื่อทำให้คุณสามารถจัดการธุรกิจและบัญชี PayPal ของคุณได้ง่ายขึ้น ขอให้เพลิดเพลินกับแอป PayPal Business นะคะ</string>
+    <string name="ios_release_notes_5">สำหรับเวอร์ชันนี้ เราได้แก้ไขข้อผิดพลาดและข้อความแจ้งข้อผิดพลาดเพื่อปรับปรุงประสบการณ์ในการส่งใบแจ้งหนี้ ขอบคุณที่เลือกใช้ PayPal Business </string>
+    <string name="android_release_notes_line_1">การปรับปรุงและการปัญหาเกี่ยวกับผลิตภัณฑ์</string>
+</resources>

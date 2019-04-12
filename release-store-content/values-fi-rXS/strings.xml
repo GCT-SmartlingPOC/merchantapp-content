@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: Lähetä laskuja</string>
+    <string name="ios_subtitle">Hallitse myyntiä, laskuja ja rahaa</string>
+    <string name="ios_promotional_text">PayPal Businessin avulla on helppoa hallita tapahtumia, tarkistaa saldo, lähettää laskuja, tarkastella asiakkaan tietoja ja analysoida myyntitrendejä. Milloin vain. Missä vain.</string>
+    <string name="android_short_description">Pysy ajan tasalla PayPal-yritystilisi suhteen liikkeellä ollessasi.</string>
+    <string name="full_description_line_1">Liikkuville yrityksille! Lähetä laskuja, seuraa myyntiä ja hallitse rahojasi PayPal Business ‑sovelluksella.</string>
+    <string name="full_description_line_2_bullet_1">o Luo ja lähetä laskuja nopeasti</string>
+    <string name="full_description_line_2_bullet_2">o Hallitse myyntiä ja seuraa tilitapahtumia</string>
+    <string name="full_description_line_2_bullet_3">o Siirrä rahaa</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Näe myynnin kuukausittainen, neljännesvuosittainen ja vuosittainen kehitys yhdellä vilkaisulla</string>
+    <string name="full_description_line_2_bullet_6">o Näe asiakastietosi nopeasti ja helposti</string>
+    <string name="full_description_para_1_header">LÄHETÄ LASKUJA JA SAA MAKSUT</string>
+    <string name="full_description_para_1_description">Luo, lähetä ja hallitse laskuja nopeasti PayPal Business ‑sovelluksella. PayPalin laskunluontityökalulla on myös helppoa lähettää maksumuistutuksia asiakkaille suoraan mobiililaitteeltasi.</string>
+    <string name="full_description_para_2_header">HALLITSE MYYNTIÄ JA TILITAPAHTUMIA</string>
+    <string name="full_description_para_2_description">Näe päivittäinen myyntisi sekä yrityksesi kuukausittainen, neljännesvuosittainen ja vuosittainen myynti yhdellä vilkaisulla.</string>
+    <string name="full_description_para_3_header">SIIRRÄ RAHAA</string>
+    <string name="full_description_para_3_description">Siirrä rahaa linkitetylle kauppiaan pankkitilille, myönnä maksunpalautuksia ja lähetä rahaa muutamalla klikkauksella. Vältä pankin jonot ja säästä aikaa tällä mobiilirahan hallintasovelluksella.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">KÄYTÄ ASIAKASTIETOJA</string>
+    <string name="full_description_para_5_description">Katso asiakkaan tapahtumahistoria ja yhteystiedot sekä ole yhteydessä häneen suoraan mobiililaitteelta. Myös yhteystietojesi tuominen on helppoa!</string>
+    <string name="full_description_para_footer_1">PayPal Business ‑sovellus tarjoaa pienyrityksellesi nopean ja helpon tavan luoda ja lähettää laskuja, saada maksuja ja hallita rahoja suoraan puhelimesta.</string>
+    <string name="full_description_para_footer_2">Tarvitseeko sinun vastaanottaa luotto- tai pankkikortteja mobiililaitteella\? Kokeile PayPal Here ‑mobiilisovellusta</string>
+    <string name="ios_keywords">lähetä rahaa,saa maksuja,maksu,pankkisiirto,myynti,kaaviot ja kuvaajat,asiakas,laskunluontityökalu,lasku,maksuton,maksa</string>
+    <string name="ios_release_notes_1">Kiitos, että käytät PayPal Businessia! Olemme korjanneet ohjelmointivirheitä ja parantaneet vakautta, jotta kokemus olisi entistä parempi.</string>
+    <string name="ios_release_notes_2">Liiketoimintasi hallinta helpottuu, koska olemme tässä päivityksessä korjanneet ohjelmointivirheitä ja parantaneet vakautta. Toivottavasti pidät sovelluksesta!</string>
+    <string name="ios_release_notes_3">Pyrimme jokaisella päivityksellä parantamaan käyttökokemusta ja helpottamaan ja nopeuttamaan liiketoiminnan hallintaa ja laskujen luontia. Kiitos, että käytät PayPal Businessia!</string>
+    <string name="ios_release_notes_4">Tässä päivityksessä olevat parannukset ja korjaukset auttavat sinua hallitsemaan liiketoimintaasi ja PayPal-tiliäsi. Toivottavasti pidät PayPal Business -sovelluksesta!</string>
+    <string name="ios_release_notes_5">Tässä versiossa olemme korjanneet ohjelmointivirheitä ja virheilmoituksia, jotta laskun lähettäminen olisi entistä helpompaa. Kiitos, että käytät PayPal Businessia!</string>
+    <string name="android_release_notes_line_1">Tuoteparannuksia ja korjauksia</string>
+</resources>

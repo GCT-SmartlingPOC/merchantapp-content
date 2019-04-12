@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">%1$s 對 %2$s 提出糾紛申訴</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">%1$s 關閉了針對 %2$s 提出的糾紛申訴</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">你已轉送 %1$s 針對 %2$s 提出的糾紛申訴給 PayPal。</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">%1$s 已針對 %2$s 向 PayPal 提出糾紛申訴。</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">%1$s 針對 %2$s 的糾紛申訴提出交易退單。</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">檢視 %1$s 針對 %2$s 提出的糾紛申訴的調解狀況。</string>
+    <string name="dispute_reason_item_not_received">未收到商品</string>
+    <string name="dispute_reason_item_not_as_described">商品與賣家說明不符</string>
+    <string name="dispute_new_label">全新登場</string>
+    <string name="dispute_chargeback_label">交易退單</string>
+    <string name="dispute_awaiting_on_buyer_label">正在等待買家</string>
+    <string name="dispute_awaiting_on_you_label">正在等待你</string>
+    <string name="dispute_in_review_label">審核中</string>
+    <string name="dispute_resolved_label">已解決</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">你已在 %1$s回覆。</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">買家已針對 %1$s 做出回應。</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">回覆期限：%1$s。</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">買家必須於 %1$s前回覆。</string>
+    <string name="dispute_awaiting_buyers_response_action">正在等待買家回覆。</string>
+    <string name="dispute_awaiting_resolution_action">正在等待調解。</string>
+    <string name="dispute_card_title">糾紛</string>
+    <string name="dispute_respond_action">回應</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s 件糾紛申訴需要你的回覆</string>
+    <string name="dispute_multiple_view_all">檢視全部</string>
+    <string name="dispute_view_details">檢視詳細資料</string>
+    <string name="dispute_details_title">糾紛</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">個案 ID：%1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">最近更新日期：%1$s</string>
+    <string name="dispute_customer_contact_title">買家聯絡資訊</string>
+    <string name="dispute_tracking_information">追蹤資料</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">號碼：%1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">貨運公司：%1$s</string>
+    <string name="dispute_seller_transaction_id_title">賣家交易 ID</string>
+    <string name="dispute_last_comment_title">最近的留言</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">客戶：%1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">你：%1$s</string>
+    <string name="dispute_order_details_title">訂單詳細資料</string>
+    <string name="dispute_shipped_to_title">運送至</string>
+    <string name="dispute_message_buyer">傳送訊息給買家</string>
+    <string name="dispute_provide_info_to_paypal">向 PayPal 提供資料</string>
+    <string name="dispute_issue_refund">發放退款</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">回覆期限：%1$s</string>
+    <string name="dispute_claim_accepted_success">成功接受索償。</string>
+    <string name="dispute_claim_accepted_error">目前無法處理索償！</string>
+    <string name="dispute_esclated_success">已向 PayPal 提報。</string>
+    <string name="dispute_esclated_error">無法向 PayPal 提報！</string>
+    <string name="dispute_full_refund_success">成功做出提議。</string>
+    <string name="dispute_full_refund_error">目前無法做出提議！</string>
+    <string name="dispute_provide_evidence_success">成功提供證據。</string>
+    <string name="dispute_action_accept_claim">全額退款</string>
+    <string name="dispute_action_escalate_to_paypal">向 PayPal 提報</string>
+    <string name="dispute_action_full_refund">提供全額退款</string>
+    <string name="dispute_action_provide_evidence">提供證據</string>
+    <string name="dispute_actions_label">動作</string>
+    <string name="dispute_conversation_title">訊息</string>
+    <string name="dispute_send_message">傳送訊息給買家...</string>
+    <string name="dispute_conversation_you">你</string>
+    <string name="dispute_hub_title">糾紛</string>
+    <string name="dispute_offer_refund_title">傳送訊息</string>
+    <string name="dispute_offer_refund_send_message">傳送訊息給你的客戶</string>
+    <string name="dispute_offer_refund_default_message">我想提供你全額退款。你願意接受嗎？</string>
+    <string name="dispute_offer_refund_ask_return">要求買家退回商品。</string>
+    <string name="dispute_offer_refund_missing_note">註記欄位為必填</string>
+    <string name="dispute_accept_claim_note_placeholder">在此輸入註記</string>
+    <string name="dispute_escalate_to_paypal_title">說明問題內容</string>
+    <string name="dispute_escalate_to_paypal_header_message">請詳細說明與此交易相關的問題。</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">在此輸入說明</string>
+    <string name="dispute_escalate_to_paypal_missing_description">說明欄位為必填</string>
+    <string name="dispute_offer_refund_confirmation_title">檢視並確認</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">全額退款給 %1$s 後，即可解決並結束此問題。</string>
+    <string name="dispute_offer_refund_label_transaction_amount">交易金額</string>
+    <string name="dispute_offer_refund_label_transaction_id">交易 ID</string>
+    <string name="dispute_offer_refund_label_your_message">你的訊息</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">提供全額退款</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">確認後，將會全額退款給 %1$s，且此問題將視為已解決，並逕行關閉。</string>
+    <string name="dispute_accept_claim_confirmation_button">退款</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">檢視並確認</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer">你無法與買家達成共識，因此上訴至 PayPal。\n\n我們會暫時保留該筆交易金額，直到本個案結束為止。</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">交易金額</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">交易 ID</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">詳細說明</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">轉為索償</string>
+    <string name="dispute_add_tracking_confirmation_message">你已經成功更新追蹤資料。</string>
+    <string name="dispute_add_tracking_confirmation_subtext">我們將向你的客戶發送附有你所提供資料的電子郵件。</string>
+    <string name="dispute_add_tracking_confirmation_button">確定</string>
+    <string name="dispute_escalate_primer_title">向 PayPal 提報</string>
+    <string name="dispute_escalate_primer_preface">在轉為索償前，請先了解幾點注意事項</string>
+    <string name="dispute_escalate_primer_line_one">一旦提出索償，你便無法再與買家直接聯絡。</string>
+    <string name="dispute_escalate_primer_line_two">賣家提出的任何退款提議將會被取消。</string>
+    <string name="dispute_escalate_primer_line_three">我們最多可能需要 30 天來審核索償並作出決定。</string>
+    <string name="dispute_escalate_primer_line_four">我們會審核你提供的資料，以及你與買家之間針對此交易所傳送的訊息。</string>
+    <string name="dispute_escalate_primer_line_five">如果我們在調查期間需要你提供其他資訊，則會透過電子郵件聯絡你。</string>
+    <string name="dispute_escalate_primer_line_six">作出決定後，則表示這是最終裁決，此索償也會同時結束。</string>
+</resources>

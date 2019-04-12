@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_transfer_amount_too_high">Enter an amount lower than or equal to your available balance.</string>
+    <string name="transfer_money">Transfer money</string>
+    <string name="send_money">Send money</string>
+    <string name="account_currency_details">Currency details</string>
+    <string name="transfer_balance">Withdraw balance</string>
+    <string name="select_destination">Tap destination</string>
+    <string name="account_no_fi_info">Add a bank account so you can send and withdraw money and issue refunds.</string>
+    <string name="link_a_bank_card">Add a bank account or card</string>
+    <string name="money_balance_error">We\'re sorry, we were unable to access your balance information.</string>
+    <string name="no_bank_account_message">Add a bank account at paypal.com/uk so you can send money, issue refunds and withdraw money from PayPal to your bank account.</string>
+    <string name="transfer_amount_title">Withdrawal amount:</string>
+    <string name="continue_with_delayed_transfer">Continue with delayed withdrawal</string>
+    <string name="risk_hold_planning_desc" formatSpecifiers="hours">For security reasons, we need a bit more time to review this transaction. This can take up to %1$s hours. Would you like to continue with this transfer\?</string>
+    <string name="amount_on_its_way_standard_desc" formatSpecifiers="destination">You\'re withdrawing money to %1$s</string>
+    <string name="amount_on_its_way_card" formatSpecifiers="destination">You\'re withdrawing %1$s</string>
+    <string name="amount_on_its_way_card_desc" formatSpecifiers="destination">You\'re withdrawing money to your bank account using your %1$s</string>
+    <string name="money_on_its_way_rtp_desc" formatSpecifiers="destination">It should only take a few minutes. We\'ll keep you updated on your withdrawal to %1$s</string>
+    <string name="money_transfer_minutes_message">Withdrawals may take a few minutes and vary by bank. All withdrawals are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="transfer_successful">Transfer successful</string>
+    <string name="free_fee_message">Fee: It\'s free</string>
+    <string name="title_money_transfer">Money transfer</string>
+    <string name="title_currency_transfer">Currency transfer</string>
+    <string name="withdraw_default_risk_holding_period">Withdrawals can take up to 5 working days.</string>
+    <string name="withdraw_risk_holding_default">Estimated arrival: 3-5 working days\nAll transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="choose_balance">Choose a PayPal balance</string>
+    <string name="view_balances_title">PayPal balances</string>
+    <string name="paypal_balance_currency" formatSpecifiers="currencyCode">%1$s PayPal balance</string>
+    <string name="transfer_to_bank">Withdraw to bank account</string>
+    <string name="enter_amount">Enter the amount</string>
+    <string name="select_currency">Select currency</string>
+    <string name="transfer_failed">We\'re sorry. We\'re unable to complete the transfer.</string>
+    <string name="amount_less_than_minimum" formatSpecifiers="amount">Please enter an amount above %1$s.</string>
+    <string name="transfer_to_your_bank">Withdraw to your bank account</string>
+    <string name="choose_bank_or_card">Choose bank account or card</string>
+    <string name="got_it">Got it</string>
+    <string name="try_instant_transfer_title">Try instant transfer</string>
+    <string name="try_transfer_money_message" formatSpecifiers="amount">You\'ll usually see the money in your bank account within minutes when you use your eligible debit card.\n\nA %1$s fee applies. Or, you can use the free, standard option. Withdrawals may take up to 30 minutes and vary by bank.</string>
+    <string name="try_transfer_money_cap_message" formatSpecifiers="amount">You\'ll usually see the money in your bank account within minutes when you use your eligible debit card.\n\nA %1$s fee applies. Or, you can use the free, standard option. Withdrawals may take up to 30 minutes and vary by bank.</string>
+    <string name="money_transfer_to_your_bank">Withdraw to your bank account</string>
+    <string name="money_transfer_link_debit_card">Add an eligible debit card</string>
+    <string name="money_transfer_link_debit_card_bank">Add an eligible debit card or bank account</string>
+    <string name="money_transfer_link_bank">Add a bank account</string>
+    <string name="money_choose_bank_or_card">Choose bank account or card</string>
+    <string name="money_transfer_rate_instant">Instant: usually in minutes</string>
+    <string name="money_transfer_rate_standard">Standard: usually in 1 working day</string>
+    <string name="oct_percent_and_cap_fee" formatSpecifiers="percent, amount">%1$s%% (max. %2$s)</string>
+    <string name="money_transfer_duration_message" formatSpecifiers="duration">Withdrawals may take up to %1$s and vary by bank. All withdrawals are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="money_label_fee_none">No fee</string>
+    <string name="money_transfer_proccessing_message">Withdrawals made after 7pm ET or on weekends or holidays may take longer. All withdrawals are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="money_transfer_complete_title" formatSpecifiers="amount">You\'ve transferred %1$s</string>
+    <string name="money_transfer_complete_subtitle" formatSpecifiers="destination">You\'ve transferred money to your %1$s</string>
+    <string name="money_error_amount_more_than_possible" formatSpecifiers="amount">The amount exceeds the possible %1$s maximum.</string>
+    <string name="money_missing_fi_title">Can\'t see all of your bank accounts and cards\?</string>
+    <string name="money_missing_fi_message">Certain banks and card providers are not supported.</string>
+    <string name="money_transfer_one_business_day">1 working day</string>
+    <string name="money_transfer_business_days" formatSpecifiers="maxDays">%1$d working days</string>
+    <string name="money_transfer_duration_processing_message" formatSpecifiers="maxDuration, maxDurationType">Since processing times vary by bank, some withdrawals may take up to %1$d %2$s</string>
+    <string name="transfer_full_amount">Withdraw full amount</string>
+    <string name="transfer_partial_amount">Withdraw partial amount</string>
+    <string name="cancel_transfer">Cancel withdrawal</string>
+    <string name="transfer_in_hours" formatSpecifiers="hours">Yes, withdraw in %1$s hours</string>
+    <string name="oct_risk_hold_planning_title">Your withdrawal will be delayed. Would you still like to continue\?</string>
+    <string name="you_transferred_to_bank_message" formatSpecifiers="destination">You\'ve withdrawn money to your bank account using your %1$s</string>
+    <string name="you_canceled_transfer">You\'ve cancelled your withdrawal</string>
+    <string name="money_remains_in_paypal_balance">The money will remain in your PayPal balance.</string>
+    <string name="oct_your_transfer_is_delayed">Your withdrawal has been delayed</string>
+    <string name="oct_risk_hold_fulfillment_debit_message" formatSpecifiers="hours,percent">For security reasons, we need a bit more time to review this transaction. This can take up to %1$s hours, but we\'ll email you as soon as we have an update. You won\'t be charged the fee. Or you can cancel your withdrawal.</string>
+    <string name="error_transaction_failed_title">Your transaction hasn\'t been completed</string>
+    <string name="error_transaction_failed_message">We\'re sorry, we weren\'t able to process your transaction. Please make sure you\'re connected to a network and try again.</string>
+    <string name="oct_cancel_transfer_error">We\'re sorry, we weren\'t able to cancel your money transfer. Your transaction is still pending.</string>
+    <string name="requested_a_transfer_to_your_bank" formatSpecifiers="destination">You requested a withdrawal to your bank account using your %1$s</string>
+    <string name="transfer_successful_detail" formatSpecifiers="amount,account">You\'ve transferred %1$s to %2$s</string>
+    <string name="confirm_your_identity">Confirm your identity</string>
+    <string name="cip_transfer_success_title">You\'re all set.</string>
+    <string name="cip_transfer_failed_title">We couldn\'t confirm your information</string>
+    <string name="cip_transfer_error_title">Something seems to have gone wrong\n</string>
+    <string name="cip_transfer_aborted_title">We couldn\'t confirm your information</string>
+    <string name="cip_transfer_review_title">Thanks for sending your information</string>
+    <string name="cip_transfer_success_explanation">We\'ve successfully confirmed your information and you can continue to use your PayPal balance. You can send it, spend it, or just keep it as a cushion against the unexpected.</string>
+    <string name="cip_transfer_failed_explanation">You\'ll still be able to withdraw money from PayPal to your linked bank account, but you won\'t be able to use your balance to send or spend for the time being.</string>
+    <string name="cip_transfer_error_explanation">You\'ll still be able to withdraw money from PayPal to your linked bank account, but you won\'t be able to use your balance to send or spend for the time being.</string>
+    <string name="cip_transfer_aborted_explanation">You\'ll still be able to withdraw money from PayPal to your linked bank account, but you won\'t be able to use your balance to send or spend for the time being.</string>
+    <string name="cip_transfer_review_explanation">We\'ll email you as soon as we\'ve finished reviewing your documents. This usually takes 2-3 working days.\n\nWhile you\'re waiting, you can always withdraw the money to your bank account.</string>
+    <string name="transfer_partial_title">In order to withdraw a partial amount, we need to confirm your identity</string>
+    <string name="partial_choice_description">If you want to use your remaining PayPal balance to send or spend after you withdraw this amount, we\'ll need a bit more information to confirm your identity.</string>
+    <string name="transfer_full_amount_instead">Withdraw full amount instead</string>
+    <string name="compliance_pending_primary_warning">Regulations require us to take a closer look at some transactions. Your transfer is temporarily pending whilst we review it.</string>
+    <string name="there_is_a_problem">There seems to be a problem</string>
+    <string name="not_able_to_complete_transaction">At the moment, we\'re not able to complete this transaction. </string>
+    <string name="identity_not_confirmed_description">Would you like to continue and confirm your identity now\? If you skip this step, you can withdraw money from PayPal to your bank account but you won\'t be able to use your PayPal balance to send or spend money.</string>
+    <string name="money_waiting">You have money available</string>
+    <string name="transfer_it_to_your_bank">Withdraw it to your bank account</string>
+    <string name="transfer_it_to_your_bank_desc">Withdraw the money to your bank account in just minutes for a small fee. Or directly to your bank account for free.</string>
+    <string name="keep_it_in_paypal">Keep it in your PayPal balance</string>
+    <string name="keep_it_in_paypal_cash_desc">Set up a PayPal Cash account so you can send or spend directly from PayPal.</string>
+    <string name="unable_to_create_paypal_cash_account">We\'re sorry, we weren\'t able to create your PayPal Cash account right now. Withdraw the money to your bank account instead.</string>
+    <string name="error_create_paypal_cash_account">We\'re sorry, something seems to have gone wrong. \nPlease try again. </string>
+</resources>

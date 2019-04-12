@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">Betaald tot heden</string>
+    <string name="outstanding_balance">Uitstaand saldo</string>
+    <string name="working_capital_summary_load_fail">Uw rekeninggegevens zijn niet beschikbaar.\nVeeg omlaag om het opnieuw te proberen.</string>
+    <string name="ppwc_paid">BETAALD</string>
+    <string name="view_loan_details">Leninggegevens weergeven</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Uw zakelijke lening van %1$s is volledig afgelost.</string>
+    <string name="apply_again">Pas opnieuw toe</string>
+    <string name="ppwc_info">Informatie</string>
+    <string name="outstanding_balance_title">Uitstaand saldo</string>
+    <string name="loan_details">Leninggegevens</string>
+    <string name="initial_loan_amount">Bedrag oorspronkelijke lening</string>
+    <string name="loan_fee">Leningkosten</string>
+    <string name="repayment_percentage">Terugbetalingspercentage</string>
+    <string name="view_loan_activity">Leningactiviteiten weergeven</string>
+    <string name="make_one_time_payment">Een eenmalige betaling verrichten</string>
+    <string name="catch_up_balance">Achterstallig saldo</string>
+    <string name="loan_activity">Leningactiviteit</string>
+    <string name="loan_activity_empty">Hier vindt u een overzicht nadat uw automatische terugbetalingen zijn begonnen</string>
+    <string name="ppwc_completed">Voltooid</string>
+    <string name="ppwc_pending">In behandeling</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Leningoverschrijving</string>
+    <string name="loan_activity_v3_loan_reversal">Terugboeking van lening</string>
+    <string name="loan_activity_v3_fee">Leningkosten</string>
+    <string name="loan_activity_v3_aggregated_payment">Overzicht automatische terugbetalingen</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Achterstallige betaling</string>
+    <string name="loan_activity_v3_automated_daily_payment">Terugbetaling op basis van verkoopcijfers</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Handmatige achterstallige betaling</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Handmatige betaling</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Terugboeking van leningkosten</string>
+    <string name="loan_activity_v3_payment_reversal">Terugboeking van betaling</string>
+    <string name="loan_activity_v3_loan_adjustment">Aanpassing van lening</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Aanpassing van leningkosten</string>
+    <string name="loan_activity_v3_payment_adjustment">Aanpassing van betaling</string>
+    <string name="loan_activity_v3_other_payment">Andere betaling</string>
+    <string name="loan_activity_loan_transfer">Leningoverschrijving</string>
+    <string name="loan_activity_fee">Leningkosten</string>
+    <string name="loan_activity_automated_catchup_payment">Automatische achterstallige betaling</string>
+    <string name="loan_activity_automated_daily_payment">Automatische terugbetaling</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Handmatige achterstallige betaling</string>
+    <string name="loan_activity_customer_initiated_payment">Handmatige betaling</string>
+    <string name="loan_activity_loan_reversal">Terugboeking van lening</string>
+    <string name="loan_activity_loan_fee_reversal">Terugboeking van leningkosten</string>
+    <string name="loan_activity_payment_reversal">Terugboeking van betaling</string>
+    <string name="loan_activity_loan_adjustment">Aanpassing van lening</string>
+    <string name="loan_activity_loan_fee_adjustment">Aanpassing van leningkosten</string>
+    <string name="loan_activity_payment_adjustment">Aanpassing van betaling</string>
+    <string name="loan_activity_other_payment">Andere betaling</string>
+    <string name="loan_activity_aggregated_payment">Overzicht automatische terugbetalingen</string>
+    <string name="make_payment">Een betaling doen</string>
+    <string name="make_payment_description">Uw betaling wordt direct afgeschreven van uw momenteel beschikbare PayPal-saldo.</string>
+    <string name="choose_payment_amount">Kies een betalingsbedrag:</string>
+    <string name="pay_specific_amount">Een specifiek bedrag betalen</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Resterend leningsaldo van %1$s betalen</string>
+    <string name="pay_remaining_loan_balance_description">Het kan tot 3 werkdagen duren totdat uw laatste betaling is verwerkt. Daarna kunt u een andere lening aanvragen.</string>
+    <string name="ppwc_continue">Doorgaan</string>
+    <string name="enter_payment_amount">Te betalen bedrag invoeren</string>
+    <string name="current_loan_balance">Huidig saldo van de lening:</string>
+    <string name="available_paypal_balance">Beschikbaar PayPal-saldo:</string>
+    <string name="review_and_pay">Controleren en betalen</string>
+    <string name="ppwc_amount">Bedrag</string>
+    <string name="ppwc_pay">Betalen</string>
+    <string name="ppwc_payment_method">Betaalmethode</string>
+    <string name="ppwc_payment_date">Betaaldatum</string>
+    <string name="review_and_pay_description">Automatische terugbetalingen worden constant afgeschreven van uw omzet totdat uw lening volledig is afgelost, zelfs als u een eenmalige betaling heeft verricht.</string>
+    <string name="thank_you">Hartelijk dank.</string>
+    <string name="made_payment_of" formatSpecifiers="amount">U heeft een betaling van %1$s verricht</string>
+    <string name="make_payment_success_message">Uw rekening wordt bijgewerkt zodra de betaling is verwerkt.</string>
+    <string name="ppwc_done">Gereed</string>
+    <string name="make_payment_error_insufficient_balance">Uw PayPal-saldo is niet toereikend voor het uitvoeren van deze betaling</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Voer een bedrag in dat niet hoger is dan uw PayPal-saldo.</string>
+    <string name="working_capital">Werkkapitaal</string>
+    <string name="general_error_title">Probeer het opnieuw</string>
+    <string name="general_error_message">Het lijkt erop dat er aan onze kant iets fout is gegaan.</string>
+    <string name="ppwc_try_again">Opnieuw</string>
+    <string name="catch_up_info_intro">Er ontstaat een achterstallig saldo wanneer u de opbrengst van uw verkopen opneemt, overschrijft of besteedt voordat de automatische terugbetaling plaatsvindt.</string>
+    <string name="catch_up_info_how_reduced_title">Hoe kan ik mijn achterstallige saldo verlagen\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">We schrijven automatisch achterstallige betalingen af wanneer geld beschikbaar wordt op uw PayPal-saldo totdat het achterstallige saldo 0 USD bedraagt.\n\nU kunt ook %1$s om het saldo direct te verlagen.</string>
+    <string name="make_manual_payment">een handmatige betaling verrichten</string>
+    <string name="catch_up_info_how_avoid_title">Hoe voorkom ik een achterstallig saldo\?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">Als u wilt voorkomen dat u een achterstallig saldo krijgt, moet u er gewoon voor zorgen dat uw PayPal-saldo altijd hoger is dan uw dagelijkse automatische terugbetaling.\n\nZie voor meer informatie over achterstallige betalingen onze %1$s.</string>
+    <string name="please_see_faq">veelgestelde vragen</string>
+    <string name="ppwc_discovery_message">NIEUW! Uw PayPal Working Capital-lening bekijken en beheren</string>
+    <string name="last_x_days" formatSpecifiers="number">AFGELOPEN %1$s DAGEN</string>
+    <string name="apply_loan">Vraag een betaalbare zakelijke lening aan zonder kredietwaardigheidscontrole of persoonlijke garantie.\n\nDe aanvraag en financiering nemen slechts enkele minuten in beslag.</string>
+    <string name="learn_how_label">Leer hoe het werkt</string>
+    <string name="application_approved">Uw aanvraag is goedgekeurd!</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">U kunt uw leenofferte aanpassen en accepteren tot %1$s.</string>
+    <string name="review_offer">Controleer nu uw leenofferte</string>
+    <string name="view_loan_decision">Beslissing over zakelijke lening weergeven</string>
+    <string name="application_status_changed">De status van uw aanvraag is gewijzigd.</string>
+    <string name="check_status">Status controleren</string>
+    <string name="saved_offer">U heeft een opgeslagen offerte</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Uw leenofferte is geldig tot %1$s.\n\nOntvang financiering binnen enkele minuten na het aanpassen en accepteren van uw offerte.</string>
+    <string name="review_application">Uw aanvraag is in behandeling</string>
+    <string name="review_application_description">U ontvangt een e-mail zodra we een beslissing over uw zakelijke lening hebben genomen.</string>
+    <string name="more_details">Meer info</string>
+    <string name="pending_funding_primary_desc">Uw zakelijke lening is onderweg. </string>
+    <string name="pending_funding_secondary_desc">Bel ons als u deze niet binnen 24 uur op uw PayPal-rekening ziet staan.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d voltooid</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d in behandeling</string>
+    <string name="make_payment_error_amount_gt_loan_due">Voer een bedrag in dat niet hoger is dan het saldo van uw lening.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Voer een geheel getal in, zonder cijfers achter de komma.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>

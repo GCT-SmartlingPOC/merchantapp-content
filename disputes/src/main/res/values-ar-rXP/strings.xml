@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">تم فتح منازعة من جانب %1$s بشأن %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">تم غلق منازعة من جانب %1$s بشأن %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">لقد أحلت منازعة %1$s بشأن %2$s إلى PayPal.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">تمت إحالة منازعة من جانب %1$s إلى PayPal بشأن %2$s.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">تم تحرير طلب استرداد مدفوعات من جانب %1$s لمنازعة بشأن %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">تعرّف على القرار المتخذ في منازعة %1$sبشأن %2$s.</string>
+    <string name="dispute_reason_item_not_received">طلب غير مُستَلَم</string>
+    <string name="dispute_reason_item_not_as_described">السلعة غير مطابقة للوصف المحدد</string>
+    <string name="dispute_new_label">جديد</string>
+    <string name="dispute_chargeback_label">طلب استرداد مدفوعات</string>
+    <string name="dispute_awaiting_on_buyer_label">في انتظار المشتري</string>
+    <string name="dispute_awaiting_on_you_label">في انتظارك</string>
+    <string name="dispute_in_review_label">قيد المراجعة</string>
+    <string name="dispute_resolved_label">تم التوصل لحل</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">لقد قمت بالرد في %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">قام المشتري بالرد في %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">يجب الرد في موعد أقصاه %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">يجب على المشتري الرد في موعد أقصاه %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">في انتظار رد المشتري.</string>
+    <string name="dispute_awaiting_resolution_action">في انتظار التوصل إلى حل.</string>
+    <string name="dispute_card_title">المنازعات</string>
+    <string name="dispute_respond_action">رد</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">توجد %1$s منازعات تتطلب ردك</string>
+    <string name="dispute_multiple_view_all">عرض الكل</string>
+    <string name="dispute_view_details">عرض التفاصيل</string>
+    <string name="dispute_details_title">منازعة</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">رمز تعريف الحالة: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">تاريخ آخر تحديث: %1$s</string>
+    <string name="dispute_customer_contact_title">جهة اتصال العميل</string>
+    <string name="dispute_tracking_information">معلومات تتبع الشحن</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">الرقم: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">شركة الشحن: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">رمز تعريف معاملة البائع</string>
+    <string name="dispute_last_comment_title">آخر تعليق</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">العميل: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">أنت: %1$s</string>
+    <string name="dispute_order_details_title">تفاصيل الطلب</string>
+    <string name="dispute_shipped_to_title">تم الشحن إلى</string>
+    <string name="dispute_message_buyer">رسالة المشتري</string>
+    <string name="dispute_provide_info_to_paypal">تقديم معلومات إلى PayPal</string>
+    <string name="dispute_issue_refund">رد مدفوعات</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">يجب الرد في موعد أقصاه: %1$s</string>
+    <string name="dispute_claim_accepted_success">تم قبول الدعوى بنجاح.</string>
+    <string name="dispute_claim_accepted_error">لا يمكننا معالجة الدعوى في الوقت الحالي!</string>
+    <string name="dispute_esclated_success">تم التصعيد إلى PayPal.</string>
+    <string name="dispute_esclated_error">تعذر التصعيد إلى PayPal!</string>
+    <string name="dispute_full_refund_success">تم تقديم العرض بنجاح.</string>
+    <string name="dispute_full_refund_error">لا يمكننا تقديم عرض في الوقت الحالي!</string>
+    <string name="dispute_provide_evidence_success">تم تقديم الدليل بنجاح.</string>
+    <string name="dispute_action_accept_claim">رد مبلغ بالكامل</string>
+    <string name="dispute_action_escalate_to_paypal">تصعيد إلى PayPal</string>
+    <string name="dispute_action_full_refund">عرض رد المبلغ بالكامل</string>
+    <string name="dispute_action_provide_evidence">تقديم دليل</string>
+    <string name="dispute_actions_label">الإجراءات</string>
+    <string name="dispute_conversation_title">الرسائل</string>
+    <string name="dispute_send_message">رسالة المشتري...</string>
+    <string name="dispute_conversation_you">أنت</string>
+    <string name="dispute_hub_title">المنازعات</string>
+    <string name="dispute_offer_refund_title">أرسل رسالة</string>
+    <string name="dispute_offer_refund_send_message">أرسل رسالة إلى العميل</string>
+    <string name="dispute_offer_refund_default_message">أريد أن أعرض عليك رد المبلغ كاملاً. هل يمكنك قبول هذا العرض؟</string>
+    <string name="dispute_offer_refund_ask_return">اطلب من المشتري إرجاع السلعة.</string>
+    <string name="dispute_offer_refund_missing_note">يلزم إدخال معلومات في حقل الملاحظة.</string>
+    <string name="dispute_accept_claim_note_placeholder">أدخل ملاحظتك هنا</string>
+    <string name="dispute_escalate_to_paypal_title">اكتب وصفاً للمشكلة</string>
+    <string name="dispute_escalate_to_paypal_header_message">أدخل وصفاً تفصيلياً للمشكلة التي تواجهها في هذه المعاملة.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">أدخل وصفاً هنا</string>
+    <string name="dispute_escalate_to_paypal_missing_description">يلزم إدخال معلومات في حقل الوصف.</string>
+    <string name="dispute_offer_refund_confirmation_title">مراجعة وتأكيد</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">بمجرد إرسال المبلغ المردود بالكامل إلى %1$s، سوف يتم حل هذه المشكلة وغلقها.</string>
+    <string name="dispute_offer_refund_label_transaction_amount">مبلغ المعاملة</string>
+    <string name="dispute_offer_refund_label_transaction_id">رمز تعريف المعاملة</string>
+    <string name="dispute_offer_refund_label_your_message">رسالتك</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">عرض رد المبلغ كاملاً</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">وبمجرد تأكيد قبول العرض، سوف يتم رد المدفوعات بالكامل إلى %1$s وسوف يتم حل هذه المشكلة وغلق ملفها.</string>
+    <string name="dispute_accept_claim_confirmation_button">رد المدفوعات</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">مراجعة وتأكيد</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer"> أنت بصدد التصعيد إلى PayPal لأنك لم تتمكن من التوصل إلى اتفاق مع المشتري.\n\nسوف نحتجز مبلغ المعاملة إلى أن يتم غلق ملف هذه الحالة.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">مبلغ المعاملة</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">رمز تعريف المعاملة</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">الوصف التفصيلي</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">تصعيد</string>
+    <string name="dispute_add_tracking_confirmation_message">لقد حدّثت معلومات تتبع الشحن بنجاح.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">سوف يتم إرسال رسالة إلكترونية إلى العميل تتضمن المعلومات التي قدمتها.</string>
+    <string name="dispute_add_tracking_confirmation_button">موافق</string>
+    <string name="dispute_escalate_primer_title">تصعيد إلى PayPal</string>
+    <string name="dispute_escalate_primer_preface">قبل أن تقوم بالتصعيد، توجد بعض الأمور التي يجب عليك معرفتها</string>
+    <string name="dispute_escalate_primer_line_one">لن تتمكن من التواصل مباشرة مع المشتري بمجرد فتح الدعوى.</string>
+    <string name="dispute_escalate_primer_line_two">سوف يتم إلغاء أي عروض قائمة قدّمها البائع لرد المدفوعات.</string>
+    <string name="dispute_escalate_primer_line_three">قد نستغرق مدة تصل إلى 30 يوماً لمراجعة دعواك واتخاذ قرار.</string>
+    <string name="dispute_escalate_primer_line_four">سوف نراجع المعلومات التي قدمتها، بالإضافة إلى الرسائل التي تبادلتها مع المشتري فيما يتعلق بهذه المعاملة.</string>
+    <string name="dispute_escalate_primer_line_five">سوف نتواصل معك عبر البريد الإلكتروني إذا احتجنا إلى مزيد من المعلومات منك أثناء التحقيق.</string>
+    <string name="dispute_escalate_primer_line_six">بمجرد أن نتخذ قراراً، سوف يكون نهائياً وسوف يتم غلق هذه الدعوى.</string>
+</resources>

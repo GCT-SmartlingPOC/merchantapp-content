@@ -1,0 +1,247 @@
+<resources>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+
+    <string name="refund">Refund</string>
+    <string name="contact">Contact</string>
+    <string name="related">Related</string>
+    <string name="remind">Remind</string>
+    <string name="send">Send</string>
+    <string name="record_payment">Record Payment</string>
+    <string name="delete">Delete</string>
+    <string name="payment_amount">Payment Amount</string>
+    <string name="date_paid">Date Paid</string>
+    <string name="payment_method">Payment method</string>
+    <string name="record">Record</string>
+    <string name="due_on_receipt">On receipt</string>
+    <string name="no_due_date">No due date</string>
+
+    <string name="activity_detail_id_label">Transaction ID</string>
+    <string name="order_details">Details</string>
+    <string name="amount">Amount</string>
+    <string name="tax">Tax:</string>
+    <string name="insurance">Insurance</string>
+    <string name="net_total">Net total</string>
+    <string name="refund_label" formatSpecifiers="refundName">Send a refund to %1$s</string>
+    <string name="refund_label_partial" formatSpecifiers="refundName">Send a partial refund to %1$s</string>
+
+    <string name="invalid_refund_amount">Enter an amount less than or equal to the original transaction</string>
+
+    <string name="refund_sent_to_customer" formatSpecifiers="customerName">Refund sent to %1$s</string>
+    <string name="reminder_sent_to_customer" formatSpecifiers="customerName">Your reminder to %1$s has been sent</string>
+
+    <string name="email_address">Email address</string>
+
+    <string name="phone_number">Phone number</string>
+    <string name="billing_address">Billing address</string>
+    <string name="recent_activity">RECENT ACTIVITY</string>
+    <string name="recent_activity_detail" formatSpecifiers="customer">You and %1$s</string>
+    <string name="no_recent_activity">No recent activity</string>
+
+    <string name="send_email">Send Email</string>
+    <string name="call_customer">Call Customer</string>
+
+    <string name="send_email_subject">Subject</string>
+
+    <string name="activities_filter">Filter Activities</string>
+    <string name="activities_filter_all">All</string>
+    <string name="activities_filter_received">Received</string>
+    <string name="activities_filter_sent">Sent</string>
+    <string name="activities_filter_pending">Pending</string>
+
+    <string name="full_refund">Full Refund</string>
+    <string name="partial_refund">Partial Refund</string>
+
+    <string name="loading_details">Loading details&#8230;</string>
+    <string name="empty_list_hint">No information available.</string>
+
+    <string name="from">From</string>
+    <string name="to">To</string>
+
+    <string name="activityDescription">%1$s %2$s</string>
+    <string name="money_transfer">Money transfer</string>
+    <string name="currency_transfer">Currency transfer</string>
+    <string name="authorization">Authorization</string>
+    <string name="reversal">Reversal</string>
+    <string name="payment">Payment</string>
+    <string name="undefined">Undefined</string>
+    <string name="transaction">Transaction</string>
+    <string name="paypal_credit_payment">PayPal credit payment</string>
+    <string name="preapproved_payment">Preapproved Payment</string>
+    <string name="money_sent">Money sent</string>
+    <string name="money_received">Money received</string>
+
+    <string name="cash">Cash</string>
+    <string name="bank_transfer">Bank transfer</string>
+    <string name="paypal">PayPal</string>
+    <string name="credit_card">Credit card</string>
+    <string name="debit_card">Debit card</string>
+    <string name="method_unknown">Other</string>
+
+    <string name="type_payment">Payment</string>
+    <string name="type_request_money">Money request</string>
+    <string name="type_order">Order</string>
+    <string name="type_invoice">Invoice</string>
+    <string name="type_payout">Payout</string>
+    <string name="type_billing_agreement">Billing agreement</string>
+
+    <string name="status_paid">Paid</string>
+    <string name="status_blocked">Blocked</string>
+    <string name="status_created">Created</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_failed">Failed</string>
+    <string name="status_held">Held</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_refunded">Refunded</string>
+    <string name="status_partially_refunded">Partially Refunded</string>
+    <string name="status_partially_paid">Partially Paid</string>
+    <string name="status_unclaimed">Unclaimed</string>
+    <string name="status_reversed">Reversed</string>
+
+    <string name="status_draft">Draft</string>
+    <string name="status_marked_as_paid">Marked as paid</string>
+    <string name="status_marked_as_refunded">Marked as refunded</string>
+    <string name="status_new">New</string>
+    <string name="status_scheduled">Scheduled</string>
+    <string name="status_sent">Sent</string>
+    <string name="status_unpaid">Unpaid</string>
+    <string name="status_payment_pending">Payment Pending</string>
+
+    <string name="role_requestee">REQUESTEE</string>
+    <string name="role_requester">REQUESTER</string>
+
+    <string name="unknown">Unknown</string>
+    <string name="more">More</string>
+    <string name="track_shipment">Track this</string>
+    <string name="invoice_name_business_description">%1$s (%2$s)</string>
+
+    <string name="retry">Retry</string>
+    <string name="msg_error_loading_activities">Error Loading Activities</string>
+
+    <string name="amount_received">Amount Received</string>
+    <string name="amount_paid">Amount Paid</string>
+    <string name="amount_due">Amount Due</string>
+    <string name="paypal_fees">PayPal Fees</string>
+
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+
+    <string name="error_loading_customer_list">Error Loading Customers</string>
+
+    <string name="generic_money_movement_name">Unknown</string>
+
+    <string name="title_related_transactions">Related Transactions</string>
+    <string name="item">Item</string>
+
+    <string name="search">Search</string>
+    <string name="go">Go</string>
+   <string name="deleting_invoice">Deleting Invoice&#8230;</string>
+    <string name="copy">Copy</string>
+    <string name="edit">Edit</string>
+    <string name="record_refund">Record Refund</string>
+    <string name="invoice_filter">Filter Invoices</string>
+
+    <string name="title_activity_due_date">Due Date</string>
+
+    <string name="enter_payment_date_prompt">Enter a payment date</string>
+    <string name="paypal_not_supported_prompt">PayPal payments are not yet supported.</string>
+
+    <string name="country">Country</string>
+    <string name="alert">Alert</string>
+
+    <string name="date">Date</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="tax_label_format">%1$s (%2$s%%)</string>
+    <string name="rate">Rate</string>
+
+    <string name="on_hold">On hold</string>
+    <string name="returned">Returned</string>
+
+    <string name="ups">UPS</string>
+    <string name="usps">USPS</string>
+    <string name="fedex">FedEx</string>
+    <string name="airborne_express">Airborne Express</string>
+    <string name="dhl">DHL</string>
+
+    <string name="refund_timing_disclaimer">It may take several minutes to appear on your activity list.</string>
+    <string name="refund_customer">customer</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="buyer_credit">Buyer Credit</string>
+    <string name="external">External</string>
+    <string name="generic_instrument">Generic Instrument</string>
+    <string name="incentive">Incentive</string>
+    <string name="remove_customer">Remove Customer</string>
+    <string name="update">Update</string>
+
+    <string name="net_collected">Net Collected</string>
+    <string name="insurance_amount">Insurance Amount</string>
+
+    <string name="currency_conversion">Currency Conversion</string>
+    <string name="pretty_status_conjugation" formatSpecifiers="description,statusString">%1$s - %2$s</string>
+    <string name="back">Back</string>
+
+    <string name="send_to_customer">Send to customer</string>
+    <string name="cancel_invoice">Cancel Invoice</string>
+
+    <string name="home_view_all_activities">View all</string>
+    <string name="home_pending_invoices">Unpaid Invoices</string>
+    <string name="home_draft_invoices">Draft Invoices</string>
+    <string name="home_tab_title">Home</string>
+    <string name="contact_missing_field" formatSpecifiers="field">The address from your contact is missing the required field: %1$s. Would you like to add it?</string>
+    <string name="status_overdue">Overdue</string>
+    <string name="no_activity_with_customer">No activity to show.</string>
+    <string name="view_new_activity">View New Activity</string>
+    <string name="view_new_invoices">View New Invoices</string>
+    <string name="view">View</string>
+
+    <string name="close">Close</string>
+
+    <string name="you_and_customer">You and %1$s</string>
+    <string name="purchase_details">PURCHASE DETAILS</string>
+    <string name="invoice_already_deleted">This invoice has already been deleted.</string>
+    <string name="can_only_delete_draft">Only draft invoices can be deleted.</string>
+    <string name="title_tip">Tip</string>
+    <string name="edit_details">Edit Details</string>
+    <string name="record_payment_failed">Unable to record payment</string>
+    <string name="activity_date_time">%1$s, %2$s</string>
+    <string name="refund_failed">Unable to complete your refund</string>
+    <string name="refund_transaction_refused">Unable to complete refund</string>
+    <string name="refund_transaction_refused_payee_preference">Sorry, the recipient is unable to receive payments. Please contact Customer Service for assistance.</string>
+    <string name="refund_transaction_already_refunded">Refund previously processed for this transaction.</string>
+    <string name="refund_time_limit_exceeded">Refund time limit expired. We’re unable to complete refunds after 90 days of original transaction</string>
+    <string name="refund_full_refund_not_allowed_after_partial_refund">Partial refund already paid. Enter new amount.</string>
+    <string name="delete_invoice_confirmation">Delete invoice?</string>
+    <string name="error_payer_account_restricted">Sorry, your account is restricted. Please contact Customer Service for assistance.</string>
+    <string name="error_payee_account_restricted">Sorry, the recipient’s account is restricted. Unable to complete the payment.</string>
+    <string name="error_feature_unsupported_for_payee">Sorry, the recipient is unable to receive payments. Please contact Customer Service for assistance.</string>
+    <string name="refund_sent">Refund sent</string>
+    <string name="invoice_canceled">Your invoice has been canceled</string>
+    <string name="quantity_times" formatSpecifiers="first,second">%1$s x %2$s</string>
+    <string name="delete_invoice_failed">Unable to delete invoice</string>
+    <string name="tracking_added">Tracking Added</string>
+    <string name="in_process">In Process</string>
+    <string name="shipped">Shipped</string>
+    <string name="canceled">Canceled</string>
+    <string name="add_tracking_coming_soon">Add Tracking coming soon!</string>
+    <string name="error_refund_insufficient_funds">Refund amount exceeds your available PayPal balance</string>
+    <string name="cannot_send_email">Device cannot send email</string>
+    <string name="cannot_send_text">Device cannot send text</string>
+    <string name="load_invoice_history_failed">Payment history failed to load.</string>
+    <string name="ship_to">Ship to</string>
+    <string name="no_results_activities">No Activity.\n\nPayments, Invoices, and other account activity will show up here.</string>
+
+    <string name="shipping_information">Shipping Information</string>
+    <string name="sales_tax">Sales Tax</string>
+    <string name="shipping_amount">Shipping Amount</string>
+    <string name="handling_amount">Handling Amount</string>
+    <string name="payment_recorded">Payment recorded</string>
+    <string name="invoice_sent">Invoice Sent</string>
+    <string name="activity_history_load_fail">Unable to load history. Swipe down to try again.</string>
+    <string name="transaction_email_subject" formatSpecifiers="transactionId">Re: Transaction ID #%1$s</string>
+    <string name="view_and_pay">View &amp; Pay</string>
+    <string name="see_history">See history</string>
+    <string name="refund_insufficent_balance_with_fundingsource_info" formatSpecifiers="bankName">Note: Your PayPal balance is not enough to cover this refund. The full refund amount will automatically come from %1$s. This refund will take 3-5 business days to complete.</string>
+    <string name="refund_insufficent_balance">If you do not have sufficient PayPal Balance this will come from your default payment source</string>
+    <string name="record_refund_failed">Unable to record refund</string>
+    <string name="activity_empty_message">Welcome to PayPal!\nYour account activity will appear here.</string>
+
+</resources>

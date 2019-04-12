@@ -1,0 +1,122 @@
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">Paid to date</string>
+    <string name="outstanding_balance">Outstanding balance</string>
+    <string name="working_capital_summary_load_fail">Your account information is not available.\nSwipe down to try again.</string>
+    <string name="ppwc_paid">PAID</string>
+    <string name="view_loan_details">View Loan Details</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">Your business loan of %1$s has been paid in full.</string>
+    <string name="apply_again">Apply Again</string>
+    <string name="ppwc_info">Info</string>
+    <string name="outstanding_balance_title">Outstanding Balance</string>
+    <string name="loan_details">Loan Details</string>
+    <string name="initial_loan_amount">Initial loan amount</string>
+    <string name="loan_fee">Loan fee</string>
+    <string name="repayment_percentage">Repayment percentage</string>
+    <string name="view_loan_activity">View loan activity</string>
+    <string name="make_one_time_payment">Make a one-time payment</string>
+    <string name="catch_up_balance">Catch-up balance</string>
+    <string name="loan_activity">Loan Activity</string>
+    <string name="loan_activity_empty">You\'ll find a summary here once your auto-repayments start</string>
+    <string name="ppwc_completed">Completed</string>
+    <string name="ppwc_pending">Pending</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">Loan transfer</string>
+    <string name="loan_activity_v3_loan_reversal">Loan Reversal</string>
+    <string name="loan_activity_v3_fee">Loan fee</string>
+    <string name="loan_activity_v3_aggregated_payment">Auto-repayment summary</string>
+    <string name="loan_activity_v3_automated_catchup_payment">Catchup payment</string>
+    <string name="loan_activity_v3_automated_daily_payment">Sales-based repayment</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">Manual catchup payment</string>
+    <string name="loan_activity_v3_customer_initiated_payment">Manual payment</string>
+    <string name="loan_activity_v3_loan_fee_reversal">Loan fee reversal</string>
+    <string name="loan_activity_v3_payment_reversal">Payment reversal</string>
+    <string name="loan_activity_v3_loan_adjustment">Loan adjustment</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">Loan fee adjustment</string>
+    <string name="loan_activity_v3_payment_adjustment">Payment adjustment</string>
+    <string name="loan_activity_v3_other_payment">Other payment</string>
+    <string name="loan_activity_loan_transfer">Loan transfer</string>
+    <string name="loan_activity_fee">Loan fee</string>
+    <string name="loan_activity_automated_catchup_payment">Automated catch-up payment</string>
+    <string name="loan_activity_automated_daily_payment">Automated repayment</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">Manual catchup payment</string>
+    <string name="loan_activity_customer_initiated_payment">Manual payment</string>
+    <string name="loan_activity_loan_reversal">Loan Reversal</string>
+    <string name="loan_activity_loan_fee_reversal">Loan fee reversal</string>
+    <string name="loan_activity_payment_reversal">Payment reversal</string>
+    <string name="loan_activity_loan_adjustment">Loan adjustment</string>
+    <string name="loan_activity_loan_fee_adjustment">Loan fee adjustment</string>
+    <string name="loan_activity_payment_adjustment">Payment adjustment</string>
+    <string name="loan_activity_other_payment">Other payment</string>
+    <string name="loan_activity_aggregated_payment">Auto-repayment summary</string>
+    <string name="make_payment">Make a Payment</string>
+    <string name="make_payment_description">Your payment is instantly deducted from your currently available PayPal balance</string>
+    <string name="choose_payment_amount">Choose a payment amount:</string>
+    <string name="pay_specific_amount">Pay a specific amount</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">Pay %1$s remaining loan balance</string>
+    <string name="pay_remaining_loan_balance_description">It may take up to 3 working days to process your final payment. You\'ll be able to apply for another loan after this time.</string>
+    <string name="ppwc_continue">Continue</string>
+    <string name="enter_payment_amount">Enter Payment Amount</string>
+    <string name="current_loan_balance">Current loan balance:</string>
+    <string name="available_paypal_balance">Available PayPal balance:</string>
+    <string name="review_and_pay">Review and Pay</string>
+    <string name="ppwc_amount">Amount</string>
+    <string name="ppwc_pay">Pay</string>
+    <string name="ppwc_payment_method">Payment method</string>
+    <string name="ppwc_payment_date">Payment date</string>
+    <string name="review_and_pay_description">Automatic repayments will continue to be taken from your sales even if you\'ve made a one-time payment until your loan is paid in full.</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="made_payment_of" formatSpecifiers="amount">You made a payment of %1$s</string>
+    <string name="make_payment_success_message">Your account will be updated as soon as the payment is processed.</string>
+    <string name="ppwc_done">Done</string>
+    <string name="make_payment_error_insufficient_balance">Your PayPal balance is not enough to complete this payment</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">Enter an amount equal to, or less than your PayPal balance.</string>
+    <string name="working_capital">Working Capital</string>
+    <string name="general_error_title">Let\'s try that again</string>
+    <string name="general_error_message">Looks like something went wrong on our end.</string>
+    <string name="ppwc_try_again">Try Again</string>
+    <string name="catch_up_info_intro">A catch-up balance accrues when you withdraw, transfer or spend your sales proceeds before automated repayment occurs.</string>
+    <string name="catch_up_info_how_reduced_title">How does my catch-up balance get reduced?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">We will automatically deduct catch-up payments when new funds become available in your PayPal balance until the catch-up balance has been reduced to $0.\n\nYou can also %1$s to reduce the balance immediately.</string>
+    <string name="make_manual_payment">make a manual payment</string>
+    <string name="catch_up_info_how_avoid_title">How can I avoid having a catch-up balance?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">To avoid having a catch-up balance, simply make sure that you always maintain a PayPal balance greater than your daily automated repayment.\n\nFor additional information on catch-up payments, %1$s.</string>
+    <string name="please_see_faq">please see our FAQs</string>
+    <string name="ppwc_discovery_message">NEW! View and manage your PayPal Working Capital loan</string>
+    <string name="last_x_days" formatSpecifiers="number">LAST %1$s DAYS</string>
+    <string name="apply_loan">Apply for an affordable business loan with no credit check or personal guarantee.\n\nApplication and funding can take just minutes.</string>
+    <string name="learn_how_label">Learn How It Works</string>
+    <string name="application_approved">Your application is approved!</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">You can customize and accept your offer until %1$s.</string>
+    <string name="review_offer">Review Your Offer Now</string>
+    <string name="view_loan_decision">View business loan decision</string>
+    <string name="application_status_changed">Your application status has changed.</string>
+    <string name="check_status">Check Status</string>
+    <string name="saved_offer">You have a saved offer</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">Your offer is good until %1$s.\n\nCustomize and accept your offer and receive funding in minutes.</string>
+    <string name="review_application">We\'re reviewing your application</string>
+    <string name="review_application_description">You\'ll get an email as soon as we have your business loan decision.</string>
+    <string name="more_details">More Details</string>
+    <string name="pending_funding_primary_desc">Your business loan is on the way.</string>
+    <string name="pending_funding_secondary_desc">Call us if you don\'t see it in your PayPal account in 24 hours.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d completed</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d pending</string>
+    <string name="make_payment_error_amount_gt_loan_due">Enter an amount equal to, or less than your loan balance.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">Enter a whole number, no decimals.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">&#8230;</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+
+
+</resources>

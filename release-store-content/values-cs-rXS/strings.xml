@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: Posílání faktur</string>
+    <string name="ios_subtitle">Správa prodeje, faktur a peněz</string>
+    <string name="ios_promotional_text">Aplikace PayPal Business usnadňuje sledování aktivity, kontrolu zůstatku, posílání faktur, zobrazování informací o zákaznících a analýzu prodejních trendů. Kdykoli. Kdekoli.</string>
+    <string name="android_short_description">Udržujte si přehled o svém firemním účtu PayPal, ať už jste kdekoli.</string>
+    <string name="full_description_line_1">Ideální pro ty, co jsou neustále v pohybu. Posílejte faktury, sledujte prodej a spravujte své peníze pomocí aplikace PayPal Business.</string>
+    <string name="full_description_line_2_bullet_1">o Rychlé vytváření a posílání faktur</string>
+    <string name="full_description_line_2_bullet_2">o Správa prodeje a sledování aktivity na účtu</string>
+    <string name="full_description_line_2_bullet_3">o Převod peněz</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Přehledné zobrazení měsíčních, čtvrtletních a ročních prodejních trendů</string>
+    <string name="full_description_line_2_bullet_6">o Snadný a rychlý přístup k informacím o zákaznících</string>
+    <string name="full_description_para_1_header">POSÍLÁNÍ FAKTUR A PŘIJÍMÁNÍ PLATEB</string>
+    <string name="full_description_para_1_description">V aplikaci PayPal Business můžete rychle vytvářet, posílat a spravovat faktury. Díky nástroji společnosti PayPal pro vytváření faktur také zákazníkům snadno pošlete upomínky k platbám přímo z mobilního zařízení.</string>
+    <string name="full_description_para_2_header">SPRÁVA PRODEJE A AKTIVITY NA ÚČTU</string>
+    <string name="full_description_para_2_description">Zobrazte si denní prodej a podívejte se na přehledné informace o měsíčním, čtvrtletním a ročním prodeji.</string>
+    <string name="full_description_para_3_header">PŘEVOD PENĚZ</string>
+    <string name="full_description_para_3_description">Převádějte si peníze na propojený bankovní účet a vracejte peníze nebo je posílejte pouhými několika kliknutími. S touto mobilní aplikací pro správu peněz ušetříte čas a vyhnete se frontám v bance.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">PŘÍSTUP K INFORMACÍM O ZÁKAZNÍCÍCH</string>
+    <string name="full_description_para_5_description">Můžete si zobrazit historii transakcí zákazníků či jejich kontaktní údaje a kontaktovat zákazníky přímo z mobilního zařízení. Je také možné snadno importovat kontakty.</string>
+    <string name="full_description_para_footer_1">Aplikace PayPal Business umožňuje malým firmám rychle a jednoduše vytvářet a posílat faktury, přijímat platby a spravovat peníze přímo z telefonu.</string>
+    <string name="full_description_para_footer_2">Potřebujete přijímat platby kreditními nebo debetními kartami na mobilním zařízení\? Vyzkoušejte mobilní aplikaci PayPal Here.</string>
+    <string name="ios_keywords">posílání peněz,přijímání plateb,platba,bankovní účet,převod,prodej,statistiky,zákazník,vytváření faktur,faktura,zdarma,placení</string>
+    <string name="ios_release_notes_1">Děkujeme, že používáte aplikaci PayPal Business. Opravili jsme chyby, aby se vám s ní pracovalo ještě lépe.</string>
+    <string name="ios_release_notes_2">Díky opravám chyb v této aktualizaci pro vás bude obchodování zase o něco jednodušší. Doufáme, že se vám naše aplikace líbí.</string>
+    <string name="ios_release_notes_3">S každou aktualizací aplikace se vám snažíme nabídnout vylepšené rozhraní, abyste mohli obchodovat a vytvářet faktury ještě jednodušeji a rychleji. Děkujeme, že používáte aplikaci PayPal Business. </string>
+    <string name="ios_release_notes_4">V této aktualizaci najdete vylepšení a opravy, které vám zjednoduší obchodování a správu účtu PayPal. Doufáme, že vám s aplikací PayPal Business bude dobře pracovat.</string>
+    <string name="ios_release_notes_5">V této verzi jsme opravili chyby a problémy, které způsobovaly zobrazování chybových zpráv. Posílání faktur tak bude fungovat lépe. Děkujeme, že používáte aplikaci PayPal Business. </string>
+    <string name="android_release_notes_line_1">Vylepšení produktu a opravy chyb</string>
+</resources>

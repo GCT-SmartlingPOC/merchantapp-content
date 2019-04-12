@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="full_description_line_2_bullet_3">o Transfer payments</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_para_3_header">TRANSFER FUNDS</string>
+    <string name="full_description_para_3_description">Move money to your linked merchant bank account, issue refunds, and send payments in just a few clicks. Save time by skipping the bank lines with this mobile money management app.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="ios_keywords">send payments,get paid,payment,bank,transfer,sales,insights,customer,invoice maker,invoice,free,pay</string>
+</resources>

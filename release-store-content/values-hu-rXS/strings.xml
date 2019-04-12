@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal Business: Számlák küldése</string>
+    <string name="ios_subtitle">Értékesítések, számlák és pénz kezelése</string>
+    <string name="ios_promotional_text">A PayPal Business megkönnyíti a tevékenységek kezelését, egyenlegének ellenőrzését, számláinak elküldését, az ügyféladatok megtekintését és az értékesítési trendek elemzését. Bármikor. Bárhol.</string>
+    <string name="android_short_description">Tartsa kézben üzleti PayPal számláját útközben is.</string>
+    <string name="full_description_line_1">A mozgásban lévő vállalkozásoknak! Küldjön számlákat, kövesse nyomon az értékesítéseket, és intézze pénzügyeit a PayPal Business alkalmazással.</string>
+    <string name="full_description_line_2_bullet_1">o Számlák gyors létrehozása és elküldése</string>
+    <string name="full_description_line_2_bullet_2">o Értékesítések kezelése és számlaaktivitás követése</string>
+    <string name="full_description_line_2_bullet_3">o Pénzátutalás</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Havi, negyedéves és éves értékesítési trendek áttekintése</string>
+    <string name="full_description_line_2_bullet_6">o Ügyfél adatainak elérése gyorsan és egyszerűen</string>
+    <string name="full_description_para_1_header">SZÁMLAKÜLDÉS ÉS PÉNZFOGADÁS</string>
+    <string name="full_description_para_1_description">Számlák gyors létrehozása, küldése és kezelése a PayPal Business alkalmazással. A PayPal számlakészítő a fizetési emlékeztetők közvetlenül az Ön mobileszközéről az ügyfelek számára történő küldését is megkönnyíti.</string>
+    <string name="full_description_para_2_header">ÉRTÉKESÍTÉSEK KEZELÉSE ÉS SZÁMLAAKTIVITÁS KÖVETÉSE</string>
+    <string name="full_description_para_2_description">Napi saját értékesítések és a vállalkozás havi, negyedéves és éves értékesítéseinek áttekintése.</string>
+    <string name="full_description_para_3_header">PÉNZÁTUTALÁS</string>
+    <string name="full_description_para_3_description">Pénz átutalása a csatolt kereskedelmi bankszámlára, visszatérítések indítása és pénzküldés – mindössze néhány kattintással. Ezzel a mobilos pénzkezelő alkalmazással a bankfióki várakozás kihagyása révén időt takaríthat meg.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">HOZZÁFÉRÉS AZ ÜGYFÉL ADATAIHOZ</string>
+    <string name="full_description_para_5_description">Közvetlenül saját mobileszközéről tekintheti meg az ügyféltranzakciók előzményeit, és léphet kapcsolatba az ügyfelekkel. A névjegyek importálása is egyszerű!</string>
+    <string name="full_description_para_footer_1">A PayPal Business alkalmazás gyors és egyszerű lehetőséget kínál az Ön kisvállalkozásának számlák létrehozására és elküldésére, kifizetések fogadására és a pénz kezelésére, közvetlenül az Ön telefonjáról.</string>
+    <string name="full_description_para_footer_2">Hitel- vagy bankkártyákat kell elfogadnia mobileszközön\? Próbálja ki a PayPal Here mobilalkalmazást!</string>
+    <string name="ios_keywords">pénzküldés,kifizetés fogadása,kifizetés,bank,átutalás,értékesítés,statisztikák,ügyfél,számlakészítő,számla,ingyenes,fizetés</string>
+    <string name="ios_release_notes_1">Köszönjük, hogy a PayPal Business szolgáltatást használja! Kijavítottuk a hibákat és megszüntettük az összeomlásokat, hogy az alkalmazás használata napról napra élvezetesebb legyen.</string>
+    <string name="ios_release_notes_2">Vállalkozásainak menedzselése mostantól egyszerűbb lesz, mivel ezzel a frissítéssel kijavítottuk a hibákat és megszüntettük az összeomlásokat. Reméljük, élvezni fogja az alkalmazást!</string>
+    <string name="ios_release_notes_3">Minden frissítéssel azon dolgozunk, hogy az alkalmazás jobban használható legyen, és egyszerűbben és gyorsabban tudja menedzselni vállalkozását és létrehozni a számlákat. Köszönjük, hogy a PayPal Business szolgáltatást használja! </string>
+    <string name="ios_release_notes_4">Ez a frissítés olyan továbbfejlesztéseket és javításokat nyújt, melyekkel egyszerűbben fogja tudni menedzselni vállalkozását és PayPal-számláját. Sok sikert a PayPal Business alkalmazás használatához!</string>
+    <string name="ios_release_notes_5">Ebben a kiadásban kijavítottuk a hibákat és megszüntettük a hibaüzeneteket, hogy a számlák elküldése egyszerűbb legyen. Köszönjük, hogy a PayPal Business szolgáltatást használja! </string>
+    <string name="android_release_notes_line_1">Termékfejlesztések és javítások</string>
+</resources>

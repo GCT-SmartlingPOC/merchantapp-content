@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">PayPal für Geschäftskunden: Rechnungen senden</string>
+    <string name="ios_subtitle">Umsatz, Rechnungen und Geld verwalten</string>
+    <string name="ios_promotional_text">Mit PayPal für Geschäftskunden können Sie ganz einfach Ihre Aktivitäten verwalten, Ihr Guthaben abfragen, Rechnungen senden, Kundendaten anzeigen und Umsatztrends analysieren. Wann und wo Sie wollen. </string>
+    <string name="android_short_description">Behalten Sie auch unterwegs Ihr PayPal-Geschäftskonto im Auge.</string>
+    <string name="full_description_line_1">Unternehmen sind heute mobil! Senden Sie Rechnungen, verfolgen Sie Umsätze oder verwalten Sie Ihr Geld mit der PayPal Business-App.</string>
+    <string name="full_description_line_2_bullet_1">o Schnell Rechnungen erstellen und senden</string>
+    <string name="full_description_line_2_bullet_2">o Umsätze verwalten und Kontoaktivitäten verfolgen</string>
+    <string name="full_description_line_2_bullet_3">o Geld überweisen</string>
+    <string name="full_description_line_2_bullet_4"/>
+    <string name="full_description_line_2_bullet_5">o Umsatztrends auf einen Blick erkennen – monatlich, quartalsweise und jährlich</string>
+    <string name="full_description_line_2_bullet_6">o Schnell und einfach auf Ihre Kundeninformationen zugreifen</string>
+    <string name="full_description_para_1_header">Rechnungen senden und Zahlungen empfangen</string>
+    <string name="full_description_para_1_description">Erstellen, senden und verwalten Sie Rechnungen schnell mit der PayPal Business-App. Mit den E-Mail-Rechnungen von PayPal können Sie ganz einfach Zahlungserinnerungen direkt von Ihrem Mobilgerät an Kunden senden.</string>
+    <string name="full_description_para_2_header">Umsätze und Kontoaktivitäten verwalten</string>
+    <string name="full_description_para_2_description">Behalten Sie Ihren Tagesumsatz im Blick und rufen Sie Ihre Monats-, Quartals- und Jahresumsätze ab.</string>
+    <string name="full_description_para_3_header">Geld abbuchen</string>
+    <string name="full_description_para_3_description">Buchen Sie Geld auf Ihr hinterlegtes Händler-Bankkonto ab und senden Sie Rückzahlungen oder Geld im Handumdrehen. Sparen Sie Zeit und überspringen Sie die Bankinformationen mit dieser App zur Geldverwaltung.</string>
+    <string name="full_description_para_4_header"/>
+    <string name="full_description_para_4_description"/>
+    <string name="full_description_para_5_header">Kundeninformationen schnell abrufen</string>
+    <string name="full_description_para_5_description">Rufen Sie die Transaktionsdetails und Kontaktdaten Ihrer Kunden ab und kontaktieren Sie Ihre Kunden direkt über Ihr Mobilgerät. Und das Importieren Ihrer Kontakte ist auch ganz einfach.</string>
+    <string name="full_description_para_footer_1">Mit der PayPal Business-App können Sie für Ihr Kleinunternehmen schneller und einfacher Rechnungen erstellen und senden, Zahlungen erhalten und Ihr Geld direkt auf Ihrem Mobilgerät verwalten.</string>
+    <string name="full_description_para_footer_2">Sie wollen Kreditkarten auf einem Mobilgerät akzeptieren\? Testen Sie die PayPal Here-App.</string>
+    <string name="ios_keywords">Geld senden, Zahlungen empfangen, Zahlung, Bank, abbuchen, Umsatz, Analysen, Kunde, E-Mail-Rechnungen, Rechnung, kostenlos, bezahlen</string>
+    <string name="ios_release_notes_1">Danke, dass Sie PayPal für Geschäftskunden nutzen. Wir haben einige Fehler und Abstürze behoben, um PayPal für Sie noch besser zu machen.</string>
+    <string name="ios_release_notes_2">Wir haben bei dieser Aktualisierung einige Fehler und Abstürze behoben. Jetzt können Sie Ihr Unternehmen einfacher verwalten. Wir hoffen, Ihnen gefällt unsere App.</string>
+    <string name="ios_release_notes_3">Mit jeder Aktualisierung wollen wir PayPal für Sie verbessern und die Verwaltung Ihres Unternehmens sowie die Rechnungserstellung einfacher und schneller machen. Danke, dass Sie PayPal für Geschäftskunden nutzen. </string>
+    <string name="ios_release_notes_4">Diese Aktualisierung beinhaltet Verbesserungen und Fehlerbehebungen, damit Sie Ihr Unternehmen und Ihr PayPal-Konto einfacher verwalten können. Viel Spaß mit der PayPal Business-App!</string>
+    <string name="ios_release_notes_5">Mit dieser Version haben wir einige Fehler und Fehlermeldungen behoben, damit Sie einfacher und schneller Rechnungen senden können. Danke, dass Sie PayPal für Geschäftskunden nutzen. </string>
+    <string name="android_release_notes_line_1">Produktverbesserung und Fehlerbeseitigung</string>
+</resources>

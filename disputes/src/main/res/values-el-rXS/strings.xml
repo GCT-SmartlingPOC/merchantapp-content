@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dispute_opened_message" formatSpecifiers="customerName, reason">Ο χρήστης %1$s υπέβαλε μια αμφισβήτηση για %2$s</string>
+    <string name="dispute_closed_message" formatSpecifiers="customerName, reason">Ο χρήστης %1$s έκλεισε μια αμφισβήτηση για %2$s</string>
+    <string name="dispute_forward_paypal_message" formatSpecifiers="customerName, reason">Παραπέμψατε την αμφισβήτηση του χρήστη %1$s για %2$s στην PayPal.</string>
+    <string name="dispute_customer_forward_paypal_message" formatSpecifiers="customerName, reason">Ο χρήστης %1$s παρέπεμψε μια αμφισβήτηση για %2$s στην PayPal.</string>
+    <string name="dispute_chargeback_message" formatSpecifiers="customerName, reason">Ο χρήστης %1$s υπέβαλε αμφισβήτηση για αντιστροφή χρέωσης για %2$s.</string>
+    <string name="dispute_resolved_message" formatSpecifiers="customerName, reason">Προβάλετε την επίλυση της αμφισβήτησης του χρήστη %1$s για %2$s.</string>
+    <string name="dispute_reason_item_not_received">μη παραλαβή του αντικειμένου</string>
+    <string name="dispute_reason_item_not_as_described">Το στοιχείο δεν ανταποκρίνεται στην περιγραφή</string>
+    <string name="dispute_new_label">ΝΕΑ</string>
+    <string name="dispute_chargeback_label">ΑΝΤΙΣΤΡΟΦΗ ΧΡΕΩΣΗΣ</string>
+    <string name="dispute_awaiting_on_buyer_label">ΕΝ ΑΝΑΜΟΝΗ ΤΟΥ ΑΓΟΡΑΣΤΗ</string>
+    <string name="dispute_awaiting_on_you_label">ΕΝ ΑΝΑΜΟΝΗ ΤΗΣ ΑΠΑΝΤΗΣΗΣ ΣΑΣ</string>
+    <string name="dispute_in_review_label">ΥΠΟ ΑΝΑΘΕΩΡΗΣΗ</string>
+    <string name="dispute_resolved_label">ΕΠΙΛΥΘΗΚΕ</string>
+    <string name="dispute_you_responded_on_action" formatSpecifiers="responseDate">Απαντήσατε στις %1$s.</string>
+    <string name="dispute_buyer_responded_on_action" formatSpecifiers="responseDate">Ο αγοραστής απάντησε στις %1$s.</string>
+    <string name="dispute_respond_by_action" formatSpecifiers="responseDate">Απαντήστε έως τις %1$s.</string>
+    <string name="dispute_buyer_must_respond_by_action" formatSpecifiers="responseDate">Ο αγοραστής πρέπει να απαντήσει έως τις %1$s.</string>
+    <string name="dispute_awaiting_buyers_response_action">Εν αναμονή της απάντησης του αγοραστή.</string>
+    <string name="dispute_awaiting_resolution_action">Εν αναμονή της επίλυσης του ζητήματος.</string>
+    <string name="dispute_card_title">Αμφισβητήσεις</string>
+    <string name="dispute_respond_action">Απάντηση</string>
+    <string name="dispute_multiple_response" formatSpecifiers="numberOfDisputes">%1$s αμφισβητήσεις απαιτούν την απάντησή σας</string>
+    <string name="dispute_multiple_view_all">Προβολή όλων</string>
+    <string name="dispute_view_details">Προβολή λεπτομερειών</string>
+    <string name="dispute_details_title">Αμφισβήτηση</string>
+    <string name="dispute_case_id" formatSpecifiers="caseID">Αναγνωριστικό περιστατικού: %1$s</string>
+    <string name="dispute_last_update" formatSpecifiers="lastUpdate">Τελευταία ενημέρωση: %1$s</string>
+    <string name="dispute_customer_contact_title">Στοιχεία επικοινωνίας πελάτη</string>
+    <string name="dispute_tracking_information">Στοιχεία παρακολούθησης</string>
+    <string name="dispute_tracking_information_number" formatSpecifiers="number">Αριθμός: %1$s</string>
+    <string name="dispute_tracking_information_carrier" formatSpecifiers="carrier">Μεταφορική εταιρεία: %1$s</string>
+    <string name="dispute_seller_transaction_id_title">Αναγνωριστικό συναλλαγής πωλητή</string>
+    <string name="dispute_last_comment_title">Τελευταίο σχόλιο</string>
+    <string name="dispute_buyer_message_label" formatSpecifiers="message">Πελάτης: %1$s</string>
+    <string name="dispute_seller_message_label" formatSpecifiers="message">Εσείς: %1$s</string>
+    <string name="dispute_order_details_title">Λεπτομέρειες παραγγελίας</string>
+    <string name="dispute_shipped_to_title">Εστάλη σε</string>
+    <string name="dispute_message_buyer">Μήνυμα προς τον αγοραστή</string>
+    <string name="dispute_provide_info_to_paypal">Παράσχετε πληροφορίες στην PayPal</string>
+    <string name="dispute_issue_refund">Εκδώστε επιστροφή χρημάτων</string>
+    <string name="dispute_detail_respond_by" formatSpecifiers="responseDate">Απαντήστε έως τις: %1$s</string>
+    <string name="dispute_claim_accepted_success">Η αξίωση έγινε αποδεκτή με επιτυχία.</string>
+    <string name="dispute_claim_accepted_error">Δεν είναι δυνατή η επεξεργασία της αξίωσης αυτήν τη στιγμή!</string>
+    <string name="dispute_esclated_success">Κλιμακώθηκε στην PayPal.</string>
+    <string name="dispute_esclated_error">Δεν είναι δυνατή η κλιμάκωση στην PayPal!</string>
+    <string name="dispute_full_refund_success">Η προσφορά πραγματοποιήθηκε με επιτυχία.</string>
+    <string name="dispute_full_refund_error">Δεν είναι δυνατό να πραγματοποιηθεί η προσφορά αυτήν τη στιγμή!</string>
+    <string name="dispute_provide_evidence_success">Τα αποδεικτικά στοιχεία παρασχέθηκαν με επιτυχία.</string>
+    <string name="dispute_action_accept_claim">Πλήρης επιστροφή χρημάτων</string>
+    <string name="dispute_action_escalate_to_paypal">Κλιμάκωση στην PayPal</string>
+    <string name="dispute_action_full_refund">Προσφορά πλήρους επιστροφής χρημάτων</string>
+    <string name="dispute_action_provide_evidence">Παροχή αποδεικτικών στοιχείων</string>
+    <string name="dispute_actions_label">Ενέργειες</string>
+    <string name="dispute_conversation_title">Μηνύματα</string>
+    <string name="dispute_send_message">Μήνυμα προς τον αγοραστή...</string>
+    <string name="dispute_conversation_you">ΕΣΕΙΣ</string>
+    <string name="dispute_hub_title">Αμφισβητήσεις</string>
+    <string name="dispute_offer_refund_title">Στείλτε ένα μήνυμα</string>
+    <string name="dispute_offer_refund_send_message">Στείλτε ένα μήνυμα στον πελάτη σας</string>
+    <string name="dispute_offer_refund_default_message">Θέλουμε να σας προσφέρουμε πλήρη επιστροφή χρημάτων. Θα θέλατε να την αποδεχθείτε;</string>
+    <string name="dispute_offer_refund_ask_return">Ζητήστε από τον αγοραστή να επιστρέψει το στοιχείο.</string>
+    <string name="dispute_offer_refund_missing_note">Απαιτείται το πεδίο σημείωσης</string>
+    <string name="dispute_accept_claim_note_placeholder">Πληκτρολογήστε τη σημείωσή σας εδώ</string>
+    <string name="dispute_escalate_to_paypal_title">Περιγράψτε το πρόβλημα</string>
+    <string name="dispute_escalate_to_paypal_header_message">Εισαγάγετε μια αναλυτική περιγραφή του προβλήματος που αντιμετωπίζετε με αυτήν τη συναλλαγή.</string>
+    <string name="dispute_escalate_to_paypal_note_placeholder">Εισαγωγή περιγραφής εδώ</string>
+    <string name="dispute_escalate_to_paypal_missing_description">Απαιτείται το πεδίο περιγραφής</string>
+    <string name="dispute_offer_refund_confirmation_title">Έλεγχος και επιβεβαίωση</string>
+    <string name="dispute_offer_refund_confirmation_disclaimer" formatSpecifiers="customer">Μόλις η πλήρης επιστροφή χρημάτων σταλθεί στον αγοραστή %1$s, αυτό το πρόβλημα θα επιλυθεί και θα κλείσει.</string>
+    <string name="dispute_offer_refund_label_transaction_amount">Ποσό συναλλαγής</string>
+    <string name="dispute_offer_refund_label_transaction_id">Αναγνωριστικό συναλλαγής</string>
+    <string name="dispute_offer_refund_label_your_message">Το μήνυμά σας</string>
+    <string name="dispute_offer_refund_button_offer_full_refund">Προσφέρετε πλήρη επιστροφή χρημάτων</string>
+    <string name="dispute_accept_claim_confirmation_disclaimer" formatSpecifiers="customer">Μόλις επιβεβαιωθεί, η πλήρης επιστροφή χρημάτων θα σταλθεί στον αγοραστή %1$s και αυτό το ζήτημα θα επιλυθεί και θα κλείσει.</string>
+    <string name="dispute_accept_claim_confirmation_button">Επιστροφή χρημάτων</string>
+    <string name="dispute_escalate_to_paypal_confirmation_title">Έλεγχος και επιβεβαίωση</string>
+    <string name="dispute_escalate_to_paypal_confirmation_disclaimer">Έχετε κλιμακώσει αυτό το περιστατικό στην PayPal, διότι δεν καταφέρατε να καταλήξετε σε συμφωνία με τον αγοραστή.\n\nΈχουμε δεσμεύσει το ποσό της συναλλαγής, μέχρι να κλείσει αυτό το περιστατικό.</string>
+    <string name="dispute_escalate_to_paypal_transaction_amount">Ποσό συναλλαγής</string>
+    <string name="dispute_escalate_to_paypal_transaction_id">Αναγνωριστικό συναλλαγής</string>
+    <string name="dispute_escalate_to_paypal_detailed_description">Αναλυτική περιγραφή</string>
+    <string name="dispute_escalate_to_paypal_confirmation_button">Κλιμάκωση</string>
+    <string name="dispute_add_tracking_confirmation_message">Τα στοιχεία παρακολούθησης ενημερώθηκαν επιτυχώς.</string>
+    <string name="dispute_add_tracking_confirmation_subtext">Ένα email θα αποσταλεί στον πελάτη σας με τα στοιχεία που καταχωρίσατε.</string>
+    <string name="dispute_add_tracking_confirmation_button">ΟΚ</string>
+    <string name="dispute_escalate_primer_title">Κλιμάκωση στην PayPal</string>
+    <string name="dispute_escalate_primer_preface">Πριν προχωρήσετε σε κλιμάκωση, διαβάστε τις παρακάτω πληροφορίες</string>
+    <string name="dispute_escalate_primer_line_one">Δεν θα μπορείτε πλέον να επικοινωνείτε απευθείας με τον αγοραστή, από τη στιγμή που έχει ανοίξει μια αξίωση.</string>
+    <string name="dispute_escalate_primer_line_two">Οι ανοιχτές προσφορές επιστροφής χρημάτων που στάλθηκαν από τον πωλητή θα ακυρωθούν.</string>
+    <string name="dispute_escalate_primer_line_three">Ενδέχεται να χρειαστούμε έως και 30 ημέρες για να ελέγξουμε την αξίωση και να καταλήξουμε σε μια απόφαση.</string>
+    <string name="dispute_escalate_primer_line_four">Θα ελέγξουμε τις πληροφορίες που προσκομίσατε, μαζί με τα μηνύματα που ανταλλάξατε με τον αγοραστή σχετικά με αυτήν τη συναλλαγή.</string>
+    <string name="dispute_escalate_primer_line_five">Θα σας στείλουμε email αν χρειαστούμε περισσότερες πληροφορίες από εσάς κατά τη διάρκεια της έρευνας.</string>
+    <string name="dispute_escalate_primer_line_six">Η απόφαση που θα λάβουμε θα είναι οριστική και αυτή η αξίωση θα κλείσει.</string>
+</resources>

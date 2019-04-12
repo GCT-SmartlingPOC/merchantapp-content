@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">home</string>
+
+    <!-- Funding Instrument-->
+    <string name="add_funding_instrument_card_title">Link a bank or card</string>
+    <string name="add_funding_instrument_card_body">Send money, issue refunds and transfer payments from PayPal to your bank.</string>
+    
+</resources>

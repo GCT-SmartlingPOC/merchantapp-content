@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_working_capital">PayPal Working Capital</string>
+    <string name="paid_to_date">결제 날짜</string>
+    <string name="outstanding_balance">미지급 잔액</string>
+    <string name="working_capital_summary_load_fail">계정 정보를 사용할 수 없습니다.\n아래로 쓸어넘겨서 다시 시도하세요.</string>
+    <string name="ppwc_paid">결제됨</string>
+    <string name="view_loan_details">대출 세부정보 보기</string>
+    <string name="loan_amount_paid_full" formatSpecifiers="amount">고객님의 비즈니스 대출(%1$s)이 모두 상환되었습니다.</string>
+    <string name="apply_again">다시 적용</string>
+    <string name="ppwc_info">정보</string>
+    <string name="outstanding_balance_title">미지급 잔액</string>
+    <string name="loan_details">대출 세부정보</string>
+    <string name="initial_loan_amount">초기 대출 금액</string>
+    <string name="loan_fee">대출 수수료</string>
+    <string name="repayment_percentage">상환 비율</string>
+    <string name="view_loan_activity">대출 활동내역 보기</string>
+    <string name="make_one_time_payment">일회성 결제하기</string>
+    <string name="catch_up_balance">캐치업 잔액(부족분 잔액)</string>
+    <string name="loan_activity">대출 활동내역</string>
+    <string name="loan_activity_empty">자동 상환이 시작되면 여기에서 요약을 볼 수 있습니다.</string>
+    <string name="ppwc_completed">완료됨</string>
+    <string name="ppwc_pending">대기 중</string>
+    <string name="ppwc_status_failed">Failed</string>
+    <string name="loan_activity_v3_loan_transfer">대출 이체</string>
+    <string name="loan_activity_v3_loan_reversal">대출 결제취소</string>
+    <string name="loan_activity_v3_fee">대출 수수료</string>
+    <string name="loan_activity_v3_aggregated_payment">자동 상환 요약</string>
+    <string name="loan_activity_v3_automated_catchup_payment">캐치업 결제(부족분 결제)</string>
+    <string name="loan_activity_v3_automated_daily_payment">매출 기준 상환</string>
+    <string name="loan_activity_v3_customer_initiated_catchup_payment">수동 캐치업 결제(부족분 결제)</string>
+    <string name="loan_activity_v3_customer_initiated_payment">수동 결제</string>
+    <string name="loan_activity_v3_loan_fee_reversal">대출 수수료 결제취소</string>
+    <string name="loan_activity_v3_payment_reversal">결제취소</string>
+    <string name="loan_activity_v3_loan_adjustment">대출 조정</string>
+    <string name="loan_activity_v3_loan_fee_adjustment">대출 수수료 조정</string>
+    <string name="loan_activity_v3_payment_adjustment">결제 조정</string>
+    <string name="loan_activity_v3_other_payment">다른 결제</string>
+    <string name="loan_activity_loan_transfer">대출 이체</string>
+    <string name="loan_activity_fee">대출 수수료</string>
+    <string name="loan_activity_automated_catchup_payment">자동화된 캐치업 결제(부족분 결제)</string>
+    <string name="loan_activity_automated_daily_payment">자동 상환</string>
+    <string name="loan_activity_customer_initiated_catchup_payment">수동 캐치업 결제(부족분 결제)</string>
+    <string name="loan_activity_customer_initiated_payment">수동 결제</string>
+    <string name="loan_activity_loan_reversal">대출 결제취소</string>
+    <string name="loan_activity_loan_fee_reversal">대출 수수료 결제취소</string>
+    <string name="loan_activity_payment_reversal">결제취소</string>
+    <string name="loan_activity_loan_adjustment">대출 조정</string>
+    <string name="loan_activity_loan_fee_adjustment">대출 수수료 조정</string>
+    <string name="loan_activity_payment_adjustment">결제 조정</string>
+    <string name="loan_activity_other_payment">다른 결제</string>
+    <string name="loan_activity_aggregated_payment">자동 상환 요약</string>
+    <string name="make_payment">결제하기</string>
+    <string name="make_payment_description">결제대금이 즉시 현재 PayPal 사용가능 잔액에서 공제됩니다.</string>
+    <string name="choose_payment_amount">결제 금액을 선택하세요.</string>
+    <string name="pay_specific_amount">특정 금액 결제</string>
+    <string name="pay_remaining_loan_balance" formatSpecifiers="amount">남은 대출 잔액의 %1$s 결제</string>
+    <string name="pay_remaining_loan_balance_description">최종 결제를 처리하는 데 영업일 기준 최대 3일이 소요될 수 있습니다. 나중에 다른 대출을 신청할 수 있습니다.</string>
+    <string name="ppwc_continue">계속</string>
+    <string name="enter_payment_amount">결제 금액 입력</string>
+    <string name="current_loan_balance">현재 대출 잔액:</string>
+    <string name="available_paypal_balance">사용 가능한 PayPal 잔액:</string>
+    <string name="review_and_pay">검토 및 결제</string>
+    <string name="ppwc_amount">금액</string>
+    <string name="ppwc_pay">결제</string>
+    <string name="ppwc_payment_method">결제수단</string>
+    <string name="ppwc_payment_date">결제 날짜</string>
+    <string name="review_and_pay_description">대출이 전액 상환될 때까지, 일회성 결제를 한 경우에도 판매액에서 지속적으로 자동 상환됩니다.</string>
+    <string name="thank_you">감사합니다.</string>
+    <string name="made_payment_of" formatSpecifiers="amount">%1$s의 금액을 결제했습니다.</string>
+    <string name="make_payment_success_message">이 결제가 처리되는 대로 계정이 업데이트될 예정입니다.</string>
+    <string name="ppwc_done">완료</string>
+    <string name="make_payment_error_insufficient_balance">이 결제를 완료하기에 PayPal 잔액이 부족합니다.</string>
+    <string name="make_payment_error_specific_amount_insufficient_balance">PayPal 잔액보다 적거나 같은 금액을 입력하세요.</string>
+    <string name="working_capital">Working Capital</string>
+    <string name="general_error_title">다시 시도 필요</string>
+    <string name="general_error_message">저희 쪽에 장애가 발생한 것 같습니다.</string>
+    <string name="ppwc_try_again">다시 시도</string>
+    <string name="catch_up_info_intro">자동 상환이 이루어지기 전에 인출, 이체, 판매 진행을 지출하면 캐치업 잔액(부족분 잔액)이 발생합니다.</string>
+    <string name="catch_up_info_how_reduced_title">캐치업 잔액(부족분 잔액)이 어떤 식으로 차감되나요\?</string>
+    <string name="catch_up_info_how_reduced_message" formatSpecifiers="linkMakePayment">고객님의 PayPal 잔액에 새 자금이 추가되면 PayPal에서 자동으로 캐치업 잔액(부족분 잔액)이 $0 USD가 될 때까지 캐치업 결제(부족분 결제)를 공제합니다.\n\n%1$s하여 잔액을 일시에 차감할 수도 있습니다.</string>
+    <string name="make_manual_payment">수동으로 결제</string>
+    <string name="catch_up_info_how_avoid_title">캐치업 잔액(부족분 잔액)이 생기는 것을 피하려면 어떻게 해야 하나요\?</string>
+    <string name="catch_up_info_how_avoid_message" formatSpecifiers="linkFaq">캐치업 잔액(부족분 잔액)이 생기는 것을 피하려면 항상 PayPal 잔액이 일일 자동 상환 금액보다 많이 남아 있도록 유지하시기 바랍니다.\n\n캐치업 결제(부족분 결제)에 대한 추가 정보는 %1$s해 주시기 바랍니다.</string>
+    <string name="please_see_faq">PayPal 자주 묻는 질문(FAQ)을 확인</string>
+    <string name="ppwc_discovery_message">신규! PayPal Working Capital 대출 조회 및 관리</string>
+    <string name="last_x_days" formatSpecifiers="number">최근 %1$s일</string>
+    <string name="apply_loan">신용 조사나 개인보증 없이 실속 있는 비즈니스 대출을 신청하세요.\n\n신청에서 자금 수령까지 몇 분밖에 걸리지 않습니다.</string>
+    <string name="learn_how_label">사용법 알아보기</string>
+    <string name="application_approved">신청이 승인되었습니다!</string>
+    <string name="accept_loan_offer" formatSpecifiers="datetimelongstyle">%1$s까지 혜택을 맞춤 설정하고 받을 수 있습니다.</string>
+    <string name="review_offer">지금 혜택 검토</string>
+    <string name="view_loan_decision">비즈니스 대출 결정 보기</string>
+    <string name="application_status_changed">신청 상태가 변경되었습니다.</string>
+    <string name="check_status">상태 확인</string>
+    <string name="saved_offer">저장된 혜택이 있습니다.</string>
+    <string name="offer_good_until" formatSpecifiers="datetimelongstyle">혜택은 %1$s까지 유효합니다.\n\n혜택을 맞춤 설정하고 받을 수 있으며 몇 분이면 자금을 받을 수 있습니다.</string>
+    <string name="review_application">고객님의 신청 내용을 검토 중입니다.</string>
+    <string name="review_application_description">비즈니스 대출 결과가 나오는 대로 이메일로 알려 드리겠습니다.</string>
+    <string name="more_details">추가 세부정보</string>
+    <string name="pending_funding_primary_desc">비즈니스 대출을 진행 중입니다. </string>
+    <string name="pending_funding_secondary_desc">24시간 이내에 PayPal 계정에서 확인되지 않을 경우 문의해 주시기 바랍니다.</string>
+    <string name="ppwc_num_completed" formatSpecifiers="count">%1$d 완료됨</string>
+    <string name="ppwc_num_pending" formatSpecifiers="count">%1$d 대기 중</string>
+    <string name="make_payment_error_amount_gt_loan_due">대출 잔액보다 적거나 같은 금액을 입력하세요.</string>
+    <string name="make_payment_error_v1_v2_no_decimals_allowed">소수점 이하 자리 없이 정수를 입력하세요.</string>
+    <string name="error">Error</string>
+    <string name="ppwc_err_msg_failed_to_load_search">Unable to load details. Swipe down to try again.</string>
+    <string name="ppwc_enter_amount">Type in the Amount</string>
+    <string name="ppwc_close">Close</string>
+    <string name="ppwc_ellipse">…</string>
+    <string name="ppwc_paypal_balance_colon" formatSpecifiers="amount">PayPal balance: %1$s</string>
+    <string name="ppwc_loan_activity_description">%1$s %2$s</string>
+    <string name="ppwc_specify_non_zero">Please specify a non-zero amount.</string>
+    <string name="ppwc_something_went_wrong">Looks like something went wrong on our end.</string>
+    <string name="ppwc_available_parens">(available)</string>
+    <string name="ppwc_continue_text">Continue</string>
+    <string name="ppwc_caution">Caution</string>
+    <string name="ppwc_paypal_balance">PayPal balance</string>
+    <string name="ppwc_checkmark">Checkmark</string>
+</resources>
