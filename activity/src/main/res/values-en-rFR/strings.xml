@@ -211,7 +211,7 @@
     <string name="delete_invoice_confirmation">Delete invoice?</string>
     <string name="error_payer_account_restricted">We\'re sorry. Your account is limited. Please contact us for help.</string>
     <string name="error_payee_account_restricted">Sorry, the recipient’s account is restricted. Unable to complete the payment.</string>
-    <string name="error_feature_unsupported_for_payee">We\\\'re sorry. Your recipient is unable to receive payments. Please contact us if you need help.</string>
+    <string name="error_feature_unsupported_for_payee">We\'re sorry. Your recipient is unable to receive payments. Please contact us if you need help.</string>
     <string name="refund_sent">Refund sent</string>
     <string name="invoice_canceled">Your invoice has been cancelled</string>
     <string name="quantity_times" formatSpecifiers="first,second">%1$s x %2$s</string>
