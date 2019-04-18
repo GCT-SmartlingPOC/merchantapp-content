@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="link_a_bank_card">Link a Bank Account or Card</string>
-    <string name="money_transfer_proccessing_message">All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="link_a_bank_card">Länka ett bank konto eller kort</string>
+    <string name="money_transfer_proccessing_message">Alla överföringar granskas och kan fördröjas eller stoppas om vi identifierar ett problem.</string>
 </resources>
