@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Kotisivu</string>
+
+    <!-- Funding Instrument-->
+    <string name="add_funding_instrument_card_title">Pankin tai kortin linkittäminen</string>
+    <string name="add_funding_instrument_card_body">Lähetä rahaa, antaa hyvityksiä ja siirtää maksuja PayPal pankkiin.</string>
+    
+</resources>

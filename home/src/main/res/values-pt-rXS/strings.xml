@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Casa</string>
+
+    <!-- Funding Instrument-->
+    <string name="add_funding_instrument_card_title">Vincular um banco ou cartão</string>
+    <string name="add_funding_instrument_card_body">Envie dinheiro, emita reembolsos e transfira pagamentos do PayPal para o seu banco.</string>
+    
+</resources>

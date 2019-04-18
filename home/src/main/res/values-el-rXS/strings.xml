@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Σπίτι</string>
+
+    <!-- Funding Instrument-->
+    <string name="add_funding_instrument_card_title">Σύνδεση Τράπεζας ή κάρτας</string>
+    <string name="add_funding_instrument_card_body">Αποστολή χρημάτων, έκδοση επιστροφών χρημάτων και μεταφορά πληρωμών από την PayPal στην τράπεζά σας.</string>
+    
+</resources>

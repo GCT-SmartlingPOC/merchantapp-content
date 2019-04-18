@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Laman Utama</string>
+
+    <!-- Funding Instrument-->
+    <string name="add_funding_instrument_card_title">Pautan bank atau kad</string>
+    <string name="add_funding_instrument_card_body">Hantar Wang, isu bayaran balik dan bayaran pemindahan daripada PayPal ke bank anda.</string>
+    
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Otthon</string>
+
+    <!-- Funding Instrument-->
+    <string name="add_funding_instrument_card_title">Bank vagy kártya csatolása</string>
+    <string name="add_funding_instrument_card_body">Pénzt küldeni, a kibocsátás-visszatérítések és átutalást PayPal-tól a bank.</string>
+    
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Domů</string>
+
+    <!-- Funding Instrument-->
+    <string name="add_funding_instrument_card_title">Propojení banky nebo karty</string>
+    <string name="add_funding_instrument_card_body">Odeslat peníze, vydat refundace a převést platby z PayPal do banky.</string>
+    
+</resources>
