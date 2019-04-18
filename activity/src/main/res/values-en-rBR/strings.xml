@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="money_transfer">Payment transfer</string>
-    <string name="preapproved_payment">Preapproved payment</string>
-    <string name="money_sent">Payment sent</string>
-    <string name="money_received">Payment received</string>
-    <string name="type_request_money">Payment request</string>
-    <string name="in_process">In progress</string>
+    <string name="money_transfer">Transferência de pagamento</string>
+    <string name="preapproved_payment">Pagamento pré-aprovado</string>
+    <string name="money_sent">Pagamento enviado</string>
+    <string name="money_received">Pagamento recebido</string>
+    <string name="type_request_money">Pedido de pagamento</string>
+    <string name="in_process">Em andamento</string>
 </resources>
