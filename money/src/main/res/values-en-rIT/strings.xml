@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="link_a_bank_card">Link a Bank Account or Card</string>
-    <string name="money_transfer_link_debit_card">Link an eligible bank account or card</string>
-    <string name="money_transfer_link_bank">Link a bank account or card</string>
-    <string name="money_choose_bank_or_card">Choose Bank </string>
-    <string name="money_transfer_proccessing_message">All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
-    <string name="money_missing_fi_title">Don\'t see all of your banks\?</string>
+    <string name="link_a_bank_card">Collegare un conto bancario o una carta</string>
+    <string name="money_transfer_link_debit_card">Collegare un conto bancario o una carta idonei</string>
+    <string name="money_transfer_link_bank">Collegare un conto bancario o una carta</string>
+    <string name="money_choose_bank_or_card">Scegli banca </string>
+    <string name="money_transfer_proccessing_message">Tutti i trasferimenti sono soggetti a revisione e potrebbero essere ritardati o fermati Se identifichiamo un problema.</string>
+    <string name="money_missing_fi_title">Non Vedi tutte le tue banche?</string>
 </resources>
