@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="link_a_bank_card">Link a Bank Account</string>
-    <string name="money_transfer_proccessing_message">All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="link_a_bank_card">Связать банковский счет</string>
+    <string name="money_transfer_proccessing_message">Все переводы подлежат пересмотру и могут быть отложены или остановлены, если мы идентифицируют проблему.</string>
 </resources>
