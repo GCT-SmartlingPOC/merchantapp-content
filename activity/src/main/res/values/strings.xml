@@ -1,7 +1,7 @@
 <resources>
     <string name="plus">+</string>
     <string name="minus">-</string>
-
+    <string name="newstring_for_adaptation_testing">New string for adaptation testing</string>
     <string name="refund">Refund</string>
     <string name="contact">Contact</string>
     <string name="related">Related</string>
