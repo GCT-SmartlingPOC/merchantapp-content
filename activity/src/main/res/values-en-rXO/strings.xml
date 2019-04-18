@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="send_email">Send email</string>
-    <string name="money_transfer">Payment transfer</string>
-    <string name="preapproved_payment">Preapproved payment</string>
-    <string name="money_sent">Payment sent</string>
-    <string name="money_received">Payment received</string>
-    <string name="type_request_money">Payment request</string>
-    <string name="in_process">In progress</string>
+    <string name="send_email">Poslať e-mail</string>
+    <string name="money_transfer">Prevod platieb</string>
+    <string name="preapproved_payment">Vopred schválená platba</string>
+    <string name="money_sent">Platba odoslaná</string>
+    <string name="money_received">Prijatá platba</string>
+    <string name="type_request_money">Žiadosť o platbu</string>
+    <string name="in_process">Prebieha</string>
 </resources>
