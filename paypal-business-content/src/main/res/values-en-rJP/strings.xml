@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="money">Balance</string>
-    <string name="send_money_install_chrome_msg">To send payments, you\'ll need to install and use Google Chrome as your default browser.</string>
-    <string name="go_to_settings">Go to Settings</string>
-    <string name="app_education_title">Ready to send invoices, track your customers and manage your payments on the go\?</string>
-    <string name="money_education_title">Manage your payments from anywhere</string>
-    <string name="money_education_message">Withdraw funds to your bank account, issue refunds and send payments to almost anyone, in just a few clicks.</string>
-    <string name="legal_user_agreement_policy">User Agreement</string>
-    <string name="not_kycd_japanese_account_title">Help us confirm your identity</string>
-    <string name="not_kycd_japanese_account_message">Please complete Identity Confirmation Process on our website to access the Business app.</string>
-    <string name="title_activity_account_info">Account Information</string>
-    <string name="remember_me_description">See your photo, payment preferences and more before you log in. (Not recommended if you share your device.)</string>
-    <string name="use_pin_name">Log In with PIN</string>
-    <string name="touch_id_pin_also_disabled">Touch ID and PIN will be disabled</string>
-    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your PIN.</string>
-    <string name="notification_setting_request_money">Someone requests payment from you</string>
-    <string name="notification_setting_send_money">You send payment to someone</string>
+    <string name="money">バランス</string>
+    <string name="send_money_install_chrome_msg">支払いを送信するには、デフォルトのブラウザとして Google Chrome をインストールして使用する必要があります。</string>
+    <string name="go_to_settings">[設定] に移動</string>
+    <string name="app_education_title">請求書の送信、顧客の追跡、外出先での支払いの管理を行う準備はできましたか?</string>
+    <string name="money_education_title">どこからでも支払いを管理</string>
+    <string name="money_education_message">あなたの銀行口座に資金を引き出す、払い戻しを発行し、わずか数回のクリックで、ほとんど誰に支払いを送ります。</string>
+    <string name="legal_user_agreement_policy">ユーザー契約</string>
+    <string name="not_kycd_japanese_account_title">お客様の身元の確認にご協力ください</string>
+    <string name="not_kycd_japanese_account_message">ビジネスアプリにアクセスするには、当社のウェブサイト上で本人確認プロセスを完了してください。</string>
+    <string name="title_activity_account_info">アカウント情報</string>
+    <string name="remember_me_description">ログインする前に、写真やお支払い設定などを確認してください。 (デバイスを共有している場合は推奨されません。</string>
+    <string name="use_pin_name">PIN でログイン</string>
+    <string name="touch_id_pin_also_disabled">タッチ ID と PIN は無効になります</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">オフにすると、Touch ID のリンクを解除して PIN を無効にすることもできます。</string>
+    <string name="notification_setting_request_money">誰かがあなたからの支払いを要求</string>
+    <string name="notification_setting_send_money">あなたが誰かに支払いを送る</string>
 </resources>
