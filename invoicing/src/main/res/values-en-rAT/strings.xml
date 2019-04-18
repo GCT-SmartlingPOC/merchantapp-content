@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="email_address_required">Email address (Required)</string>
-    <string name="type_recurring">Recurring payment</string>
-    <string name="search_hint">Enter name or email address</string>
-    <string name="add_note_to_customer">Add a note to your customer.</string>
-    <string name="address_line1">Address line 1</string>
-    <string name="address_line2">Address line 2 (optional)</string>
-    <string name="invalid_address_line1">Required</string>
-    <string name="invalid_address_city">Required</string>
-    <string name="invalid_address_state">Required</string>
-    <string name="error_invoice_merchant_restricted">We\'re sorry, your account is limited. Please contact us for help.</string>
-    <string name="share_link_warning">As invoices contain your customers\' personal information, never share an invoice link in a public forum.</string>
-    <string name="email">Email Address</string>
+    <string name="email_address_required">E-Mail-Adresse (erforderlich)</string>
+    <string name="type_recurring">Wiederkehrende Zahlung</string>
+    <string name="search_hint">Name oder E-Mail-Adresse eingeben</string>
+    <string name="add_note_to_customer">Fügen Sie Ihrem Kunden eine Notiz hinzu.</string>
+    <string name="address_line1">Adresszeile 1</string>
+    <string name="address_line2">Adresszeile 2 (optional)</string>
+    <string name="invalid_address_line1">Erforderlich</string>
+    <string name="invalid_address_city">Erforderlich</string>
+    <string name="invalid_address_state">Erforderlich</string>
+    <string name="error_invoice_merchant_restricted">Es tut uns leid, Ihr Konto ist begrenzt. Bitte kontaktieren Sie uns um Hilfe.</string>
+    <string name="share_link_warning">Da Rechnungen die persönlichen Daten Ihrer Kunden enthalten, teilen Sie niemals einen Rechnungslink in einem öffentlichen Forum mit.</string>
+    <string name="email">E-Mail-Adresse</string>
     <string name="accessibility_discount_dollars_off">Euros Off</string>
-    <string name="unconfirmed_email">Unconfirmed email address</string>
-    <string name="confirm_email">Confirm Email Address</string>
-    <string name="unconfirmed_email_invoicing">You need to confirm your email address before you can send invoices. Please check your inbox for the confirmation email or log in to PayPal from your computer to resend the email.</string>
+    <string name="unconfirmed_email">Unbestätigte E-Mail-Adresse</string>
+    <string name="confirm_email">E-Mail-Adresse bestätigen</string>
+    <string name="unconfirmed_email_invoicing">Sie müssen Ihre E-Mail-Adresse bestätigen, bevor Sie Rechnungen versenden können. Bitte überprüfen Sie Ihren Posteingang für die Bestätigungs-E-Mail oder melden Sie sich von Ihrem Computer auf PayPal an, um die E-Mail zu senden.</string>
 </resources>
