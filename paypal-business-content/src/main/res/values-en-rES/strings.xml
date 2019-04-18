@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="money">Balance</string>
-    <string name="legal_user_agreement_policy">User Agreement</string>
-    <string name="touch_id_pin_also_disabled">Touch ID and PIN will be disabled</string>
-    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your PIN.</string>
+    <string name="money">equilibrar</string>
+    <string name="legal_user_agreement_policy">Acuerdo de usuario</string>
+    <string name="touch_id_pin_also_disabled">Touch ID y PIN se desactivarán</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">Al desactivar Remember me también desvinculará su Touch ID y deshabilitará su PIN.</string>
 </resources>
