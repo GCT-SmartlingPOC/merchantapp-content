@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="money">Balance</string>
-    <string name="title_terms_conditions">Terms and Conditions</string>
-    <string name="taking_to_paypal">Taking you to PayPal.de</string>
-    <string name="transactions_education_message">Stay on top of your account activity when you’re away from the office.</string>
-    <string name="unsupported_location_alert_title">We\'re sorry, the app does not yet support your account’s location. Please check back later</string>
-    <string name="secondary_user_not_supported_alert_title">We\'re sorry, the app does not yet support secondary users. Please check back later</string>
-    <string name="money_education_message">Withdraw money to your bank account, issue refunds and send money to almost anyone, in just a few clicks.</string>
-    <string name="legal_user_agreement_policy">User Agreement</string>
-    <string name="title_activity_account_info">Account Information</string>
-    <string name="touch_id_pin_also_disabled">Touch ID and PIN will be disabled</string>
-    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your PIN.</string>
-    <string name="customer_info">Customer Information</string>
+    <string name="money">Gleichgewicht</string>
+    <string name="title_terms_conditions">Geschäftsbedingungen</string>
+    <string name="taking_to_paypal">Mit auf PayPal.de</string>
+    <string name="transactions_education_message">Bleiben Sie auf dem Laufenden, wenn Sie weg vom Büro sind.</string>
+    <string name="unsupported_location_alert_title">Es tut uns leid, die App unterstützt noch nicht den Standort Ihres Kontos. Bitte schauen Sie später wieder vorbei</string>
+    <string name="secondary_user_not_supported_alert_title">Es tut uns leid, die App unterstützt noch keine Sekundärnutzer. Bitte schauen Sie später wieder vorbei</string>
+    <string name="money_education_message">Ziehen Sie Geld auf Ihr Bankkonto, geben Sie Rückerstattungen aus und schicken Sie Geld an fast jeden, mit nur wenigen Klicks.</string>
+    <string name="legal_user_agreement_policy">Nutzungsvertrag</string>
+    <string name="title_activity_account_info">Kontoinformationen</string>
+    <string name="touch_id_pin_also_disabled">Touch-ID und PIN werden deaktiviert</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">Das Ausschalten von Remember Me wird auch Ihre Touch-ID entledern und Ihre PIN deaktivieren.</string>
+    <string name="customer_info">Kundeninformationen</string>
 </resources>
