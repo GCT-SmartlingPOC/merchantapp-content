@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="money">Balance</string>
-    <string name="send_money_install_chrome_msg">To send payments, you\'ll need to install and use Google Chrome as your default browser.</string>
-    <string name="go_to_settings">Go to Settings</string>
-    <string name="app_education_title">Ready to send invoices, track your customers and manage your payments on the go\?</string>
-    <string name="money_education_title">Manage your payments from anywhere</string>
-    <string name="money_education_message">Withdraw funds to your bank account, issue refunds and send payments to almost anyone, in just a few clicks.</string>
-    <string name="legal_user_agreement_policy">User Agreement</string>
-    <string name="remember_me_description">See your photo, payment preferences and more before you log in. (Not recommended if you share your device.)</string>
-    <string name="use_pin_name">Log In with PIN</string>
-    <string name="touch_id_pin_also_disabled">Touch ID and PIN will be disabled</string>
-    <string name="turning_off_remember_unlink_touch_id_pin">Turning off Remember Me will also unlink your Touch ID and disable your PIN.</string>
-    <string name="request_money">Request payment</string>
-    <string name="notification_setting_request_money">Someone requests payment from you</string>
-    <string name="notification_setting_send_money">You send payment to someone</string>
-    <string name="notification_setting_receive_money">You receive payment from someone</string>
+    <string name="money">Equilíbrio</string>
+    <string name="send_money_install_chrome_msg">Para enviar pagamentos, você precisará instalar e usar o Google Chrome como navegador padrão.</string>
+    <string name="go_to_settings">Aceda a definições</string>
+    <string name="app_education_title">Pronto para enviar faturas, rastrear seus clientes e gerenciar seus pagamentos em movimento \?</string>
+    <string name="money_education_title">Gerencie seus pagamentos de qualquer lugar</string>
+    <string name="money_education_message">Retire fundos para a sua conta bancária, emita reembolsos e envie pagamentos para quase qualquer pessoa, com apenas alguns cliques.</string>
+    <string name="legal_user_agreement_policy">Acordo do usuário</string>
+    <string name="remember_me_description">Veja sua foto, preferências de pagamento e muito mais antes de fazer login. (não recomendado se você compartilha seu dispositivo.)</string>
+    <string name="use_pin_name">Entrar com PIN</string>
+    <string name="touch_id_pin_also_disabled">O Touch ID e o PIN serão desativados</string>
+    <string name="turning_off_remember_unlink_touch_id_pin">A desativação do Remember me também desvinculará seu Touch ID e desabilitará seu PIN.</string>
+    <string name="request_money">Solicitar pagamento</string>
+    <string name="notification_setting_request_money">Alguém pede o pagamento de você</string>
+    <string name="notification_setting_send_money">Você envia o pagamento para alguém</string>
+    <string name="notification_setting_receive_money">Você recebe o pagamento de alguém</string>
 </resources>
