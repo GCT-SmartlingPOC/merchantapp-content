@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="link_a_bank_card">Link a Bank Account or Card</string>
-    <string name="choose_bank_or_card">Choose Bank </string>
-    <string name="money_choose_bank_or_card">Choose Bank </string>
-    <string name="money_transfer_proccessing_message">All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
-    <string name="money_missing_fi_title">Don\'t see all of your banks\?</string>
+    <string name="link_a_bank_card">Vincular uma conta bancária ou cartão</string>
+    <string name="choose_bank_or_card">Escolha banco </string>
+    <string name="money_choose_bank_or_card">Escolha banco </string>
+    <string name="money_transfer_proccessing_message">Todas as transferências estão sujeitas a revisão e podem ser atrasadas ou interrompidas se identificarmos um problema.</string>
+    <string name="money_missing_fi_title">Não vejo todos os seus bancos \?</string>
 </resources>
