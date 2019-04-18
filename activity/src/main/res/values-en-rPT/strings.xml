@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="error_payer_account_restricted">We\'re sorry. Your account is limited. Please contact us for help.</string>
-    <string name="error_feature_unsupported_for_payee">We\'re sorry, the recipient is unable to receive payments.</string>
-    <string name="refund_insufficent_balance">If you do not have sufficient PayPal balance this will come from your default funding source.</string>
+    <string name="error_payer_account_restricted">Nós sentimos muito. Sua conta é limitada. Entre em contato conosco para obter ajuda.</string>
+    <string name="error_feature_unsupported_for_payee">Lamentamos, mas o destinatário não consegue receber pagamentos.</string>
+    <string name="refund_insufficent_balance">Se você não tem saldo suficiente PayPal isso virá de sua fonte de financiamento padrão.</string>
 </resources>
